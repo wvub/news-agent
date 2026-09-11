@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 19:45 UTC",
+ "updated": "2026-09-11 19:52 UTC",
  "count": 30,
  "items": [
   {
@@ -9,8 +9,8 @@
    "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
    "published": "Fri, 11 Sep 2026 16:58:34 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Houthis advanced in Yemen and seized strategic Perim island along the major maritime trade route.",
-   "effect": "It disrupts global shipping routes, increasing transit times and shipping costs for international commerce."
+   "why": "The Iran-backed Houthis advanced in Yemen and seized Perim island, a strategic Red Sea maritime bottleneck.",
+   "effect": "It impacts global shipping lines and international trade by disrupting a crucial maritime route, potentially raising freight costs."
   },
   {
    "sector": "World",
@@ -19,8 +19,8 @@
    "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
    "published": "Fri, 11 Sep 2026 16:00:59 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Princess Astrid passed away shortly after attending the funeral service for her brother King Harald.",
-   "effect": "It affects the Norwegian royal family and public mourners with minimal impact on broader global affairs."
+   "why": "The elderly Norwegian royal passed away naturally shortly after her brother's funeral services.",
+   "effect": "It affects the Norwegian public and royal family, marking the loss of a long-serving senior royal figure."
   },
   {
    "sector": "World",
@@ -29,8 +29,8 @@
    "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
    "published": "Fri, 11 Sep 2026 15:50:23 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Israeli military operations detonated an explosive blast destroying a massive underground Hezbollah facility.",
-   "effect": "It escalates Middle East geopolitical conflict, heightening security concerns and global market volatility."
+   "why": "Israel conducted a massive strike aimed at destroying a strategic underground facility used by Hezbollah forces.",
+   "effect": "It impacts Middle Eastern stability and Hezbollah's military capabilities, increasing regional security risks and potential retaliation."
   },
   {
    "sector": "World",
@@ -39,8 +39,8 @@
    "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (\u00a3220,000) when it goes under the hammer on 9 December.",
    "published": "Fri, 11 Sep 2026 12:04:46 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Auction house Sotheby's put Princess Diana's iconic dress up for public sale.",
-   "effect": "It affects high-end art collectors and fashion historians bidding on historical royal memorabilia."
+   "why": "Sotheby's put the famous 'revenge dress' up for auction with high expected bidding estimates.",
+   "effect": "It affects art collectors and fashion historians by transferring ownership of an iconic piece of pop-culture history."
   },
   {
    "sector": "World",
@@ -49,8 +49,18 @@
    "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
    "published": "Fri, 11 Sep 2026 10:50:04 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Thai authorities uncovered financial fraud and illicit behavior involving a prominent local monk.",
-   "effect": "It impacts local Thai religious institutions and public trust in monastic leadership."
+   "why": "Thai police uncovered financial fraud involving a monk breaking vows of celibacy and financial integrity.",
+   "effect": "It impacts public trust in Thai religious institutions and leads to legal proceedings against those involved."
+  },
+  {
+   "sector": "Markets",
+   "title": "I want to pay for every customer at my late husband\u2019s favorite restaurant on his birthday. Could this backfire?",
+   "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.\u201d",
+   "published": "Fri, 11 Sep 2026 19:45:00 GMT",
+   "impact": "\ud83d\udfe2 Low",
+   "why": "A widow planned a massive single-day dining purchase to honor her late husband's memory.",
+   "effect": "It affects credit card issuers and restaurant management through automated fraud alerts and payment processing hurdles."
   },
   {
    "sector": "Markets",
@@ -59,8 +69,8 @@
    "summary": "Salesforce\u2019s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
    "published": "Fri, 11 Sep 2026 19:30:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Investor expectations rose ahead of Salesforce's Dreamforce conference and its partnership with Anthropic.",
-   "effect": "It affects enterprise software investors tracking the monetization of generative AI features."
+   "why": "High investor interest surrounds Salesforce's AI integration and Anthropic partnership ahead of its Dreamforce conference.",
+   "effect": "It affects tech investors and enterprise software markets evaluating actionable returns on artificial intelligence tools."
   },
   {
    "sector": "Markets",
@@ -69,8 +79,8 @@
    "summary": "\u201cSeveral of Oracle\u2019s bear cases were addressed head on\u201d in the latest earnings report, according to an analyst.",
    "published": "Fri, 11 Sep 2026 19:21:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Market uncertainty and broader tech sell-offs dragged Oracle stock down despite solid earnings.",
-   "effect": "It impacts technology shareholders and cloud providers balancing heavy artificial intelligence investments."
+   "why": "Broader market caution regarding high capital expenditures pulled the stock down despite strong earnings.",
+   "effect": "It impacts enterprise software investors by highlighting market skepticism over high AI infrastructure spending."
   },
   {
    "sector": "Markets",
@@ -79,8 +89,8 @@
    "summary": "Some job seekers could get an edge in this labor market by actually writing their own resumes.",
    "published": "Fri, 11 Sep 2026 18:32:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Recruiters and hiring managers are increasingly favoring human-written applications over AI-generated text.",
-   "effect": "It affects job seekers and HR professionals optimizing recruitment strategies and application evaluation."
+   "why": "Employers are becoming increasingly capable of spotting AI-generated applications and favoring authentic human submissions.",
+   "effect": "It affects job seekers and HR recruiters by changing hiring preferences back toward human-written, tailored application resumes."
   },
   {
    "sector": "Markets",
@@ -89,18 +99,8 @@
    "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
    "published": "Fri, 11 Sep 2026 18:09:00 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Persistent inflation risks led economists to project multiple upcoming Federal Reserve interest rate hikes.",
-   "effect": "It impacts global equity markets, corporate borrowing costs, and consumer loan rates."
-  },
-  {
-   "sector": "Markets",
-   "title": "Tesla could transform the trucking business \u2014 and capitalize on high diesel prices",
-   "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
-   "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear \u2014 unlocking a potentially huge opportunity, according to Morgan Stanley.",
-   "published": "Fri, 11 Sep 2026 17:41:00 GMT",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "High diesel prices accelerated commercial interest in Tesla's fully electric Semi truck fleet.",
-   "effect": "It affects freight transport companies and logistics operators seeking lower operational fuel costs."
+   "why": "Historical monetary policy patterns suggest the Federal Reserve may implement multiple interest rate increases.",
+   "effect": "It affects global stock markets, corporate borrowers, and consumers by tightening liquidity and increasing borrowing costs."
   },
   {
    "sector": "Tech/AI",
@@ -109,8 +109,8 @@
    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
    "published": "Fri, 11 Sep 2026 19:35:54 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Strong token generation demand on OpenRouter fueled ambitious financial revenue goals for Moonshot AI.",
-   "effect": "It impacts global AI developers and venture capital investors monitoring generative AI business models."
+   "why": "Moonshot AI is leveraging high API token usage on platforms like OpenRouter to target aggressive revenue goals.",
+   "effect": "It affects competitive dynamics in the AI industry and valuation benchmarks for emerging Chinese tech startups."
   },
   {
    "sector": "Tech/AI",
@@ -119,8 +119,8 @@
    "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
    "published": "Fri, 11 Sep 2026 19:00:00 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Roblox announced AI creation tools and cross-platform publishing at its annual developer conference.",
-   "effect": "It affects game developers and platform creators expanding content distribution across web platforms."
+   "why": "Roblox announced new cross-platform expansion features and AI creation tools at its annual developer conference.",
+   "effect": "It affects game developers and players by broadening game distribution beyond the native Roblox application onto the web."
   },
   {
    "sector": "Tech/AI",
@@ -129,8 +129,8 @@
    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
    "published": "Fri, 11 Sep 2026 18:58:01 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Three regional tech startups placed top at the Road to TechCrunch Startup Battlefield competition.",
-   "effect": "It affects Central Eurasian entrepreneurs gaining global exposure and access to Silicon Valley investors."
+   "why": "Regional competition judges selected top regional tech startups to represent Central Eurasia at TechCrunch Disrupt in San Francisco.",
+   "effect": "It affects Central Eurasian entrepreneurs and regional startup ecosystems by providing global exposure and investment opportunities."
   },
   {
    "sector": "Tech/AI",
@@ -139,8 +139,8 @@
    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
    "published": "Fri, 11 Sep 2026 16:46:25 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Nscale recruited veteran executive Fidji Simo to strengthen corporate governance prior to going public.",
-   "effect": "It impacts cloud infrastructure investors and competitive AI technology hardware providers."
+   "why": "Nscale recruited an experienced former OpenAI executive to strengthen governance prior to a planned initial public offering.",
+   "effect": "It affects institutional investors and AI competitors by positioning Nscale for a successful public market debut."
   },
   {
    "sector": "Tech/AI",
@@ -149,8 +149,8 @@
    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he\u2019s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
    "published": "Fri, 11 Sep 2026 15:19:00 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Matt Mullenweg sent internal messages claiming leadership control days after board-mandated leave.",
-   "effect": "It affects Automattic employees, open-source developers, and websites relying on WordPress infrastructure."
+   "why": "Automattic's founder messaged employees claiming reinstatement shortly after being placed on leave by the board.",
+   "effect": "It affects Automattic employees and open-source WordPress community members concerned about corporate stability."
   },
   {
    "sector": "Crypto",
@@ -159,8 +159,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 17:12:45 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Final appeal proceedings and legal filings are concluding for convicted FTX founder Sam Bankman-Fried.",
-   "effect": "It impacts cryptocurrency industry regulations, institutional investors, and former FTX exchange creditors."
+   "why": "The legal proceedings and appeal options for the convicted former FTX CEO are approaching final judicial resolution.",
+   "effect": "It affects cryptocurrency investors and regulators by solidifying legal accountability precedents for digital asset exchanges."
   },
   {
    "sector": "Crypto",
@@ -169,8 +169,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:45:56 +0000",
    "impact": "\ud83d\udd34 High",
-   "why": "Anticipated central bank monetary tightening created significant uncertainty across broad asset classes.",
-   "effect": "It impacts crypto investors, traditional stock market traders, and international financial capital flows."
+   "why": "Anticipated interest rate increases by the Federal Reserve alter broader financial market liquidity conditions.",
+   "effect": "It affects crypto traders and speculative asset investors by increasing capital costs and shifting market risk sentiment."
   },
   {
    "sector": "Crypto",
@@ -179,8 +179,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:17:08 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Maharashtra state seeks innovative blockchain financing tools to capital-raise for public infrastructure projects.",
-   "effect": "It affects public finance authorities, crypto investors, and real-world asset tokenization platforms."
+   "why": "Regional authorities seek innovative blockchain tokenization mechanisms to fund major public infrastructure projects.",
+   "effect": "It affects regional infrastructure development and public bond markets by pioneering state-level digital asset issuance."
   },
   {
    "sector": "Crypto",
@@ -189,8 +189,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:46:51 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Metaplanet restructured its executive compensation pool to realign corporate finances amidst changing market valuation.",
-   "effect": "It affects company executives, retail shareholders, and institutional investors tracking corporate Bitcoin reserves."
+   "why": "The firm restructured executive compensation and treasury assets amid market shifts to conserve financial capital.",
+   "effect": "It affects Metaplanet shareholders and crypto market observers tracking corporate treasury management practices."
   },
   {
    "sector": "Crypto",
@@ -199,8 +199,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:32:52 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Julian Sawyer transitioned from chief executive to an advisory role during executive realignment.",
-   "effect": "It affects internal governance at Zodia Custody and institutional cryptocurrency custody clients."
+   "why": "An executive leadership transition led the chief executive officer to step down into an advisory role.",
+   "effect": "It affects institutional crypto custody clients and corporate management structure without altering core business operations."
   },
   {
    "sector": "Science",
@@ -209,8 +209,8 @@
    "summary": "Britain\u2019s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
    "published": "Fri, 11 Sep 2026 07:38:35 EDT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Extreme temperature swings, heatwaves, and food shortages severely disrupted European wasp populations.",
-   "effect": "It impacts natural ecosystems and agricultural pest management rely on predatory insect balances."
+   "why": "Extreme temperature fluctuations, severe heatwaves, and food shortages disrupted British wasp breeding populations.",
+   "effect": "It affects natural ecosystems and agriculture by altering local food webs and reducing natural insect pest control."
   },
   {
    "sector": "Science",
@@ -219,8 +219,8 @@
    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
    "published": "Fri, 11 Sep 2026 01:18:44 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Theoretical physics research revealed fundamental quantum limits on the precision of measuring physical time.",
-   "effect": "It affects theoretical physicists researching quantum mechanics, gravity, and fundamental spacetime properties."
+   "why": "Quantum mechanics theoretical models suggest fundamental limits to time measurement precision at microscopic scales.",
+   "effect": "It affects theoretical physicists working to unify quantum mechanics, gravity, and the fundamental structure of spacetime."
   },
   {
    "sector": "Science",
@@ -229,8 +229,8 @@
    "summary": "The Mediterranean may seem far removed from the world\u2019s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
    "published": "Thu, 10 Sep 2026 02:35:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Seismic activity and predictive modeling indicated imminent long-term risk of destructive Mediterranean coastal waves.",
-   "effect": "It impacts millions of coastal residents, urban planners, and disaster management agencies in Southern Europe."
+   "why": "Geological risk modeling and historical patterns reveal an unavoidable threat of tsunamis hitting Mediterranean coasts.",
+   "effect": "It affects coastal European residents and emergency management agencies facing short response times for coastal evacuations."
   },
   {
    "sector": "Science",
@@ -239,8 +239,8 @@
    "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a new path toward treatments for heart failure.",
    "published": "Thu, 10 Sep 2026 22:56:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Medical researchers proved human cardiac muscle cells possess inherent regenerative capabilities post-trauma.",
-   "effect": "It affects cardiovascular patients worldwide by opening breakthrough pathways for heart failure treatments."
+   "why": "Breakthrough medical research demonstrated that human cardiac muscle cells can regenerate after heart attack damage.",
+   "effect": "It affects heart attack patients and medical researchers by opening revolutionary new paths for treating heart failure."
   },
   {
    "sector": "Science",
@@ -249,8 +249,8 @@
    "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
    "published": "Thu, 10 Sep 2026 06:35:52 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Debris clearing operations meant to protect ancient ruins from floods uncovered a hidden, decorated tomb.",
-   "effect": "It affects Egyptologists and cultural preservationists working to protect ancient heritage from climate threats."
+   "why": "Archaeological flood mitigation work near Luxor unexpectedly exposed an intact ancient Egyptian tomb.",
+   "effect": "It affects historians and global heritage organizations by preserving valuable ancient artwork threatened by climate change."
   },
   {
    "sector": "Health",
@@ -258,9 +258,9 @@
    "link": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
    "summary": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
    "published": "Wed, 25 Feb 2026 18:06:55 Z",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Dr. Tedros visited Jordan to bolster international health cooperation and review emergency humanitarian initiatives.",
-   "effect": "It impacts healthcare delivery networks, regional refugees, and mental health programs operating in Jordan."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "The WHO Director-General conducted an official diplomatic visit to review healthcare delivery and humanitarian projects.",
+   "effect": "It affects public health programs in Jordan through continued international health collaboration and operational support."
   },
   {
    "sector": "Health",
@@ -269,8 +269,8 @@
    "summary": "WHO regrets the United States\u2019 notification of withdrawal from WHO \u2013 a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
    "published": "Sat, 24 Jan 2026 20:09:49 Z",
    "impact": "\ud83d\udd34 High",
-   "why": "The United States officially submitted formal notification to withdraw its membership from the World Health Organization.",
-   "effect": "It impacts global public health funding, international disease tracking, and global health diplomacy dynamics."
+   "why": "The United States formally notified international authorities of its plan to withdraw from the World Health Organization.",
+   "effect": "It affects global public health funding, international disease tracking, and emergency epidemic response programs worldwide."
   },
   {
    "sector": "Health",
@@ -279,8 +279,8 @@
    "summary": "Tribute to Dr David Nabarro",
    "published": "Wed, 30 Jul 2025 08:56:15 Z",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Global health leaders issued official tributes honoring the public service contributions of Dr. David Nabarro.",
-   "effect": "It affects international public health delegates and policy professionals recognizing his career legacy."
+   "why": "The World Health Organization issued a formal public tribute recognizing the career of veteran health leader David Nabarro.",
+   "effect": "It affects public health workers and international diplomats honoring key leadership contributions to global healthcare."
   },
   {
    "sector": "Health",
@@ -289,8 +289,8 @@
    "summary": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.&ldquo;WHO congratulates the people and government of Timor-Leste on this significant milestone,&rdquo; said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. &ldquo;Timor-Leste&rsquo;s success proves that malaria can be stopped in its tracks when strong po",
    "published": "Wed, 23 Jul 2025 10:07:41 Z",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Sustained national public health campaigns successfully eliminated local malaria transmission across Timor-Leste.",
-   "effect": "It impacts Timor-Leste's citizens with safer living conditions and provides a roadmap for neighboring nations."
+   "why": "Decades of sustained nationwide healthcare strategy and vector control eliminated endemic malaria transmission across the country.",
+   "effect": "It affects the population of Timor-Leste through improved public health and offers a model for global disease elimination."
   },
   {
    "sector": "Health",
@@ -298,9 +298,9 @@
    "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
    "summary": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landsca",
    "published": "Sat, 24 May 2025 17:47:21 Z",
-   "impact": "\ud83d\udd34 High",
-   "why": "The AU and WHO signed a renewed partnership to tackle funding constraints and bolster health security.",
-   "effect": "It affects over one billion African residents by strengthening healthcare systems and emergency outbreak response."
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "African Union and WHO leaders signed a strategic memorandum to address health security and funding challenges.",
+   "effect": "It affects African citizens and regional healthcare systems by promoting unified responses to health security challenges."
   }
  ]
 }
