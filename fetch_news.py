@@ -103,12 +103,12 @@ if __name__ == "__main__":
     items = fetch_items()
     print(f"Fetched {len(items)} items")
     items = analyze_with_ai(items)
-    pathlib.Path("docs").mkdir(exist_ok=True)
     out = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "count": len(items),
         "items": items,
     }
-    with open("docs/news.json", "w") as f:
+    with open("news.json", "w") as f:
         json.dump(out, f, indent=1)
-    print("Wrote docs/news.json")
+    pathlib.Path(".nojekyll").touch()   # speeds up deploy, avoids Jekyll errors
+    print("Wrote news.json")
