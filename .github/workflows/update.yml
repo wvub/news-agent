@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "bot@example.com"
-          git add docs/news.json
+          git add news.json .nojekyll
           git commit -m "news update $(date -u)" || exit 0
           git push
