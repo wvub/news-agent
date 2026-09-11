@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 19:28 UTC",
+ "updated": "2026-09-11 19:37 UTC",
  "count": 25,
  "items": [
   {
@@ -9,8 +9,8 @@
    "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
    "published": "Fri, 11 Sep 2026 16:58:34 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Houthis seized strategic territory including Perim island along crucial maritime trade routes.",
-   "effect": "It affects global shipping companies and international trade by raising freight costs and causing transit delays."
+   "why": "Houthis advanced in Yemen and seized Perim island to strengthen strategic control over trade routes.",
+   "effect": "It threatens global maritime trade and international shipping companies by raising geopolitical risks in the Red Sea."
   },
   {
    "sector": "World",
@@ -19,8 +19,8 @@
    "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
    "published": "Fri, 11 Sep 2026 16:00:59 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "The elderly royal passed away shortly after attending her brother's funeral service.",
-   "effect": "It affects the Norwegian Royal Family and nation as they mourn another senior royal member."
+   "why": "Princess Astrid passed away shortly after attending the funeral service of her brother, King Harald.",
+   "effect": "It affects the Norwegian royal family and citizens as they mourn the loss of a senior royal member."
   },
   {
    "sector": "World",
@@ -29,8 +29,8 @@
    "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
    "published": "Fri, 11 Sep 2026 15:50:23 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Israel conducted a massive strike targeted at subterranean militant infrastructure near the border.",
-   "effect": "It affects Middle Eastern regional stability, military forces, and international security concerns."
+   "why": "Israel conducted a massive strike to target and dismantle critical subterranean Hezbollah military infrastructure.",
+   "effect": "It escalates Middle Eastern geopolitical conflicts, directly impacting regional security and global defense markets."
   },
   {
    "sector": "World",
@@ -39,8 +39,8 @@
    "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (\u00a3220,000) when it goes under the hammer on 9 December.",
    "published": "Fri, 11 Sep 2026 12:04:46 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Sotheby's placed the famous historical dress up for bidding to interested private buyers.",
-   "effect": "It affects high-end art collectors and fashion historians seeking iconic royal memorabilia."
+   "why": "The famous dress was put up for auction by Sotheby's to sell to fashion collectors.",
+   "effect": "It impacts art collectors and fashion historians bidding on a famous piece of historical memorabilia."
   },
   {
    "sector": "World",
@@ -49,8 +49,18 @@
    "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
    "published": "Fri, 11 Sep 2026 10:50:04 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Thai authorities caught the monk engaged in financial fraud and illicit personal behavior.",
-   "effect": "It affects Thai religious followers and damages local trust in Buddhist temple institutions."
+   "why": "A Thai monk was arrested after being caught embezzling millions and violating monastic vows.",
+   "effect": "It affects the local religious community and public trust in Thai monastic institutions."
+  },
+  {
+   "sector": "Markets",
+   "title": "Salesforce\u2019s stock has been riding a wave of AI optimism. Here\u2019s what Wall Street wants to see next.",
+   "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+   "summary": "Salesforce\u2019s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+   "published": "Fri, 11 Sep 2026 19:30:00 GMT",
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Investors are seeking concrete commercial results from Salesforce's AI tools and Anthropic partnership.",
+   "effect": "It impacts Salesforce shareholders and tech analysts monitoring enterprise software monetization."
   },
   {
    "sector": "Markets",
@@ -59,8 +69,8 @@
    "summary": "\u201cSeveral of Oracle\u2019s bear cases were addressed head on\u201d in the latest earnings report, according to an analyst.",
    "published": "Fri, 11 Sep 2026 19:21:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Market skepticism persisted despite Oracle addressing key negative analyst cases in earnings.",
-   "effect": "It affects Oracle shareholders and tech investors monitoring profitability across corporate AI infrastructure spending."
+   "why": "Oracle addressed spending concerns in earnings, but investor caution over AI capital costs persisted.",
+   "effect": "It impacts enterprise software investors and cloud market sentiment regarding massive capital expenditures."
   },
   {
    "sector": "Markets",
@@ -68,9 +78,9 @@
    "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
    "summary": "Some job seekers could get an edge in this labor market by actually writing their own resumes.",
    "published": "Fri, 11 Sep 2026 18:32:00 GMT",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Employers increasingly filter out standardized, generic AI-generated job applications during hiring.",
-   "effect": "It affects active job seekers who may achieve better hiring success using tailored, human-written resumes."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Employers are increasingly penalizing generic AI-generated resumes in favor of authentic human writing.",
+   "effect": "It affects job seekers and hiring managers navigating modern recruitment tools and application strategies."
   },
   {
    "sector": "Markets",
@@ -79,8 +89,8 @@
    "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
    "published": "Fri, 11 Sep 2026 18:09:00 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Persistent inflation concerns prompt central bankers to consider multiple interest rate increases.",
-   "effect": "It affects global financial markets, borrowing rates, businesses, and everyday consumer spending power."
+   "why": "Economists predict persistent inflation might prompt the Federal Reserve to implement multiple rate increases.",
+   "effect": "It affects global financial markets, consumers, and businesses through higher borrowing and capital costs."
   },
   {
    "sector": "Markets",
@@ -89,18 +99,18 @@
    "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear \u2014 unlocking a potentially huge opportunity, according to Morgan Stanley.",
    "published": "Fri, 11 Sep 2026 17:41:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Rising fuel expenses drive commercial fleet operators toward electric vehicle alternatives like the Tesla Semi.",
-   "effect": "It affects freight logistics companies, fuel markets, and commercial electric vehicle adoption."
+   "why": "High fuel expenses are driving commercial interest toward Tesla's electric Semi fleet.",
+   "effect": "It impacts the freight transport industry and logistics companies seeking lower operational fleet costs."
   },
   {
-   "sector": "Markets",
-   "title": "I went to a dinner party, brought an appetizer and wine \u2014 and the host charged me $60. Should I cut ties with her?",
-   "link": "https://www.marketwatch.com/story/i-went-to-a-dinner-party-brought-an-appetizer-and-wine-and-the-host-charged-me-60-should-i-cut-ties-with-her-5a1c5261?mod=mw_rss_topstories",
-   "summary": "\u201cAm I right to think this is pretty cheap and rude?\u201d",
-   "published": "Fri, 11 Sep 2026 17:31:00 GMT",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "A party host surprisingly requested monetary reimbursement from guests who already contributed refreshments.",
-   "effect": "It affects social dynamics and personal etiquette expectations among modern host-guest relationships."
+   "sector": "Tech/AI",
+   "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+   "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+   "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+   "published": "Fri, 11 Sep 2026 19:35:54 +0000",
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Massive daily token generation across K3 models is fueling Moonshot AI's ambitious revenue projections.",
+   "effect": "It affects global AI developers and venture capital investors competing in foundational AI deployment."
   },
   {
    "sector": "Tech/AI",
@@ -109,8 +119,8 @@
    "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
    "published": "Fri, 11 Sep 2026 19:00:00 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Roblox launched cross-platform integration tools and AI-driven game creation features at its annual conference.",
-   "effect": "It affects game developers and players by expanding game distribution beyond the native Roblox ecosystem."
+   "why": "Roblox introduced generative AI creation tools and cross-platform publishing capabilities at its annual conference.",
+   "effect": "It impacts game developers and millions of active players by broadening game development and access."
   },
   {
    "sector": "Tech/AI",
@@ -119,8 +129,8 @@
    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
    "published": "Fri, 11 Sep 2026 18:58:01 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Three regional tech startups won top positions at the regional competition finals.",
-   "effect": "It affects the winning Eurasian startups by granting them global exposure and access to international investors."
+   "why": "Three regional tech startups won the pitch competition to earn spots at TechCrunch Disrupt.",
+   "effect": "It affects Eurasian entrepreneurs seeking international exposure, venture funding, and market expansion."
   },
   {
    "sector": "Tech/AI",
@@ -128,9 +138,9 @@
    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
    "published": "Fri, 11 Sep 2026 16:46:25 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "The company appointed an experienced executive to strengthen corporate leadership before going public.",
-   "effect": "It affects Nscale's corporate governance, prospective investors, and market valuation ahead of its IPO."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Nscale recruited a veteran tech leader to strengthen governance ahead of an anticipated public listing.",
+   "effect": "It impacts Nscale corporate leadership and prospective investors preparing for the public market debut."
   },
   {
    "sector": "Tech/AI",
@@ -139,18 +149,8 @@
    "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he\u2019s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
    "published": "Fri, 11 Sep 2026 15:19:00 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Automattic's founder claimed leadership reinstatement in internal messages following a board leave of absence.",
-   "effect": "It affects Automattic employees, open-source software contributors, and WordPress ecosystem stability."
-  },
-  {
-   "sector": "Tech/AI",
-   "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-   "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-   "summary": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-   "published": "Fri, 11 Sep 2026 13:32:54 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "A compromise at a third-party email service provider exposed customer contact information.",
-   "effect": "It affects Trezor hardware wallet owners who face targeted phishing attacks and security risks."
+   "why": "Automattic's founder claimed full operational control following his administrative leave by the board.",
+   "effect": "It affects Automattic employees and WordPress ecosystem developers facing internal corporate governance uncertainty."
   },
   {
    "sector": "Crypto",
@@ -158,9 +158,9 @@
    "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
    "summary": "",
    "published": "Fri, 11 Sep 2026 17:12:45 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Court proceedings and appeal actions surrounding the collapsed cryptocurrency exchange founder near completion.",
-   "effect": "It affects crypto market regulations, institutional compliance standards, and former FTX creditors."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "The final appellate and sentencing stages surrounding Sam Bankman-Fried's conviction are drawing to a close.",
+   "effect": "It affects cryptocurrency observers and legal analysts tracking high-profile financial fraud cases."
   },
   {
    "sector": "Crypto",
@@ -169,8 +169,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:45:56 +0000",
    "impact": "\ud83d\udd34 High",
-   "why": "Anticipated central bank monetary tightening directly shifts investor expectations and liquidity levels.",
-   "effect": "It affects stock traders, bond market investors, and capital allocation across global financial sector assets."
+   "why": "Anticipated Federal Reserve interest rate hikes are forcing systematic realignments across capital markets.",
+   "effect": "It impacts global investors, crypto traders, and capital markets preparing for tighter monetary policy."
   },
   {
    "sector": "Crypto",
@@ -179,8 +179,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:17:08 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "State officials seek innovative blockchain-based financial mechanisms to fund public infrastructure projects.",
-   "effect": "It affects institutional investors, government agencies, and regional citizens benefiting from modernized public funding."
+   "why": "Maharashtra state seeks innovative blockchain technology to finance public infrastructure projects efficiently.",
+   "effect": "It affects Indian taxpayers and local crypto markets by pioneering state-backed asset tokenization."
   },
   {
    "sector": "Crypto",
@@ -188,9 +188,9 @@
    "link": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:46:51 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "The corporate treasury shifted executive compensation plans following valuation adjustments.",
-   "effect": "It affects company leadership, shareholders, and institutional confidence in corporate crypto holdings."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Metaplanet significantly reduced executive equity incentives, erasing substantial nominal compensation value.",
+   "effect": "It impacts company executives and corporate shareholders through restructured internal compensation plans."
   },
   {
    "sector": "Crypto",
@@ -199,8 +199,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:32:52 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "An executive transition occurred as the chief executive transitioned into an advisory role.",
-   "effect": "It affects Zodia Custody's internal operational leadership and institutional cryptocurrency management clients."
+   "why": "Julian Sawyer transitioned from operational executive management to an advisory advisory role.",
+   "effect": "It affects Zodia Custody's leadership structure and institutional clients using its crypto custody services."
   },
   {
    "sector": "Science",
@@ -209,8 +209,8 @@
    "summary": "Britain\u2019s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
    "published": "Fri, 11 Sep 2026 07:38:35 EDT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Unusual temperature swings, severe heatwaves, and food scarcity disrupted native insect populations.",
-   "effect": "It affects natural ecosystems, agricultural pest control, and food chain stability across affected regions."
+   "why": "Unusual temperature fluctuations, heatwaves, and food shortages severely reduced wasp populations.",
+   "effect": "It impacts agricultural ecosystems and farmers relying on native insects for ecological pest control."
   },
   {
    "sector": "Science",
@@ -219,8 +219,8 @@
    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
    "published": "Fri, 11 Sep 2026 01:18:44 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Quantum physics models indicate a fundamental limit on how accurately time can theoretically be measured.",
-   "effect": "It affects theoretical physicists working to unify quantum mechanics with general relativity."
+   "why": "Quantum physics models revealed theoretical limits on how precisely time can be measured.",
+   "effect": "It affects academic physicists working to connect quantum mechanics with general relativity theories."
   },
   {
    "sector": "Science",
@@ -229,8 +229,8 @@
    "summary": "The Mediterranean may seem far removed from the world\u2019s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
    "published": "Thu, 10 Sep 2026 02:35:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Geological fault lines and historical data show inevitable tsunami activity along Mediterranean coastlines.",
-   "effect": "It affects coastal European communities, maritime infrastructure, and emergency planning authorities."
+   "why": "Geological data and ocean modeling predict inevitable destructive tsunamis striking Mediterranean coastlines.",
+   "effect": "It affects millions of coastal European residents and emergency planners requiring immediate early-warning infrastructure."
   },
   {
    "sector": "Science",
@@ -239,8 +239,8 @@
    "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a new path toward treatments for heart failure.",
    "published": "Thu, 10 Sep 2026 22:56:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Medical research revealed inherent cardiac muscle regeneration capabilities previously thought impossible.",
-   "effect": "It affects millions of cardiovascular disease patients by enabling revolutionary treatments for heart failure."
+   "why": "Medical research proved that damaged human heart tissue possesses latent regenerative biological capabilities.",
+   "effect": "It affects cardiac patients worldwide by enabling revolutionary treatments for heart failure recovery."
   },
   {
    "sector": "Science",
@@ -249,8 +249,8 @@
    "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
    "published": "Thu, 10 Sep 2026 06:35:52 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Debris clearance work aimed at flood prevention uncovered an ancient buried tomb near Luxor.",
-   "effect": "It affects historians and conservationists battling climate threats to preserve world heritage sites."
+   "why": "Flood clearance efforts accidentally uncovered a remarkably preserved ancient tomb near Luxor.",
+   "effect": "It affects historians and cultural conservators working to protect ancient artifacts from climate damage."
   }
  ]
 }
