@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11 22:53 UTC",
- "count": 25,
+ "updated": "2026-09-11 23:02 UTC",
+ "count": 30,
  "items": [
   {
    "sector": "World",
@@ -74,6 +74,13 @@
   },
   {
    "sector": "Tech/AI",
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+   "published": "Fri, 11 Sep 2026 22:58:17 +0000"
+  },
+  {
+   "sector": "Tech/AI",
    "title": "Khosla Ventures is opening a New York office this fall \u2014 its first outpost outside Sand Hill Road",
    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
@@ -99,13 +106,6 @@
    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
    "published": "Fri, 11 Sep 2026 20:33:18 +0000"
-  },
-  {
-   "sector": "Tech/AI",
-   "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-   "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-   "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-   "published": "Fri, 11 Sep 2026 20:30:17 +0000"
   },
   {
    "sector": "Crypto",
@@ -176,6 +176,41 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
    "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
    "published": "Thu, 10 Sep 2026 06:35:52 EDT"
+  },
+  {
+   "sector": "Health",
+   "title": "WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health",
+   "link": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
+   "summary": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
+   "published": "Wed, 25 Feb 2026 18:06:55 Z"
+  },
+  {
+   "sector": "Health",
+   "title": "WHO statement on notification of withdrawal of the United States",
+   "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
+   "summary": "WHO regrets the United States\u2019 notification of withdrawal from WHO \u2013 a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
+   "published": "Sat, 24 Jan 2026 20:09:49 Z"
+  },
+  {
+   "sector": "Health",
+   "title": "Paying tribute to David Nabarro",
+   "link": "https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro",
+   "summary": "Tribute to Dr David Nabarro",
+   "published": "Wed, 30 Jul 2025 08:56:15 Z"
+  },
+  {
+   "sector": "Health",
+   "title": "Timor-Leste certified malaria-free by WHO",
+   "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
+   "summary": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.&ldquo;WHO congratulates the people and government of Timor-Leste on this significant milestone,&rdquo; said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. &ldquo;Timor-Leste&rsquo;s success proves that malaria can be stopped in its tracks when strong po",
+   "published": "Wed, 23 Jul 2025 10:07:41 Z"
+  },
+  {
+   "sector": "Health",
+   "title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
+   "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
+   "summary": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landsca",
+   "published": "Sat, 24 May 2025 17:47:21 Z"
   }
  ]
 }
