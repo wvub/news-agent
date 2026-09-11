@@ -1,4 +1,4 @@
-import feedparser, json, os, re, requests
+import feedparser, json, os, re, requests, pathlib
 from datetime import datetime, timezone
 
 # ========== CONFIG ==========
@@ -80,7 +80,7 @@ Return ONLY a JSON array (no markdown, no explanation) where each object has:
 
 News items: """ + json.dumps(batch)
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key={GEMINI_KEY}"
     r = requests.post(url, json={
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
@@ -103,12 +103,12 @@ if __name__ == "__main__":
     items = fetch_items()
     print(f"Fetched {len(items)} items")
     items = analyze_with_ai(items)
+    pathlib.Path("docs").mkdir(exist_ok=True)
     out = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "count": len(items),
         "items": items,
     }
-    pathlib.Path("docs").mkdir(exist_ok=True)
     with open("docs/news.json", "w") as f:
         json.dump(out, f, indent=1)
     print("Wrote docs/news.json")
