@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My News Agent</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; }
+  header { padding: 16px 20px; background: #161b22; border-bottom: 1px solid #30363d;
+           position: sticky; top: 0; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  h1 { font-size: 1.2rem; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: #3fb950; animation: pulse 2s infinite; }
+  @keyframes pulse { 50% { opacity: .3; } }
+  #updated { color: #8b949e; font-size: .85rem; }
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 14px 20px; }
+  .filters button { background: #21262d; color: #c9d1d9; border: 1px solid #30363d;
+                    padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: .85rem; }
+  .filters button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+  main { max-width: 800px; margin: 0 auto; padding: 0 16px 60px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px;
+          padding: 16px; margin-bottom: 12px; }
+  .tag { font-size: .75rem; padding: 3px 10px; border-radius: 12px; margin-right: 6px; }
+  .sec  { background: #1f6feb33; color: #58a6ff; }
+  .high { background: #f8514922; color: #f85149; }
+  .med  { background: #d2992233; color: #d29922; }
+  .low  { background: #3fb95022; color: #3fb950; }
+  h2 { font-size: 1.05rem; margin: 10px 0; }
+  h2 a { color: #e6edf3; text-decoration: none; }
+  h2 a:hover { color: #58a6ff; }
+  .row { font-size: .9rem; margin-top: 6px; color: #c9d1d9; }
+  .row b { color: #8b949e; font-weight: 600; }
+  footer { text-align: center; color: #484f58; font-size: .8rem; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="dot"></div>
+  <h1>⚡ News Agent</h1>
+  <span id="updated">Loading...</span>
+</header>
+<div class="filters" id="filters"></div>
+<main id="feed"></main>
+<footer>Auto-updates every 10 min · Free build: GitHub Actions + Groq AI</footer>
+
+<script>
+let ALL = [], currentFilter = "All";
+const SECTORS = ["All","World","Markets","Tech/AI","Crypto","Science","Health"];
+
+async function load() {
+  try {
+    const r = await fetch("news.json?ts=" + Date.now());
+    const data = await r.json();
+    ALL = data.items || [];
+    document.getElementById("updated").textContent = "Updated: " + data.updated;
+    renderFilters(); render();
+  } catch(e) { document.getElementById("updated").textContent = "Waiting for first update..."; }
+}
+
+function renderFilters() {
+  const el = document.getElementById("filters");
+  el.innerHTML = SECTORS.map(s =>
+    `<button class="${s===currentFilter?'active':''}" onclick="setFilter('${s}')">${s}</button>`).join("");
+}
+function setFilter(s) { currentFilter = s; renderFilters(); render(); }
+
+function render() {
+  const list = currentFilter==="All" ? ALL : ALL.filter(i => i.sector===currentFilter);
+  const order = {"🔴":0,"🟡":1,"🟢":2};
+  list.sort((a,b) => (order[a.impact?.[0]||"🟡"] - order[b.impact?.[0]||"🟡"]));
+  document.getElementById("feed").innerHTML = list.map(i => `
+    <div class="card">
+      <span class="tag sec">${i.sector}</span>
+      <span class="tag ${i.impact?.includes('High')?'high':i.impact?.includes('Low')?'low':'med'}">${i.impact||"🟡 Medium"}</span>
+      <h2><a href="${i.link}" target="_blank">${i.title}</a></h2>
+      ${i.why ? `<div class="row"><b>❓ Why:</b> ${i.why}</div>` : ""}
+      ${i.effect ? `<div class="row"><b>💥 Impact:</b> ${i.effect}</div>` : ""}
+    </div>`).join("") || "<p style='padding:20px;color:#8b949e'>No news in this sector yet.</p>";
+}
+
+load();
+setInterval(load, 180000); // auto-refresh page every 3 min
+</script>
+</body>
+</html>
+
+eof
