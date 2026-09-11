@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11 23:17 UTC",
- "count": 30,
+ "updated": "2026-09-11 23:26 UTC",
+ "count": 25,
  "items": [
   {
    "sector": "World",
@@ -9,8 +9,38 @@
    "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
    "published": "Fri, 11 Sep 2026 22:17:45 GMT",
    "impact": "\ud83d\udd34 High",
-   "why": "Houthis seized strategic positions including Perim island along a major global shipping route.",
-   "effect": "It impacts global maritime trade, international shipping companies, and supply chains by threatening trade security in the Red Sea."
+   "why": "Houthis seized a strategic island and advanced in Yemen amid regional tensions.",
+   "effect": "It affects global shipping companies and international trade by destabilizing critical maritime transport routes."
+  },
+  {
+   "sector": "World",
+   "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+   "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+   "published": "Fri, 11 Sep 2026 20:34:29 GMT",
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Denise Cosco died years after testifying against her father and the powerful 'Ndrangheta mafia clan.",
+   "effect": "It affects witness protection programs and law enforcement efforts against organized crime in Italy."
+  },
+  {
+   "sector": "World",
+   "title": "Passenger train derails in France leaving at least 44 injured",
+   "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+   "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+   "published": "Fri, 11 Sep 2026 21:25:32 GMT",
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "A passenger train operating between Rouen and Caen unexpectedly derailed in Normandy.",
+   "effect": "It affects French rail passengers and regional transit authorities through injuries and localized travel delays."
+  },
+  {
+   "sector": "World",
+   "title": "Arrest made over the death of black woman found hanged from tree",
+   "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
+   "published": "Fri, 11 Sep 2026 22:57:42 GMT",
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Police arrested a suspect following the investigation into Tasia Fortune's death in Mississippi.",
+   "effect": "It impacts the victim's family and the local community by advancing judicial proceedings."
   },
   {
    "sector": "World",
@@ -18,39 +48,9 @@
    "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
    "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
    "published": "Fri, 11 Sep 2026 16:00:59 GMT",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "The 92-year-old royal passed away shortly after attending her brother's funeral service.",
-   "effect": "It affects the Norwegian royal family and nation as they mourn another prominent member."
-  },
-  {
-   "sector": "World",
-   "title": "Israel says it has destroyed major underground Hezbollah base",
-   "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-   "published": "Fri, 11 Sep 2026 15:50:23 GMT",
-   "impact": "\ud83d\udd34 High",
-   "why": "Israel conducted a massive detonation that triggered seismic activity equivalent to a 4.1 earthquake.",
-   "effect": "It impacts Hezbollah forces and Middle East stability by escalating regional military conflict and destroying critical infrastructure."
-  },
-  {
-   "sector": "World",
-   "title": "Princess Diana's 'revenge dress' goes up for auction",
-   "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-   "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (\u00a3220,000) when it goes under the hammer on 9 December.",
-   "published": "Fri, 11 Sep 2026 12:04:46 GMT",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Sotheby's put Princess Diana's iconic black dress up for auction to high-end fashion collectors.",
-   "effect": "It affects fashion history collectors and auction participants who might spend up to $300,000."
-  },
-  {
-   "sector": "World",
-   "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-   "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-   "published": "Fri, 11 Sep 2026 10:50:04 GMT",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Thai police investigated and uncovered evidence of financial theft and sexual misconduct involving the monk.",
-   "effect": "It affects local temple followers and the Thai Buddhist institution's public reputation."
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "The royal family member passed away shortly after attending King Harald's funeral service.",
+   "effect": "It affects the Norwegian public and royal house as the nation observes a formal mourning period."
   },
   {
    "sector": "Markets",
@@ -58,9 +58,9 @@
    "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
    "summary": "There\u2019s a safe haven hiding in plain sight.",
    "published": "Fri, 11 Sep 2026 22:06:00 GMT",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Market analysts identified a political-risk-hedged asset class yielding a steady yield of 4.7 percent.",
-   "effect": "It affects individual investors looking for stable yield amidst political uncertainty in US elections."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Financial analysts identified a yield-bearing investment asset resilient to political election outcomes.",
+   "effect": "It affects retail investors seeking stable returns insulated from political volatility."
   },
   {
    "sector": "Markets",
@@ -69,8 +69,8 @@
    "summary": "Marvell is best known for making custom chips \u2014 but an analyst notes there\u2019s arguably more potential in supporting components and optical networking.",
    "published": "Fri, 11 Sep 2026 21:16:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Analysts identified high growth potential in Marvell's custom chips, optical networking, and supporting components.",
-   "effect": "It affects semiconductor investors and tech hardware sectors by opening up new revenue avenues."
+   "why": "Strong market demand for custom chip infrastructure and optical networking positioned Marvell for major growth.",
+   "effect": "It affects semiconductor investors and technology firms building next-generation data centers."
   },
   {
    "sector": "Markets",
@@ -79,8 +79,8 @@
    "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d",
    "published": "Fri, 11 Sep 2026 21:00:00 GMT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Beneficiaries seek legal and financial guidance on handling and distributing an inherited individual retirement account.",
-   "effect": "It affects individual IRA heirs who need to understand tax implications and estate liquidation rules."
+   "why": "Beneficiaries sought clarification on financial regulations governing the liquidation of an inherited retirement account.",
+   "effect": "It affects individual estate heirs navigating tax implications and retirement account distributions."
   },
   {
    "sector": "Markets",
@@ -89,8 +89,8 @@
    "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear \u2014 unlocking a potentially huge opportunity, according to Morgan Stanley.",
    "published": "Fri, 11 Sep 2026 20:49:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "High fuel costs are encouraging commercial fleets to adopt electric semi-truck alternatives.",
-   "effect": "It affects logistics companies, commercial freight markets, and Tesla investors by accelerating fleet electrification."
+   "why": "High diesel fuel costs created stronger economic incentives for commercial electric truck adoption.",
+   "effect": "It affects commercial freight operators and the trucking industry by offering zero-emission fleet alternatives."
   },
   {
    "sector": "Markets",
@@ -99,8 +99,8 @@
    "summary": "\u201cSeveral of Oracle\u2019s bear cases were addressed head on\u201d in the latest earnings report, according to an analyst.",
    "published": "Fri, 11 Sep 2026 20:45:00 GMT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Despite addressing analyst concerns over AI expenditures in earnings, market sentiment remained cautious.",
-   "effect": "It affects Oracle shareholders and tech sector investors navigating AI capital expenditure risks."
+   "why": "Persistent market concerns over massive AI capital expenditures overshadowed Oracle's strong earnings results.",
+   "effect": "It affects Oracle shareholders and cloud industry investors monitoring corporate AI spending returns."
   },
   {
    "sector": "Tech/AI",
@@ -109,8 +109,8 @@
    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
    "published": "Fri, 11 Sep 2026 22:58:17 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Demand for robotics training data drove venture capitalists like Sequoia to fund the AI startup.",
-   "effect": "It impacts robotics developers and AI venture capital valuation benchmarks."
+   "why": "Intense industry demand for specialized robotics training data fueled a major venture investment round.",
+   "effect": "It affects AI startups and robotics developers gaining enhanced capital for data generation."
   },
   {
    "sector": "Tech/AI",
@@ -119,8 +119,8 @@
    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
    "published": "Fri, 11 Sep 2026 21:19:05 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "The Silicon Valley VC firm wants to expand its physical footprint into East Coast startup hubs.",
-   "effect": "It affects New York founders and regional venture capital competitors seeking top-tier backing."
+   "why": "The venture capital firm expanded geographic operations to capture East Coast startup deal flow.",
+   "effect": "It affects East Coast tech entrepreneurs seeking direct access to prominent venture funding."
   },
   {
    "sector": "Tech/AI",
@@ -129,8 +129,8 @@
    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese.",
    "published": "Fri, 11 Sep 2026 20:59:47 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Garry Tan urged domestic AI labs to use distillation to maintain American competitiveness over Chinese open-weight models.",
-   "effect": "It affects domestic AI developers and policymakers shaping open-source software and geopolitical tech dominance."
+   "why": "Garry Tan urged domestic developers to use model distillation to keep American open-source AI competitive globally.",
+   "effect": "It affects US software developers and AI researchers building open-weight language models."
   },
   {
    "sector": "Tech/AI",
@@ -139,8 +139,8 @@
    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
    "published": "Fri, 11 Sep 2026 20:57:36 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Prominent mathematicians published an open letter alleging AI models exploit and threaten their intellectual work.",
-   "effect": "It impacts AI developers, academic institutions, and copyright law frameworks governing training data."
+   "why": "Prominent mathematicians issued an open letter claiming AI training practices threaten their academic intellectual property.",
+   "effect": "It affects AI research institutions and mathematicians facing intellectual rights controversies."
   },
   {
    "sector": "Tech/AI",
@@ -149,8 +149,8 @@
    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
    "published": "Fri, 11 Sep 2026 20:33:18 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Event organizers set a firm registration deadline for booth space at the upcoming conference.",
-   "effect": "It affects tech startups and conference exhibitors seeking promotional space at the event."
+   "why": "Organizers announced an upcoming deadline for booth reservations at the tech conference.",
+   "effect": "It affects tech startup founders planning to exhibit and market products at the event."
   },
   {
    "sector": "Crypto",
@@ -158,9 +158,9 @@
    "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
    "summary": "",
    "published": "Fri, 11 Sep 2026 17:12:45 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Final appeals and post-trial legal proceedings are drawing the FTX court case to a close.",
-   "effect": "It affects crypto investors, regulatory bodies, and FTX bankruptcy creditors awaiting resolution."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Final judicial proceedings and appeal deadlines are approaching for the convicted crypto founder.",
+   "effect": "It impacts crypto industry observers and legal analysts monitoring the case's final resolution."
   },
   {
    "sector": "Crypto",
@@ -169,8 +169,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:45:56 +0000",
    "impact": "\ud83d\udd34 High",
-   "why": "Anticipation of impending monetary tightening by the Federal Reserve is driving market volatility.",
-   "effect": "It affects global stock markets, bond yields, crypto prices, and general borrowing costs."
+   "why": "Anticipated Federal Reserve monetary tightening signaled impending shifts in borrowing costs and liquidity.",
+   "effect": "It affects global equity markets, crypto traders, and consumers through elevated interest rates."
   },
   {
    "sector": "Crypto",
@@ -179,8 +179,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:17:08 +0000",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Local authorities seek novel Web3 financial mechanisms to raise public capital for development projects.",
-   "effect": "It affects real-world asset tokenization platforms and regional infrastructure investors in India."
+   "why": "Maharashtra state sought innovative blockchain-based financing methods for major public works projects.",
+   "effect": "It affects government finance authorities and crypto markets by setting a public asset tokenization precedent."
   },
   {
    "sector": "Crypto",
@@ -188,9 +188,9 @@
    "link": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:46:51 +0000",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Corporate governance reforms and valuation adjustments led to severe cuts in executive incentive pools.",
-   "effect": "It impacts Metaplanet executives, shareholders, and corporate governance standards in crypto asset firms."
+   "impact": "\ud83d\udfe2 Low",
+   "why": "Metaplanet restructured executive compensation plans to decrease share dilution and reduce corporate costs.",
+   "effect": "It impacts company executives and shareholders through adjusted compensation structures and equity valuations."
   },
   {
    "sector": "Crypto",
@@ -199,8 +199,8 @@
    "summary": "",
    "published": "Fri, 11 Sep 2026 13:32:52 +0000",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Internal leadership reshuffling resulted in the chief executive transitioning into an advisory position.",
-   "effect": "It affects Zodia Custody's operational leadership and institutional digital asset clients."
+   "why": "The executive transitioned into an advisory role to guide strategic transition at the firm.",
+   "effect": "It affects Zodia Custody's institutional clients and staff during the executive leadership shift."
   },
   {
    "sector": "Science",
@@ -209,8 +209,8 @@
    "summary": "Britain\u2019s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
    "published": "Fri, 11 Sep 2026 07:38:35 EDT",
    "impact": "\ud83d\udfe1 Medium",
-   "why": "Extreme temperature fluctuations, severe heatwaves, and food shortages decimated wasp populations in Britain.",
-   "effect": "It affects natural ecosystems, agriculture, and pest control balances across affected European regions."
+   "why": "Unusual heatwaves and food shortages severely disrupted UK insect breeding and survival rates.",
+   "effect": "It impacts agricultural ecosystems and pest management by reducing natural insect predator levels."
   },
   {
    "sector": "Science",
@@ -219,8 +219,8 @@
    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
    "published": "Fri, 11 Sep 2026 01:18:44 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Quantum physics theories suggest fundamental uncertainties exist that cap how accurately time can be measured.",
-   "effect": "It affects theoretical physicists and precision clock researchers exploring quantum mechanics and gravity."
+   "why": "Theoretical models revealed fundamental quantum uncertainties in how time functions at extreme scales.",
+   "effect": "It affects theoretical physicists researching quantum mechanics, gravity, and fundamental spacetime rules."
   },
   {
    "sector": "Science",
@@ -229,8 +229,8 @@
    "summary": "The Mediterranean may seem far removed from the world\u2019s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
    "published": "Thu, 10 Sep 2026 02:35:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Geological modeling and historical data show that seismic activity will inevitably trigger major coastal waves.",
-   "effect": "It impacts millions of coastal residents, tourism sectors, and emergency planning in Mediterranean countries."
+   "why": "Geological risk modeling identified inevitable seismic threats to Mediterranean coastal populations.",
+   "effect": "It affects millions of coastal residents and emergency preparedness agencies across Southern Europe."
   },
   {
    "sector": "Science",
@@ -239,8 +239,8 @@
    "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a new path toward treatments for heart failure.",
    "published": "Thu, 10 Sep 2026 22:56:49 EDT",
    "impact": "\ud83d\udd34 High",
-   "why": "Research revealed natural cellular heart muscle regeneration occurs after severe cardiovascular events.",
-   "effect": "It impacts millions of heart failure patients, medical researchers, and the global healthcare industry."
+   "why": "Medical researchers demonstrated that human heart cells possess unexpected regenerative capacity post-injury.",
+   "effect": "It affects millions of cardiovascular patients globally by opening paths toward revolutionary heart disease therapies."
   },
   {
    "sector": "Science",
@@ -249,58 +249,8 @@
    "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
    "published": "Thu, 10 Sep 2026 06:35:52 EDT",
    "impact": "\ud83d\udfe2 Low",
-   "why": "Debris clearance work to prevent flood damage accidentally uncovered a well-preserved ancient tomb near Luxor.",
-   "effect": "It affects Egyptologists, historians, and Egyptian cultural tourism preservation efforts."
-  },
-  {
-   "sector": "Health",
-   "title": "WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health",
-   "link": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
-   "summary": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
-   "published": "Wed, 25 Feb 2026 18:06:55 Z",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "The WHO chief visited Jordan to commend national progress in public health and humanitarian programs.",
-   "effect": "It affects public health agencies and humanitarian aid workers in Jordan and surrounding regions."
-  },
-  {
-   "sector": "Health",
-   "title": "WHO statement on notification of withdrawal of the United States",
-   "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
-   "summary": "WHO regrets the United States\u2019 notification of withdrawal from WHO \u2013 a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
-   "published": "Sat, 24 Jan 2026 20:09:49 Z",
-   "impact": "\ud83d\udd34 High",
-   "why": "The US government formally notified the United Nations of its intent to leave the World Health Organization.",
-   "effect": "It affects global public health funding, pandemic prevention systems, and US international health policy."
-  },
-  {
-   "sector": "Health",
-   "title": "Paying tribute to David Nabarro",
-   "link": "https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro",
-   "summary": "Tribute to Dr David Nabarro",
-   "published": "Wed, 30 Jul 2025 08:56:15 Z",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "The global health community released a public tribute honoring the contributions of Dr. David Nabarro.",
-   "effect": "It affects public health professionals and international organization leaders reflecting on his legacy."
-  },
-  {
-   "sector": "Health",
-   "title": "Timor-Leste certified malaria-free by WHO",
-   "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
-   "summary": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.&ldquo;WHO congratulates the people and government of Timor-Leste on this significant milestone,&rdquo; said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. &ldquo;Timor-Leste&rsquo;s success proves that malaria can be stopped in its tracks when strong po",
-   "published": "Wed, 23 Jul 2025 10:07:41 Z",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Decades of dedicated public health initiatives eradicated local malaria transmission since independence in 2002.",
-   "effect": "It affects the citizens of Timor-Leste, regional public health agencies, and global disease eradication efforts."
-  },
-  {
-   "sector": "Health",
-   "title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
-   "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
-   "summary": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landsca",
-   "published": "Sat, 24 May 2025 17:47:21 Z",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Leaders signed an updated MoU at the World Health Assembly to address continent-wide healthcare challenges.",
-   "effect": "It affects African nations, healthcare infrastructure, and global health funding across the continent."
+   "why": "Flood mitigation efforts near Luxor uncovered an ancient tomb threatened by climate change.",
+   "effect": "It affects historians and cultural heritage conservators by securing precious ancient artifacts."
   }
  ]
 }
