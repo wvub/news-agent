@@ -1,0 +1,6 @@
+news_history.db
+.profiles/
+.env
+*.pyc
+__pycache__/
+.DS_Store
