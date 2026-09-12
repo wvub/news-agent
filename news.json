@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 10:29 UTC",
+ "updated": "2026-09-12 10:38 UTC",
  "count": 30,
  "items": [
   {
@@ -8,10 +8,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
    "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
    "published": "Sat, 12 Sep 2026 04:43:10 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "A drone strike launched from Iraq targeted a critical Saudi energy pipeline, forcing an immediate operational shutdown.",
-   "effect": "It impacts global energy markets and oil prices while intensifying geopolitical tensions across the Middle East."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -19,10 +16,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
    "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
    "published": "Sat, 12 Sep 2026 10:02:45 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "President Trump held diplomatic talks in Dublin prior to attending an Irish golf tournament.",
-   "effect": "It reinforces bilateral political ties between the US and Ireland without altering active global policies."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -30,10 +24,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
    "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
    "published": "Fri, 11 Sep 2026 20:34:29 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Denise Cosco was found dead after courageously testifying against her father and the powerful 'Ndrangheta mafia.",
-   "effect": "It impacts victim protection advocates and highlights severe ongoing risks for witnesses exposing organized crime."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -41,10 +32,7 @@
    "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
    "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
    "published": "Sat, 12 Sep 2026 00:43:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "The United States reached the landmark 25th anniversary of the September 11 terrorist attacks.",
-   "effect": "It unites millions of citizens and victims' families through national memorial ceremonies across the country."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -52,10 +40,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
    "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
    "published": "Sat, 12 Sep 2026 03:02:28 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "A catastrophic fire destroyed a passenger ferry in the Philippines, trapping passengers aboard.",
-   "effect": "It impacts local maritime commuters and victims' families while spurring investigations into regional vessel safety."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -63,10 +48,7 @@
    "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
    "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
    "published": "Fri, 11 Sep 2026 23:54:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Persistent inflationary pressures historical patterns suggest the Federal Reserve may implement multiple interest rate increases.",
-   "effect": "It affects global stock markets, corporate borrowing, and consumer lending rates worldwide."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -74,10 +56,7 @@
    "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
    "summary": "There\u2019s a safe haven hiding in plain sight.",
    "published": "Fri, 11 Sep 2026 22:06:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Investors are seeking reliable safe-haven assets yielding stable returns immune to political shifts.",
-   "effect": "It offers retail investors a low-risk option to preserve capital amidst ongoing bipartisan volatility."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -85,10 +64,7 @@
    "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
    "summary": "Marvell is best known for making custom chips \u2014 but an analyst notes there\u2019s arguably more potential in supporting components and optical networking.",
    "published": "Fri, 11 Sep 2026 21:16:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Analysts identified high growth potential in Marvell's custom chip support components and optical networking.",
-   "effect": "It impacts semiconductor investors and tech hardware manufacturers expanding data center capabilities."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -96,10 +72,7 @@
    "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
    "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d",
    "published": "Fri, 11 Sep 2026 21:00:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "An estate executor sought advice on distributing and liquidating an inherited retirement account among heirs.",
-   "effect": "It clarifies complex inheritance tax rules and account management options for individual beneficiaries."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -107,10 +80,7 @@
    "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
    "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear \u2014 unlocking a potentially huge opportunity, according to Morgan Stanley.",
    "published": "Fri, 11 Sep 2026 20:49:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Tesla is accelerating production of its commercial Semi truck to offer alternative transport options.",
-   "effect": "It affects commercial freight logistics companies seeking to lower operating costs amid high diesel fuel prices."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -118,10 +88,7 @@
    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
    "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Surging industry demand for robotic training data propelled a major venture funding round led by Sequoia.",
-   "effect": "It benefits robotics developers and artificial intelligence startups competing for high-quality datasets."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -129,10 +96,7 @@
    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
    "published": "Fri, 11 Sep 2026 21:19:05 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Khosla Ventures is expanding physically outside California to establish a permanent presence in New York.",
-   "effect": "It impacts East Coast technology founders by increasing direct access to top-tier venture capital funding."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -140,10 +104,7 @@
    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese.",
    "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Garry Tan urged domestic developers to use advanced model distillation to keep open-weight AI competitive.",
-   "effect": "It influences American AI developers aiming to counter dominant foreign open-source machine learning models."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -151,10 +112,7 @@
    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
    "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Prominent mathematicians signed an open letter accusing AI labs of threatening their copyrighted research work.",
-   "effect": "It affects academic researchers and AI corporations facing legal hurdles over training data intellectual property."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -162,10 +120,7 @@
    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
    "published": "Fri, 11 Sep 2026 20:33:18 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "The final deadline to reserve exhibition booths for TechCrunch Disrupt 2026 is approaching quickly.",
-   "effect": "It impacts early-stage startup founders seeking promotional space to showcase products to potential investors."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -173,10 +128,7 @@
    "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
    "summary": "",
    "published": "Sat, 12 Sep 2026 10:11:01 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Revolut complied with a fraudulent government data request, leading to a major security breach.",
-   "effect": "It impacts compromised Revolut customers whose crypto transaction histories and sensitive passport data were exposed."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -184,10 +136,7 @@
    "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
    "summary": "",
    "published": "Fri, 11 Sep 2026 23:47:51 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Robinhood's leadership opposed corporate interference regarding tokenized stock offerings during a public dispute.",
-   "effect": "It affects retail investors and digital asset platforms seeking unrestricted trading of tokenized corporate equities."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -195,10 +144,7 @@
    "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
    "summary": "",
    "published": "Fri, 11 Sep 2026 17:12:45 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Imprisoned FTX founder Sam Bankman-Fried is entering the final stage of his criminal court appeals.",
-   "effect": "It affects cryptocurrency market participants seeking legal closure following one of finance's largest fraud cases."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -206,10 +152,7 @@
    "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:45:56 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Certainty around an upcoming Federal Reserve rate increase has prompted widespread financial market repositioning.",
-   "effect": "It affects equity, crypto, and bond investors adjusting portfolios to withstand tighter monetary policy."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -217,10 +160,7 @@
    "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
    "summary": "",
    "published": "Fri, 11 Sep 2026 15:17:08 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Maharashtra is exploring blockchain asset tokenization to raise private capital for major public infrastructure projects.",
-   "effect": "It impacts institutional investors and Indian public finance management by pioneering Web3 infrastructure funding."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -228,10 +168,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911003901.htm",
    "summary": "Britain\u2019s wasps have become mysteriously scarce this summer, and scientists suspect an unusual combination of temperature swings, heatwaves, and food shortages may be responsible. Even the wasps that remain appear unusually small, potentially offering a glimpse of how extreme heat could reshape insect populations.",
    "published": "Fri, 11 Sep 2026 07:38:35 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Extreme heatwaves, erratic temperature swings, and severe food shortages caused massive declines in wasp populations.",
-   "effect": "It affects agricultural ecosystems and food production by disrupting natural pest control and pollination."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -239,10 +176,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
    "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
    "published": "Fri, 11 Sep 2026 20:25:05 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Genetic research revealed bats possess unique cellular repair and anti-inflammatory mechanisms allowing exceptional longevity.",
-   "effect": "It helps medical researchers developing therapies to prevent age-related diseases and extend human life spans."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -250,10 +184,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
    "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
    "published": "Fri, 11 Sep 2026 19:47:16 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "A fossilized feather inside ancient coprolite provided clues on how bird thermal insulation evolved.",
-   "effect": "It enhances paleontologists' understanding of evolutionary traits that enabled early avian survival during extinction events."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -261,10 +192,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
    "published": "Fri, 11 Sep 2026 01:18:44 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Theoretical models revealed fundamental quantum limits on the ultimate measurement precision of physical time.",
-   "effect": "It influences theoretical physicists striving to reconcile quantum mechanics with general relativity and spacetime."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -272,10 +200,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
    "summary": "The Mediterranean may seem far removed from the world\u2019s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
    "published": "Thu, 10 Sep 2026 02:35:49 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Advanced oceanic modeling and historical seismic records indicate a guaranteed major Mediterranean tsunami event.",
-   "effect": "It affects millions of coastal residents and emergency planning agencies across Southern European nations."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -283,10 +208,7 @@
    "link": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
    "summary": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
    "published": "Wed, 25 Feb 2026 18:06:55 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Dr. Tedros conducted an official visit to Jordan to praise national public health and humanitarian programs.",
-   "effect": "It strengthens diplomatic healthcare partnerships and support systems for refugees residing in Jordan."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -294,10 +216,7 @@
    "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
    "summary": "WHO regrets the United States\u2019 notification of withdrawal from WHO \u2013 a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
    "published": "Sat, 24 Jan 2026 20:09:49 Z",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "The United States officially submitted formal notification to withdraw its funding and membership from the WHO.",
-   "effect": "It affects global pandemic tracking networks and public health programs reliant on American financial support."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -305,10 +224,7 @@
    "link": "https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro",
    "summary": "Tribute to Dr David Nabarro",
    "published": "Wed, 30 Jul 2025 08:56:15 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Global health leaders gathered to honor Dr. David Nabarro's lifelong contributions to international public health.",
-   "effect": "It recognizes an influential public health champion without directly impacting current healthcare infrastructure."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -316,10 +232,7 @@
    "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
    "summary": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.&ldquo;WHO congratulates the people and government of Timor-Leste on this significant milestone,&rdquo; said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. &ldquo;Timor-Leste&rsquo;s success proves that malaria can be stopped in its tracks when strong po",
    "published": "Wed, 23 Jul 2025 10:07:41 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Decades of targeted nation-wide eradication programs successfully eliminated endemic malaria transmission in Timor-Leste.",
-   "effect": "It drastically improves public health outcomes for citizens in Timor-Leste and inspires regional eradication efforts."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -327,10 +240,7 @@
    "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
    "summary": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landsca",
    "published": "Sat, 24 May 2025 17:47:21 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "The WHO and African Union signed an updated agreement to bolster health security across the continent.",
-   "effect": "It impacts healthcare delivery, emergency response, and disease surveillance for millions of people across Africa."
+   "source": "rss"
   }
  ]
 }
