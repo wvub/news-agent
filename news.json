@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 00:03 UTC",
+ "updated": "2026-09-12 00:25 UTC",
  "count": 30,
  "items": [
   {
@@ -28,7 +28,7 @@
    "title": "Arrest made over the death of black woman found hanged from tree",
    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
    "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-   "published": "Fri, 11 Sep 2026 22:57:42 GMT"
+   "published": "Sat, 12 Sep 2026 00:07:23 GMT"
   },
   {
    "sector": "World",
@@ -151,6 +151,20 @@
   },
   {
    "sector": "Science",
+   "title": "The secret to longer life may be hidden in bat DNA",
+   "link": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm",
+   "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could eventually reveal new ways to protect human health during aging.",
+   "published": "Fri, 11 Sep 2026 20:25:05 EDT"
+  },
+  {
+   "sector": "Science",
+   "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+   "link": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm",
+   "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesting superior plumage may have helped the ancestors of living birds endure the deadly impact winter.",
+   "published": "Fri, 11 Sep 2026 19:47:16 EDT"
+  },
+  {
+   "sector": "Science",
    "title": "Physicists just found a tiny glitch in time itself",
    "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
    "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
@@ -162,20 +176,6 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm",
    "summary": "The Mediterranean may seem far removed from the world\u2019s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could reach shore in under 10 minutes, while past events have produced waves around two meters high, powerful currents, damage, and deaths.",
    "published": "Thu, 10 Sep 2026 02:35:49 EDT"
-  },
-  {
-   "sector": "Science",
-   "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-   "link": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
-   "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists now hope to identify ways to dramatically boost this natural repair process, potentially opening a new path toward treatments for heart failure.",
-   "published": "Thu, 10 Sep 2026 22:56:49 EDT"
-  },
-  {
-   "sector": "Science",
-   "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it\u2019s too late",
-   "link": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm",
-   "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife, religious scenes, and offerings of food and flowers. The discovery comes as climate-driven flooding poses a growing threat to these fragile remains.",
-   "published": "Thu, 10 Sep 2026 06:35:52 EDT"
   },
   {
    "sector": "Health",
