@@ -30,6 +30,20 @@ SECTORS = {
 }
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
+
+# ========== REDDIT SPEED LAYER ==========
+# Rising posts here often break news 30-60 min before mainstream media.
+# Reddit's .json API is FREE - no key needed. Just a custom User-Agent.
+REDDIT_SUBS = {
+    "World":     ["worldnews", "geopolitics"],
+    "Markets":   ["stocks", "investing"],
+    "Tech/AI":   ["technology", "artificial"],
+    "Crypto":    ["CryptoCurrency"],
+    "Science":   ["science", "space"],
+}
+REDDIT_HEADERS = {"User-Agent": "personal-news-agent/1.0 (by /u/your_username)"}
+REDDIT_PER_SUB = 5
+REDDIT_MIN_SCORE = 20   # filter out tiny noise posts
 MAX_PER_SECTOR = 5
 
 def fetch_items():
@@ -56,10 +70,50 @@ def fetch_items():
                         "link": link,
                         "summary": summary,
                         "published": entry.get("published", ""),
+                        "source": "rss",
                     })
                     count += 1
             except Exception as e:
                 print(f"Feed error {url}: {e}")
+    return items
+
+def fetch_reddit_items():
+    items = []
+    seen = set()
+    for sector, subs in REDDIT_SUBS.items():
+        for sub in subs:
+            try:
+                url = f"https://www.reddit.com/r/{sub}/rising.json?limit={REDDIT_PER_SUB}"
+                r = requests.get(url, headers=REDDIT_HEADERS, timeout=20)
+                posts = r.json().get("data", {}).get("children", [])
+                for p in posts:
+                    d = p.get("data", {})
+                    if d.get("stickied") or d.get("is_video") or d.get("over_18"):
+                        continue
+                    score = d.get("score", 0)
+                    if score < REDDIT_MIN_SCORE:
+                        continue
+                    title = d.get("title", "").strip()
+                    if not title:
+                        continue
+                    key = re.sub(r"\W+", "", title.lower())[:60]
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    link = "https://www.reddit.com" + d.get("permalink", "")
+                    selftext = re.sub(r"\s+", " ", d.get("selftext", ""))[:400]
+                    flair = d.get("link_flair_text") or ""
+                    summary = f"[Reddit r/{sub} | score {score}] {flair} {selftext}".strip()
+                    items.append({
+                        "sector": sector,
+                        "title": title,
+                        "link": link,
+                        "summary": summary,
+                        "published": "",
+                        "source": "reddit",
+                    })
+            except Exception as e:
+                print(f"Reddit error r/{sub}: {e}")
     return items
 
 def analyze_with_ai(items):
@@ -101,7 +155,9 @@ News items: """ + json.dumps(batch)
 
 if __name__ == "__main__":
     items = fetch_items()
-    print(f"Fetched {len(items)} items")
+    reddit_items = fetch_reddit_items()
+    print(f"Fetched {len(items)} RSS items, {len(reddit_items)} Reddit items")
+    items = items + reddit_items
     items = analyze_with_ai(items)
     out = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
