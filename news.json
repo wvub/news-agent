@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 15:51 UTC",
+ "updated": "2026-09-12 16:03 UTC",
  "count": 30,
  "items": [
   {
@@ -7,7 +7,7 @@
    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
    "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-   "published": "Sat, 12 Sep 2026 15:37:39 GMT",
+   "published": "Sat, 12 Sep 2026 15:53:43 GMT",
    "source": "rss"
   },
   {
@@ -84,6 +84,14 @@
   },
   {
    "sector": "Tech/AI",
+   "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019",
+   "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+   "summary": "What would it actually look like to \"pace the frontier\"?",
+   "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+   "source": "rss"
+  },
+  {
+   "sector": "Tech/AI",
    "title": "Revolut confirms customer data breach through fake government requests",
    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
@@ -115,11 +123,19 @@
    "source": "rss"
   },
   {
-   "sector": "Tech/AI",
-   "title": "OpenAI\u2019s feud with mathematicians is only escalating",
-   "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-   "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-   "published": "Fri, 11 Sep 2026 20:57:36 +0000",
+   "sector": "Crypto",
+   "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+   "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+   "summary": "",
+   "published": "Sat, 12 Sep 2026 16:00:00 +0000",
+   "source": "rss"
+  },
+  {
+   "sector": "Crypto",
+   "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+   "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+   "summary": "",
+   "published": "Sat, 12 Sep 2026 16:00:00 +0000",
    "source": "rss"
   },
   {
@@ -144,22 +160,6 @@
    "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
    "summary": "",
    "published": "Fri, 11 Sep 2026 23:47:51 +0000",
-   "source": "rss"
-  },
-  {
-   "sector": "Crypto",
-   "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-   "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-   "summary": "",
-   "published": "Fri, 11 Sep 2026 17:12:45 +0000",
-   "source": "rss"
-  },
-  {
-   "sector": "Crypto",
-   "title": "With Fed rate hike all but assured, here's how markets might react",
-   "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
-   "summary": "",
-   "published": "Fri, 11 Sep 2026 15:45:56 +0000",
    "source": "rss"
   },
   {
