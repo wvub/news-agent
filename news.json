@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 14:51 UTC",
+ "updated": "2026-09-12 15:02 UTC",
  "count": 30,
  "items": [
   {
@@ -20,6 +20,14 @@
   },
   {
    "sector": "World",
+   "title": "French officials investigate if 'malicious act' caused train derailment",
+   "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+   "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+   "published": "Sat, 12 Sep 2026 14:13:57 GMT",
+   "source": "rss"
+  },
+  {
+   "sector": "World",
    "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
    "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
    "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
@@ -28,18 +36,18 @@
   },
   {
    "sector": "World",
-   "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-   "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-   "published": "Sat, 12 Sep 2026 03:02:28 GMT",
-   "source": "rss"
-  },
-  {
-   "sector": "World",
    "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
    "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
    "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
    "published": "Sat, 12 Sep 2026 10:00:05 GMT",
+   "source": "rss"
+  },
+  {
+   "sector": "Markets",
+   "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
+   "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+   "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d",
+   "published": "Sat, 12 Sep 2026 15:00:00 GMT",
    "source": "rss"
   },
   {
@@ -64,14 +72,6 @@
    "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
    "summary": "\u201cIt wasn\u2019t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.\u201d",
    "published": "Sat, 12 Sep 2026 12:00:00 GMT",
-   "source": "rss"
-  },
-  {
-   "sector": "Markets",
-   "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?",
-   "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-   "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d",
-   "published": "Sat, 12 Sep 2026 11:00:00 GMT",
    "source": "rss"
   },
   {
