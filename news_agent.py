@@ -18,6 +18,13 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+# ========== TIMEZONE CONFIG ==========
+IST = timezone(timedelta(hours=5, minutes=30))  # Indian Standard Time (UTC+5:30)
+
+def get_ist_time():
+    """Get current time in Indian Standard Time"""
+    return datetime.now(IST)
+
 # ========== CONFIG ==========
 SECTORS = {
     "World": [
@@ -65,7 +72,7 @@ SOCIAL_SOURCES = {
     "producthunt": "https://www.producthunt.com/feed.xml",
 }
 
-REDDIT_HEADERS = {"User-Agent": "personal-news-agent/2.0 (by copilot)"}
+REDDIT_HEADERS = {"User-Agent": "personal-news-agent/2.0 (by Armaan)"}
 REDDIT_PER_SUB = 5
 REDDIT_MIN_SCORE = 20
 MAX_PER_SECTOR = 8
@@ -517,7 +524,7 @@ def save_snapshot(data):
     history_dir = pathlib.Path("history")
     history_dir.mkdir(exist_ok=True)
     
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d_%H-%M-%S")
+    timestamp = get_ist_time().strftime("%Y-%m-%d_%H-%M-%S")
     snapshot_file = history_dir / f"news_{timestamp}.json"
     
     with open(snapshot_file, "w") as f:
@@ -569,9 +576,10 @@ def main():
     print("[DB] Saving to history database...")
     save_to_db(items)
     
-    # Prepare output
+    # Prepare output with IST timestamp
+    ist_time = get_ist_time()
     output = {
-        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "updated": ist_time.strftime("%Y-%m-%d %H:%M IST"),
         "count": len(items),
         "stats": {
             "rss": len(rss_items),
@@ -614,6 +622,7 @@ def main():
     
     print(f"[Complete] ✓ Updated news.json with {len(items)} items")
     print(f"[Complete] ✓ Snapshots saved to history/ directory")
+    print(f"[Complete] ✓ Timestamp: {ist_time.strftime('%Y-%m-%d %H:%M:%S IST')}")
 
 if __name__ == "__main__":
     main()
