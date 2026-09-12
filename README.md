@@ -245,4 +245,4 @@ Open an issue on GitHub for bugs, feature requests, or questions!
 
 ---
 
-**Made with ❤️ for news enthusiasts and data-driven decision makers**
+**Made with ❤️ by Armaan**
