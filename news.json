@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12 23:18 UTC",
+ "updated": "2026-09-12 23:27 UTC",
  "count": 30,
  "items": [
   {
@@ -84,6 +84,14 @@
   },
   {
    "sector": "Tech/AI",
+   "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+   "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+   "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+   "published": "Sat, 12 Sep 2026 23:25:38 +0000",
+   "source": "rss"
+  },
+  {
+   "sector": "Tech/AI",
    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
@@ -112,14 +120,6 @@
    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
    "published": "Sat, 12 Sep 2026 14:40:00 +0000",
-   "source": "rss"
-  },
-  {
-   "sector": "Tech/AI",
-   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-   "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-   "published": "Fri, 11 Sep 2026 22:58:17 +0000",
    "source": "rss"
   },
   {
