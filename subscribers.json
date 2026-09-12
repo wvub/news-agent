@@ -1,0 +1,14 @@
+"""
+Subscribers list for email digest
+Format: JSON with list of email addresses
+"""
+{
+  "emails": [],
+  "settings": {
+    "frequency": "daily",
+    "time": "08:00",
+    "timezone": "UTC",
+    "max_articles": 10
+  },
+  "instructions": "Add email addresses to the 'emails' array to enable digest delivery. Configure digest settings above."
+}
