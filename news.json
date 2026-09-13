@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13 08:36 UTC",
+ "updated": "2026-09-13 09:24 UTC",
  "count": 30,
  "items": [
   {
@@ -8,10 +8,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
    "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
    "published": "Sat, 12 Sep 2026 21:16:47 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Growing concerns emerged that advanced AI models could potentially inflict serious worldwide damage.",
-   "effect": "It urges AI developers and regulators to slow down frontier model deployment to prevent dangerous outcomes."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -19,10 +16,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
    "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
    "published": "Sat, 12 Sep 2026 21:25:28 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Trump made unexpected public remarks regarding his desire to see a unified Ireland.",
-   "effect": "It impacts US-UK-Irish diplomatic political discourse and targeted transatlantic voter sentiment."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -30,10 +24,7 @@
    "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
    "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
    "published": "Sun, 13 Sep 2026 00:49:08 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Workers were terminated after making online posts following the assassination of Charlie Kirk.",
-   "effect": "It affects fired employees and employers navigating speech policies, legal settlements, and career restarts."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -41,10 +32,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
    "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
    "published": "Sat, 12 Sep 2026 23:51:05 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Hundreds of citizens vanished during Ukraine's 2024 military offensive in the Kursk region.",
-   "effect": "It affects missing individuals' families and Russian authorities facing public demands for transparency."
+   "source": "rss"
   },
   {
    "sector": "World",
@@ -52,10 +40,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
    "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
    "published": "Sat, 12 Sep 2026 12:15:50 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "A drone attack launched from an Iraqi region near Iran targeted key energy infrastructure.",
-   "effect": "It impacts global oil supply, energy prices, and geopolitical stability across the Middle East."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -63,10 +48,7 @@
    "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
    "summary": "Concerns about AI safety have ramped up, and OpenAI\u2019s CEO says now would be an \u2018ill-advised\u2019 time for the ChatGPT creator to go public",
    "published": "Sat, 12 Sep 2026 21:50:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Heightened AI safety concerns made going public an ill-advised move for the company right now.",
-   "effect": "It impacts tech investors, OpenAI stock prospects, and market expectations for major AI public offerings."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -74,10 +56,7 @@
    "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
    "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
    "published": "Sat, 12 Sep 2026 17:20:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Tech leaders share fears that uncontrolled AI progress could lead to dangerous rogue autonomous bots.",
-   "effect": "It affects AI research companies and tech regulators pushing for industry-wide safety standards."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -85,10 +64,7 @@
    "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
    "summary": "\u201cIt wasn\u2019t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.\u201d",
    "published": "Sat, 12 Sep 2026 16:01:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "A non-ACA health insurance provider abruptly canceled a policyholder's coverage without prior notice.",
-   "effect": "It affects the individual patient facing delayed medical treatment and consumers navigating cheap non-ACA health plans."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -96,10 +72,7 @@
    "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
    "summary": "\u201cAm I required to create three new inherited IRAs so that the firm can divide it equally?\u201d",
    "published": "Sat, 12 Sep 2026 15:00:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Heirs received an inherited IRA and are questioning legal requirements for distributing or cashing out funds.",
-   "effect": "It affects the estate executor and co-beneficiaries seeking guidance on inheritance tax and account division rules."
+   "source": "rss"
   },
   {
    "sector": "Markets",
@@ -107,10 +80,7 @@
    "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
    "summary": "\u201cOver the years, my mother and I have supplemented his income.\u201d",
    "published": "Sat, 12 Sep 2026 14:01:00 GMT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "An elderly mother decided to financially support her grandchildren's education, triggering sibling fairness disputes.",
-   "effect": "It affects family dynamics, inheritance expectations, and personal financial decisions among adult siblings."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -118,10 +88,7 @@
    "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
    "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
    "published": "Sat, 12 Sep 2026 23:25:38 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "The board failed in an attempted ouster, reinstating Matt Mullenweg with full support.",
-   "effect": "It affects WordPress parent company Automattic, its leadership stability, employee morale, and corporate governance."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -129,10 +96,7 @@
    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
    "published": "Sat, 12 Sep 2026 20:19:16 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Public market volatility and ongoing AI safety concerns delayed corporate IPO timelines.",
-   "effect": "It affects venture capital investors and financial markets anticipating OpenAI's massive public debut."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -140,10 +104,7 @@
    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
    "published": "Sat, 12 Sep 2026 19:34:44 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Industry leaders agree on the urgent need to pace frontier AI development safely.",
-   "effect": "It affects major tech firms by introducing proposed framework guidelines for pacing advanced model releases."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -151,10 +112,7 @@
    "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
    "summary": "Tesla\u2019s halo sports car was first announced in November 2017.",
    "published": "Sat, 12 Sep 2026 19:21:19 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Years of production delays following its initial 2017 announcement led to a finalized reveal date.",
-   "effect": "It affects Tesla investors, electric vehicle enthusiasts, and automotive market competitors."
+   "source": "rss"
   },
   {
    "sector": "Tech/AI",
@@ -162,10 +120,7 @@
    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
    "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
    "published": "Sat, 12 Sep 2026 14:40:00 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Malicious actors used fraudulent government request channels to bypass security and access customer information.",
-   "effect": "It affects Revolut's affected account holders and financial regulators overseeing fintech data privacy compliance."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -173,10 +128,7 @@
    "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
    "summary": "",
    "published": "Sat, 12 Sep 2026 21:09:31 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Strategic shifts and safety concerns led Sam Altman to postpone public offering plans.",
-   "effect": "It affects institutional investors and private equity valuation models for leading artificial intelligence firms."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -184,10 +136,7 @@
    "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
    "summary": "",
    "published": "Sat, 12 Sep 2026 21:09:06 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Cost-cutting imperatives drove the company to relocate key operational roles to lower-cost foreign locations.",
-   "effect": "It affects up to half of Bitcoin Suisse's local workforce and Switzerland's domestic crypto employment sector."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -195,10 +144,7 @@
    "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
    "summary": "",
    "published": "Sat, 12 Sep 2026 18:51:04 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Two wealthy cryptocurrency executives provided massive financial backing to the political party within 24 hours.",
-   "effect": "It affects UK political campaign funding dynamics and dramatically boosts Reform UK's election war chest."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -206,10 +152,7 @@
    "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
    "summary": "",
    "published": "Sat, 12 Sep 2026 18:43:33 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Unprecedented consensus emerged among top AI rivals regarding potential safety risks of runaway development.",
-   "effect": "It affects global tech policy, competitive dynamics, and regulatory efforts surrounding AI safety standards."
+   "source": "rss"
   },
   {
    "sector": "Crypto",
@@ -217,10 +160,7 @@
    "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
    "summary": "",
    "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Emerging stablecoin infrastructure offers potential efficiency gains for massive corporate treasury management.",
-   "effect": "It affects institutional corporate finance departments and global cryptocurrency adoption rates."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -228,10 +168,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
    "summary": "A century-old mystery in Venus\u2019s clouds just became more intriguing, as scientists calculated how strongly the unidentified material behind its dark ultraviolet patterns must absorb light. The results sharply narrow the possibilities and could help future spacecraft determine whether the mysterious substance is organic, inorganic, or something unexpected.",
    "published": "Sat, 12 Sep 2026 23:44:09 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "New scientific calculations narrowed down how strongly unknown cloud materials absorb ultraviolet light.",
-   "effect": "It affects planetary scientists and future space missions targeting Venus atmospheric composition research."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -239,10 +176,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
    "summary": "Scientists have uncovered a natural braking system that helps the immune system switch off inflammation and prevent harmful immune cells from building up. Boosting this pathway in people reduced inflammation-related immune changes and sped up pain relief, pointing toward potential new treatments for chronic inflammatory diseases.",
    "published": "Sat, 12 Sep 2026 21:44:05 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Researchers identified a natural biological braking mechanism in the immune system that stops cellular inflammation.",
-   "effect": "It affects millions suffering from chronic inflammatory diseases by opening doors to targeted therapy development."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -250,10 +184,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
    "summary": "Ancient rocks from Western Australia suggest water was reaching deep inside Earth more than three billion years ago, long before modern plate tectonics may have fully developed. Researchers propose that water-rich pieces of crust periodically sank into the mantle through a process they call \u201cdripduction.\u201d The buried water then helped produce magma and volcanic eruptions.",
    "published": "Sat, 12 Sep 2026 23:14:19 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Geologists analyzed ancient Australian rocks revealing early mantle water transport mechanisms called dripduction.",
-   "effect": "It affects geoscientists' understanding of early Earth evolution, volcanism, and plate tectonic history."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -261,10 +192,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
    "summary": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Collider, researchers measured particle production at unprecedented spatial resolution, revealing structures as small as about one-quarter the size of a proton. At the smallest scales, they saw a surprising drop in J/\u03c8 production that conventional \u201cnuclear shadowing\u201d struggles to explain.",
    "published": "Sat, 12 Sep 2026 11:04:06 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "High-precision particle measurements at the Large Hadron Collider revealed unexpected drops in J/\u03c8 particle production.",
-   "effect": "It affects theoretical physicists refining quantum chromodynamics and subatomic nuclear structure models."
+   "source": "rss"
   },
   {
    "sector": "Science",
@@ -272,10 +200,7 @@
    "link": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
    "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
    "published": "Sat, 12 Sep 2026 09:52:50 EDT",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Semaglutide extended healthy lifespan and improved biological aging markers in laboratory animal studies.",
-   "effect": "It affects aging populations and the medical industry by opening anti-aging application possibilities for GLP-1 drugs."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -283,10 +208,7 @@
    "link": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
    "summary": "The Director-General of the World Health Organization, Dr Tedros Adhanom Ghebreyesus, today concluded the first day of his two-day State visit to the Hashemite Kingdom of Jordan, underscoring the strong partnership between WHO and Jordan across the areas of universal health coverage (UHC), mental health and humanitarian health action.",
    "published": "Wed, 25 Feb 2026 18:06:55 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Dr. Tedros conducted a diplomatic visit to acknowledge Jordan's contributions to healthcare and emergency relief.",
-   "effect": "It affects Jordanian health agencies and humanitarian partners strengthening regional medical assistance programs."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -294,10 +216,7 @@
    "link": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
    "summary": "WHO regrets the United States\u2019 notification of withdrawal from WHO \u2013 a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
    "published": "Sat, 24 Jan 2026 20:09:49 Z",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "The United States formally submitted notification of its intent to withdraw from the World Health Organization.",
-   "effect": "It affects global health security, WHO funding, and international public health cooperation initiatives."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -305,10 +224,7 @@
    "link": "https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro",
    "summary": "Tribute to Dr David Nabarro",
    "published": "Wed, 30 Jul 2025 08:56:15 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe2 Low",
-   "why": "Global health leaders gathered to honor the long career and legacy of Dr. David Nabarro.",
-   "effect": "It affects international public health professionals reflecting on leadership contributions to global welfare."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -316,10 +232,7 @@
    "link": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
    "summary": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002.&ldquo;WHO congratulates the people and government of Timor-Leste on this significant milestone,&rdquo; said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. &ldquo;Timor-Leste&rsquo;s success proves that malaria can be stopped in its tracks when strong po",
    "published": "Wed, 23 Jul 2025 10:07:41 Z",
-   "source": "rss",
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Sustained nationwide public health interventions successfully eradicated domestic malaria transmission since 2002.",
-   "effect": "It affects the population of Timor-Leste by improving public health outcomes and setting a regional milestone."
+   "source": "rss"
   },
   {
    "sector": "Health",
@@ -327,10 +240,7 @@
    "link": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
    "summary": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landsca",
    "published": "Sat, 24 May 2025 17:47:21 Z",
-   "source": "rss",
-   "impact": "\ud83d\udd34 High",
-   "why": "Leaders signed an updated MoU to address pressing continental health security and financial challenges.",
-   "effect": "It affects African nations by enhancing health infrastructure, emergency responses, and universal care coverage."
+   "source": "rss"
   }
  ]
 }
