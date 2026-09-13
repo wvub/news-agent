@@ -1,34 +1,10 @@
-name: Update News
-
-on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
-  workflow_dispatch:          # manual trigger button too
-
-permissions:
-  contents: write
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - run: pip install feedparser requests
-
-      - name: Fetch and analyze news
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python fetch_news.py
-
-      - name: Commit updated news
+      - name: Commit and Push changes
         run: |
-          git config user.name "news-bot"
-          git config user.email "bot@example.com"
-          git add news.json .nojekyll
-          git commit -m "news update $(date -u)" || exit 0
-          git push
+          git config --local user.email "action@github.com"
+          git config --local user.name "news-bot"
+          git add .
+          git diff-index --quiet HEAD || {
+            git commit -m "news update $(date -u)"
+            git pull --rebase origin main
+            git push origin main
+          }
