@@ -1,13 +1,11 @@
-      - name: Commit and Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "news-bot"
-          git add .
-          git diff-index --quiet HEAD || {
-            git commit -m "news update $(date -u)"
-            # Fetch remote and merge using strategy to prioritize remote tracking states during collisions
-            git fetch origin main
-            git merge origin/main -X theirs --allow-unrelated-histories -m "Merge remote changes into news-bot tracking state"
-            git push origin main
-          }
-
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "news-bot"
+        git add .
+        git diff-index --quiet HEAD || {
+          git commit -m "news update $(date -u)"
+          git fetch origin main
+          git merge origin/main -X theirs --allow-unrelated-histories -m "Merge remote changes into news-bot tracking state"
+          git push origin main
+        }
