@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01 04:07 IST",
+ "updated": "2026-11-01 04:17 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 10,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:55.767508+00:00",
+   "last_failure": "2026-10-31 22:47:46.522418+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:55.822729+00:00",
+   "last_failure": "2026-10-31 22:47:46.643808+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:55.877919+00:00",
+   "last_failure": "2026-10-31 22:47:46.767667+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:55.930335+00:00",
+   "last_failure": "2026-10-31 22:47:46.907883+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:55.989050+00:00",
+   "last_failure": "2026-10-31 22:47:47.025628+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.042834+00:00",
+   "last_failure": "2026-10-31 22:47:47.146750+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.092165+00:00",
+   "last_failure": "2026-10-31 22:47:47.265283+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.143305+00:00",
+   "last_failure": "2026-10-31 22:47:47.386801+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.198031+00:00",
+   "last_failure": "2026-10-31 22:47:47.507827+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.294260+00:00",
+   "last_failure": "2026-10-31 22:47:47.631947+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.349500+00:00",
+   "last_failure": "2026-10-31 22:47:47.753158+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.403404+00:00",
+   "last_failure": "2026-10-31 22:47:47.880467+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.450654+00:00",
+   "last_failure": "2026-10-31 22:47:48.001201+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.510390+00:00",
+   "last_failure": "2026-10-31 22:47:48.120540+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.598361+00:00",
+   "last_failure": "2026-10-31 22:47:48.243154+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:37:56.657495+00:00",
+   "last_failure": "2026-10-31 22:47:48.363149+00:00",
    "success_count": 0,
    "failure_count": 1
   }
