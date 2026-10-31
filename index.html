@@ -1,326 +1,709 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Xynex News</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-<style>
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
 :root {
-  --bg: #0d1117; --bg2: #161b22; --border: #30363d; --text: #e6edf3;
-  --muted: #8b949e; --accent: #58a6ff; --btn: #21262d; --green: #3fb950;
+  --bg: #090a09;
+  --bg2: #10120f;
+  --surface: #141713;
+  --surface2: #1b1f19;
+  --border: #292e26;
+  --text: #f1f0e9;
+  --muted: #92958a;
+  --accent: #ff7138;
+  --accent2: #ff9b65;
+  --btn: #1a1d18;
+  --green: #b7e66a;
+  --shadow: 0 20px 60px rgba(0,0,0,.24);
 }
+
 body.light {
-  --bg: #ffffff; --bg2: #f6f8fa; --border: #d0d7de; --text: #1f2328;
-  --muted: #57606a; --accent: #0969da; --btn: #eaeef2;
+  --bg: #f3f1eb;
+  --bg2: #faf9f5;
+  --surface: #ffffff;
+  --surface2: #eeece5;
+  --border: #dedbd1;
+  --text: #171913;
+  --muted: #77786e;
+  --accent: #e65c27;
+  --accent2: #bd491c;
+  --btn: #e9e7df;
+  --green: #55842b;
+  --shadow: 0 15px 45px rgba(0,0,0,.06);
 }
-* { box-sizing: border-box; margin: 0; }
-body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); transition: background .3s, color .3s; }
-header { padding: 14px 20px; background: var(--bg2); border-bottom: 1px solid var(--border);
-         position: sticky; top: 0; z-index: 10; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
-h1 { font-size: 1.2rem; }
-.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
-@keyframes pulse { 50% { opacity: .3; } }
-#updated { color: var(--muted); font-size: .85rem; }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background:
+    radial-gradient(ellipse at 85% 0%, rgba(255,113,56,.07), transparent 32%),
+    var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  transition: background .3s, color .3s;
+}
+
+button, input, select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+  transition: all .2s ease;
+}
+
+/* HEADER */
+
+header {
+  min-height: 76px;
+  padding: 16px 5%;
+  background: rgba(9,10,9,.88);
+  backdrop-filter: blur(22px);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+body.light header {
+  background: rgba(250,249,245,.91);
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  background: var(--accent);
+  border-radius: 50%;
+  box-shadow: 0 0 15px var(--accent);
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  50% { opacity: .35; box-shadow: 0 0 4px var(--accent); }
+}
+
+header h1 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+
+#updated {
+  font-family: 'DM Mono', monospace;
+  color: var(--muted);
+  font-size: .68rem;
+  letter-spacing: .3px;
+}
+
 .spacer { flex: 1; }
-.icon-btn { background: var(--btn); color: var(--text); border: 1px solid var(--border);
-            padding: 6px 12px; border-radius: 8px; cursor: pointer; font-size: .95rem; }
-.icon-btn:hover { border-color: var(--accent); }
 
-/* stats */
-.stats { display: flex; gap: 10px; flex-wrap: wrap; padding: 14px 20px; }
-.stat { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px;
-        padding: 10px 16px; min-width: 110px; }
-.stat b { font-size: 1.25rem; display: block; }
-.stat span { color: var(--muted); font-size: .78rem; }
+.icon-btn {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 1rem;
+}
 
-/* filters */
-.filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 4px 20px 14px; align-items: center; }
-.filters button, .filters select { background: var(--btn); color: var(--text); border: 1px solid var(--border);
-  padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: .85rem; }
-.filters button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
-.filters select { border-radius: 8px; cursor: pointer; }
-.filters input[type="search"] { background: var(--btn); color: var(--text); border: 1px solid var(--border);
-  padding: 7px 14px; border-radius: 20px; font-size: .85rem; min-width: 200px; outline: none; }
-.filters input[type="search"]:focus { border-color: var(--accent); }
+.icon-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  transform: translateY(-2px);
+}
 
-/* tabs */
-.tabs { display: flex; gap: 6px; padding: 0 20px 12px; flex-wrap: wrap; }
-.tab { background: var(--btn); color: var(--muted); border: 1px solid var(--border);
-       padding: 7px 16px; border-radius: 10px; cursor: pointer; font-size: .88rem; }
-.tab.active { color: var(--text); border-color: var(--accent); background: var(--bg2); }
+/* METRICS */
+
+.stats {
+  padding: 34px 5% 26px;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0,1fr));
+  gap: 12px;
+}
+
+.stat {
+  background: linear-gradient(145deg,var(--surface),var(--bg2));
+  border: 1px solid var(--border);
+  border-radius: 15px;
+  padding: 20px 17px;
+  min-width: 0;
+  position: relative;
+  overflow: hidden;
+  transition: .25s;
+}
+
+.stat:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255,113,56,.5);
+  box-shadow: var(--shadow);
+}
+
+.stat:first-child {
+  border-top: 2px solid var(--accent);
+}
+
+.stat b {
+  display: block;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.25rem,2vw,1.9rem);
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin-bottom: 7px;
+}
+
+.stat span {
+  color: var(--muted);
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+/* NAVIGATION */
+
+.tabs {
+  display: flex;
+  gap: 7px;
+  padding: 12px 5%;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  background: var(--bg2);
+  overflow-x: auto;
+}
+
+.tab {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid transparent;
+  padding: 12px 19px;
+  border-radius: 9px;
+  white-space: nowrap;
+  font-size: .82rem;
+  font-weight: 600;
+}
+
+.tab:hover {
+  color: var(--text);
+  background: var(--surface);
+}
+
+.tab.active {
+  color: var(--accent);
+  background: rgba(255,113,56,.09);
+  border-color: rgba(255,113,56,.28);
+}
+
+/* PANELS */
+
 .panel { display: none; }
-.panel.active { display: block; }
 
-main { max-width: 900px; margin: 0 auto; padding: 0 16px 60px; }
-.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; padding: 10px 20px 30px; }
-.chart-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
-.chart-card h3 { font-size: .95rem; margin-bottom: 10px; color: var(--muted); }
-.chart-box { position: relative; height: 220px; }
-
-.card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px;
-        padding: 16px; margin-bottom: 12px; }
-.tag { font-size: .72rem; padding: 3px 10px; border-radius: 12px; margin: 0 6px 6px 0; display: inline-block; }
-.sec  { background: #1f6feb33; color: #58a6ff; }
-.high { background: #f8514922; color: #f85149; }
-.med  { background: #d2992233; color: #d29922; }
-.low  { background: #3fb95022; color: #3fb950; }
-.pos  { background: #3fb95022; color: #3fb950; }
-.neg  { background: #f8514922; color: #f85149; }
-.neu  { background: #8b949e22; color: #8b949e; }
-.cat  { background: #8957e522; color: #bc8cff; }
-.early{ background: #ff450022; color: #ff4500; }
-h2 { font-size: 1.05rem; margin: 8px 0; }
-h2 a { color: var(--text); text-decoration: none; }
-h2 a:hover { color: var(--accent); }
-.row { font-size: .88rem; margin-top: 6px; color: var(--text); }
-.row b { color: var(--muted); font-weight: 600; }
-.kw { display: inline-block; font-size: .75rem; color: var(--muted); margin-right: 8px; }
-.vote-row { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border);
-            display: flex; align-items: center; gap: 8px; font-size: .82rem; color: var(--muted); flex-wrap: wrap; }
-.vote-btn { background: var(--btn); border: 1px solid var(--border); border-radius: 8px;
-            padding: 4px 12px; cursor: pointer; font-size: .85rem; color: var(--text); }
-.vote-btn:hover { border-color: var(--accent); }
-.vote-btn.selected-up { background: #3fb95033; border-color: #3fb950; }
-.vote-btn.selected-down { background: #f8514933; border-color: #f85149; }
-.trend-chip { display: inline-block; background: var(--bg2); border: 1px solid var(--border);
-              border-radius: 12px; padding: 8px 14px; margin: 0 8px 8px 0; font-size: .85rem; }
-.trend-chip b { color: var(--accent); }
-.trend-chip small { color: var(--muted); display: block; }
-table { width: 100%; border-collapse: collapse; font-size: .85rem; margin: 10px 20px; max-width: 860px; }
-th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); }
-th { color: var(--muted); font-weight: 600; }
-.bar { height: 8px; border-radius: 4px; background: var(--btn); overflow: hidden; min-width: 80px; }
-.bar i { display: block; height: 100%; background: var(--green); }
-footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }
-@media (max-width: 600px) {
-  .filters input[type="search"] { min-width: 100%; }
-  main { padding: 0 10px 40px; }
-}
-</style>
-<base target="_blank">
-<base target="_blank">
-</head>
-<body>
-<header>
-  <div class="dot"></div>
-  <h1>⚡ Xynex News</h1>
-  <span id="updated">Loading...</span>
-  <div class="spacer"></div>
-  <button class="icon-btn" id="refreshBtn" title="Refresh now">🔄</button>
-  <button class="icon-btn" id="themeBtn" title="Toggle dark/light mode">🌙</button>
-</header>
-
-<div class="stats" id="stats"></div>
-
-<div class="tabs">
-  <button class="tab active" data-tab="news">📰 News Feed</button>
-  <button class="tab" data-tab="analytics">📊 Analytics</button>
-  <button class="tab" data-tab="trends">📈 Trends</button>
-  <button class="tab" data-tab="health">🩺 Source Health</button>
-</div>
-
-<div class="panel active" id="panel-news">
-  <div class="filters" id="filters"></div>
-  <main id="feed"></main>
-</div>
-
-<div class="panel" id="panel-analytics"><div class="grid">
-  <div class="chart-card"><h3>Impact Distribution</h3><div class="chart-box"><canvas id="chImpact"></canvas></div></div>
-  <div class="chart-card"><h3>Sentiment Analysis</h3><div class="chart-box"><canvas id="chSent"></canvas></div></div>
-  <div class="chart-card"><h3>Sector Breakdown</h3><div class="chart-box"><canvas id="chSector"></canvas></div></div>
-  <div class="chart-card"><h3>Source Distribution</h3><div class="chart-box"><canvas id="chSource"></canvas></div></div>
-</div></div>
-
-<div class="panel" id="panel-trends">
-  <div style="padding: 10px 20px" id="trendChips"></div>
-  <div class="chart-card" style="margin: 10px 20px"><h3>Trending Keywords</h3>
-    <div class="chart-box" style="height:300px"><canvas id="chTrends"></canvas></div></div>
-</div>
-
-<div class="panel" id="panel-health">
-  <table><thead><tr><th>Source</th><th>Status</th><th>Success rate</th><th>Last success</th><th>Last failure</th></tr></thead>
-  <tbody id="healthBody"></tbody></table>
-</div>
-
-<footer>Made by Armaan with ❤️</footer>
-
-<script>
-let ALL = [], currentFilter = "All", DATA = {};
-let srcFilter = "all", impFilter = "all", sentFilter = "all", query = "";
-const SECTORS = ["All","World","Markets","Tech/AI","Crypto","Science","Health"];
-const ORDER = {"🔴":0,"🟡":1,"🟢":2};
-const charts = {};
-
-/* ---------- theme ---------- */
-const themeBtn = document.getElementById("themeBtn");
-function applyTheme(light) {
-  document.body.classList.toggle("light", light);
-  themeBtn.textContent = light ? "☀️" : "🌙";
-  localStorage.setItem("xynex-theme", light ? "light" : "dark");
-  drawCharts();
-}
-themeBtn.onclick = () => applyTheme(!document.body.classList.contains("light"));
-if (localStorage.getItem("xynex-theme") === "light") applyTheme(true);
-
-/* ---------- tabs ---------- */
-document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
-  document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
-  document.querySelectorAll(".panel").forEach(x => x.classList.remove("active"));
-  t.classList.add("active");
-  document.getElementById("panel-" + t.dataset.tab).classList.add("active");
-  if (t.dataset.tab === "analytics") drawCharts();
-});
-
-/* ---------- voting (stored in your browser) ---------- */
-function getVotes() { try { return JSON.parse(localStorage.getItem("xynex-votes") || "{}"); } catch(e) { return {}; } }
-function vote(id, val, btn) {
-  const v = getVotes();
-  v[id] = (v[id] === val) ? undefined : val;   // click again to undo
-  localStorage.setItem("xynex-votes", JSON.stringify(v));
-  render();
-}
-function accuracyText() {
-  const v = getVotes(); const vals = Object.values(v).filter(Boolean);
-  const ups = vals.filter(x => x === "up").length;
-  return vals.length ? Math.round(ups / vals.length * 100) + "% (" + ups + "/" + vals.length + ")" : "No votes yet";
+.panel.active {
+  display: block;
+  animation: reveal .35s ease;
 }
 
-/* ---------- load data ---------- */
-async function load() {
-  try {
-    const r = await fetch("news.json?ts=" + Date.now());
-    DATA = await r.json();
-    ALL = DATA.items || [];
-    document.getElementById("updated").textContent = "Updated: " + (DATA.updated || "");
-    renderStats(); renderFilters(); render(); renderTrends(); renderHealth();
-  } catch(e) { document.getElementById("updated").textContent = "Waiting for first update..."; }
-}
-document.getElementById("refreshBtn").onclick = load;
-
-function renderStats() {
-  const s = DATA.stats || {};
-  document.getElementById("stats").innerHTML = [
-    [s.rss ?? 0, "📡 RSS articles"], [s.reddit ?? 0, "🔺 Reddit posts"],
-    [s.social ?? 0, "💬 Social"], [s.duplicates_found ?? 0, "🔁 Duplicates"],
-    [s.trends_detected ?? 0, "📈 Trends"], [accuracyText(), "🎯 Prediction accuracy"]
-  ].map(x => `<div class="stat"><b>${x[0]}</b><span>${x[1]}</span></div>`).join("");
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
-function renderFilters() {
-  const el = document.getElementById("filters");
-  el.innerHTML = SECTORS.map(s =>
-    `<button class="${s===currentFilter?'active':''}" onclick="setFilter('${s}')">${s}</button>`).join("")
-    + `
-    <select onchange="srcFilter=this.value;render()">
-      <option value="all">All sources</option>
-      <option value="rss">RSS</option><option value="reddit">Reddit</option>
-      <option value="hacker_news">Hacker News</option><option value="producthunt">Product Hunt</option>
-    </select>
-    <select onchange="impFilter=this.value;render()">
-      <option value="all">All impact</option><option>🔴 High</option><option>🟡 Medium</option><option>🟢 Low</option>
-    </select>
-    <select onchange="sentFilter=this.value;render()">
-      <option value="all">All sentiment</option><option value="pos">Positive 😊</option>
-      <option value="neu">Neutral 😐</option><option value="neg">Negative 😞</option>
-    </select>
-    <input type="search" placeholder="🔍 Search news..." oninput="query=this.value.toLowerCase();render()">`;
-}
-function setFilter(s) { currentFilter = s; renderFilters(); render(); }
+/* FILTERS */
 
-function impClass(i) { return i?.includes('High') ? 'high' : i?.includes('Low') ? 'low' : 'med'; }
-function sentClass(l) { return l?.startsWith('Positive') ? 'pos' : l?.startsWith('Negative') ? 'neg' : 'neu'; }
-
-function render() {
-  const votes = getVotes();
-  let list = currentFilter==="All" ? ALL : ALL.filter(i => i.sector===currentFilter);
-  if (srcFilter !== "all") list = list.filter(i => i.source===srcFilter);
-  if (impFilter !== "all") list = list.filter(i => (i.impact||"").includes(impFilter.slice(2)));
-  if (sentFilter !== "all") list = list.filter(i => sentClass(i.sentiment_label)===sentFilter);
-  if (query) list = list.filter(i =>
-    (i.title+" "+(i.summary_short||i.summary||"")+" "+(i.keywords||[]).join(" ")).toLowerCase().includes(query));
-  list = [...list].sort((a,b) => (ORDER[a.impact?.[0]] ?? 1) - (ORDER[b.impact?.[0]] ?? 1));
-
-  document.getElementById("feed").innerHTML = list.map(i => {
-    const v = votes[i.id];
-    return `<div class="card">
-      <span class="tag sec">${i.sector||""}</span>
-      <span class="tag ${impClass(i.impact)}">${i.impact||"🟡 Medium"}</span>
-      <span class="tag ${sentClass(i.sentiment_label)}">${i.sentiment_label||"Neutral 😐"} ${i.sentiment_score!=null?("("+i.sentiment_score.toFixed(2)+")"):""}</span>
-      ${i.category?`<span class="tag cat">${i.category}</span>`:""}
-      ${i.source==='reddit'?'<span class="tag early">⚡ early</span>':''}
-      <h2><a href="${i.link}">${i.title}</a></h2>
-      ${i.summary_short?`<div class="row">${i.summary_short}</div>`:""}
-      ${i.why?`<div class="row"><b>❓ Why it matters:</b> ${i.why}</div>`:""}
-      ${i.effect?`<div class="row"><b>💥 Effect:</b> ${i.effect}</div>`:""}
-      ${(i.keywords||[]).length?`<div class="row">${i.keywords.map(k=>`<span class="kw">#${k}</span>`).join("")}</div>`:""}
-      <div class="vote-row">Was this impact prediction right?
-        <button class="vote-btn ${v==='up'?'selected-up':''}" onclick="vote('${i.id}','up')">👍 Yes</button>
-        <button class="vote-btn ${v==='down'?'selected-down':''}" onclick="vote('${i.id}','down')">👎 No</button>
-      </div>
-    </div>`;
-  }).join("") || "<p style='padding:20px;color:var(--muted)'>No news matches these filters.</p>";
-  renderStats();
+.filters {
+  display: flex;
+  gap: 9px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 25px 5% 15px;
 }
 
-/* ---------- trends ---------- */
-function renderTrends() {
-  const trends = DATA.trends || [];
-  document.getElementById("trendChips").innerHTML = trends.map(t =>
-    `<span class="trend-chip"><b>#${t.keyword}</b> ×${t.frequency}<small>${(t.sectors||[]).join(" · ")} — ${t.article_count} articles</small></span>`).join("")
-    || "<p style='color:var(--muted)'>No trends detected yet.</p>";
+.filters button,
+.filters select,
+.filters input[type="search"] {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 11px 15px;
+  border-radius: 9px;
+  font-size: .78rem;
+  outline: none;
 }
 
-/* ---------- source health ---------- */
-function renderHealth() {
-  const rows = DATA.source_health || [];
-  document.getElementById("healthBody").innerHTML = rows.map(h => {
-    const total = (h.success_count||0) + (h.failure_count||0);
-    const rate = total ? Math.round(h.success_count / total * 100) : 0;
-    const ok = !h.last_failure || (h.last_success > h.last_failure);
-    return `<tr><td>${h.source}</td>
-      <td>${ok ? "🟢 Healthy" : "🔴 Failing"}</td>
-      <td><div class="bar"><i style="width:${rate}%"></i></div> ${rate}%</td>
-      <td>${(h.last_success||"never").replace("T"," ").slice(0,19)}</td>
-      <td>${(h.last_failure||"—").replace("T"," ").slice(0,19)}</td></tr>`;
-  }).join("") || "<tr><td colspan='5'>No source data yet.</td></tr>";
+.filters button {
+  font-weight: 600;
 }
 
-/* ---------- analytics charts ---------- */
-function cvars() {
-  const cs = getComputedStyle(document.body);
-  return { text: cs.getPropertyValue("--text").trim(), muted: cs.getPropertyValue("--muted").trim(),
-           border: cs.getPropertyValue("--border").trim() };
-}
-function mk(id, cfg) { if (charts[id]) charts[id].destroy(); charts[id] = new Chart(document.getElementById(id), cfg); }
-function drawCharts() {
-  if (!ALL.length || typeof Chart === "undefined") return;
-  const {text, muted} = cvars();
-  const tick = { color: muted, ticks: { color: muted }, legend: { labels: { color: text } } };
-
-  const count = fn => { const m = {}; ALL.forEach(i => { const k = fn(i)||"Unknown"; m[k]=(m[k]||0)+1; }); return m; };
-  const pie = (id, m, colors) => mk(id, { type: "doughnut",
-    data: { labels: Object.keys(m), datasets: [{ data: Object.values(m), backgroundColor: colors, borderWidth: 0 }] },
-    options: { plugins: tick, maintainAspectRatio: false, cutout: "60%" } });
-  const bar = (id, m, color) => mk(id, { type: "bar",
-    data: { labels: Object.keys(m), datasets: [{ data: Object.values(m), backgroundColor: color, borderRadius: 6 }] },
-    options: { plugins: tick, maintainAspectRatio: false,
-      scales: { x: { ticks: { color: muted }, grid: { display: false } }, y: { ticks: { color: muted }, grid: { color: "transparent" }, beginAtZero: true } } } });
-
-  pie("chImpact", count(i => i.impact), ["#f85149","#d29922","#3fb950","#58a6ff"]);
-  bar("chSent", count(i => i.sentiment_label), "#8957e5");
-  bar("chSector", count(i => i.sector), "#1f6feb");
-  pie("chSource", count(i => i.source), ["#58a6ff","#ff4500","#d29922","#3fb950","#bc8cff"]);
-
-  const t = (DATA.trends||[]).slice(0,10);
-  mk("chTrends", { type: "bar",
-    data: { labels: t.map(x => "#" + x.keyword), datasets: [{ data: t.map(x => x.frequency), backgroundColor: "#3fb950", borderRadius: 6 }] },
-    options: { indexAxis: "y", plugins: tick, maintainAspectRatio: false,
-      scales: { x: { ticks: { color: muted }, grid: { color: "transparent" }, beginAtZero: true }, y: { ticks: { color: muted }, grid: { display: false } } } } });
+.filters button:hover,
+.filters select:hover {
+  border-color: var(--accent);
 }
 
-load();
-setInterval(load, 60000);        // real-time refresh every minute
-</script>
-</body>
-</html>
+.filters button.active {
+  background: var(--accent);
+  color: #17100c;
+  border-color: var(--accent);
+  font-weight: 800;
+}
+
+.filters select {
+  cursor: pointer;
+}
+
+.filters input[type="search"] {
+  min-width: 230px;
+  flex: 1;
+}
+
+.filters input[type="search"]:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(255,113,56,.12);
+}
+
+.filters input::placeholder {
+  color: var(--muted);
+}
+
+/* MAIN NEWS AREA */
+
+main {
+  max-width: 1500px;
+  margin: auto;
+  padding: 15px 5% 80px;
+}
+
+#feed {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 17px;
+  align-items: stretch;
+}
+
+/* NEWS CARDS */
+
+.card {
+  background: linear-gradient(145deg,var(--surface),var(--bg2));
+  border: 1px solid var(--border);
+  border-radius: 17px;
+  padding: 25px;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  transition: transform .25s,border-color .25s,box-shadow .25s;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 0;
+  background: var(--accent);
+  transition: height .3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(255,113,56,.45);
+  box-shadow: var(--shadow);
+}
+
+.card:hover::before {
+  height: 100%;
+}
+
+.tag {
+  font-family: 'DM Mono', monospace;
+  font-size: .64rem;
+  font-weight: 500;
+  padding: 5px 9px;
+  border-radius: 5px;
+  margin: 0 5px 9px 0;
+  display: inline-block;
+  letter-spacing: .2px;
+  text-transform: uppercase;
+}
+
+.sec {
+  background: rgba(255,113,56,.12);
+  color: var(--accent2);
+}
+
+.high {
+  background: rgba(248,81,73,.13);
+  color: #ff7770;
+}
+
+.med {
+  background: rgba(210,153,34,.14);
+  color: #e7b94f;
+}
+
+.low {
+  background: rgba(183,230,106,.12);
+  color: var(--green);
+}
+
+.pos {
+  background: rgba(183,230,106,.12);
+  color: var(--green);
+}
+
+.neg {
+  background: rgba(248,81,73,.13);
+  color: #ff7770;
+}
+
+.neu {
+  background: rgba(139,148,158,.13);
+  color: #a6a9a0;
+}
+
+.cat {
+  background: rgba(188,140,255,.12);
+  color: #c6a4ff;
+}
+
+.early {
+  background: rgba(255,113,56,.13);
+  color: var(--accent);
+}
+
+h2 {
+  font-family: 'Space Grotesk',sans-serif;
+  font-size: clamp(1.15rem,1.8vw,1.5rem);
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -.6px;
+  margin: 10px 0 13px;
+}
+
+h2 a {
+  color: var(--text);
+  text-decoration: none;
+  transition: color .2s;
+}
+
+h2 a:hover {
+  color: var(--accent);
+}
+
+.row {
+  font-size: .85rem;
+  line-height: 1.75;
+  margin-top: 10px;
+  color: var(--muted);
+}
+
+.row b {
+  color: var(--accent2);
+  font-weight: 700;
+}
+
+.kw {
+  display: inline-block;
+  font-family: 'DM Mono',monospace;
+  font-size: .7rem;
+  color: var(--muted);
+  margin: 12px 9px 0 0;
+}
+
+/* VOTING */
+
+.vote-row {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-size: .73rem;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.vote-btn {
+  background: var(--btn);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 13px;
+  cursor: pointer;
+  font-size: .78rem;
+  color: var(--text);
+}
+
+.vote-btn:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.vote-btn.selected-up {
+  background: rgba(183,230,106,.15);
+  border-color: var(--green);
+  color: var(--green);
+}
+
+.vote-btn.selected-down {
+  background: rgba(248,81,73,.15);
+  border-color: #f85149;
+  color: #ff7770;
+}
+
+/* ANALYTICS */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 17px;
+  padding: 30px 5% 50px;
+}
+
+.chart-card {
+  background: linear-gradient(145deg,var(--surface),var(--bg2));
+  border: 1px solid var(--border);
+  border-radius: 17px;
+  padding: 24px;
+  box-shadow: var(--shadow);
+}
+
+.chart-card h3 {
+  font-family: 'Space Grotesk',sans-serif;
+  font-size: .95rem;
+  font-weight: 600;
+  margin-bottom: 22px;
+  color: var(--text);
+  letter-spacing: -.2px;
+}
+
+.chart-box {
+  position: relative;
+  height: 260px;
+}
+
+/* TRENDS */
+
+#trendChips {
+  padding: 30px 5% !important;
+}
+
+.trend-chip {
+  display: inline-block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 15px 19px;
+  margin: 0 9px 12px 0;
+  font-size: .82rem;
+  transition: .2s;
+}
+
+.trend-chip:hover {
+  border-color: var(--accent);
+  transform: translateY(-3px);
+}
+
+.trend-chip b {
+  color: var(--accent);
+  font-family: 'Space Grotesk',sans-serif;
+  font-size: 1rem;
+}
+
+.trend-chip small {
+  color: var(--muted);
+  display: block;
+  margin-top: 7px;
+  font-size: .7rem;
+}
+
+/* SOURCE HEALTH */
+
+#panel-health {
+  padding: 25px 5% 50px;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .82rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  overflow: hidden;
+  margin: 0;
+  max-width: none;
+}
+
+th,td {
+  text-align: left;
+  padding: 17px 19px;
+  border-bottom: 1px solid var(--border);
+}
+
+th {
+  background: var(--surface2);
+  color: var(--muted);
+  font-family: 'DM Mono',monospace;
+  font-size: .68rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+td {
+  color: var(--text);
+}
+
+tbody tr:hover {
+  background: var(--surface2);
+}
+
+.bar {
+  height: 7px;
+  border-radius: 10px;
+  background: var(--btn);
+  overflow: hidden;
+  min-width: 80px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.bar i {
+  display: block;
+  height: 100%;
+  background: var(--green);
+  border-radius: 10px;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-family: 'DM Mono',monospace;
+  font-size: .7rem;
+  padding: 35px 20px;
+  border-top: 1px solid var(--border);
+  letter-spacing: .5px;
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #44483d;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+/* RESPONSIVE */
+
+@media(max-width:1100px) {
+  .stats {
+    grid-template-columns: repeat(3,minmax(0,1fr));
+  }
+}
+
+@media(max-width:700px) {
+  header {
+    padding: 13px 16px;
+  }
+
+  header h1 {
+    font-size: 1.2rem;
+  }
+
+  #updated {
+    width: 100%;
+    order: 5;
+  }
+
+  .stats {
+    padding: 22px 16px;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    gap: 9px;
+  }
+
+  .stat {
+    padding: 15px;
+  }
+
+  .tabs {
+    padding: 10px 16px;
+  }
+
+  .filters {
+    padding: 20px 16px 12px;
+  }
+
+  .filters input[type="search"] {
+    min-width: 100%;
+  }
+
+  main {
+    padding: 15px 16px 50px;
+  }
+
+  #feed {
+    grid-template-columns: 1fr;
+  }
+
+  .card {
+    padding: 19px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    padding: 20px 16px 40px;
+  }
+
+  .chart-card {
+    padding: 18px;
+  }
+
+  #trendChips {
+    padding: 20px 16px !important;
+  }
+
+  #panel-health {
+    padding: 20px 16px 40px;
+  }
+
+  table {
+    min-width: 700px;
+  }
+}
+
+@media(prefers-reduced-motion:reduce) {
+  *,*::before,*::after {
+    animation-duration: .01ms !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
