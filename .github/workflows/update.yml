@@ -5,7 +5,6 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
-# THIS IS THE KEY FIX — allows the workflow to push commits
 permissions:
   contents: write
 
@@ -37,12 +36,25 @@ jobs:
 
     - name: Commit and Push changes
       run: |
+        # FIX 1: prevents "fatal: detected dubious ownership" exit 128
+        git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
         git config --local user.email "action@github.com"
         git config --local user.name "news-bot"
+
         git add .
-        # nothing changed? nothing to do
-        git diff-index --quiet HEAD && exit 0
-        # rebase onto latest main, then push
-        git pull --rebase origin main
+        echo "--- changed files ---"
+        git status --short
+
+        # nothing changed? done.
+        git diff-index --quiet HEAD -- && { echo "No changes."; exit 0; }
+
         git commit -m "news update $(date -u)"
-        git push origin main
+
+        # FIX 2: retry pattern — rebase then push, retry once if rejected
+        git pull --rebase origin main
+        git push origin main || {
+          echo "Push rejected, retrying after rebase..."
+          git pull --rebase origin main
+          git push origin main
+        }
