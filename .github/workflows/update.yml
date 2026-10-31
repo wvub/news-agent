@@ -5,6 +5,10 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
+# THIS IS THE KEY FIX — allows the workflow to push commits
+permissions:
+  contents: write
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -18,7 +22,7 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-        cache: 'pip' # Automatically caches installed packages safely
+        cache: 'pip'
 
     - name: Install dependencies
       run: |
@@ -36,9 +40,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "news-bot"
         git add .
-        git diff-index --quiet HEAD || {
-          git commit -m "news update $(date -u)"
-          git fetch origin main
-          git merge origin/main -X theirs --allow-unrelated-histories -m "Merge remote changes into news-bot tracking state"
-          git push origin main
-        }
+        # nothing changed? nothing to do
+        git diff-index --quiet HEAD && exit 0
+        # rebase onto latest main, then push
+        git pull --rebase origin main
+        git commit -m "news update $(date -u)"
+        git push origin main
