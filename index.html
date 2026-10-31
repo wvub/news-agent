@@ -3,35 +3,102 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>My News Agent</title>
+<title>Xynex News</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <style>
-  * { box-sizing: border-box; margin: 0; }
-  body { font-family: system-ui, sans-serif; background: #0d1117; color: #e6edf3; }
-  header { padding: 16px 20px; background: #161b22; border-bottom: 1px solid #30363d;
-           position: sticky; top: 0; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
-  h1 { font-size: 1.2rem; }
-  .dot { width: 9px; height: 9px; border-radius: 50%; background: #3fb950; animation: pulse 2s infinite; }
-  @keyframes pulse { 50% { opacity: .3; } }
-  #updated { color: #8b949e; font-size: .85rem; }
-  .filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 14px 20px; }
-  .filters button { background: #21262d; color: #c9d1d9; border: 1px solid #30363d;
-                    padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: .85rem; }
-  .filters button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
-  main { max-width: 800px; margin: 0 auto; padding: 0 16px 60px; }
-  .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px;
-          padding: 16px; margin-bottom: 12px; }
-  .tag { font-size: .75rem; padding: 3px 10px; border-radius: 12px; margin-right: 6px; }
-  .sec  { background: #1f6feb33; color: #58a6ff; }
-  .high { background: #f8514922; color: #f85149; }
-  .med  { background: #d2992233; color: #d29922; }
-  .low  { background: #3fb95022; color: #3fb950; }
-  h2 { font-size: 1.05rem; margin: 10px 0; }
-  h2 a { color: #e6edf3; text-decoration: none; }
-  h2 a:hover { color: #58a6ff; }
-  .row { font-size: .9rem; margin-top: 6px; color: #c9d1d9; }
-  .row b { color: #8b949e; font-weight: 600; }
-  footer { text-align: center; color: #484f58; font-size: .8rem; padding: 20px; }
+:root {
+  --bg: #0d1117; --bg2: #161b22; --border: #30363d; --text: #e6edf3;
+  --muted: #8b949e; --accent: #58a6ff; --btn: #21262d; --green: #3fb950;
+}
+body.light {
+  --bg: #ffffff; --bg2: #f6f8fa; --border: #d0d7de; --text: #1f2328;
+  --muted: #57606a; --accent: #0969da; --btn: #eaeef2;
+}
+* { box-sizing: border-box; margin: 0; }
+body { font-family: system-ui, -apple-system, sans-serif; background: var(--bg); color: var(--text); transition: background .3s, color .3s; }
+header { padding: 14px 20px; background: var(--bg2); border-bottom: 1px solid var(--border);
+         position: sticky; top: 0; z-index: 10; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+h1 { font-size: 1.2rem; }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
+@keyframes pulse { 50% { opacity: .3; } }
+#updated { color: var(--muted); font-size: .85rem; }
+.spacer { flex: 1; }
+.icon-btn { background: var(--btn); color: var(--text); border: 1px solid var(--border);
+            padding: 6px 12px; border-radius: 8px; cursor: pointer; font-size: .95rem; }
+.icon-btn:hover { border-color: var(--accent); }
+
+/* stats */
+.stats { display: flex; gap: 10px; flex-wrap: wrap; padding: 14px 20px; }
+.stat { background: var(--bg2); border: 1px solid var(--border); border-radius: 10px;
+        padding: 10px 16px; min-width: 110px; }
+.stat b { font-size: 1.25rem; display: block; }
+.stat span { color: var(--muted); font-size: .78rem; }
+
+/* filters */
+.filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 4px 20px 14px; align-items: center; }
+.filters button, .filters select { background: var(--btn); color: var(--text); border: 1px solid var(--border);
+  padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: .85rem; }
+.filters button.active { background: #1f6feb; border-color: #1f6feb; color: #fff; }
+.filters select { border-radius: 8px; cursor: pointer; }
+.filters input[type="search"] { background: var(--btn); color: var(--text); border: 1px solid var(--border);
+  padding: 7px 14px; border-radius: 20px; font-size: .85rem; min-width: 200px; outline: none; }
+.filters input[type="search"]:focus { border-color: var(--accent); }
+
+/* tabs */
+.tabs { display: flex; gap: 6px; padding: 0 20px 12px; flex-wrap: wrap; }
+.tab { background: var(--btn); color: var(--muted); border: 1px solid var(--border);
+       padding: 7px 16px; border-radius: 10px; cursor: pointer; font-size: .88rem; }
+.tab.active { color: var(--text); border-color: var(--accent); background: var(--bg2); }
+.panel { display: none; }
+.panel.active { display: block; }
+
+main { max-width: 900px; margin: 0 auto; padding: 0 16px 60px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; padding: 10px 20px 30px; }
+.chart-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px; padding: 16px; }
+.chart-card h3 { font-size: .95rem; margin-bottom: 10px; color: var(--muted); }
+.chart-box { position: relative; height: 220px; }
+
+.card { background: var(--bg2); border: 1px solid var(--border); border-radius: 12px;
+        padding: 16px; margin-bottom: 12px; }
+.tag { font-size: .72rem; padding: 3px 10px; border-radius: 12px; margin: 0 6px 6px 0; display: inline-block; }
+.sec  { background: #1f6feb33; color: #58a6ff; }
+.high { background: #f8514922; color: #f85149; }
+.med  { background: #d2992233; color: #d29922; }
+.low  { background: #3fb95022; color: #3fb950; }
+.pos  { background: #3fb95022; color: #3fb950; }
+.neg  { background: #f8514922; color: #f85149; }
+.neu  { background: #8b949e22; color: #8b949e; }
+.cat  { background: #8957e522; color: #bc8cff; }
+.early{ background: #ff450022; color: #ff4500; }
+h2 { font-size: 1.05rem; margin: 8px 0; }
+h2 a { color: var(--text); text-decoration: none; }
+h2 a:hover { color: var(--accent); }
+.row { font-size: .88rem; margin-top: 6px; color: var(--text); }
+.row b { color: var(--muted); font-weight: 600; }
+.kw { display: inline-block; font-size: .75rem; color: var(--muted); margin-right: 8px; }
+.vote-row { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border);
+            display: flex; align-items: center; gap: 8px; font-size: .82rem; color: var(--muted); flex-wrap: wrap; }
+.vote-btn { background: var(--btn); border: 1px solid var(--border); border-radius: 8px;
+            padding: 4px 12px; cursor: pointer; font-size: .85rem; color: var(--text); }
+.vote-btn:hover { border-color: var(--accent); }
+.vote-btn.selected-up { background: #3fb95033; border-color: #3fb950; }
+.vote-btn.selected-down { background: #f8514933; border-color: #f85149; }
+.trend-chip { display: inline-block; background: var(--bg2); border: 1px solid var(--border);
+              border-radius: 12px; padding: 8px 14px; margin: 0 8px 8px 0; font-size: .85rem; }
+.trend-chip b { color: var(--accent); }
+.trend-chip small { color: var(--muted); display: block; }
+table { width: 100%; border-collapse: collapse; font-size: .85rem; margin: 10px 20px; max-width: 860px; }
+th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); }
+th { color: var(--muted); font-weight: 600; }
+.bar { height: 8px; border-radius: 4px; background: var(--btn); overflow: hidden; min-width: 80px; }
+.bar i { display: block; height: 100%; background: var(--green); }
+footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }
+@media (max-width: 600px) {
+  .filters input[type="search"] { min-width: 100%; }
+  main { padding: 0 10px 40px; }
+}
 </style>
+<base target="_blank">
 <base target="_blank">
 </head>
 <body>
@@ -39,49 +106,221 @@
   <div class="dot"></div>
   <h1>⚡ Xynex News</h1>
   <span id="updated">Loading...</span>
+  <div class="spacer"></div>
+  <button class="icon-btn" id="refreshBtn" title="Refresh now">🔄</button>
+  <button class="icon-btn" id="themeBtn" title="Toggle dark/light mode">🌙</button>
 </header>
-<div class="filters" id="filters"></div>
-<main id="feed"></main>
+
+<div class="stats" id="stats"></div>
+
+<div class="tabs">
+  <button class="tab active" data-tab="news">📰 News Feed</button>
+  <button class="tab" data-tab="analytics">📊 Analytics</button>
+  <button class="tab" data-tab="trends">📈 Trends</button>
+  <button class="tab" data-tab="health">🩺 Source Health</button>
+</div>
+
+<div class="panel active" id="panel-news">
+  <div class="filters" id="filters"></div>
+  <main id="feed"></main>
+</div>
+
+<div class="panel" id="panel-analytics"><div class="grid">
+  <div class="chart-card"><h3>Impact Distribution</h3><div class="chart-box"><canvas id="chImpact"></canvas></div></div>
+  <div class="chart-card"><h3>Sentiment Analysis</h3><div class="chart-box"><canvas id="chSent"></canvas></div></div>
+  <div class="chart-card"><h3>Sector Breakdown</h3><div class="chart-box"><canvas id="chSector"></canvas></div></div>
+  <div class="chart-card"><h3>Source Distribution</h3><div class="chart-box"><canvas id="chSource"></canvas></div></div>
+</div></div>
+
+<div class="panel" id="panel-trends">
+  <div style="padding: 10px 20px" id="trendChips"></div>
+  <div class="chart-card" style="margin: 10px 20px"><h3>Trending Keywords</h3>
+    <div class="chart-box" style="height:300px"><canvas id="chTrends"></canvas></div></div>
+</div>
+
+<div class="panel" id="panel-health">
+  <table><thead><tr><th>Source</th><th>Status</th><th>Success rate</th><th>Last success</th><th>Last failure</th></tr></thead>
+  <tbody id="healthBody"></tbody></table>
+</div>
+
 <footer>Made by Armaan with ❤️</footer>
 
 <script>
-let ALL = [], currentFilter = "All";
+let ALL = [], currentFilter = "All", DATA = {};
+let srcFilter = "all", impFilter = "all", sentFilter = "all", query = "";
 const SECTORS = ["All","World","Markets","Tech/AI","Crypto","Science","Health"];
+const ORDER = {"🔴":0,"🟡":1,"🟢":2};
+const charts = {};
 
+/* ---------- theme ---------- */
+const themeBtn = document.getElementById("themeBtn");
+function applyTheme(light) {
+  document.body.classList.toggle("light", light);
+  themeBtn.textContent = light ? "☀️" : "🌙";
+  localStorage.setItem("xynex-theme", light ? "light" : "dark");
+  drawCharts();
+}
+themeBtn.onclick = () => applyTheme(!document.body.classList.contains("light"));
+if (localStorage.getItem("xynex-theme") === "light") applyTheme(true);
+
+/* ---------- tabs ---------- */
+document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+  document.querySelectorAll(".panel").forEach(x => x.classList.remove("active"));
+  t.classList.add("active");
+  document.getElementById("panel-" + t.dataset.tab).classList.add("active");
+  if (t.dataset.tab === "analytics") drawCharts();
+});
+
+/* ---------- voting (stored in your browser) ---------- */
+function getVotes() { try { return JSON.parse(localStorage.getItem("xynex-votes") || "{}"); } catch(e) { return {}; } }
+function vote(id, val, btn) {
+  const v = getVotes();
+  v[id] = (v[id] === val) ? undefined : val;   // click again to undo
+  localStorage.setItem("xynex-votes", JSON.stringify(v));
+  render();
+}
+function accuracyText() {
+  const v = getVotes(); const vals = Object.values(v).filter(Boolean);
+  const ups = vals.filter(x => x === "up").length;
+  return vals.length ? Math.round(ups / vals.length * 100) + "% (" + ups + "/" + vals.length + ")" : "No votes yet";
+}
+
+/* ---------- load data ---------- */
 async function load() {
   try {
     const r = await fetch("news.json?ts=" + Date.now());
-    const data = await r.json();
-    ALL = data.items || [];
-    document.getElementById("updated").textContent = "Updated: " + data.updated;
-    renderFilters(); render();
+    DATA = await r.json();
+    ALL = DATA.items || [];
+    document.getElementById("updated").textContent = "Updated: " + (DATA.updated || "");
+    renderStats(); renderFilters(); render(); renderTrends(); renderHealth();
   } catch(e) { document.getElementById("updated").textContent = "Waiting for first update..."; }
+}
+document.getElementById("refreshBtn").onclick = load;
+
+function renderStats() {
+  const s = DATA.stats || {};
+  document.getElementById("stats").innerHTML = [
+    [s.rss ?? 0, "📡 RSS articles"], [s.reddit ?? 0, "🔺 Reddit posts"],
+    [s.social ?? 0, "💬 Social"], [s.duplicates_found ?? 0, "🔁 Duplicates"],
+    [s.trends_detected ?? 0, "📈 Trends"], [accuracyText(), "🎯 Prediction accuracy"]
+  ].map(x => `<div class="stat"><b>${x[0]}</b><span>${x[1]}</span></div>`).join("");
 }
 
 function renderFilters() {
   const el = document.getElementById("filters");
   el.innerHTML = SECTORS.map(s =>
-    `<button class="${s===currentFilter?'active':''}" onclick="setFilter('${s}')">${s}</button>`).join("");
+    `<button class="${s===currentFilter?'active':''}" onclick="setFilter('${s}')">${s}</button>`).join("")
+    + `
+    <select onchange="srcFilter=this.value;render()">
+      <option value="all">All sources</option>
+      <option value="rss">RSS</option><option value="reddit">Reddit</option>
+      <option value="hacker_news">Hacker News</option><option value="producthunt">Product Hunt</option>
+    </select>
+    <select onchange="impFilter=this.value;render()">
+      <option value="all">All impact</option><option>🔴 High</option><option>🟡 Medium</option><option>🟢 Low</option>
+    </select>
+    <select onchange="sentFilter=this.value;render()">
+      <option value="all">All sentiment</option><option value="pos">Positive 😊</option>
+      <option value="neu">Neutral 😐</option><option value="neg">Negative 😞</option>
+    </select>
+    <input type="search" placeholder="🔍 Search news..." oninput="query=this.value.toLowerCase();render()">`;
 }
 function setFilter(s) { currentFilter = s; renderFilters(); render(); }
 
+function impClass(i) { return i?.includes('High') ? 'high' : i?.includes('Low') ? 'low' : 'med'; }
+function sentClass(l) { return l?.startsWith('Positive') ? 'pos' : l?.startsWith('Negative') ? 'neg' : 'neu'; }
+
 function render() {
-  const list = currentFilter==="All" ? ALL : ALL.filter(i => i.sector===currentFilter);
-  const order = {"🔴":0,"🟡":1,"🟢":2};
-  list.sort((a,b) => (order[a.impact?.[0]||"🟡"] - order[b.impact?.[0]||"🟡"]));
-  document.getElementById("feed").innerHTML = list.map(i => `
-    <div class="card">
-      <span class="tag sec">${i.sector}</span>
-      <span class="tag ${i.impact?.includes('High')?'high':i.impact?.includes('Low')?'low':'med'}">${i.impact||"🟡 Medium"}</span>
-      ${i.source==='reddit'?'<span class="tag" style="background:#ff450022;color:#ff4500">⚡ early</span>':''}
-      <h2><a href="${i.link}" target="_blank">${i.title}</a></h2>
-      ${i.why ? `<div class="row"><b>❓ Why:</b> ${i.why}</div>` : ""}
-      ${i.effect ? `<div class="row"><b>💥 Impact:</b> ${i.effect}</div>` : ""}
-    </div>`).join("") || "<p style='padding:20px;color:#8b949e'>No news in this sector yet.</p>";
+  const votes = getVotes();
+  let list = currentFilter==="All" ? ALL : ALL.filter(i => i.sector===currentFilter);
+  if (srcFilter !== "all") list = list.filter(i => i.source===srcFilter);
+  if (impFilter !== "all") list = list.filter(i => (i.impact||"").includes(impFilter.slice(2)));
+  if (sentFilter !== "all") list = list.filter(i => sentClass(i.sentiment_label)===sentFilter);
+  if (query) list = list.filter(i =>
+    (i.title+" "+(i.summary_short||i.summary||"")+" "+(i.keywords||[]).join(" ")).toLowerCase().includes(query));
+  list = [...list].sort((a,b) => (ORDER[a.impact?.[0]] ?? 1) - (ORDER[b.impact?.[0]] ?? 1));
+
+  document.getElementById("feed").innerHTML = list.map(i => {
+    const v = votes[i.id];
+    return `<div class="card">
+      <span class="tag sec">${i.sector||""}</span>
+      <span class="tag ${impClass(i.impact)}">${i.impact||"🟡 Medium"}</span>
+      <span class="tag ${sentClass(i.sentiment_label)}">${i.sentiment_label||"Neutral 😐"} ${i.sentiment_score!=null?("("+i.sentiment_score.toFixed(2)+")"):""}</span>
+      ${i.category?`<span class="tag cat">${i.category}</span>`:""}
+      ${i.source==='reddit'?'<span class="tag early">⚡ early</span>':''}
+      <h2><a href="${i.link}">${i.title}</a></h2>
+      ${i.summary_short?`<div class="row">${i.summary_short}</div>`:""}
+      ${i.why?`<div class="row"><b>❓ Why it matters:</b> ${i.why}</div>`:""}
+      ${i.effect?`<div class="row"><b>💥 Effect:</b> ${i.effect}</div>`:""}
+      ${(i.keywords||[]).length?`<div class="row">${i.keywords.map(k=>`<span class="kw">#${k}</span>`).join("")}</div>`:""}
+      <div class="vote-row">Was this impact prediction right?
+        <button class="vote-btn ${v==='up'?'selected-up':''}" onclick="vote('${i.id}','up')">👍 Yes</button>
+        <button class="vote-btn ${v==='down'?'selected-down':''}" onclick="vote('${i.id}','down')">👎 No</button>
+      </div>
+    </div>`;
+  }).join("") || "<p style='padding:20px;color:var(--muted)'>No news matches these filters.</p>";
+  renderStats();
+}
+
+/* ---------- trends ---------- */
+function renderTrends() {
+  const trends = DATA.trends || [];
+  document.getElementById("trendChips").innerHTML = trends.map(t =>
+    `<span class="trend-chip"><b>#${t.keyword}</b> ×${t.frequency}<small>${(t.sectors||[]).join(" · ")} — ${t.article_count} articles</small></span>`).join("")
+    || "<p style='color:var(--muted)'>No trends detected yet.</p>";
+}
+
+/* ---------- source health ---------- */
+function renderHealth() {
+  const rows = DATA.source_health || [];
+  document.getElementById("healthBody").innerHTML = rows.map(h => {
+    const total = (h.success_count||0) + (h.failure_count||0);
+    const rate = total ? Math.round(h.success_count / total * 100) : 0;
+    const ok = !h.last_failure || (h.last_success > h.last_failure);
+    return `<tr><td>${h.source}</td>
+      <td>${ok ? "🟢 Healthy" : "🔴 Failing"}</td>
+      <td><div class="bar"><i style="width:${rate}%"></i></div> ${rate}%</td>
+      <td>${(h.last_success||"never").replace("T"," ").slice(0,19)}</td>
+      <td>${(h.last_failure||"—").replace("T"," ").slice(0,19)}</td></tr>`;
+  }).join("") || "<tr><td colspan='5'>No source data yet.</td></tr>";
+}
+
+/* ---------- analytics charts ---------- */
+function cvars() {
+  const cs = getComputedStyle(document.body);
+  return { text: cs.getPropertyValue("--text").trim(), muted: cs.getPropertyValue("--muted").trim(),
+           border: cs.getPropertyValue("--border").trim() };
+}
+function mk(id, cfg) { if (charts[id]) charts[id].destroy(); charts[id] = new Chart(document.getElementById(id), cfg); }
+function drawCharts() {
+  if (!ALL.length || typeof Chart === "undefined") return;
+  const {text, muted} = cvars();
+  const tick = { color: muted, ticks: { color: muted }, legend: { labels: { color: text } } };
+
+  const count = fn => { const m = {}; ALL.forEach(i => { const k = fn(i)||"Unknown"; m[k]=(m[k]||0)+1; }); return m; };
+  const pie = (id, m, colors) => mk(id, { type: "doughnut",
+    data: { labels: Object.keys(m), datasets: [{ data: Object.values(m), backgroundColor: colors, borderWidth: 0 }] },
+    options: { plugins: tick, maintainAspectRatio: false, cutout: "60%" } });
+  const bar = (id, m, color) => mk(id, { type: "bar",
+    data: { labels: Object.keys(m), datasets: [{ data: Object.values(m), backgroundColor: color, borderRadius: 6 }] },
+    options: { plugins: tick, maintainAspectRatio: false,
+      scales: { x: { ticks: { color: muted }, grid: { display: false } }, y: { ticks: { color: muted }, grid: { color: "transparent" }, beginAtZero: true } } } });
+
+  pie("chImpact", count(i => i.impact), ["#f85149","#d29922","#3fb950","#58a6ff"]);
+  bar("chSent", count(i => i.sentiment_label), "#8957e5");
+  bar("chSector", count(i => i.sector), "#1f6feb");
+  pie("chSource", count(i => i.source), ["#58a6ff","#ff4500","#d29922","#3fb950","#bc8cff"]);
+
+  const t = (DATA.trends||[]).slice(0,10);
+  mk("chTrends", { type: "bar",
+    data: { labels: t.map(x => "#" + x.keyword), datasets: [{ data: t.map(x => x.frequency), backgroundColor: "#3fb950", borderRadius: 6 }] },
+    options: { indexAxis: "y", plugins: tick, maintainAspectRatio: false,
+      scales: { x: { ticks: { color: muted }, grid: { color: "transparent" }, beginAtZero: true }, y: { ticks: { color: muted }, grid: { display: false } } } } });
 }
 
 load();
-setInterval(load, 180000); // auto-refresh page every 3 min
+setInterval(load, 60000);        // real-time refresh every minute
 </script>
 </body>
 </html>
