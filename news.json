@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 20:31 IST",
+ "updated": "2026-11-02 01:06 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -28,6 +28,12 @@
    "article_count": 5
   },
   {
+   "keyword": "crypto",
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 6
+  },
+  {
    "keyword": "world",
    "frequency": 7,
    "sectors": 2,
@@ -41,21 +47,9 @@
   },
   {
    "keyword": "their",
-   "frequency": 6,
-   "sectors": 3,
-   "article_count": 3
-  },
-  {
-   "keyword": "election",
    "frequency": 5,
    "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "crypto",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 5
+   "article_count": 2
   },
   {
    "keyword": "switzerland",
@@ -70,7 +64,13 @@
    "article_count": 1
   },
   {
-   "keyword": "trump",
+   "keyword": "attack",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "election",
    "frequency": 4,
    "sectors": 2,
    "article_count": 3
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:11.910013+00:00",
+   "last_failure": "2026-11-01 19:36:09.710850+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:11.965854+00:00",
+   "last_failure": "2026-11-01 19:36:09.854959+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.015950+00:00",
+   "last_failure": "2026-11-01 19:36:09.982607+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.074353+00:00",
+   "last_failure": "2026-11-01 19:36:10.110174+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.127902+00:00",
+   "last_failure": "2026-11-01 19:36:10.237378+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.182806+00:00",
+   "last_failure": "2026-11-01 19:36:10.379490+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.245851+00:00",
+   "last_failure": "2026-11-01 19:36:10.523184+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.318174+00:00",
+   "last_failure": "2026-11-01 19:36:10.652050+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.378635+00:00",
+   "last_failure": "2026-11-01 19:36:10.779917+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.470881+00:00",
+   "last_failure": "2026-11-01 19:36:10.923303+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.525119+00:00",
+   "last_failure": "2026-11-01 19:36:11.047374+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.575585+00:00",
+   "last_failure": "2026-11-01 19:36:11.176744+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.629115+00:00",
+   "last_failure": "2026-11-01 19:36:11.298010+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.679722+00:00",
+   "last_failure": "2026-11-01 19:36:11.451867+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.734569+00:00",
+   "last_failure": "2026-11-01 19:36:11.573332+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-01 15:01:12.784481+00:00",
+   "last_failure": "2026-11-01 19:36:11.699506+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -239,26 +239,95 @@
    "category": "News"
   },
   {
-   "id": "dfeede172c82fbd2dfe44f105f3d9571",
+   "id": "a86e02882e198c5fa931c01ee0d40aad",
    "sector": "World",
-   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-   "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-   "published": "Sun, 01 Nov 2026 00:41:24 GMT",
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+   "published": "Sun, 01 Nov 2026 17:06:32 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "trump",
-    "epstein",
-    "birthday",
-    "book",
-    "judge"
+    "gaza",
+    "including",
+    "child",
+    "killed",
+    "israeli"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signe",
+   "summary_short": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including ",
+   "category": "News"
+  },
+  {
+   "id": "f2bda7cde00fd0e7b332df7c6f14a13e",
+   "sector": "World",
+   "title": "University of Cambridge scientist among those who died in Spanish train crash",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+   "published": "Sun, 01 Nov 2026 17:05:18 GMT",
+   "source": "rss",
+   "sentiment_score": 0.2875,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "scientist",
+    "university",
+    "cambridge",
+    "among",
+    "those"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she ",
+   "category": "News"
+  },
+  {
+   "id": "976f45b0a074aa3417883ed7eb84195a",
+   "sector": "World",
+   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+   "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+   "published": "Sun, 01 Nov 2026 17:56:47 GMT",
+   "source": "rss",
+   "sentiment_score": -0.02121212121212122,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "police",
+    "attack",
+    "armed",
+    "start",
+    "patrols"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The new police unit is a security measure in response to last year's deadly shooting attack at a Han",
+   "category": "News"
+  },
+  {
+   "id": "040ec19d4863596fe3958becf1c904b5",
+   "sector": "World",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+   "published": "Sun, 01 Nov 2026 19:17:34 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "endorses",
+    "senate",
+    "democrat",
+    "republican",
+    "candidate"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his oppo",
    "category": "News"
   },
   {
@@ -285,52 +354,6 @@
    "category": "News"
   },
   {
-   "id": "01da88aa1d387fd71203528367e19831",
-   "sector": "World",
-   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-   "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-   "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-   "published": "Sat, 31 Oct 2026 19:22:26 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "came",
-    "back",
-    "hell",
-    "ukrainians",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-   "category": "News"
-  },
-  {
-   "id": "a9da1b4871c43ac62989c9d58257b946",
-   "sector": "World",
-   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-   "published": "Sat, 31 Oct 2026 17:53:35 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "ukrainian",
-    "evacuees",
-    "reunite",
-    "family",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garde",
-   "category": "News"
-  },
-  {
    "id": "af452bb880fe217cd0f55ddded04716b",
    "sector": "World",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -354,49 +377,118 @@
    "category": "News"
   },
   {
-   "id": "69792679cda708e8d506d5279ff0121b",
+   "id": "dfeede172c82fbd2dfe44f105f3d9571",
    "sector": "World",
-   "title": "How the downfall of Serbia's Vu\u010di\u010b mirrored that of Hungary's Orb\u00e1n",
-   "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-   "summary": "Defeat for Serbia's Aleksandar Vu\u010di\u010b in last weekend's vote was a carbon copy of Viktor Orb\u00e1n's fall in Hungary.",
-   "published": "Sun, 01 Nov 2026 00:55:06 GMT",
+   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+   "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+   "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+   "published": "Sun, 01 Nov 2026 00:41:24 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "serbia",
-    "hungary",
-    "downfall",
-    "mirrored",
-    "defeat"
+    "trump",
+    "epstein",
+    "birthday",
+    "book",
+    "judge"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Defeat for Serbia's Aleksandar Vu\u010di\u010b in last weekend's vote was a carbon copy of Viktor Orb\u00e1n's fall",
+   "summary_short": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signe",
    "category": "News"
   },
   {
-   "id": "a5c9f35d1d73c4471b98d88a015dbbcd",
-   "sector": "World",
-   "title": "Judge orders Trump administration to stop threatening US election officials",
-   "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-   "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-   "published": "Sun, 01 Nov 2026 00:27:33 GMT",
+   "id": "5ee05768d398bc37a172f5ce54eb38d8",
+   "sector": "Markets",
+   "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
+   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
+   "published": "Sun, 01 Nov 2026 19:20:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.31666666666666665,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "election",
-    "officials",
-    "judge",
-    "orders",
-    "trump"
+    "life",
+    "showy",
+    "jewelry",
+    "fancy",
+    "cars"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The order comes after election officials received letters demanding they set aside the ballots of po",
+   "summary_short": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "f86b11bfa075ff42645eaf5f92164512",
+   "sector": "Markets",
+   "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+   "summary": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
+   "published": "Sun, 01 Nov 2026 17:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "caregiver",
+    "father",
+    "alzheimer",
+    "using",
+    "debit"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "2fc8b41fe0bb89e1a7c0dc34adeed568",
+   "sector": "Markets",
+   "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
+   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+   "summary": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
+   "published": "Sun, 01 Nov 2026 17:05:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.012857142857142862,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "heartbroken",
+    "husband",
+    "kids",
+    "abandoned",
+    "when"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "ef19196bb65f977498e3236e12311224",
+   "sector": "Markets",
+   "title": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day because they \u2018don\u2019t want to wait\u2019 anymore",
+   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+   "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play \u2018Grand Theft Auto VI\u2019 when it drops on Nov. 19",
+   "published": "Sun, 01 Nov 2026 16:35:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "grand",
+    "theft",
+    "callout",
+    "fans",
+    "missing"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to p",
    "category": "News"
   },
   {
@@ -492,101 +584,55 @@
    "category": "News"
   },
   {
-   "id": "fbc82b5232e32d7aad5ef211934b1c42",
-   "sector": "Markets",
-   "title": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
-   "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-   "summary": "\u201cBefore our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.\u201d",
-   "published": "Sat, 31 Oct 2026 20:15:00 GMT",
+   "id": "e0f52b98d439360e21a1830b6093c604",
+   "sector": "Tech/AI",
+   "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+   "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published": "Sun, 01 Nov 2026 17:04:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "abusive",
-    "husband",
-    "promised",
-    "kids",
-    "education"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cBefore our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to",
-   "category": "News"
-  },
-  {
-   "id": "5ee05768d398bc37a172f5ce54eb38d8",
-   "sector": "Markets",
-   "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
-   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
-   "published": "Sat, 31 Oct 2026 19:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.31666666666666665,
+   "sentiment_score": 0.2393939393939394,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "life",
-    "showy",
-    "jewelry",
-    "fancy",
-    "cars"
+    "techcrunch",
+    "mobility",
+    "bigger",
+    "boom",
+    "here"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
+   "summary_short": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev",
    "category": "News"
   },
   {
-   "id": "47efc4ad43c9daf3b7fb83ac7051d1a9",
-   "sector": "Markets",
-   "title": "This is where most people go wrong in their 30s and 40s",
-   "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-   "summary": "These big life decisions will determine just how well you retire.",
-   "published": "Sat, 31 Oct 2026 19:02:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "where",
-    "most",
-    "people",
-    "wrong",
-    "their"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "These big life decisions will determine just how well you retire.",
-   "category": "News"
-  },
-  {
-   "id": "e1bf9382fd2c7b75330fd570f048a462",
-   "sector": "Markets",
-   "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
-   "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-   "summary": "\u201cLet\u2019s say 10 years from now, when I\u2019m 84, we need a substantial amount of cash.\u201d",
-   "published": "Sat, 31 Oct 2026 19:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "should",
-    "mortgage",
-    "money",
-    "high",
-    "yield"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cLet\u2019s say 10 years from now, when I\u2019m 84, we need a substantial amount of cash.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "6a30f4b0119e62e34538fcfe0028fcba",
+   "id": "2b185baaae867e85be03995f8dc0a371",
    "sector": "Tech/AI",
-   "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+   "title": "Binance resumes withdrawals following $6.3 billion breach",
+   "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+   "published": "Sun, 01 Nov 2026 16:20:10 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "binance",
+    "resumes",
+    "withdrawals",
+    "following",
+    "billion"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+   "category": "News"
+  },
+  {
+   "id": "54092eec44b3c4c3c41f8347ad00ea00",
+   "sector": "Tech/AI",
+   "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
    "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
    "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
    "published": "Sun, 01 Nov 2026 15:00:00 +0000",
@@ -722,49 +768,49 @@
    "category": "News"
   },
   {
-   "id": "affd97e5e386f28bd04e3aa3074b8619",
-   "sector": "Tech/AI",
-   "title": "OpenAI reportedly lowers funding target for new round",
-   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "summary": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
-   "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+   "id": "3bcbcb785b5e7db53c80db513d5bd14e",
+   "sector": "Crypto",
+   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+   "summary": "",
+   "published": "Sun, 01 Nov 2026 19:30:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.05909090909090908,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "openai",
-    "funding",
-    "round",
-    "reportedly",
-    "lowers"
+    "crypto",
+    "reader",
+    "guide",
+    "midterm",
+    "election"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "a70a32bbbd7cc7a678e51890e6f0ab03",
-   "sector": "Tech/AI",
-   "title": "From restaurant guides to payments, here\u2019s how TikTok is building a super app",
-   "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-   "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-   "published": "Sat, 31 Oct 2026 15:41:57 +0000",
+   "id": "d05d1c698c493bba42f997d2bde38d81",
+   "sector": "Crypto",
+   "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+   "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+   "summary": "",
+   "published": "Sun, 01 Nov 2026 17:00:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.27777777777777773,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "tiktok",
-    "restaurant",
-    "guides",
-    "payments",
-    "here"
+    "agents",
+    "bypassed",
+    "crypto",
+    "spending",
+    "limits"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "TikTok may be working to become the app that people use for most of their digital activities.",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -896,52 +942,6 @@
     "korea",
     "role",
     "billion"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "a84bd77904804a7f4e5c0d60d039abac",
-   "sector": "Crypto",
-   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-   "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-   "summary": "",
-   "published": "Sat, 31 Oct 2026 18:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "bitcoin",
-    "white",
-    "paper",
-    "turns",
-    "small"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "d2f38cc3d5ca216fca7a8016bbd5f6c1",
-   "sector": "Crypto",
-   "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-   "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-   "summary": "",
-   "published": "Sat, 31 Oct 2026 16:09:30 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "stolen",
-    "iphone",
-    "losses",
-    "london",
-    "crypto"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1318,26 +1318,49 @@
    "category": "News"
   },
   {
-   "id": "0016c1e647657f314cf212243843e6a0",
+   "id": "477f8836dd17e65b75e0771e326b8f49",
    "sector": "Tech/AI",
-   "title": "Norway makes shithouses great again",
-   "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50324388\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 10:47:58 +0000",
+   "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+   "link": "https://hackerbooks.org",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326821\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 15:58:28 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.8,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "norway",
-    "makes",
-    "shithouses",
-    "great",
-    "again"
+    "show",
+    "hackerbooks",
+    "hackertube",
+    "books",
+    "mentioned"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50324388\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326821\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "ef2bc72e5cdb4b73c6384f76d8c3f75b",
+   "sector": "Tech/AI",
+   "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+   "link": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328487\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 18:53:46 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.4,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nurses",
+    "sound",
+    "alarm",
+    "uber",
+    "nursing"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328487\">Comments</a>",
    "category": "News"
   },
   {
@@ -1364,72 +1387,49 @@
    "category": "News"
   },
   {
-   "id": "9fa7e58a32fb0712d38d3fdfa00d955f",
+   "id": "b4b33f51ddb536470acf175868b58cd5",
    "sector": "Tech/AI",
-   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-   "link": "https://arxiv.org/abs/2610.39302",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50325454\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 13:24:49 +0000",
+   "title": "Patrick Stewart taught us what good men do with power",
+   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50327650\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 17:28:16 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.7,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "patrick",
+    "stewart",
+    "taught",
+    "what",
+    "good"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50327650\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "ecf0fbb4e29687ab531c5c42188fd6c5",
+   "sector": "Tech/AI",
+   "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+   "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326118\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 14:36:13 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "proving",
-    "improving",
-    "platonic",
-    "representation",
-    "hypothesis"
+    "police",
+    "chief",
+    "unplugs",
+    "flock",
+    "cameras"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50325454\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "f05b0ab44b24192f43643cea0f8e9edb",
-   "sector": "Tech/AI",
-   "title": "Novellas with Groff",
-   "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50325694\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 13:51:41 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "novellas",
-    "groff",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50325694\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c2a26654c7edfa0362f969d59c07b05f",
-   "sector": "Tech/AI",
-   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-   "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 22:41:06 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "italian",
-    "farmer",
-    "found",
-    "some",
-    "unknown"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326118\">Comments</a>",
    "category": "News"
   }
  ]
