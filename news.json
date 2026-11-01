@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01 07:00 IST",
+ "updated": "2026-11-01 13:36 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -23,8 +23,20 @@
   },
   {
    "keyword": "scientists",
-   "frequency": 6,
+   "frequency": 8,
    "sectors": 1,
+   "article_count": 4
+  },
+  {
+   "keyword": "data",
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "their",
+   "frequency": 6,
+   "sectors": 3,
    "article_count": 3
   },
   {
@@ -34,16 +46,10 @@
    "article_count": 2
   },
   {
-   "keyword": "before",
+   "keyword": "years",
    "frequency": 5,
-   "sectors": 1,
+   "sectors": 2,
    "article_count": 2
-  },
-  {
-   "keyword": "data",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 1
   },
   {
    "keyword": "world",
@@ -64,22 +70,22 @@
    "article_count": 1
   },
   {
-   "keyword": "across",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
    "keyword": "crypto",
    "frequency": 4,
    "sectors": 2,
    "article_count": 4
   },
   {
-   "keyword": "years",
+   "keyword": "across",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "universe",
    "frequency": 4,
    "sectors": 1,
-   "article_count": 1
+   "article_count": 2
   },
   {
    "keyword": "timor",
@@ -92,129 +98,146 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
-  },
-  {
-   "keyword": "strategy",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:40.946730+00:00",
+   "last_failure": "2026-11-01 08:06:06.005986+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.046379+00:00",
+   "last_failure": "2026-11-01 08:06:06.064749+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.166928+00:00",
+   "last_failure": "2026-11-01 08:06:06.129452+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.268123+00:00",
+   "last_failure": "2026-11-01 08:06:06.200585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.358253+00:00",
+   "last_failure": "2026-11-01 08:06:06.251909+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.447081+00:00",
+   "last_failure": "2026-11-01 08:06:06.303443+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.522075+00:00",
+   "last_failure": "2026-11-01 08:06:06.353248+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.626809+00:00",
+   "last_failure": "2026-11-01 08:06:06.405782+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.718694+00:00",
+   "last_failure": "2026-11-01 08:06:06.462305+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.794661+00:00",
+   "last_failure": "2026-11-01 08:06:06.521163+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.883810+00:00",
+   "last_failure": "2026-11-01 08:06:06.571442+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:41.962969+00:00",
+   "last_failure": "2026-11-01 08:06:06.638090+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:42.045573+00:00",
+   "last_failure": "2026-11-01 08:06:06.696241+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:42.140021+00:00",
+   "last_failure": "2026-11-01 08:06:06.750033+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:42.243542+00:00",
+   "last_failure": "2026-11-01 08:06:06.813090+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-01 01:30:42.333605+00:00",
+   "last_failure": "2026-11-01 08:06:06.878434+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "ab9d610cf76b7099347ec2f29077755d",
+   "sector": "World",
+   "title": "Shops looted as German cost of living protests turn violent",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "published": "Sun, 01 Nov 2026 07:36:18 GMT",
+   "source": "rss",
+   "sentiment_score": -0.26666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "protests",
+    "shops",
+    "looted",
+    "german",
+    "cost"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
+   "category": "News"
+  },
   {
    "id": "01da88aa1d387fd71203528367e19831",
    "sector": "World",
@@ -262,29 +285,6 @@
    "category": "News"
   },
   {
-   "id": "ffaac2e50c7741bacc8f06b12b5d2a45",
-   "sector": "World",
-   "title": "Thousands demonstrate in Paris as protests spread across Europe",
-   "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-   "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-   "published": "Sat, 31 Oct 2026 21:29:01 GMT",
-   "source": "rss",
-   "sentiment_score": 0.033333333333333326,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "across",
-    "thousands",
-    "demonstrate",
-    "paris",
-    "protests"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "More than 320,000 people demonstrated across France against the rising cost of living and poor publi",
-   "category": "News"
-  },
-  {
    "id": "af452bb880fe217cd0f55ddded04716b",
    "sector": "World",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -308,19 +308,19 @@
    "category": "News"
   },
   {
-   "id": "2efc642ddd6a9ca8c57936ed7c342122",
+   "id": "ce3bec588ed0395aae6714d01f410d63",
    "sector": "World",
-   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
    "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
    "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-   "published": "Sun, 01 Nov 2026 00:12:07 GMT",
+   "published": "Sun, 01 Nov 2026 07:00:55 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "india",
     "opposition",
-    "hold",
+    "holds",
     "mega",
     "rally"
    ],
@@ -377,26 +377,26 @@
    "category": "News"
   },
   {
-   "id": "06c409921a8d62bfe6ff8e01dcc47d15",
+   "id": "ffaac2e50c7741bacc8f06b12b5d2a45",
    "sector": "World",
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-   "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+   "published": "Sat, 31 Oct 2026 21:29:01 GMT",
    "source": "rss",
-   "sentiment_score": 0.43333333333333335,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.033333333333333326,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "more",
-    "than",
-    "ebola",
-    "congo",
-    "deadliest"
+    "across",
+    "thousands",
+    "demonstrate",
+    "paris",
+    "protests"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Government data shows that more than 10,000 people have contracted the rare virus.",
+   "summary_short": "More than 320,000 people demonstrated across France against the rising cost of living and poor publi",
    "category": "News"
   },
   {
@@ -584,6 +584,29 @@
    "category": "News"
   },
   {
+   "id": "3fca3a10e27c134a144e46121cd39942",
+   "sector": "Tech/AI",
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+   "published": "Sun, 01 Nov 2026 02:22:10 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "data",
+    "centers",
+    "midterm",
+    "brooklyn",
+    "party"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member",
+   "category": "News"
+  },
+  {
    "id": "5f7493256a05b791e909a3bbbb3425f2",
    "sector": "Tech/AI",
    "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
@@ -742,29 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The money behind the money is thrilled, mostly.",
-   "category": "News"
-  },
-  {
-   "id": "f65bc114012dda5c9fd0151e1fba4110",
-   "sector": "Tech/AI",
-   "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
-   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-   "published": "Sat, 31 Oct 2026 01:20:05 +0000",
-   "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "weighs",
-    "playing",
-    "cosigner",
-    "nscale"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips of",
    "category": "News"
   },
   {
@@ -952,6 +952,29 @@
    "category": "News"
   },
   {
+   "id": "f7fe9dc45a88d408a512aa450bd70122",
+   "sector": "Science",
+   "title": "Scientists say a forgotten particle may explain why the universe exists",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+   "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos\u2019s deepest mysteries.",
+   "published": "Sun, 01 Nov 2026 00:33:36 EDT",
+   "source": "rss",
+   "sentiment_score": 0.02,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "scientists",
+    "forgotten",
+    "particle",
+    "universe",
+    "explain"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, a",
+   "category": "News"
+  },
+  {
    "id": "aa49daf232919a918ab6b29321b9d709",
    "sector": "Science",
    "title": "A mysterious 4,000-year-old wall is rewriting North Africa\u2019s history",
@@ -972,6 +995,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists t",
+   "category": "News"
+  },
+  {
+   "id": "f9659701791083362cb119d4088761c3",
+   "sector": "Science",
+   "title": "Scientists discover the hidden \u201cmuscles\u201d trees use to straighten themselves",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+   "summary": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.",
+   "published": "Sat, 31 Oct 2026 22:44:28 EDT",
+   "source": "rss",
+   "sentiment_score": 0.4366666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "trees",
+    "their",
+    "scientists",
+    "muscles",
+    "straighten"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have discovered that trees can sense their own shape and straighten their trunks using sp",
    "category": "News"
   },
   {
@@ -1087,52 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at t",
-   "category": "News"
-  },
-  {
-   "id": "442949f9963ad6964f87c3b2b43f1e25",
-   "sector": "Science",
-   "title": "75,000-year-old Neanderthal may have been killed by a spear aimed at the heart",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm",
-   "summary": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same individual had survived an earlier devastating facial injury, suggesting other Neanderthals provided care and support.",
-   "published": "Sat, 31 Oct 2026 07:05:20 EDT",
-   "source": "rss",
-   "sentiment_score": -0.047727272727272736,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "neanderthal",
-    "killed",
-    "spear",
-    "aimed",
-    "heart"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at",
-   "category": "News"
-  },
-  {
-   "id": "5d05cf73d8a3d1fb1479311010b16a5d",
-   "sector": "Science",
-   "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
-   "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.",
-   "published": "Sat, 31 Oct 2026 06:38:30 EDT",
-   "source": "rss",
-   "sentiment_score": -0.016666666666666663,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bacterial",
-    "scientists",
-    "defense",
-    "before",
-    "until"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward ",
    "category": "News"
   },
   {
@@ -1366,6 +1366,52 @@
    "category": "News"
   },
   {
+   "id": "3f74cb678e506598f3786eef64c49d51",
+   "sector": "Tech/AI",
+   "title": "Running a bootstrapped SaaS for 20 years with my brother",
+   "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50303984\">Comments</a>",
+   "published": "Fri, 30 Oct 2026 13:58:42 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "running",
+    "bootstrapped",
+    "saas",
+    "years",
+    "brother"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50303984\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "878634e29e25c384266c063cbe1cf9c7",
+   "sector": "Tech/AI",
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+   "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50322173\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 02:19:53 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "court",
+    "brazilian",
+    "sanctions",
+    "lawyers",
+    "prompt"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50322173\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "dd99af02f90e5500fffcb9ee1f6c0613",
    "sector": "Tech/AI",
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50319143\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "ea93fa08e60bc1ddf7bee006d5d7d4de",
-   "sector": "Tech/AI",
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320995\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 22:46:12 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.2916666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "memdoor",
-    "team",
-    "models",
-    "beats",
-    "fable"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320995\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0a3865a03212b116a52afdf4f66dde72",
-   "sector": "Tech/AI",
-   "title": "Altoids Project",
-   "link": "https://uvdn7.github.io/altoids-project/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 22:54:55 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "altoids",
-    "project",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>",
    "category": "News"
   }
  ]
