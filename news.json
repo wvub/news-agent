@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01 04:17 IST",
+ "updated": "2026-11-01 07:00 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 8,
   "trends_detected": 15
  },
  "trends": [
@@ -29,12 +29,6 @@
   },
   {
    "keyword": "could",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "years",
    "frequency": 5,
    "sectors": 2,
    "article_count": 2
@@ -82,10 +76,10 @@
    "article_count": 4
   },
   {
-   "keyword": "global",
+   "keyword": "years",
    "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
+   "sectors": 1,
+   "article_count": 1
   },
   {
    "keyword": "timor",
@@ -98,118 +92,124 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "strategy",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:46.522418+00:00",
+   "last_failure": "2026-11-01 01:30:40.946730+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:46.643808+00:00",
+   "last_failure": "2026-11-01 01:30:41.046379+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:46.767667+00:00",
+   "last_failure": "2026-11-01 01:30:41.166928+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:46.907883+00:00",
+   "last_failure": "2026-11-01 01:30:41.268123+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.025628+00:00",
+   "last_failure": "2026-11-01 01:30:41.358253+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.146750+00:00",
+   "last_failure": "2026-11-01 01:30:41.447081+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.265283+00:00",
+   "last_failure": "2026-11-01 01:30:41.522075+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.386801+00:00",
+   "last_failure": "2026-11-01 01:30:41.626809+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.507827+00:00",
+   "last_failure": "2026-11-01 01:30:41.718694+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.631947+00:00",
+   "last_failure": "2026-11-01 01:30:41.794661+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.753158+00:00",
+   "last_failure": "2026-11-01 01:30:41.883810+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:47.880467+00:00",
+   "last_failure": "2026-11-01 01:30:41.962969+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:48.001201+00:00",
+   "last_failure": "2026-11-01 01:30:42.045573+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:48.120540+00:00",
+   "last_failure": "2026-11-01 01:30:42.140021+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:48.243154+00:00",
+   "last_failure": "2026-11-01 01:30:42.243542+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-10-31 22:47:48.363149+00:00",
+   "last_failure": "2026-11-01 01:30:42.333605+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -308,26 +308,49 @@
    "category": "News"
   },
   {
-   "id": "06c409921a8d62bfe6ff8e01dcc47d15",
+   "id": "2efc642ddd6a9ca8c57936ed7c342122",
    "sector": "World",
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-   "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "published": "Sun, 01 Nov 2026 00:12:07 GMT",
    "source": "rss",
-   "sentiment_score": 0.43333333333333335,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "more",
-    "than",
-    "ebola",
-    "congo",
-    "deadliest"
+    "india",
+    "opposition",
+    "hold",
+    "mega",
+    "rally"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Government data shows that more than 10,000 people have contracted the rare virus.",
+   "summary_short": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voter",
+   "category": "News"
+  },
+  {
+   "id": "69792679cda708e8d506d5279ff0121b",
+   "sector": "World",
+   "title": "How the downfall of Serbia's Vu\u010di\u010b mirrored that of Hungary's Orb\u00e1n",
+   "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+   "summary": "Defeat for Serbia's Aleksandar Vu\u010di\u010b in last weekend's vote was a carbon copy of Viktor Orb\u00e1n's fall in Hungary.",
+   "published": "Sun, 01 Nov 2026 00:55:06 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "serbia",
+    "hungary",
+    "downfall",
+    "mirrored",
+    "defeat"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Defeat for Serbia's Aleksandar Vu\u010di\u010b in last weekend's vote was a carbon copy of Viktor Orb\u00e1n's fall",
    "category": "News"
   },
   {
@@ -354,49 +377,26 @@
    "category": "News"
   },
   {
-   "id": "39d66f52e6961c18253bc5596755c8c3",
+   "id": "06c409921a8d62bfe6ff8e01dcc47d15",
    "sector": "World",
-   "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
-   "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-   "published": "Sat, 31 Oct 2026 05:44:21 GMT",
+   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+   "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+   "published": "Sat, 31 Oct 2026 15:16:20 GMT",
    "source": "rss",
-   "sentiment_score": 0.02500000000000001,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.43333333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "election",
-    "spain",
-    "train",
-    "disaster",
-    "clouds"
+    "more",
+    "than",
+    "ebola",
+    "congo",
+    "deadliest"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-   "category": "News"
-  },
-  {
-   "id": "b3486da9092a588fb77b8135a0eb72bf",
-   "sector": "World",
-   "title": "Global nature talks reach deal but money remains an issue",
-   "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-   "published": "Sat, 31 Oct 2026 01:27:05 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "global",
-    "nature",
-    "talks",
-    "reach",
-    "deal"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+   "summary_short": "Government data shows that more than 10,000 people have contracted the rare virus.",
    "category": "News"
   },
   {
@@ -768,6 +768,29 @@
    "category": "News"
   },
   {
+   "id": "cb740823ea92decad53511b61a967ff8",
+   "sector": "Crypto",
+   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+   "summary": "",
+   "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "confirms",
+    "north",
+    "korea",
+    "role",
+    "billion"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "a84bd77904804a7f4e5c0d60d039abac",
    "sector": "Crypto",
    "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -921,29 +944,6 @@
     "chase",
     "profits",
     "individuals"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "5100b5e5664aab2abecf9190e532c2b5",
-   "sector": "Crypto",
-   "title": "18 years in, what has Bitcoin truly done?",
-   "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-   "summary": "",
-   "published": "Sat, 31 Oct 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "years",
-    "what",
-    "bitcoin",
-    "truly",
-    "done"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,6 +1343,29 @@
    "category": "News"
   },
   {
+   "id": "c2a26654c7edfa0362f969d59c07b05f",
+   "sector": "Tech/AI",
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>",
+   "published": "Sat, 31 Oct 2026 22:41:06 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "italian",
+    "farmer",
+    "found",
+    "some",
+    "unknown"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320963\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "dd99af02f90e5500fffcb9ee1f6c0613",
    "sector": "Tech/AI",
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -1366,64 +1389,41 @@
    "category": "News"
   },
   {
-   "id": "7c320158c24aaa60a93d51ee02665f66",
+   "id": "ea93fa08e60bc1ddf7bee006d5d7d4de",
    "sector": "Tech/AI",
-   "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-   "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320028\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 20:46:39 +0000",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320995\">Comments</a>",
+   "published": "Sat, 31 Oct 2026 22:46:12 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "words",
-    "might",
-    "understand",
-    "only",
-    "anime"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320028\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "12fa6b5cfdff9899659b63ca0a489a06",
-   "sector": "Tech/AI",
-   "title": "It's the Memory Latency, Stupid",
-   "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50318720\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 18:38:16 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.7999999999999999,
+   "sentiment_score": -0.2916666666666667,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "memory",
-    "latency",
-    "stupid",
-    "href",
-    "https"
+    "memdoor",
+    "team",
+    "models",
+    "beats",
+    "fable"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50318720\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50320995\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "e31a5d88f583ff38d107e92933e22807",
+   "id": "0a3865a03212b116a52afdf4f66dde72",
    "sector": "Tech/AI",
-   "title": "The Duty of a Scholar",
-   "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50319061\">Comments</a>",
-   "published": "Sat, 31 Oct 2026 19:07:36 +0000",
+   "title": "Altoids Project",
+   "link": "https://uvdn7.github.io/altoids-project/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>",
+   "published": "Sat, 31 Oct 2026 22:54:55 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "duty",
-    "scholar",
+    "altoids",
+    "project",
     "href",
     "https",
     "news"
@@ -1431,7 +1431,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50319061\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50321048\">Comments</a>",
    "category": "News"
   }
  ]
