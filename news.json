@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02 01:06 IST",
+ "updated": "2026-11-02 04:32 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -28,6 +28,12 @@
    "article_count": 5
   },
   {
+   "keyword": "data",
+   "frequency": 9,
+   "sectors": 2,
+   "article_count": 3
+  },
+  {
    "keyword": "crypto",
    "frequency": 7,
    "sectors": 2,
@@ -38,12 +44,6 @@
    "frequency": 7,
    "sectors": 2,
    "article_count": 3
-  },
-  {
-   "keyword": "data",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 2
   },
   {
    "keyword": "their",
@@ -82,6 +82,12 @@
    "article_count": 2
   },
   {
+   "keyword": "centers",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
    "keyword": "universe",
    "frequency": 4,
    "sectors": 1,
@@ -92,150 +98,144 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
-  },
-  {
-   "keyword": "leste",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:09.710850+00:00",
+   "last_failure": "2026-11-01 23:02:11.715618+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:09.854959+00:00",
+   "last_failure": "2026-11-01 23:02:11.766679+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:09.982607+00:00",
+   "last_failure": "2026-11-01 23:02:11.819243+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.110174+00:00",
+   "last_failure": "2026-11-01 23:02:11.870047+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.237378+00:00",
+   "last_failure": "2026-11-01 23:02:11.917585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.379490+00:00",
+   "last_failure": "2026-11-01 23:02:11.971800+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.523184+00:00",
+   "last_failure": "2026-11-01 23:02:12.022827+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.652050+00:00",
+   "last_failure": "2026-11-01 23:02:12.073651+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.779917+00:00",
+   "last_failure": "2026-11-01 23:02:12.126635+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:10.923303+00:00",
+   "last_failure": "2026-11-01 23:02:12.177491+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.047374+00:00",
+   "last_failure": "2026-11-01 23:02:12.230797+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.176744+00:00",
+   "last_failure": "2026-11-01 23:02:12.281602+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.298010+00:00",
+   "last_failure": "2026-11-01 23:02:12.330879+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.451867+00:00",
+   "last_failure": "2026-11-01 23:02:12.381061+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.573332+00:00",
+   "last_failure": "2026-11-01 23:02:12.427972+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-01 19:36:11.699506+00:00",
+   "last_failure": "2026-11-01 23:02:12.477251+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "284a62414388e40b186d566dec59de84",
+   "id": "0f71f506b74d065d62dfb90ea510adff",
    "sector": "World",
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "published": "Sun, 01 Nov 2026 21:55:01 GMT",
    "source": "rss",
-   "sentiment_score": -0.26666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "protests",
-    "shops",
-    "looted",
-    "german",
-    "cost"
+    "russian",
+    "ceasefire",
+    "strikes",
+    "power",
+    "thousands"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
+   "summary_short": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
    "category": "News"
   },
   {
@@ -285,6 +285,29 @@
    "category": "News"
   },
   {
+   "id": "284a62414388e40b186d566dec59de84",
+   "sector": "World",
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+   "source": "rss",
+   "sentiment_score": -0.26666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "protests",
+    "shops",
+    "looted",
+    "german",
+    "cost"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
+   "category": "News"
+  },
+  {
    "id": "976f45b0a074aa3417883ed7eb84195a",
    "sector": "World",
    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -308,12 +331,12 @@
    "category": "News"
   },
   {
-   "id": "040ec19d4863596fe3958becf1c904b5",
+   "id": "ce75e99670ca6550e461df46cee071f6",
    "sector": "World",
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
    "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
    "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-   "published": "Sun, 01 Nov 2026 19:17:34 GMT",
+   "published": "Sun, 01 Nov 2026 21:16:45 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -377,26 +400,26 @@
    "category": "News"
   },
   {
-   "id": "dfeede172c82fbd2dfe44f105f3d9571",
-   "sector": "World",
-   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-   "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-   "published": "Sun, 01 Nov 2026 00:41:24 GMT",
+   "id": "7af63f886341955bb9cec6bf2eeced8a",
+   "sector": "Markets",
+   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "summary": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d",
+   "published": "Sun, 01 Nov 2026 20:00:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.08750000000000001,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "trump",
-    "epstein",
-    "birthday",
-    "book",
-    "judge"
+    "when",
+    "wife",
+    "cried",
+    "found",
+    "only"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signe",
+   "summary_short": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to m",
    "category": "News"
   },
   {
@@ -561,26 +584,49 @@
    "category": "News"
   },
   {
-   "id": "be408aa29608b4f9478fbd5dc227f229",
-   "sector": "Markets",
-   "title": "Who really wins under Trump\u2019s economy? Coastal liberal elites who hate him.",
-   "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-   "summary": "In other words, not the people Republicans likely intended.",
-   "published": "Sun, 01 Nov 2026 13:00:00 GMT",
+   "id": "3a4605f28694a812a4130681f1df8452",
+   "sector": "Tech/AI",
+   "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "published": "Sun, 01 Nov 2026 21:55:23 +0000",
    "source": "rss",
-   "sentiment_score": -0.15625,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "really",
-    "wins",
-    "under",
-    "trump",
-    "economy"
+    "data",
+    "centers",
+    "openai",
+    "might",
+    "rebrand"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "In other words, not the people Republicans likely intended.",
+   "summary_short": "Data centers are deeply unpopular. But what if we called them something else?",
+   "category": "News"
+  },
+  {
+   "id": "e4001eacf6ae7e424e620e1d2b86ca0a",
+   "sector": "Tech/AI",
+   "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "tech",
+    "make",
+    "ceos",
+    "lives",
+    "easier"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
    "category": "News"
   },
   {
@@ -719,52 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "category": "News"
-  },
-  {
-   "id": "2766322d2bb9784be72dcf83c6dbd37c",
-   "sector": "Tech/AI",
-   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-   "summary": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-   "published": "Sat, 31 Oct 2026 21:36:07 +0000",
-   "source": "rss",
-   "sentiment_score": 0.30833333333333335,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "connections",
-    "days",
-    "left",
-    "techcrunch",
-    "founder"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networ",
-   "category": "News"
-  },
-  {
-   "id": "68cd1210b8411378d406e70d8c81de05",
-   "sector": "Tech/AI",
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "published": "Sat, 31 Oct 2026 21:17:03 +0000",
-   "source": "rss",
-   "sentiment_score": 0.13333333333333336,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "naacp",
-    "lawsuit",
-    "judge",
-    "allows",
-    "over"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
    "category": "News"
   },
   {
@@ -1341,26 +1341,26 @@
    "category": "News"
   },
   {
-   "id": "ef2bc72e5cdb4b73c6384f76d8c3f75b",
+   "id": "52bbd1d34a04215a4c2d24e6efceb49b",
    "sector": "Tech/AI",
-   "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
-   "link": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328487\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 18:53:46 +0000",
+   "title": "Nibnib: Image compression with extreme decompression speed",
+   "link": "https://github.com/raphlinus/nibnib",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
+   "published": "Fri, 30 Oct 2026 04:17:06 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.4,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.125,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "nurses",
-    "sound",
-    "alarm",
-    "uber",
-    "nursing"
+    "nibnib",
+    "image",
+    "compression",
+    "extreme",
+    "decompression"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328487\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
    "category": "News"
   },
   {
@@ -1387,49 +1387,49 @@
    "category": "News"
   },
   {
-   "id": "b4b33f51ddb536470acf175868b58cd5",
+   "id": "44fa3112e701588e16340918081da938",
    "sector": "Tech/AI",
-   "title": "Patrick Stewart taught us what good men do with power",
-   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50327650\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 17:28:16 +0000",
+   "title": "Tips for more effective fuzz testing with AFL++",
+   "link": "https://nullprogram.com/blog/2025/02/05/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50271106\">Comments</a>",
+   "published": "Wed, 28 Oct 2026 09:46:12 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.7,
+   "sentiment_score": 0.55,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "patrick",
-    "stewart",
-    "taught",
-    "what",
-    "good"
+    "tips",
+    "more",
+    "effective",
+    "fuzz",
+    "testing"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50327650\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50271106\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "ecf0fbb4e29687ab531c5c42188fd6c5",
+   "id": "e3f65ef345f82a20317af656adefa9f0",
    "sector": "Tech/AI",
-   "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-   "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326118\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 14:36:13 +0000",
+   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299427\">Comments</a>",
+   "published": "Fri, 30 Oct 2026 03:06:52 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "police",
-    "chief",
-    "unplugs",
-    "flock",
-    "cameras"
+    "thermal",
+    "invisibility",
+    "cloak",
+    "makes",
+    "objects"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326118\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299427\">Comments</a>",
    "category": "News"
   }
  ]
