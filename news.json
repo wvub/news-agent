@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02 04:32 IST",
+ "updated": "2026-11-02 07:55 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -34,16 +34,16 @@
    "article_count": 3
   },
   {
-   "keyword": "crypto",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 6
-  },
-  {
    "keyword": "world",
    "frequency": 7,
    "sectors": 2,
    "article_count": 3
+  },
+  {
+   "keyword": "crypto",
+   "frequency": 6,
+   "sectors": 1,
+   "article_count": 5
   },
   {
    "keyword": "their",
@@ -70,12 +70,6 @@
    "article_count": 2
   },
   {
-   "keyword": "election",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
    "keyword": "apple",
    "frequency": 4,
    "sectors": 2,
@@ -98,123 +92,152 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "leste",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.715618+00:00",
+   "last_failure": "2026-11-02 02:25:01.182140+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.766679+00:00",
+   "last_failure": "2026-11-02 02:25:01.352053+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.819243+00:00",
+   "last_failure": "2026-11-02 02:25:01.435547+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.870047+00:00",
+   "last_failure": "2026-11-02 02:25:01.531805+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.917585+00:00",
+   "last_failure": "2026-11-02 02:25:01.641276+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:11.971800+00:00",
+   "last_failure": "2026-11-02 02:25:01.721441+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.022827+00:00",
+   "last_failure": "2026-11-02 02:25:01.807774+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.073651+00:00",
+   "last_failure": "2026-11-02 02:25:01.891256+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.126635+00:00",
+   "last_failure": "2026-11-02 02:25:01.963996+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.177491+00:00",
+   "last_failure": "2026-11-02 02:25:02.099434+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.230797+00:00",
+   "last_failure": "2026-11-02 02:25:02.180245+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.281602+00:00",
+   "last_failure": "2026-11-02 02:25:02.268629+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.330879+00:00",
+   "last_failure": "2026-11-02 02:25:02.372301+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.381061+00:00",
+   "last_failure": "2026-11-02 02:25:02.455445+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.427972+00:00",
+   "last_failure": "2026-11-02 02:25:02.524502+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-01 23:02:12.477251+00:00",
+   "last_failure": "2026-11-02 02:25:02.591967+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "a9de6ab919eff5563688311907efb953",
+   "sector": "World",
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+   "published": "Mon, 02 Nov 2026 01:18:27 GMT",
+   "source": "rss",
+   "sentiment_score": -0.17,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hacked",
+    "ukraine",
+    "raid",
+    "apparently",
+    "users"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the cou",
+   "category": "News"
+  },
   {
    "id": "0f71f506b74d065d62dfb90ea510adff",
    "sector": "World",
@@ -236,6 +259,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "category": "News"
+  },
+  {
+   "id": "ce75e99670ca6550e461df46cee071f6",
+   "sector": "World",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+   "published": "Mon, 02 Nov 2026 01:45:42 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "democrat",
+    "senate",
+    "endorses",
+    "republican",
+    "candidate"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was c",
    "category": "News"
   },
   {
@@ -262,6 +308,29 @@
    "category": "News"
   },
   {
+   "id": "1679a7b6eea1263e1e3aacbbee2522e5",
+   "sector": "World",
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+   "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+   "published": "Mon, 02 Nov 2026 00:15:30 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "france",
+    "launches",
+    "attempted",
+    "murder",
+    "investigation"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "There were hundreds of arrests as protesters took to the streets in cities across France for the thi",
+   "category": "News"
+  },
+  {
    "id": "f2bda7cde00fd0e7b332df7c6f14a13e",
    "sector": "World",
    "title": "University of Cambridge scientist among those who died in Spanish train crash",
@@ -282,29 +351,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she ",
-   "category": "News"
-  },
-  {
-   "id": "284a62414388e40b186d566dec59de84",
-   "sector": "World",
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "published": "Sun, 01 Nov 2026 11:57:48 GMT",
-   "source": "rss",
-   "sentiment_score": -0.26666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "protests",
-    "shops",
-    "looted",
-    "german",
-    "cost"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
    "category": "News"
   },
   {
@@ -331,72 +377,72 @@
    "category": "News"
   },
   {
-   "id": "ce75e99670ca6550e461df46cee071f6",
+   "id": "284a62414388e40b186d566dec59de84",
    "sector": "World",
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-   "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-   "published": "Sun, 01 Nov 2026 21:16:45 GMT",
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "published": "Sun, 01 Nov 2026 11:57:48 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "endorses",
-    "senate",
-    "democrat",
-    "republican",
-    "candidate"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his oppo",
-   "category": "News"
-  },
-  {
-   "id": "ce3bec588ed0395aae6714d01f410d63",
-   "sector": "World",
-   "title": "India's opposition holds mega rally seeking election chief's resignation",
-   "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-   "published": "Sun, 01 Nov 2026 07:00:55 GMT",
-   "source": "rss",
-   "sentiment_score": -0.15555555555555556,
+   "sentiment_score": -0.26666666666666666,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "election",
-    "chief",
-    "india",
-    "opposition",
-    "holds"
+    "protests",
+    "shops",
+    "looted",
+    "german",
+    "cost"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
    "category": "News"
   },
   {
-   "id": "af452bb880fe217cd0f55ddded04716b",
-   "sector": "World",
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-   "published": "Sun, 01 Nov 2026 13:11:37 GMT",
+   "id": "da7c3b9d4868023aad4ecd9445dee301",
+   "sector": "Markets",
+   "title": "This is the biggest threat to the AI-powered bull market",
+   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+   "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+   "published": "Mon, 02 Nov 2026 00:22:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "hack",
-    "crypto",
-    "firm",
-    "binance",
-    "covers"
+    "market",
+    "biggest",
+    "threat",
+    "powered",
+    "bull"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "summary_short": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engin",
+   "category": "News"
+  },
+  {
+   "id": "b22fd33e64989dc4449a12c3fd03b94d",
+   "sector": "Markets",
+   "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech",
+   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+   "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+   "published": "Mon, 02 Nov 2026 00:21:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.11454545454545455,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "apple",
+    "earnings",
+    "begins",
+    "critical",
+    "time"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus i",
    "category": "News"
   },
   {
@@ -512,52 +558,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to p",
-   "category": "News"
-  },
-  {
-   "id": "b22fd33e64989dc4449a12c3fd03b94d",
-   "sector": "Markets",
-   "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech",
-   "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-   "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-   "published": "Sun, 01 Nov 2026 15:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.11454545454545455,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "apple",
-    "earnings",
-    "begins",
-    "critical",
-    "time"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus i",
-   "category": "News"
-  },
-  {
-   "id": "da7c3b9d4868023aad4ecd9445dee301",
-   "sector": "Markets",
-   "title": "This is the biggest threat to the AI-powered bull market",
-   "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-   "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-   "published": "Sun, 01 Nov 2026 14:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "market",
-    "biggest",
-    "threat",
-    "powered",
-    "bull"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engin",
    "category": "News"
   },
   {
@@ -1341,29 +1341,6 @@
    "category": "News"
   },
   {
-   "id": "52bbd1d34a04215a4c2d24e6efceb49b",
-   "sector": "Tech/AI",
-   "title": "Nibnib: Image compression with extreme decompression speed",
-   "link": "https://github.com/raphlinus/nibnib",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
-   "published": "Fri, 30 Oct 2026 04:17:06 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "nibnib",
-    "image",
-    "compression",
-    "extreme",
-    "decompression"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "d2266dc435eeb7ebc64353820ef0a3e5",
    "sector": "Tech/AI",
    "title": "HackerTube: YouTube built from videos recommended by HN",
@@ -1387,49 +1364,72 @@
    "category": "News"
   },
   {
-   "id": "44fa3112e701588e16340918081da938",
+   "id": "52bbd1d34a04215a4c2d24e6efceb49b",
    "sector": "Tech/AI",
-   "title": "Tips for more effective fuzz testing with AFL++",
-   "link": "https://nullprogram.com/blog/2025/02/05/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50271106\">Comments</a>",
-   "published": "Wed, 28 Oct 2026 09:46:12 +0000",
+   "title": "Nibnib: Image compression with extreme decompression speed",
+   "link": "https://github.com/raphlinus/nibnib",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
+   "published": "Fri, 30 Oct 2026 04:17:06 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.55,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.125,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "tips",
-    "more",
-    "effective",
-    "fuzz",
-    "testing"
+    "nibnib",
+    "image",
+    "compression",
+    "extreme",
+    "decompression"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50271106\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "e3f65ef345f82a20317af656adefa9f0",
+   "id": "35e06ae2e943eaa5885160ad7cfd88b3",
    "sector": "Tech/AI",
-   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299427\">Comments</a>",
-   "published": "Fri, 30 Oct 2026 03:06:52 +0000",
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "link": "https://news.ycombinator.com/item?id=50328896",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328896\">Comments</a>",
+   "published": "Sun, 01 Nov 2026 19:35:27 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "thermal",
-    "invisibility",
-    "cloak",
-    "makes",
-    "objects"
+    "which",
+    "recommend",
+    "privacy",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299427\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328896\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "4321337570e371e99c074d01f1b81b29",
+   "sector": "Tech/AI",
+   "title": "OccupySaaS",
+   "link": "https://occupysaas.com/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50331402\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 00:17:27 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "occupysaas",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50331402\">Comments</a>",
    "category": "News"
   }
  ]
