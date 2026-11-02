@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-02 07:55 IST",
+ "updated": "2026-11-02 15:16 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -40,9 +40,21 @@
    "article_count": 3
   },
   {
-   "keyword": "crypto",
+   "keyword": "market",
    "frequency": 6,
    "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "party",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
+   "keyword": "binance",
+   "frequency": 5,
+   "sectors": 3,
    "article_count": 5
   },
   {
@@ -62,18 +74,6 @@
    "frequency": 5,
    "sectors": 1,
    "article_count": 1
-  },
-  {
-   "keyword": "attack",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "apple",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
   },
   {
    "keyword": "centers",
@@ -104,207 +104,253 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.182140+00:00",
+   "last_failure": "2026-11-02 09:46:18.492007+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.352053+00:00",
+   "last_failure": "2026-11-02 09:46:18.609639+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.435547+00:00",
+   "last_failure": "2026-11-02 09:46:18.708179+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.531805+00:00",
+   "last_failure": "2026-11-02 09:46:18.799320+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.641276+00:00",
+   "last_failure": "2026-11-02 09:46:18.907790+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.721441+00:00",
+   "last_failure": "2026-11-02 09:46:19.009522+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.807774+00:00",
+   "last_failure": "2026-11-02 09:46:19.125679+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.891256+00:00",
+   "last_failure": "2026-11-02 09:46:19.246223+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:01.963996+00:00",
+   "last_failure": "2026-11-02 09:46:19.342729+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.099434+00:00",
+   "last_failure": "2026-11-02 09:46:19.472821+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.180245+00:00",
+   "last_failure": "2026-11-02 09:46:19.577476+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.268629+00:00",
+   "last_failure": "2026-11-02 09:46:19.707400+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.372301+00:00",
+   "last_failure": "2026-11-02 09:46:19.830163+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.455445+00:00",
+   "last_failure": "2026-11-02 09:46:19.932359+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.524502+00:00",
+   "last_failure": "2026-11-02 09:46:20.033967+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-02 02:25:02.591967+00:00",
+   "last_failure": "2026-11-02 09:46:20.133245+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "a9de6ab919eff5563688311907efb953",
+   "id": "c566fe09c4c84e9742c1c89fb44a0259",
    "sector": "World",
-   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-   "published": "Mon, 02 Nov 2026 01:18:27 GMT",
+   "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+   "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+   "published": "Mon, 02 Nov 2026 04:40:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.17,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "hacked",
-    "ukraine",
-    "raid",
-    "apparently",
-    "users"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the cou",
-   "category": "News"
-  },
-  {
-   "id": "0f71f506b74d065d62dfb90ea510adff",
-   "sector": "World",
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "published": "Sun, 01 Nov 2026 21:55:01 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "russian",
-    "ceasefire",
-    "strikes",
-    "power",
-    "thousands"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "category": "News"
-  },
-  {
-   "id": "ce75e99670ca6550e461df46cee071f6",
-   "sector": "World",
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-   "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-   "published": "Mon, 02 Nov 2026 01:45:42 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
+    "michigan",
+    "party",
     "democrat",
-    "senate",
-    "endorses",
-    "republican",
-    "candidate"
+    "rocked",
+    "days"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was c",
+   "summary_short": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
    "category": "News"
   },
   {
-   "id": "a86e02882e198c5fa931c01ee0d40aad",
+   "id": "0db784d2f5f5090c3655e90c8132313b",
    "sector": "World",
-   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-   "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-   "published": "Sun, 01 Nov 2026 17:06:32 GMT",
+   "title": "Trump makes final campaign push in final weekend before election",
+   "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+   "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+   "published": "Mon, 02 Nov 2026 04:04:28 GMT",
    "source": "rss",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": -0.08630952380952381,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "gaza",
-    "including",
-    "child",
-    "killed",
-    "israeli"
+    "final",
+    "trump",
+    "makes",
+    "campaign",
+    "push"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including ",
+   "summary_short": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's ",
+   "category": "News"
+  },
+  {
+   "id": "78c7bae14f064d1de3c66b5ff19501ca",
+   "sector": "World",
+   "title": "Nine killed as small jet crashes on Florida street",
+   "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+   "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+   "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+   "source": "rss",
+   "sentiment_score": -0.3375,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "nine",
+    "killed",
+    "small",
+    "crashes",
+    "florida"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a",
+   "category": "News"
+  },
+  {
+   "id": "38cf69ad18e65e90a8e6e61b4a67591d",
+   "sector": "World",
+   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+   "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+   "published": "Mon, 02 Nov 2026 07:42:33 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "binance",
+    "users",
+    "withdraw",
+    "after",
+    "largest"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The exchange froze transactions following the incident which has been linked to a North Korean group",
+   "category": "News"
+  },
+  {
+   "id": "a01f5a03a2f070363251d1bcaf198533",
+   "sector": "World",
+   "title": "Ryanair may freeze workers' pay and raise airfares",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "summary": "The airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+   "published": "Mon, 02 Nov 2026 08:33:57 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ryanair",
+    "freeze",
+    "workers",
+    "raise",
+    "airfares"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war wi",
+   "category": "News"
+  },
+  {
+   "id": "2c17097b2180fbd84296d853e66bbaec",
+   "sector": "World",
+   "title": "China state broadcaster pulls La Liga matches following Mbapp\u00e9 joke",
+   "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+   "summary": "China Media Group, which acknowledged Mbapp\u00e9's apology, has not said how long the blackout will last.",
+   "published": "Mon, 02 Nov 2026 03:58:38 GMT",
+   "source": "rss",
+   "sentiment_score": -0.016666666666666666,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "china",
+    "state",
+    "broadcaster",
+    "pulls",
+    "liga"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "China Media Group, which acknowledged Mbapp\u00e9's apology, has not said how long the blackout will last",
    "category": "News"
   },
   {
@@ -331,72 +377,118 @@
    "category": "News"
   },
   {
-   "id": "f2bda7cde00fd0e7b332df7c6f14a13e",
+   "id": "a42e95038cf14841cbb96e42fd1d0ea2",
    "sector": "World",
-   "title": "University of Cambridge scientist among those who died in Spanish train crash",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-   "published": "Sun, 01 Nov 2026 17:05:18 GMT",
+   "title": "Popular Australian children's author jailed over child exploitation offences",
+   "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
+   "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+   "published": "Mon, 02 Nov 2026 08:03:39 GMT",
    "source": "rss",
-   "sentiment_score": 0.2875,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "scientist",
-    "university",
-    "cambridge",
-    "among",
-    "those"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she ",
-   "category": "News"
-  },
-  {
-   "id": "976f45b0a074aa3417883ed7eb84195a",
-   "sector": "World",
-   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-   "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-   "published": "Sun, 01 Nov 2026 17:56:47 GMT",
-   "source": "rss",
-   "sentiment_score": -0.02121212121212122,
+   "sentiment_score": 0.024999999999999994,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "police",
-    "attack",
-    "armed",
-    "start",
-    "patrols"
+    "author",
+    "popular",
+    "australian",
+    "children",
+    "jailed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The new police unit is a security measure in response to last year's deadly shooting attack at a Han",
+   "summary_short": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlie",
    "category": "News"
   },
   {
-   "id": "284a62414388e40b186d566dec59de84",
-   "sector": "World",
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+   "id": "02c1abb64eaf4bd1f9cb630c3b2e2ff2",
+   "sector": "Markets",
+   "title": "The election will be good news, regardless of outcome, says Morgan Stanley\u2019s chief stock-market strategist",
+   "link": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
+   "summary": "Morgan Stanley\u2019s chief stock-market strategist, Mike Wilson, said the midterm elections are a classic \u201cclearing event\u201d whose outcome at this point doesn\u2019t really matter.",
+   "published": "Mon, 02 Nov 2026 09:15:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.26666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.35555555555555557,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "protests",
-    "shops",
-    "looted",
-    "german",
-    "cost"
+    "outcome",
+    "morgan",
+    "stanley",
+    "chief",
+    "stock"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same d",
+   "summary_short": "Morgan Stanley\u2019s chief stock-market strategist, Mike Wilson, said the midterm elections are a classi",
+   "category": "News"
+  },
+  {
+   "id": "06f76229594dc1402e77cce6625d4072",
+   "sector": "Markets",
+   "title": "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterm elections",
+   "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+   "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
+   "published": "Mon, 02 Nov 2026 08:56:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.24999999999999997,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bond",
+    "market",
+    "your",
+    "stock",
+    "portfolio"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond ma",
+   "category": "News"
+  },
+  {
+   "id": "4edc9a86b8d9586b00ba6bc3af65b16f",
+   "sector": "Markets",
+   "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here\u2019s his playbook.",
+   "link": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
+   "summary": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back painfully for investors who aren\u2019t prepared.",
+   "published": "Mon, 02 Nov 2026 07:25:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2333333333333333,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "macro",
+    "says",
+    "bull",
+    "market",
+    "marine"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Alex Barrow, founder of Macro Ops, says the bull market is on borrowed time and will ratchet back pa",
+   "category": "News"
+  },
+  {
+   "id": "827569221e031f00f8ce1717e33da953",
+   "sector": "Markets",
+   "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
+   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+   "summary": "How to manage \u201cgiving while living\u201d without endangering your own retirement.",
+   "published": "Mon, 02 Nov 2026 03:23:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "your",
+    "while",
+    "want",
+    "help",
+    "adult"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "How to manage \u201cgiving while living\u201d without endangering your own retirement.",
    "category": "News"
   },
   {
@@ -492,95 +584,26 @@
    "category": "News"
   },
   {
-   "id": "f86b11bfa075ff42645eaf5f92164512",
-   "sector": "Markets",
-   "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-   "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-   "summary": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
-   "published": "Sun, 01 Nov 2026 17:30:00 GMT",
+   "id": "4ed10ff072d4a70fe649c5de3b47f2ec",
+   "sector": "Tech/AI",
+   "title": "Borrowed reading: stories from our extended colleagues",
+   "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+   "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+   "published": "Mon, 02 Nov 2026 04:23:48 +0000",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "caregiver",
-    "father",
-    "alzheimer",
-    "using",
-    "debit"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI suspect the live-in caregiver is benefiting from my parent\u2019s generosity.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "2fc8b41fe0bb89e1a7c0dc34adeed568",
-   "sector": "Markets",
-   "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-   "summary": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
-   "published": "Sun, 01 Nov 2026 17:05:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.012857142857142862,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "heartbroken",
-    "husband",
-    "kids",
-    "abandoned",
-    "when"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cIn the end, he left them a few sentimental mementos, some collectibles and old photographs.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "ef19196bb65f977498e3236e12311224",
-   "sector": "Markets",
-   "title": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day because they \u2018don\u2019t want to wait\u2019 anymore",
-   "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-   "summary": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play \u2018Grand Theft Auto VI\u2019 when it drops on Nov. 19",
-   "published": "Sun, 01 Nov 2026 16:35:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.09999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "grand",
-    "theft",
-    "callout",
-    "fans",
-    "missing"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to p",
-   "category": "News"
-  },
-  {
-   "id": "df52cc09a73d3926800f9d71f515f713",
-   "sector": "Markets",
-   "title": "America is doing better than you think. Your algorithm is just hiding it.",
-   "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-   "summary": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn\u2019t know it from scrolling social media.",
-   "published": "Sun, 01 Nov 2026 13:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.19444444444444445,
+   "sentiment_score": 0.3,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "than",
-    "america",
-    "doing",
-    "better",
-    "think"
+    "stories",
+    "extended",
+    "colleagues",
+    "borrowed",
+    "reading"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn\u2019t know it fr",
+   "summary_short": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWor",
    "category": "News"
   },
   {
@@ -745,44 +768,21 @@
    "category": "News"
   },
   {
-   "id": "5f7493256a05b791e909a3bbbb3425f2",
-   "sector": "Tech/AI",
-   "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "published": "Sat, 31 Oct 2026 21:41:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "apple",
-    "company",
-    "says",
-    "doesn",
-    "want"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "category": "News"
-  },
-  {
-   "id": "3bcbcb785b5e7db53c80db513d5bd14e",
+   "id": "ef0411eca1a842c44b9d29777ffa2a4f",
    "sector": "Crypto",
-   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-   "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+   "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+   "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
    "summary": "",
-   "published": "Sun, 01 Nov 2026 19:30:00 +0000",
+   "published": "Mon, 02 Nov 2026 09:33:20 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "crypto",
-    "reader",
-    "guide",
-    "midterm",
-    "election"
+    "metals",
+    "issues",
+    "tokens",
+    "backed",
+    "tonnes"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -791,134 +791,21 @@
    "category": "News"
   },
   {
-   "id": "d05d1c698c493bba42f997d2bde38d81",
+   "id": "87fbeffa4351023f7538c138242d4921",
    "sector": "Crypto",
-   "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-   "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+   "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+   "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
    "summary": "",
-   "published": "Sun, 01 Nov 2026 17:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "agents",
-    "bypassed",
-    "crypto",
-    "spending",
-    "limits"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "797295e721f6080adcb4c8966f004a3d",
-   "sector": "Crypto",
-   "title": "The key races to watch for the 2026 election",
-   "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-   "summary": "",
-   "published": "Sun, 01 Nov 2026 15:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "races",
-    "watch",
-    "election"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "23fc9d1b789395f63f9dc2f9aea4e9ad",
-   "sector": "Crypto",
-   "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-   "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-   "summary": "",
-   "published": "Sun, 01 Nov 2026 15:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "card",
-    "startups",
-    "racking",
-    "losses"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "4149003896d73624aa557a3d5eb95281",
-   "sector": "Crypto",
-   "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-   "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
-   "summary": "",
-   "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "pacs",
-    "made",
-    "republican",
-    "push"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "411372827e0434c37082b6fde8b7111e",
-   "sector": "Crypto",
-   "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-   "link": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
-   "summary": "",
-   "published": "Sun, 01 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "sherrod",
-    "brown",
-    "ohio",
-    "edge",
-    "threatens"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "1d717e6ad4b3967fb2345a533739df22",
-   "sector": "Crypto",
-   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-   "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-   "summary": "",
-   "published": "Sun, 01 Nov 2026 10:35:42 +0000",
+   "published": "Mon, 02 Nov 2026 09:04:49 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "binance",
-    "opens",
-    "crypto",
-    "withdrawals",
-    "phases"
+    "hack",
+    "fallout",
+    "midterms",
+    "jobs"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -927,21 +814,136 @@
    "category": "News"
   },
   {
-   "id": "cb740823ea92decad53511b61a967ff8",
+   "id": "f03a3297fdee4d6a48364f9723cf8534",
    "sector": "Crypto",
-   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+   "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+   "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
    "summary": "",
-   "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+   "published": "Mon, 02 Nov 2026 08:49:30 +0000",
+   "source": "rss",
+   "sentiment_score": -0.007575757575757576,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "live",
+    "updates",
+    "binance",
+    "records",
+    "billion"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "7b0718e1ae58aeb58cea0f608efb2779",
+   "sector": "Crypto",
+   "title": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+   "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 08:41:28 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "confirms",
-    "north",
-    "korea",
-    "role",
-    "billion"
+    "china",
+    "communist",
+    "party",
+    "calls",
+    "crackdown"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "5715d97c2ecc909706e98aafa1112212",
+   "sector": "Crypto",
+   "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+   "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 08:32:01 +0000",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "stealing",
+    "billions",
+    "crypto",
+    "exchange",
+    "harder"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "80652367cf68d34247a7e6844c5d9f87",
+   "sector": "Crypto",
+   "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 06:46:41 +0000",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bitcoin",
+    "etfs",
+    "lost",
+    "million",
+    "outflows"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "f89470ae5428d42cd03c05456a5523af",
+   "sector": "Crypto",
+   "title": "Strangers are begging the Binance hacker for bitcoin, one \u2018help me bro\u2019 at a time",
+   "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 05:18:12 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "strangers",
+    "begging",
+    "binance",
+    "hacker",
+    "bitcoin"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "3c228962ee00d8ffd670d603cf7920a4",
+   "sector": "Crypto",
+   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 04:42:22 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bitcoin",
+    "claws",
+    "back",
+    "toward",
+    "markets"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1318,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "c97068feebbd88ccdab5b562645c479b",
+   "sector": "Tech/AI",
+   "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
+   "link": "https://wikihack.netlify.app",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50333339\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 05:06:30 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "show",
+    "wikihack",
+    "hackertube",
+    "wikipedia",
+    "articles"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50333339\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "477f8836dd17e65b75e0771e326b8f49",
    "sector": "Tech/AI",
    "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
@@ -1338,6 +1363,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50326821\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "eedf6d74f65eeeadd7d64c755f412620",
+   "sector": "Tech/AI",
+   "title": "Postgres 19 is late because so many more bugs are being found now",
+   "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50312408\">Comments</a>",
+   "published": "Sat, 31 Oct 2026 01:38:56 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.2333333333333333,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "postgres",
+    "late",
+    "because",
+    "many",
+    "more"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50312408\">Comments</a>",
    "category": "News"
   },
   {
@@ -1364,72 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "52bbd1d34a04215a4c2d24e6efceb49b",
+   "id": "2f1d429903cf4c2226f29c0feab30012",
    "sector": "Tech/AI",
-   "title": "Nibnib: Image compression with extreme decompression speed",
-   "link": "https://github.com/raphlinus/nibnib",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
-   "published": "Fri, 30 Oct 2026 04:17:06 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "nibnib",
-    "image",
-    "compression",
-    "extreme",
-    "decompression"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50299811\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "35e06ae2e943eaa5885160ad7cfd88b3",
-   "sector": "Tech/AI",
-   "title": "Ask HN: Which TV do you recommend for privacy?",
-   "link": "https://news.ycombinator.com/item?id=50328896",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328896\">Comments</a>",
-   "published": "Sun, 01 Nov 2026 19:35:27 +0000",
+   "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+   "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50332163\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 01:59:38 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "which",
-    "recommend",
-    "privacy",
-    "href",
-    "https"
+    "unix",
+    "comics",
+    "part",
+    "beginning",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50328896\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "4321337570e371e99c074d01f1b81b29",
-   "sector": "Tech/AI",
-   "title": "OccupySaaS",
-   "link": "https://occupysaas.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50331402\">Comments</a>",
-   "published": "Mon, 02 Nov 2026 00:17:27 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "occupysaas",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50331402\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50332163\">Comments</a>",
    "category": "News"
   }
  ]
