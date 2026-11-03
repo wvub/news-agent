@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-03 01:19 IST",
+ "updated": "2026-11-03 07:22 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -22,22 +22,22 @@
    "article_count": 5
   },
   {
-   "keyword": "world",
-   "frequency": 6,
+   "keyword": "apple",
+   "frequency": 8,
    "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "their",
-   "frequency": 5,
-   "sectors": 3,
-   "article_count": 3
+   "article_count": 4
   },
   {
    "keyword": "data",
    "frequency": 5,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "world",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
   },
   {
    "keyword": "switzerland",
@@ -52,39 +52,39 @@
    "article_count": 1
   },
   {
-   "keyword": "after",
+   "keyword": "russian",
    "frequency": 4,
-   "sectors": 1,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "iphone",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "third",
+   "frequency": 4,
+   "sectors": 3,
    "article_count": 3
   },
   {
-   "keyword": "african",
+   "keyword": "your",
    "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "lumentum",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "times",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "history",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "nasa",
    "frequency": 4,
    "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "their",
+   "frequency": 4,
+   "sectors": 2,
    "article_count": 2
   },
   {
@@ -104,161 +104,184 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.102016+00:00",
+   "last_failure": "2026-11-03 01:52:35.827651+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.159905+00:00",
+   "last_failure": "2026-11-03 01:52:35.909186+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.220638+00:00",
+   "last_failure": "2026-11-03 01:52:35.985456+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.273361+00:00",
+   "last_failure": "2026-11-03 01:52:36.063828+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.326255+00:00",
+   "last_failure": "2026-11-03 01:52:36.148346+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.380380+00:00",
+   "last_failure": "2026-11-03 01:52:36.228539+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.439029+00:00",
+   "last_failure": "2026-11-03 01:52:36.308197+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.488762+00:00",
+   "last_failure": "2026-11-03 01:52:36.377271+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.535832+00:00",
+   "last_failure": "2026-11-03 01:52:36.452881+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.592473+00:00",
+   "last_failure": "2026-11-03 01:52:36.521811+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.649039+00:00",
+   "last_failure": "2026-11-03 01:52:36.594806+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.705345+00:00",
+   "last_failure": "2026-11-03 01:52:36.665522+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.751821+00:00",
+   "last_failure": "2026-11-03 01:52:36.741259+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.809819+00:00",
+   "last_failure": "2026-11-03 01:52:36.810605+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.857948+00:00",
+   "last_failure": "2026-11-03 01:52:36.892884+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-02 19:49:40.917349+00:00",
+   "last_failure": "2026-11-03 01:52:36.963979+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "3fabab5285ca8c70cd3f27a5371a474f",
+   "id": "2b3df82a234c002188db20e7ba6af5f2",
    "sector": "World",
-   "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+   "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
    "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-   "published": "Mon, 02 Nov 2026 19:37:10 GMT",
+   "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+   "published": "Mon, 02 Nov 2026 21:10:04 GMT",
    "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.325,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "people",
-    "ukraine",
     "russian",
     "bombing",
-    "kills"
+    "kills",
+    "people",
+    "ukraine"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a villag",
+   "summary_short": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the presid",
    "category": "News"
   },
   {
-   "id": "107c0c11f0317c2b140ee08f47f2efeb",
+   "id": "60b040768ec10d7eb1a04baaa559d999",
    "sector": "World",
-   "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-   "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-   "published": "Mon, 02 Nov 2026 18:34:24 GMT",
+   "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+   "summary": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
+   "published": "Tue, 03 Nov 2026 00:07:05 GMT",
    "source": "rss",
-   "sentiment_score": -0.08333333333333333,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "fake",
-    "nuclear",
-    "warning",
-    "hacked",
-    "sparks"
+    "ukraine",
+    "thousands",
+    "european",
+    "troops",
+    "rehearse"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and do",
+   "summary_short": "Western officials stress that any force sent to Ukraine would not take part in any offensive operati",
+   "category": "News"
+  },
+  {
+   "id": "a639e619fddfb07cb8855893ac7f84ad",
+   "sector": "World",
+   "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+   "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+   "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+   "published": "Tue, 03 Nov 2026 00:08:14 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1666666666666667,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "crash",
+    "plane",
+    "broken",
+    "apart",
+    "ahead"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The National Transportation Safety Board also believes weather could have been a factor in the crash",
    "category": "News"
   },
   {
@@ -308,164 +331,233 @@
    "category": "News"
   },
   {
-   "id": "56928525ba908325d893fe9ed1f09949",
+   "id": "5d78f92ae1adf6b264370f3226cd52cf",
    "sector": "World",
-   "title": "Dutch police offer record \u20ac2m reward in hunt for drug lord",
-   "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
-   "published": "Mon, 02 Nov 2026 17:29:49 GMT",
+   "title": "Legal challenge to Australia's social media ban to start in High Court",
+   "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+   "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+   "published": "Mon, 02 Nov 2026 23:37:31 GMT",
    "source": "rss",
-   "sentiment_score": -0.5,
+   "sentiment_score": 0.2158095238095238,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "legal",
+    "challenge",
+    "australia",
+    "social",
+    "media"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A rights group will argue the world-leading policy robs under-16s of their right to free communicati",
+   "category": "News"
+  },
+  {
+   "id": "22493473f4a1983c75171b0d050b0f09",
+   "sector": "World",
+   "title": "North Korea denies being behind record $6.3bn Binance hack",
+   "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+   "published": "Tue, 03 Nov 2026 01:23:03 GMT",
+   "source": "rss",
+   "sentiment_score": -0.4,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "dutch",
-    "police",
-    "offer",
     "record",
-    "reward"
+    "north",
+    "korea",
+    "denies",
+    "being"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sier",
+   "summary_short": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
    "category": "News"
   },
   {
-   "id": "d0bae0029fb140dc53025828929eab4b",
+   "id": "66cf573f76d7e34ca41f763bb931e586",
    "sector": "World",
-   "title": "Five arrested after South African farmer shot and tortured",
-   "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-   "summary": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people - a claim widely discredited.",
-   "published": "Mon, 02 Nov 2026 10:48:47 GMT",
+   "title": "Man guilty of stealing cash from farm owned by South African president",
+   "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+   "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+   "published": "Mon, 02 Nov 2026 20:08:51 GMT",
    "source": "rss",
-   "sentiment_score": -0.03333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "five",
-    "arrested",
-    "after",
-    "south",
-    "african"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The attack on Donovan Marx, 50, comes as right-wing groups say there is a genocide of white people -",
-   "category": "News"
-  },
-  {
-   "id": "c3f4bdc5132d54d630b3f3ef77ab1ece",
-   "sector": "World",
-   "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-   "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-   "summary": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-   "published": "Mon, 02 Nov 2026 14:35:38 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "after",
-    "threat",
-    "wizz",
-    "flight",
-    "luton"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
-   "category": "News"
-  },
-  {
-   "id": "56a61899e7e5d80f8a692871cd236be6",
-   "sector": "World",
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-   "summary": "The airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-   "published": "Mon, 02 Nov 2026 12:22:10 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "says",
-    "ryanair",
-    "freeze",
-    "workers",
-    "raise"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war wi",
-   "category": "News"
-  },
-  {
-   "id": "fa947ff713e4ee133cdeeeb095a66960",
-   "sector": "Markets",
-   "title": "How soon gas prices could go down now that oil is tumbling",
-   "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
-   "summary": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
-   "published": "Mon, 02 Nov 2026 19:27:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.15555555555555556,
+   "sentiment_score": -0.16666666666666666,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "prices",
-    "soon",
-    "could",
-    "down",
-    "tumbling"
+    "president",
+    "guilty",
+    "stealing",
+    "cash",
+    "farm"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Retail gas prices dropped to $4.12 a gallon on Monday, as U.S. oil prices fell below $100 a barrel.",
+   "summary_short": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment",
    "category": "News"
   },
   {
-   "id": "02faaf759389eed9a3fd6b37c8cf29bb",
+   "id": "7daff0f59d5c9bfc1304b463c121c192",
    "sector": "Markets",
-   "title": "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street isn\u2019t worried.",
-   "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
-   "summary": "It\u2019s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
-   "published": "Mon, 02 Nov 2026 18:16:00 GMT",
+   "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
+   "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+   "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir\u2019s earnings beat.",
+   "published": "Tue, 03 Nov 2026 00:59:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.08,
+   "sentiment_score": -0.07777777777777778,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "take",
-    "weeks",
-    "tally",
-    "midterm",
-    "election"
+    "palantir",
+    "despite",
+    "here",
+    "stock",
+    "down"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "It\u2019s crucial to distinguish economic from political uncertainty, because only one really moves the s",
+   "summary_short": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palan",
    "category": "News"
   },
   {
-   "id": "c06e973443d87fa29454c0aac460102e",
+   "id": "4459077040200fa20f484422d58553aa",
    "sector": "Markets",
-   "title": "The bond-market rally is defying the typical investing playbook. Here\u2019s why.",
-   "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
-   "summary": "The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department\u2019s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.",
-   "published": "Mon, 02 Nov 2026 18:13:00 GMT",
+   "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
+   "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+   "summary": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+   "published": "Tue, 03 Nov 2026 00:52:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.05555555555555555,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.43333333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "rally",
-    "bond",
-    "market",
-    "defying",
-    "typical"
+    "apple",
+    "iphone",
+    "business",
+    "booming",
+    "here"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The U.S. economy expanded at its fastest clip in over five years during the third quarter, according",
+   "summary_short": "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services ",
+   "category": "News"
+  },
+  {
+   "id": "102c32020876bc1a07b8387e6fac2f74",
+   "sector": "Markets",
+   "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+   "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+   "summary": "The \u201ctech wreck\u201d from October continues. Is a bear market next?",
+   "published": "Tue, 03 Nov 2026 00:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nasdaq",
+    "tumbles",
+    "into",
+    "third",
+    "correction"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The \u201ctech wreck\u201d from October continues. Is a bear market next?",
+   "category": "News"
+  },
+  {
+   "id": "5d33075aa9e473dd8353d60a04910f30",
+   "sector": "Markets",
+   "title": "Marvell and Lumentum shareholders unite in panning merger deal: \u2018It\u2019s a trash offer\u2019",
+   "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+   "summary": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+   "published": "Mon, 02 Nov 2026 23:39:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "marvell",
+    "lumentum",
+    "shareholders",
+    "unite",
+    "panning"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lum",
+   "category": "News"
+  },
+  {
+   "id": "7fa5781d84b6ded002884cef66ece629",
+   "sector": "Markets",
+   "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+   "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+   "summary": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
+   "published": "Mon, 02 Nov 2026 22:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.09375,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "traders",
+    "rushing",
+    "into",
+    "leveraged",
+    "make"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
+   "category": "News"
+  },
+  {
+   "id": "f14c622fdb8fcda4b05460a17d106a68",
+   "sector": "Markets",
+   "title": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
+   "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+   "summary": "The thrashing that Wall Street\u2019s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
+   "published": "Mon, 02 Nov 2026 21:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.00714285714285715,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "wall",
+    "street",
+    "most",
+    "hated",
+    "stocks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The thrashing that Wall Street\u2019s artificial-intelligence darlings have taken over the past few month",
+   "category": "News"
+  },
+  {
+   "id": "827569221e031f00f8ce1717e33da953",
+   "sector": "Markets",
+   "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
+   "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+   "summary": "How to manage \u201cgiving while living\u201d without endangering your own retirement.",
+   "published": "Mon, 02 Nov 2026 21:35:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "your",
+    "while",
+    "want",
+    "help",
+    "adult"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "How to manage \u201cgiving while living\u201d without endangering your own retirement.",
    "category": "News"
   },
   {
@@ -474,7 +566,7 @@
    "title": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
    "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
    "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-   "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+   "published": "Mon, 02 Nov 2026 21:30:00 GMT",
    "source": "rss",
    "sentiment_score": -0.033333333333333326,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -492,279 +584,210 @@
    "category": "News"
   },
   {
-   "id": "9e42a7084bebb10d6d55de9b814d8070",
-   "sector": "Markets",
-   "title": "Marvell\u2019s deal for Lumentum is giving flashbacks to the dot-com bubble",
-   "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-   "summary": "Newly announced $115 billion deal for Lumentum will be financed entirely through stock: \u201cThere\u2019s a real echo of 2000 here.\u201d",
-   "published": "Mon, 02 Nov 2026 17:32:00 GMT",
+   "id": "1152ec7ca96bad0b4ef45b4b7dd62f6c",
+   "sector": "Tech/AI",
+   "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+   "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "published": "Tue, 03 Nov 2026 01:49:52 +0000",
    "source": "rss",
-   "sentiment_score": 0.11212121212121212,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "deal",
-    "lumentum",
-    "marvell",
-    "giving",
-    "flashbacks"
+    "apple",
+    "revenue",
+    "third",
+    "party",
+    "increase"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Newly announced $115 billion deal for Lumentum will be financed entirely through stock: \u201cThere\u2019s a r",
+   "summary_short": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monda",
    "category": "News"
   },
   {
-   "id": "987784ccec3afecf2ed4d5c9b2efe762",
-   "sector": "Markets",
-   "title": "Oracle wants $20 billion to fund its AI future \u2014 and its stock is paying the price",
-   "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-   "summary": "Oracle debt has been trading like a  \u201cjunk bond\u201d as the company borrows money and issues stock to help finance its AI cloud growth.",
-   "published": "Mon, 02 Nov 2026 17:31:00 GMT",
+   "id": "f74941c8d9f0e0fda5a0b9295452eded",
+   "sector": "Tech/AI",
+   "title": "Ukraine\u2019s new pocket-sized gadget turns Russian drones\u2019 cameras against them",
+   "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+   "summary": "A Kyiv startup\u2019s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+   "published": "Tue, 03 Nov 2026 01:12:55 +0000",
+   "source": "rss",
+   "sentiment_score": 0.02727272727272727,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "russian",
+    "drones",
+    "pocket",
+    "sized",
+    "video"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A Kyiv startup\u2019s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russ",
+   "category": "News"
+  },
+  {
+   "id": "16cd187a8ccf4c9c0a1461fdcf9e14da",
+   "sector": "Tech/AI",
+   "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sleeps sometimes because he\u2019s so excited to be working with his AI agents. On a new episode of Walter Isaacson\u2019s podcast,\u00a0The Builders, Tan put a price tag on his passion.",
+   "published": "Tue, 03 Nov 2026 00:35:52 +0000",
+   "source": "rss",
+   "sentiment_score": 0.1903409090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "combinator",
+    "garry",
+    "agents",
+    "uses",
+    "much"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sl",
+   "category": "News"
+  },
+  {
+   "id": "c138dc4da91b97f13b040b0da1bbc5b4",
+   "sector": "Tech/AI",
+   "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+   "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+   "published": "Tue, 03 Nov 2026 00:14:51 +0000",
+   "source": "rss",
+   "sentiment_score": 0.04999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "hinge",
+    "cheaper",
+    "plan",
+    "dating",
+    "apps"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription",
+   "category": "News"
+  },
+  {
+   "id": "449e7d77addbd76f9e7bdf732de96a05",
+   "sector": "Tech/AI",
+   "title": "Apple says it\u2019s \u2018hard to predict\u2019 when iPhone Duo constraints will improve",
+   "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+   "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+   "published": "Mon, 02 Nov 2026 23:25:32 +0000",
+   "source": "rss",
+   "sentiment_score": -0.14583333333333334,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "apple",
+    "says",
+    "when",
+    "iphone",
+    "hard"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up wit",
+   "category": "News"
+  },
+  {
+   "id": "0893d970a466c68e612e13793d145168",
+   "sector": "Tech/AI",
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "summary": "The one-year-old startup is now valued at $300 million.",
+   "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+   "source": "rss",
+   "sentiment_score": 0.375,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "trajectory",
+    "raises",
+    "make",
+    "model",
+    "training"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The one-year-old startup is now valued at $300 million.",
+   "category": "News"
+  },
+  {
+   "id": "461ff1ef63d9d4e967365f7ff7587957",
+   "sector": "Tech/AI",
+   "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
+   "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+   "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+   "published": "Mon, 02 Nov 2026 23:04:57 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "apple",
+    "inventory",
+    "memory",
+    "chip",
+    "costs"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future dev",
+   "category": "News"
+  },
+  {
+   "id": "8a2e8c6924090dc61da770ddfe293e24",
+   "sector": "Tech/AI",
+   "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+   "published": "Mon, 02 Nov 2026 22:14:50 +0000",
+   "source": "rss",
+   "sentiment_score": 0.15555555555555553,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "which",
+    "anthropic",
+    "warns",
+    "very",
+    "close"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration",
+   "category": "News"
+  },
+  {
+   "id": "d9c262013e83735790c7e40a9c7d5b0c",
+   "sector": "Crypto",
+   "title": "Big crypto wants the one thing it can\u2019t buy: your vote",
+   "link": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+   "summary": "",
+   "published": "Mon, 02 Nov 2026 21:38:53 +0000",
    "source": "rss",
    "sentiment_score": 0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "oracle",
-    "stock",
+    "crypto",
     "wants",
-    "billion",
-    "fund"
+    "thing",
+    "your",
+    "vote"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Oracle debt has been trading like a  \u201cjunk bond\u201d as the company borrows money and issues stock to he",
-   "category": "News"
-  },
-  {
-   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
-   "sector": "Markets",
-   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "published": "Mon, 02 Nov 2026 17:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10833333333333334,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "seems",
-    "bizarre",
-    "traditional",
-    "iras",
-    "adviser"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "51dc118061eac92d212a115d385e620f",
-   "sector": "Markets",
-   "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-   "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-   "summary": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
-   "published": "Mon, 02 Nov 2026 16:56:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.072,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "dividend",
-    "stocks",
-    "investors",
-    "want",
-    "their"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the",
-   "category": "News"
-  },
-  {
-   "id": "fafb26297231ce33da7c022d2af587f3",
-   "sector": "Tech/AI",
-   "title": "Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
-   "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-   "summary": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-   "published": "Mon, 02 Nov 2026 19:45:54 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "lawmakers",
-    "hacked",
-    "germany",
-    "says",
-    "iphones"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning ",
-   "category": "News"
-  },
-  {
-   "id": "58299d325e447da0e04ed8c99b428c28",
-   "sector": "Tech/AI",
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-   "published": "Mon, 02 Nov 2026 19:25:59 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "host",
-    "squarespace",
-    "lays",
-    "employees",
-    "website"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The website builder said that the job losses are part of a broader restructuring of its organization",
-   "category": "News"
-  },
-  {
-   "id": "368b3160862a86382d849ef8a89961b2",
-   "sector": "Tech/AI",
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-   "published": "Mon, 02 Nov 2026 19:19:17 +0000",
-   "source": "rss",
-   "sentiment_score": 0.2684659090909091,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "york",
-    "times",
-    "browser",
-    "brave",
-    "scraping"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the out",
-   "category": "News"
-  },
-  {
-   "id": "cf48133e9823ab589606ae2fd0a8eb01",
-   "sector": "Tech/AI",
-   "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-   "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-   "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-   "published": "Mon, 02 Nov 2026 19:11:49 +0000",
-   "source": "rss",
-   "sentiment_score": 0.018055555555555557,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "they",
-    "snap",
-    "settles",
-    "lawsuit",
-    "accusing"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at",
-   "category": "News"
-  },
-  {
-   "id": "d1201966180230004922fcafd371e840",
-   "sector": "Tech/AI",
-   "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-   "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-   "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-   "published": "Mon, 02 Nov 2026 17:54:11 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "tech",
-    "history",
-    "marvell",
-    "lumentum",
-    "largest"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they ",
-   "category": "News"
-  },
-  {
-   "id": "9a5412614d07080df51644142c8db701",
-   "sector": "Tech/AI",
-   "title": "Readwise takes on Amazon\u2019s Kindle and Goodreads with its new app for book lovers",
-   "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
-   "summary": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-   "published": "Mon, 02 Nov 2026 17:49:41 +0000",
-   "source": "rss",
-   "sentiment_score": 0.2681818181818182,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "readwise",
-    "amazon",
-    "reading",
-    "takes",
-    "kindle"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in ",
-   "category": "News"
-  },
-  {
-   "id": "4825644d8de5a3afab523736914d611e",
-   "sector": "Tech/AI",
-   "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-   "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-   "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-   "published": "Mon, 02 Nov 2026 16:44:48 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11212121212121212,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "mobile",
-    "spacex",
-    "boost",
-    "reportedly",
-    "wants"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operato",
-   "category": "News"
-  },
-  {
-   "id": "1f4f51b4129d4f17e212479c51dd6d04",
-   "sector": "Tech/AI",
-   "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-   "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-   "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11212121212121212,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "predict",
-    "what",
-    "comes",
-    "stealth",
-    "world"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before ",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -921,29 +944,6 @@
     "debuts",
     "tokenized",
     "deposits"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "66624680c16e80b202663ef8e216e4e5",
-   "sector": "Crypto",
-   "title": "Crypto's Washington playbook is working. Don't abandon it now.",
-   "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
-   "summary": "",
-   "published": "Mon, 02 Nov 2026 15:00:09 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "washington",
-    "playbook",
-    "working",
-    "abandon"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,10 +1343,10 @@
    "category": "News"
   },
   {
-   "id": "38a20ef7315e25df7e08e40e73cd62eb",
+   "id": "ba482f865fcbeea46331603f010a857a",
    "sector": "Tech/AI",
-   "title": "Show HN: Subvocal \u2013\u00a0Talk to your computer without making noise",
-   "link": "https://subvocal.company/",
+   "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+   "link": "https://news.ycombinator.com/item?id=50340088",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50340088\">Comments</a>",
    "published": "Mon, 02 Nov 2026 17:16:17 +0000",
    "source": "hacker_news",
@@ -1363,52 +1363,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50340088\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "163e46c041f7775f34a630e7f15aa891",
-   "sector": "Tech/AI",
-   "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-   "link": "https://momentic.ai/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339913\">Comments</a>",
-   "published": "Mon, 02 Nov 2026 17:05:25 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "launch",
-    "momentic",
-    "agents",
-    "catch",
-    "bugs"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339913\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "99ed50b5cc6c74729a9b59e575f278a4",
-   "sector": "Tech/AI",
-   "title": "Agentic Backdoors via Pretraining Poisoning",
-   "link": "https://arxiv.org/abs/2610.37741",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50341334\">Comments</a>",
-   "published": "Mon, 02 Nov 2026 18:30:58 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "agentic",
-    "backdoors",
-    "pretraining",
-    "poisoning",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50341334\">Comments</a>",
    "category": "News"
   },
   {
@@ -1432,6 +1386,52 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339397\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "afbf5bbb773545738052cacc06058ee9",
+   "sector": "Tech/AI",
+   "title": "If you love a website, back it up",
+   "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50336518\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 13:25:35 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "love",
+    "website",
+    "back",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50336518\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "163e46c041f7775f34a630e7f15aa891",
+   "sector": "Tech/AI",
+   "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+   "link": "https://momentic.ai/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339913\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 17:05:25 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "launch",
+    "momentic",
+    "agents",
+    "catch",
+    "bugs"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339913\">Comments</a>",
    "category": "News"
   }
  ]
