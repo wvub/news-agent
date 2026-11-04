@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04 03:44 IST",
+ "updated": "2026-11-04 07:54 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -28,6 +28,12 @@
    "article_count": 5
   },
   {
+   "keyword": "data",
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
    "keyword": "million",
    "frequency": 7,
    "sectors": 2,
@@ -40,16 +46,16 @@
    "article_count": 2
   },
   {
+   "keyword": "after",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 4
+  },
+  {
    "keyword": "tests",
    "frequency": 5,
    "sectors": 2,
    "article_count": 2
-  },
-  {
-   "keyword": "data",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -88,12 +94,6 @@
    "article_count": 1
   },
   {
-   "keyword": "binance",
-   "frequency": 3,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
    "keyword": "says",
    "frequency": 3,
    "sectors": 2,
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.007997+00:00",
+   "last_failure": "2026-11-04 02:24:08.360482+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.062254+00:00",
+   "last_failure": "2026-11-04 02:24:08.485440+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.124474+00:00",
+   "last_failure": "2026-11-04 02:24:08.578598+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.177495+00:00",
+   "last_failure": "2026-11-04 02:24:08.669733+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.226614+00:00",
+   "last_failure": "2026-11-04 02:24:08.748011+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.274929+00:00",
+   "last_failure": "2026-11-04 02:24:08.829596+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.323880+00:00",
+   "last_failure": "2026-11-04 02:24:08.961822+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.377210+00:00",
+   "last_failure": "2026-11-04 02:24:09.046202+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.422808+00:00",
+   "last_failure": "2026-11-04 02:24:09.210125+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.474196+00:00",
+   "last_failure": "2026-11-04 02:24:09.360223+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.527642+00:00",
+   "last_failure": "2026-11-04 02:24:09.439452+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.576462+00:00",
+   "last_failure": "2026-11-04 02:24:09.529504+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.625589+00:00",
+   "last_failure": "2026-11-04 02:24:09.694608+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.673968+00:00",
+   "last_failure": "2026-11-04 02:24:09.778559+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.722632+00:00",
+   "last_failure": "2026-11-04 02:24:09.869406+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-03 22:14:07.768433+00:00",
+   "last_failure": "2026-11-04 02:24:09.953400+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "Spanish transport minister resigns days after deadly train crash",
    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
    "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-   "published": "Tue, 03 Nov 2026 22:04:09 GMT",
+   "published": "Tue, 03 Nov 2026 22:45:59 GMT",
    "source": "rss",
    "sentiment_score": -0.175,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -400,6 +400,98 @@
    "category": "News"
   },
   {
+   "id": "5057220f045bcd3a19bb540e70ab2814",
+   "sector": "Markets",
+   "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
+   "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+   "summary": "The chip maker is showing \u201creal\u201d revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+   "published": "Wed, 04 Nov 2026 01:16:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "here",
+    "stock",
+    "rising",
+    "sending",
+    "confident"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The chip maker is showing \u201creal\u201d revenue from AI, shrugging off sustainability concerns and leading ",
+   "category": "News"
+  },
+  {
+   "id": "f5c5b33ed22b1c04bd8635f8e0fce718",
+   "sector": "Markets",
+   "title": "Super Micro\u2019s stock pops as earnings show booming demand for AI servers",
+   "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+   "summary": "Super Micro is building out a \u201chigh-quality customer base\u201d that\u2019s fueling revenue growth, CFO Mark Long told MarketWatch.",
+   "published": "Wed, 04 Nov 2026 01:12:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.04583333333333335,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "super",
+    "micro",
+    "stock",
+    "pops",
+    "earnings"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Super Micro is building out a \u201chigh-quality customer base\u201d that\u2019s fueling revenue growth, CFO Mark L",
+   "category": "News"
+  },
+  {
+   "id": "77be8599c406bbdb4db9aa34638b2f28",
+   "sector": "Markets",
+   "title": "What analysts are telling us while Apple\u2019s stock falls after earnings report",
+   "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+   "summary": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company\u2019s gross margin outlook and slowing services revenue  growth.",
+   "published": "Tue, 03 Nov 2026 22:48:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1625,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "apple",
+    "after",
+    "what",
+    "analysts",
+    "telling"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about t",
+   "category": "News"
+  },
+  {
+   "id": "9ca4716fadc812708d9ca6862df32ee5",
+   "sector": "Markets",
+   "title": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+   "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+   "summary": "The company missed revenue expectations, a tough outcome in today\u2019s less-forgiving tech market.",
+   "published": "Tue, 03 Nov 2026 22:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.3888888888888889,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "shopify",
+    "stock",
+    "slides",
+    "after",
+    "earnings"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The company missed revenue expectations, a tough outcome in today\u2019s less-forgiving tech market.",
+   "category": "News"
+  },
+  {
    "id": "1e8016b0fc19f1d4dabb1bc6ca51fae9",
    "sector": "Markets",
    "title": "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
@@ -469,29 +561,6 @@
    "category": "News"
   },
   {
-   "id": "f5c5b33ed22b1c04bd8635f8e0fce718",
-   "sector": "Markets",
-   "title": "Super Micro\u2019s stock pops as earnings show booming demand for AI servers",
-   "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-   "summary": "Super Micro is building out a \u201chigh-quality customer base\u201d that\u2019s fueling revenue growth, CFO Mark Long told MarketWatch.",
-   "published": "Tue, 03 Nov 2026 21:13:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.04583333333333335,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "super",
-    "micro",
-    "stock",
-    "pops",
-    "earnings"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Super Micro is building out a \u201chigh-quality customer base\u201d that\u2019s fueling revenue growth, CFO Mark L",
-   "category": "News"
-  },
-  {
    "id": "28427d80c4bba435dfa0f2321581408b",
    "sector": "Markets",
    "title": "Anthropic\u2019s IPO is a high-stakes referendum on Big Tech \u2014 and this chart proves it",
@@ -515,72 +584,49 @@
    "category": "News"
   },
   {
-   "id": "9ee59d7d3e9887ccbf09493bc54c4baa",
-   "sector": "Markets",
-   "title": "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
-   "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-   "summary": "\u201cThe internet as we\u2019ve known it for the past 20-plus years is going away, and it\u2019s going to completely change,\u201d one CEO says.",
-   "published": "Tue, 03 Nov 2026 20:46:00 GMT",
+   "id": "a9764e587c200f7a0b31493bf77cf906",
+   "sector": "Tech/AI",
+   "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "published": "Tue, 03 Nov 2026 22:41:03 +0000",
    "source": "rss",
-   "sentiment_score": -0.075,
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "system",
+    "anthropic",
+    "working",
+    "prove",
+    "models"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Called FlashProve, the system would let anyone check that an AI response really came from the model ",
+   "category": "News"
+  },
+  {
+   "id": "664448ddb88f51f719f4f56a449800a3",
+   "sector": "Tech/AI",
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+   "source": "rss",
+   "sentiment_score": 0.09078282828282828,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "internet",
-    "going",
-    "dying",
-    "eating",
-    "obliterating"
+    "data",
+    "engines",
+    "wait",
+    "less",
+    "centers"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cThe internet as we\u2019ve known it for the past 20-plus years is going away, and it\u2019s going to complete",
-   "category": "News"
-  },
-  {
-   "id": "a6051d6f2dd346a9f297bf2e0cdb03a2",
-   "sector": "Markets",
-   "title": "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-   "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-   "summary": "\u201cSalespeople typically push annuities, Medicare plans and estate-planning services.\u201d",
-   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.2583333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "good",
-    "invited",
-    "dozen",
-    "free",
-    "meals"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cSalespeople typically push annuities, Medicare plans and estate-planning services.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "621d6ba61656c13f4da06143139b27a9",
-   "sector": "Markets",
-   "title": "An overlooked energy source could solve AI\u2019s power crunch \u2014 and these 2 stocks are prime plays",
-   "link": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
-   "summary": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
-   "published": "Tue, 03 Nov 2026 19:57:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "overlooked",
-    "energy",
-    "source",
-    "could",
-    "solve"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
+   "summary_short": "The years-long wait for access to the grid and new turbines is causing data center builders to turn ",
    "category": "News"
   },
   {
@@ -588,7 +634,7 @@
    "sector": "Tech/AI",
    "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
    "published": "Tue, 03 Nov 2026 21:43:08 +0000",
    "source": "rss",
    "sentiment_score": 0.13636363636363635,
@@ -603,7 +649,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund an",
+   "summary_short": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund an",
    "category": "News"
   },
   {
@@ -630,9 +676,9 @@
    "category": "News"
   },
   {
-   "id": "670787c8e95e4f798bd98f9ca6ab1e11",
+   "id": "4335b9f173d3db018d76f0641b7d4b2a",
    "sector": "Tech/AI",
-   "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+   "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
    "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
    "summary": "An in-space construction first could be an enabler for the space data centers of the future.",
    "published": "Tue, 03 Nov 2026 20:57:17 +0000",
@@ -722,49 +768,95 @@
    "category": "News"
   },
   {
-   "id": "c8ae8d60915556c1b91e1085f7943c43",
-   "sector": "Tech/AI",
-   "title": "Ten years later, \u2018Pok\u00e9mon Go to the polls\u2019 still haunts the internet",
-   "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-   "summary": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
-   "published": "Tue, 03 Nov 2026 19:04:52 +0000",
+   "id": "377a721335330b8229f61d6597e7ab7a",
+   "sector": "Crypto",
+   "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
+   "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 00:00:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.025,
+   "sentiment_score": 0.06818181818181818,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "still",
-    "years",
-    "later",
-    "polls",
-    "haunts"
+    "live",
+    "updates",
+    "crypto",
+    "election",
+    "gamble"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young vot",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "584067f0b0b8a0248fc4a35522677829",
-   "sector": "Tech/AI",
-   "title": "Ferrari\u2019s controversial Luce EV is sold out for 2027",
-   "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-   "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-   "published": "Tue, 03 Nov 2026 18:51:33 +0000",
+   "id": "e3de3fd758417fd0e29b147f98f226a2",
+   "sector": "Crypto",
+   "title": "What voters said about their views on crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+   "summary": "",
+   "published": "Tue, 03 Nov 2026 23:19:44 +0000",
    "source": "rss",
-   "sentiment_score": 0.43333333333333335,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "ferrari",
-    "luce",
-    "controversial",
-    "sold",
-    "first"
+    "what",
+    "voters",
+    "about",
+    "their",
+    "views"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" t",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "9cbe118fe8e5a2522eff659156052c2d",
+   "sector": "Crypto",
+   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+   "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+   "summary": "",
+   "published": "Tue, 03 Nov 2026 23:00:07 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "what",
+    "happens",
+    "north",
+    "korea",
+    "steals"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "167e031aa0bd53f3470f2d13461a17de",
+   "sector": "Crypto",
+   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "summary": "",
+   "published": "Tue, 03 Nov 2026 22:14:44 +0000",
+   "source": "rss",
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "cftc",
+    "gets",
+    "into",
+    "legal",
+    "clash"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -852,98 +944,6 @@
     "group",
     "behind",
     "ousd"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "47f843fbb1bef531643bf1931580e327",
-   "sector": "Crypto",
-   "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
-   "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 15:02:13 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "cftc",
-    "clears",
-    "perpetual",
-    "futures",
-    "stocks"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "4fa640e42f2db3a93c5e74e01cf24240",
-   "sector": "Crypto",
-   "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
-   "link": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 14:53:19 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "binance",
-    "billion",
-    "hack",
-    "began",
-    "fake"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "dec1d658d352759714144da1522b4b4d",
-   "sector": "Crypto",
-   "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-   "link": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 14:42:30 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0625,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "south",
-    "korea",
-    "asks",
-    "biggest",
-    "banks"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "f34e46fc3742bbc87be2cd5d2952e7cd",
-   "sector": "Crypto",
-   "title": "CZ warns of more AI-driven hacks following Binance\u2019s historic $6.3 billion heist",
-   "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 14:22:09 +0000",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "warns",
-    "more",
-    "driven",
-    "hacks",
-    "following"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,49 +1320,26 @@
    "category": "News"
   },
   {
-   "id": "0640e1cb6e16ead58de8044b73203edd",
+   "id": "3b8cffa96e6e2a87d13855f2818ee973",
    "sector": "Tech/AI",
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 21:39:05 +0000",
+   "title": "The Internals of PostgreSQL",
+   "link": "https://www.interdb.jp/pg/index.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>",
+   "published": "Tue, 03 Nov 2026 21:51:06 +0000",
    "source": "hacker_news",
-   "sentiment_score": -0.15,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "safari",
-    "introduces",
-    "adaptive",
-    "dark",
-    "mode"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "6048074935f4abb539301bfe9fa5196b",
-   "sector": "Tech/AI",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "link": "https://arxiv.org/abs/2605.29713",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358582\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 21:40:53 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.09375,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "little",
-    "book",
-    "generative",
-    "foundations",
-    "intuitive"
+    "internals",
+    "postgresql",
+    "href",
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358582\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>",
    "category": "News"
   },
   {
@@ -1412,26 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "e1ea3671fb86cea4bd365e76c67984b1",
+   "id": "0640e1cb6e16ead58de8044b73203edd",
    "sector": "Tech/AI",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50355251\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 17:40:00 +0000",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
+   "published": "Tue, 03 Nov 2026 21:39:05 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.15,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "qwen",
-    "laptop",
-    "interpret",
-    "model",
-    "weights"
+    "safari",
+    "introduces",
+    "adaptive",
+    "dark",
+    "mode"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50355251\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "f716d9370e8845fde901e46d10256233",
+   "sector": "Tech/AI",
+   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+   "link": "https://hackertv.org",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50346755\">Comments</a>",
+   "published": "Tue, 03 Nov 2026 01:18:09 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "show",
+    "hackertv",
+    "most",
+    "recommended",
+    "youtube"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50346755\">Comments</a>",
    "category": "News"
   }
  ]
