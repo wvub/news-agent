@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 23:00 IST",
+ "updated": "2026-11-05 04:19 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -28,12 +28,6 @@
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 9,
-   "sectors": 2,
-   "article_count": 4
-  },
-  {
    "keyword": "data",
    "frequency": 6,
    "sectors": 2,
@@ -50,6 +44,12 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "election",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "nasa",
@@ -70,31 +70,31 @@
    "article_count": 2
   },
   {
+   "keyword": "million",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
    "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "ahead",
+   "keyword": "files",
    "frequency": 4,
    "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "stock",
+   "frequency": 4,
+   "sectors": 1,
    "article_count": 3
   },
   {
-   "keyword": "hubble",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "tests",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "covax",
+   "keyword": "more",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.092878+00:00",
+   "last_failure": "2026-11-04 22:49:27.633957+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.173142+00:00",
+   "last_failure": "2026-11-04 22:49:27.713935+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.256413+00:00",
+   "last_failure": "2026-11-04 22:49:27.799925+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.328626+00:00",
+   "last_failure": "2026-11-04 22:49:27.875379+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.406162+00:00",
+   "last_failure": "2026-11-04 22:49:27.945097+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.477760+00:00",
+   "last_failure": "2026-11-04 22:49:28.023701+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.551570+00:00",
+   "last_failure": "2026-11-04 22:49:28.102820+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.624706+00:00",
+   "last_failure": "2026-11-04 22:49:28.179345+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.726735+00:00",
+   "last_failure": "2026-11-04 22:49:28.250741+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.816011+00:00",
+   "last_failure": "2026-11-04 22:49:28.320241+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.886480+00:00",
+   "last_failure": "2026-11-04 22:49:28.399695+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:28.959781+00:00",
+   "last_failure": "2026-11-04 22:49:28.478499+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:29.029077+00:00",
+   "last_failure": "2026-11-04 22:49:28.548875+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:29.104523+00:00",
+   "last_failure": "2026-11-04 22:49:28.615759+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:29.176483+00:00",
+   "last_failure": "2026-11-04 22:49:28.685794+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-04 17:30:29.246421+00:00",
+   "last_failure": "2026-11-04 22:49:28.764979+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -244,7 +244,7 @@
    "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
    "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
    "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal.",
-   "published": "Wed, 04 Nov 2026 17:02:44 GMT",
+   "published": "Wed, 04 Nov 2026 18:01:31 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -259,6 +259,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White Hou",
+   "category": "News"
+  },
+  {
+   "id": "021159549e0227af0612d44696387705",
+   "sector": "World",
+   "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+   "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+   "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+   "published": "Wed, 04 Nov 2026 22:48:43 GMT",
+   "source": "rss",
+   "sentiment_score": -0.16666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "says",
+    "ukraine",
+    "bodycam",
+    "video",
+    "shows"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on",
    "category": "News"
   },
   {
@@ -331,29 +354,6 @@
    "category": "News"
   },
   {
-   "id": "a172281d4a75e72e5ca60983619261cc",
-   "sector": "World",
-   "title": "Iran's chief negotiator says Americans voted 'no to war'",
-   "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-   "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-   "published": "Wed, 04 Nov 2026 16:59:15 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "says",
-    "iran",
-    "chief",
-    "negotiator",
-    "americans"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict'",
-   "category": "News"
-  },
-  {
    "id": "48b24f5c35a39bcf11a6ae80575b2371",
    "sector": "World",
    "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
@@ -400,118 +400,95 @@
    "category": "News"
   },
   {
-   "id": "90a65758eddb49c7272daacb24c2fb7e",
+   "id": "ec6cf0d05356ec1900ccf4dfd55895eb",
    "sector": "Markets",
-   "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here\u2019s what the Democratic wave means for healthcare.",
-   "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
-   "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation\u2019s largest hospitals.",
-   "published": "Wed, 04 Nov 2026 17:19:00 GMT",
+   "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
+   "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+   "summary": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results.",
+   "published": "Wed, 04 Nov 2026 22:46:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.39999999999999997,
+   "sentiment_score": 0.0965909090909091,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "stock",
+    "year",
+    "worst",
+    "performing",
+    "finally"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results.",
+   "category": "News"
+  },
+  {
+   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
+   "sector": "Markets",
+   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
+   "published": "Wed, 04 Nov 2026 22:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.10833333333333334,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "democratic",
-    "hospital",
-    "stocks",
-    "rally",
-    "while"
+    "seems",
+    "bizarre",
+    "traditional",
+    "iras",
+    "adviser"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Democratic victory in the midterm elections could be a huge boon to the nation\u2019s largest hospita",
+   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
    "category": "News"
   },
   {
-   "id": "319367beaf8233c81b8030e6a62df47a",
+   "id": "62a579ee6996f5964bf1733fc83c405c",
    "sector": "Markets",
-   "title": "What Trump can achieve without approval from a Democratic-led Congress",
-   "link": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
-   "summary": "The president will have plenty of power to move markets by himself.",
-   "published": "Wed, 04 Nov 2026 17:13:00 GMT",
+   "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
+   "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+   "summary": "Most Americans are \u201cthrilled\u201d or \u201chappy\u201d about the results of this year\u2019s election. Some are especially so.",
+   "published": "Wed, 04 Nov 2026 22:06:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.41999999999999993,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "what",
-    "trump",
-    "achieve",
-    "without",
-    "approval"
+    "americans",
+    "about",
+    "results",
+    "feel",
+    "midterm"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The president will have plenty of power to move markets by himself.",
+   "summary_short": "Most Americans are \u201cthrilled\u201d or \u201chappy\u201d about the results of this year\u2019s election. Some are especia",
    "category": "News"
   },
   {
-   "id": "24d23b9f79c334cb31a952bced6c5539",
+   "id": "c7177333894f498645ac7da5664b0414",
    "sector": "Markets",
-   "title": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-   "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-   "summary": "Don\u2019t sit on the sidelines during open enrollment.",
-   "published": "Wed, 04 Nov 2026 16:38:00 GMT",
+   "title": "Qualcomm\u2019s stock falls as twin forces pressure sales",
+   "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+   "summary": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall smartphone demand.",
+   "published": "Wed, 04 Nov 2026 22:03:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.04666666666666666,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "medicare",
-    "prescription",
-    "drug",
-    "costs",
-    "jump"
+    "qualcomm",
+    "stock",
+    "falls",
+    "twin",
+    "forces"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Don\u2019t sit on the sidelines during open enrollment.",
-   "category": "News"
-  },
-  {
-   "id": "53b6c32a2ac79f0673d5f0f9d27fc41d",
-   "sector": "Markets",
-   "title": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
-   "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
-   "summary": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.",
-   "published": "Wed, 04 Nov 2026 16:05:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.0625,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "economy",
-    "ahead",
-    "barreling",
-    "there",
-    "problem"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season,",
-   "category": "News"
-  },
-  {
-   "id": "f75e5924a0ff4aca4c54e112aa313209",
-   "sector": "Markets",
-   "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-   "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-   "summary": "Strategically embracing the right symbols in the office really can advance your career.",
-   "published": "Wed, 04 Nov 2026 15:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05892857142857143,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "depressing",
-    "true",
-    "want",
-    "ahead",
-    "work"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Strategically embracing the right symbols in the office really can advance your career.",
+   "summary_short": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall ",
    "category": "News"
   },
   {
@@ -520,7 +497,7 @@
    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
    "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not \u201cunwind projects already funded.\u201d",
-   "published": "Wed, 04 Nov 2026 15:17:00 GMT",
+   "published": "Wed, 04 Nov 2026 21:55:00 GMT",
    "source": "rss",
    "sentiment_score": -0.125,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -538,233 +515,279 @@
    "category": "News"
   },
   {
-   "id": "9c7a82247bc9e73c6effe6d39eb97aa1",
+   "id": "9d52387e07f419f4c1f3f78957060ab8",
    "sector": "Markets",
-   "title": "Datadog\u2019s stock extends steep declines in the wake of earnings",
-   "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-   "summary": "Datadog failed to top expectations with its revenue forecast.",
-   "published": "Wed, 04 Nov 2026 15:16:00 GMT",
+   "title": "These stocks soared the most today after the Democrats trounced Trump",
+   "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+   "summary": "Chemical company Mosaic\u2019s stock is the strongest performer among the S&amp;P 500, while several tech players and associated power providers show sharp declines",
+   "published": "Wed, 04 Nov 2026 21:55:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "datadog",
-    "stock",
-    "extends",
-    "steep",
-    "declines"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Datadog failed to top expectations with its revenue forecast.",
-   "category": "News"
-  },
-  {
-   "id": "6e6e6b6033b7b063c5f6acdbca8c60c9",
-   "sector": "Markets",
-   "title": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
-   "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-   "summary": "The company is furthering its expansion outside of the handset market \u2014 by powering Starlink Mobile.",
-   "published": "Wed, 04 Nov 2026 15:13:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "qualcomm",
-    "semiconductor",
-    "rally",
-    "spacex",
-    "partnership"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The company is furthering its expansion outside of the handset market \u2014 by powering Starlink Mobile.",
-   "category": "News"
-  },
-  {
-   "id": "c51d6e8b06b6f685042923fd3d130e1c",
-   "sector": "Tech/AI",
-   "title": "Sequoia hits rewind, undoing 20 years of expansion",
-   "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-   "summary": "Sequoia is consolidating into a smaller, Bay Area\u2013centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
-   "published": "Wed, 04 Nov 2026 17:11:15 +0000",
-   "source": "rss",
-   "sentiment_score": -0.06383838383838385,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "sequoia",
-    "expansion",
-    "hits",
-    "rewind",
-    "undoing"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Sequoia is consolidating into a smaller, Bay Area\u2013centered firm, shutting down the programs and offi",
-   "category": "News"
-  },
-  {
-   "id": "b838915340454e39a4beffbdc563e4b2",
-   "sector": "Tech/AI",
-   "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-   "published": "Wed, 04 Nov 2026 16:51:35 +0000",
-   "source": "rss",
-   "sentiment_score": -0.12916666666666668,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "apple",
-    "siri",
-    "recaps",
-    "tried",
-    "they"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But the",
-   "category": "News"
-  },
-  {
-   "id": "b3ad6d36f6f4f0e8f9cc03aa532c05ae",
-   "sector": "Tech/AI",
-   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-   "published": "Wed, 04 Nov 2026 16:17:22 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "google",
-    "faces",
-    "backlash",
-    "plan",
-    "would"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Googl",
-   "category": "News"
-  },
-  {
-   "id": "bce88d4c2ef61f3b6e83b46def6bb5d5",
-   "sector": "Tech/AI",
-   "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-   "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-   "summary": "Titan OS has raised $110 million in funding to date.",
-   "published": "Wed, 04 Nov 2026 15:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.10714285714285714,
+   "sentiment_score": 0.125,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "titan",
-    "million",
-    "raises",
-    "expand",
-    "smart"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Titan OS has raised $110 million in funding to date.",
-   "category": "News"
-  },
-  {
-   "id": "77b7c7ebeb287c937403586b40aa8bda",
-   "sector": "Tech/AI",
-   "title": "Revolut\u2019s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-   "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-   "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-   "published": "Wed, 04 Nov 2026 14:10:10 +0000",
-   "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "share",
-    "sale",
-    "revolut",
-    "valuation",
-    "jumps"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-   "category": "News"
-  },
-  {
-   "id": "f23440584147bc950db7308ff41609c3",
-   "sector": "Tech/AI",
-   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-   "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-   "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-   "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "founder",
-    "techcrunch",
-    "summit",
-    "boston",
+    "these",
+    "stocks",
+    "soared",
+    "most",
     "today"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now",
+   "summary_short": "Chemical company Mosaic\u2019s stock is the strongest performer among the S&amp;P 500, while several tech",
    "category": "News"
   },
   {
-   "id": "47e263c52e983f5b55444dd9fb1a20d0",
-   "sector": "Tech/AI",
-   "title": "Canva lays off over 1,200 people amid slowing growth",
-   "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-   "summary": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-   "published": "Wed, 04 Nov 2026 11:59:00 +0000",
+   "id": "619610a0ff67984b882afe47bd776e90",
+   "sector": "Markets",
+   "title": "Figma\u2019s stock falls as investors worry that AI momentum is coming at a high price",
+   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+   "summary": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+   "published": "Wed, 04 Nov 2026 21:48:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.6,
+   "sentiment_score": -0.16999999999999998,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "canva",
-    "lays",
-    "over",
-    "people",
-    "amid"
+    "figma",
+    "stock",
+    "falls",
+    "investors",
+    "worry"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
+   "summary_short": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these feat",
    "category": "News"
   },
   {
-   "id": "cfe4f7dbb2707d1714fa260739ad5971",
-   "sector": "Tech/AI",
-   "title": "India\u2019s EloElo nabs $80M from NBCUniversal to bet on the country\u2019s rising microdrama market",
-   "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-   "summary": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.",
-   "published": "Wed, 04 Nov 2026 04:45:00 +0000",
+   "id": "ef4abe3aff8f0ef90871b362ac80a8f5",
+   "sector": "Markets",
+   "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost \u2014\u00a0and these factors show why",
+   "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+   "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+   "published": "Wed, 04 Nov 2026 21:33:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.2888888888888889,
+   "sentiment_score": 0.2375,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "india",
-    "eloelo",
-    "million",
-    "users",
-    "microdramas"
+    "microsoft",
+    "amazon",
+    "combined",
+    "billion",
+    "market"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "More than 118 million users watch microdramas every month as the serialized format has taken off in ",
+   "summary_short": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a clou",
+   "category": "News"
+  },
+  {
+   "id": "52b645657400ec1b18c8ee7b86f8376d",
+   "sector": "Tech/AI",
+   "title": "AI PACs spent millions trying to shape Congress. Here\u2019s how they fared.",
+   "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+   "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+   "source": "rss",
+   "sentiment_score": -0.04,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "pacs",
+    "spent",
+    "millions",
+    "trying",
+    "shape"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups ",
+   "category": "News"
+  },
+  {
+   "id": "b0f534eca07c413d2bb5f993b62cbbfe",
+   "sector": "Tech/AI",
+   "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
+   "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+   "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+   "source": "rss",
+   "sentiment_score": 0.175,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nothing",
+    "product",
+    "says",
+    "company",
+    "mysterious"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO sa",
+   "category": "News"
+  },
+  {
+   "id": "42fb210770bfc38cf9ebe8600f1619c0",
+   "sector": "Tech/AI",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "published": "Wed, 04 Nov 2026 21:56:01 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "uber",
+    "almost",
+    "uses",
+    "agents",
+    "book"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "category": "News"
+  },
+  {
+   "id": "de9d72ac12b01111bd293e67a68dead8",
+   "sector": "Tech/AI",
+   "title": "Snapchat surpasses 30M paid subscribers",
+   "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+   "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+   "published": "Wed, 04 Nov 2026 21:49:29 +0000",
+   "source": "rss",
+   "sentiment_score": 0.47500000000000003,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "snapchat",
+    "storage",
+    "memories",
+    "users",
+    "surpasses"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Me",
+   "category": "News"
+  },
+  {
+   "id": "ee6ccc8eebdee3d236fb85c8e548463e",
+   "sector": "Tech/AI",
+   "title": "OpenAI is already trying to shape the 2028 election",
+   "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+   "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+   "published": "Wed, 04 Nov 2026 21:25:44 +0000",
+   "source": "rss",
+   "sentiment_score": 0.19393939393939394,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "openai",
+    "election",
+    "already",
+    "trying",
+    "shape"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that cou",
+   "category": "News"
+  },
+  {
+   "id": "fdd14cc3a4d9ca42f3d3da682f9ac6f3",
+   "sector": "Tech/AI",
+   "title": "Meta acquires AI coding startup Conductor",
+   "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+   "published": "Wed, 04 Nov 2026 21:10:56 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "startup",
+    "meta",
+    "acquires",
+    "coding",
+    "conductor"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The startup allows software engineers to deploy teams of agents to work on various aspects of a proj",
+   "category": "News"
+  },
+  {
+   "id": "cb5d931dfe62c91d5d550155fde295f4",
+   "sector": "Tech/AI",
+   "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+   "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+   "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+   "published": "Wed, 04 Nov 2026 20:36:57 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "hackers",
+    "customer",
+    "files",
+    "during",
+    "attack"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"de",
+   "category": "News"
+  },
+  {
+   "id": "9719d56b66d77820eb388ec0f0add5ad",
+   "sector": "Tech/AI",
+   "title": "Open source AI is booming. Hugging Face explains who profits.",
+   "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+   "published": "Wed, 04 Nov 2026 19:30:04 +0000",
+   "source": "rss",
+   "sentiment_score": 0.25384615384615383,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "more",
+    "open",
+    "models",
+    "source",
+    "booming"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely ",
+   "category": "News"
+  },
+  {
+   "id": "06645bc9ab2e4269dfb3eec9dba89dd6",
+   "sector": "Crypto",
+   "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+   "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 20:29:12 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3333333333333333,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "crypto",
+    "powerhouse",
+    "super",
+    "fairshake",
+    "found"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -860,9 +883,9 @@
    "category": "News"
   },
   {
-   "id": "bb5c3984c471a11def0ca2d4efb0f400",
+   "id": "694cac08df1c38b6777958567f1f4e93",
    "sector": "Crypto",
-   "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+   "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
    "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
    "summary": "",
    "published": "Wed, 04 Nov 2026 14:00:53 +0000",
@@ -873,8 +896,8 @@
     "live",
     "updates",
     "bitcoin",
-    "stocks",
-    "post"
+    "rises",
+    "above"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -921,29 +944,6 @@
     "jumps",
     "north",
     "korean"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "426a84cde043814746f6767e4e51ede2",
-   "sector": "Crypto",
-   "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-   "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 12:33:54 +0000",
-   "source": "rss",
-   "sentiment_score": 0.43333333333333335,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "circle",
-    "beats",
-    "earnings",
-    "expectations",
-    "strong"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,6 +1320,75 @@
    "category": "News"
   },
   {
+   "id": "72524b8e40a707b3c61c4475f6dce303",
+   "sector": "Tech/AI",
+   "title": "Residential proxies detected on White House network",
+   "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 20:45:18 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "residential",
+    "proxies",
+    "detected",
+    "white",
+    "house"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50371246\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "1829daed3caf0731d953d7ab0b4a0c64",
+   "sector": "Tech/AI",
+   "title": "Insects don't swarm at LED lights",
+   "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50370610\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 19:50:23 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "insects",
+    "swarm",
+    "lights",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50370610\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "4870ed52167665a44cf309410f12b4fd",
+   "sector": "Tech/AI",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "link": "https://www.ricursive.com/ripple",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 18:53:29 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ripple",
+    "preview",
+    "open",
+    "weight",
+    "sota"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "42e589561562b405c261bfd73ea845b4",
    "sector": "Tech/AI",
    "title": "AI is forcing us to pay off 40 years of technical debt",
@@ -1343,95 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "c6963b9381406b23155c5e4ffb9cc582",
+   "id": "6b1b29a863442ab806d0201e98ace294",
    "sector": "Tech/AI",
-   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-   "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366522\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 15:01:44 +0000",
+   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+   "link": "https://icode4.coffee/?p=1746",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 22:01:49 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.6999999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "guerrilla",
-    "bike",
-    "lanes",
-    "francisco",
-    "makes"
+    "hacking",
+    "xbox",
+    "hypervisor",
+    "part",
+    "update"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366522\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "2d202b3909c21b100f13dd4a89ab4493",
-   "sector": "Tech/AI",
-   "title": "Progress on provable inference for large language models",
-   "link": "https://www.anthropic.com/research/provable-inference",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368626\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 17:17:46 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.21428571428571427,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "progress",
-    "provable",
-    "inference",
-    "large",
-    "language"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368626\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "b253eee04060a611977d2715ae8ef620",
-   "sector": "Tech/AI",
-   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-   "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362905\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 08:46:29 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "spark",
-    "encrypted",
-    "firmware",
-    "slows"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362905\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "20b83102e03bd442de540fc367680d6d",
-   "sector": "Tech/AI",
-   "title": "Evergreen: A Provably Safe Systems Language",
-   "link": "https://evergreenlang.net",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366919\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 15:25:04 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "evergreen",
-    "provably",
-    "safe",
-    "systems",
-    "language"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366919\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>",
    "category": "News"
   }
  ]
