@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-04 07:54 IST",
+ "updated": "2026-11-04 15:08 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 8,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,16 @@
    "article_count": 5
   },
   {
+   "keyword": "million",
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
    "keyword": "data",
    "frequency": 7,
    "sectors": 2,
    "article_count": 2
-  },
-  {
-   "keyword": "million",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 3
   },
   {
    "keyword": "survey",
@@ -46,16 +46,10 @@
    "article_count": 2
   },
   {
-   "keyword": "after",
+   "keyword": "first",
    "frequency": 5,
-   "sectors": 2,
-   "article_count": 4
-  },
-  {
-   "keyword": "tests",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -76,10 +70,10 @@
    "article_count": 2
   },
   {
-   "keyword": "nasa",
+   "keyword": "south",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
+   "sectors": 2,
+   "article_count": 3
   },
   {
    "keyword": "asteroid",
@@ -88,133 +82,300 @@
    "article_count": 2
   },
   {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
    "keyword": "covax",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
   },
   {
-   "keyword": "says",
-   "frequency": 3,
-   "sectors": 2,
-   "article_count": 2
+   "keyword": "hacker",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 4
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.360482+00:00",
+   "last_failure": "2026-11-04 09:38:21.736707+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.485440+00:00",
+   "last_failure": "2026-11-04 09:38:21.825517+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.578598+00:00",
+   "last_failure": "2026-11-04 09:38:21.915752+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.669733+00:00",
+   "last_failure": "2026-11-04 09:38:22.011518+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.748011+00:00",
+   "last_failure": "2026-11-04 09:38:22.092041+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.829596+00:00",
+   "last_failure": "2026-11-04 09:38:22.170433+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:08.961822+00:00",
+   "last_failure": "2026-11-04 09:38:22.260418+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.046202+00:00",
+   "last_failure": "2026-11-04 09:38:22.331923+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.210125+00:00",
+   "last_failure": "2026-11-04 09:38:22.418986+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.360223+00:00",
+   "last_failure": "2026-11-04 09:38:22.496389+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.439452+00:00",
+   "last_failure": "2026-11-04 09:38:22.580603+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.529504+00:00",
+   "last_failure": "2026-11-04 09:38:22.654141+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.694608+00:00",
+   "last_failure": "2026-11-04 09:38:22.734933+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.778559+00:00",
+   "last_failure": "2026-11-04 09:38:22.829402+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.869406+00:00",
+   "last_failure": "2026-11-04 09:38:22.913608+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-04 02:24:09.953400+00:00",
+   "last_failure": "2026-11-04 09:38:23.014884+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "3521818a9a86fa066a4b56a62998a7d3",
+   "sector": "World",
+   "title": "South Carolina elects Democratic senator for first time in almost three decades",
+   "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+   "published": "Wed, 04 Nov 2026 07:32:02 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "south",
+    "carolina",
+    "elects",
+    "democratic",
+    "senator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take h",
+   "category": "News"
+  },
+  {
+   "id": "cd9d70af64409e6e5d11cd268d149494",
+   "sector": "World",
+   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+   "summary": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+   "published": "Wed, 04 Nov 2026 05:39:36 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3375,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "texas",
+    "just",
+    "james",
+    "talarico",
+    "becomes"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the B",
+   "category": "News"
+  },
+  {
+   "id": "745420d0b07c4bd4aa253815147fc8b0",
+   "sector": "World",
+   "title": "Florida Republicans fend off Democrats as state elects first black governor",
+   "link": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+   "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+   "published": "Wed, 04 Nov 2026 07:12:21 GMT",
+   "source": "rss",
+   "sentiment_score": 0.04166666666666668,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "florida",
+    "first",
+    "black",
+    "governor",
+    "republicans"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor",
+   "category": "News"
+  },
+  {
+   "id": "48b24f5c35a39bcf11a6ae80575b2371",
+   "sector": "World",
+   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+   "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+   "published": "Wed, 04 Nov 2026 07:39:38 GMT",
+   "source": "rss",
+   "sentiment_score": -0.52,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "delhi",
+    "quality",
+    "worsens",
+    "ahead",
+    "diwali"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+   "category": "News"
+  },
+  {
+   "id": "aac01a9374fe8fd23fd0a25185016092",
+   "sector": "World",
+   "title": "ANC under pressure to reverse South Africa decline",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+   "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+   "published": "Wed, 04 Nov 2026 00:03:19 GMT",
+   "source": "rss",
+   "sentiment_score": -0.26666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "south",
+    "they",
+    "under",
+    "pressure",
+    "reverse"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality",
+   "category": "News"
+  },
+  {
+   "id": "f2210376ba963dc7d08868562e287b67",
+   "sector": "World",
+   "title": "Killer who escaped Tennessee prison captured after week-long manhunt",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8nj23v8qqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+   "published": "Wed, 04 Nov 2026 02:11:40 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "escaped",
+    "prison",
+    "killer",
+    "tennessee",
+    "captured"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Jacob Allen Morley was serving a life sentence for murder before he escaped over a prison fence.",
+   "category": "News"
+  },
+  {
+   "id": "19992e3cc3834f481b0d8d614539424d",
+   "sector": "World",
+   "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+   "link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
+   "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+   "published": "Wed, 04 Nov 2026 03:46:10 GMT",
+   "source": "rss",
+   "sentiment_score": -0.05681818181818182,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "papua",
+    "guinea",
+    "weapon",
+    "wine",
+    "bottle"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+   "category": "News"
+  },
   {
    "id": "882d4173daba21c937ec3948f8bc4f15",
    "sector": "World",
@@ -239,176 +400,15 @@
    "category": "News"
   },
   {
-   "id": "c55d77f8c14e5c55c477468f1c1bd461",
-   "sector": "World",
-   "title": "Seven flights across Europe targeted by suspected bomb threats",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-   "published": "Tue, 03 Nov 2026 20:42:47 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "threats",
-    "seven",
-    "flights",
-    "across",
-    "europe"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate thre",
-   "category": "News"
-  },
-  {
-   "id": "a3bd61f0c5c219fb624ccace237e8d70",
-   "sector": "World",
-   "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-   "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-   "published": "Tue, 03 Nov 2026 16:19:29 GMT",
-   "source": "rss",
-   "sentiment_score": -0.5,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "binance",
-    "says",
-    "fake",
-    "interviews",
-    "used"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job intervi",
-   "category": "News"
-  },
-  {
-   "id": "524a74208fbc47e3f59c57e20dc5511a",
-   "sector": "World",
-   "title": "NTSB says crucial plane parts found three miles from Florida crash site",
-   "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
-   "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
-   "published": "Tue, 03 Nov 2026 21:53:38 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ntsb",
-    "parts",
-    "found",
-    "crash",
-    "site"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The NTSB said because the parts were found far from the accident site, they fell off before the cras",
-   "category": "News"
-  },
-  {
-   "id": "fb5ecd72fd443d0f7b1d90eb29fc2aa7",
-   "sector": "World",
-   "title": "Libya's top religious authority rules against wearing Nike clothes",
-   "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-   "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
-   "published": "Tue, 03 Nov 2026 14:56:46 GMT",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "libya",
-    "religious",
-    "authority",
-    "rules",
-    "against"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its ",
-   "category": "News"
-  },
-  {
-   "id": "451731280e6de41fbde73925555c18dc",
-   "sector": "World",
-   "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-   "published": "Tue, 03 Nov 2026 13:55:47 GMT",
-   "source": "rss",
-   "sentiment_score": 0.09999999999999998,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "europe",
-    "alert",
-    "after",
-    "supermarket",
-    "freezers"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers",
-   "category": "News"
-  },
-  {
-   "id": "8143f51e3c6a11c783bc8298cf7722ce",
-   "sector": "World",
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-   "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-   "published": "Tue, 03 Nov 2026 16:57:41 GMT",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ukraine",
-    "death",
-    "toll",
-    "rises",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could b",
-   "category": "News"
-  },
-  {
-   "id": "f3e66d4868ad910565331d0fddc83148",
-   "sector": "World",
-   "title": "US strikes Iranian island ahead of midterm elections",
-   "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-   "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-   "published": "Tue, 03 Nov 2026 11:33:33 GMT",
-   "source": "rss",
-   "sentiment_score": -0.07142857142857142,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "island",
-    "strikes",
-    "iranian",
-    "ahead",
-    "midterm"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the B",
-   "category": "News"
-  },
-  {
    "id": "5057220f045bcd3a19bb540e70ab2814",
    "sector": "Markets",
    "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
    "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-   "summary": "The chip maker is showing \u201creal\u201d revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
-   "published": "Wed, 04 Nov 2026 01:16:00 GMT",
+   "summary": "The chip maker is showing \u201creal\u201d revenue from artificial intelligence, shrugging off sustainability concerns and leading to an upbeat forecast.",
+   "published": "Wed, 04 Nov 2026 09:30:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.033333333333333326,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "here",
     "stock",
@@ -419,7 +419,30 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The chip maker is showing \u201creal\u201d revenue from AI, shrugging off sustainability concerns and leading ",
+   "summary_short": "The chip maker is showing \u201creal\u201d revenue from artificial intelligence, shrugging off sustainability ",
+   "category": "News"
+  },
+  {
+   "id": "e8d21e6580fde8e07d7ca7a1f07ec3eb",
+   "sector": "Markets",
+   "title": "Democrats win the House and Senate. Here\u2019s what it means for your finances.",
+   "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+   "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans\u2019 investments and their wallets.",
+   "published": "Wed, 04 Nov 2026 06:27:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "democrats",
+    "house",
+    "senate",
+    "here",
+    "what"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The results from the U.S. midterm elections are now clear and look likely to have effects on America",
    "category": "News"
   },
   {
@@ -561,26 +584,26 @@
    "category": "News"
   },
   {
-   "id": "28427d80c4bba435dfa0f2321581408b",
-   "sector": "Markets",
-   "title": "Anthropic\u2019s IPO is a high-stakes referendum on Big Tech \u2014 and this chart proves it",
-   "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
-   "summary": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for the public market.",
-   "published": "Tue, 03 Nov 2026 21:04:00 GMT",
+   "id": "cfe4f7dbb2707d1714fa260739ad5971",
+   "sector": "Tech/AI",
+   "title": "India\u2019s EloElo nabs $80M from NBCUniversal to bet on the country\u2019s rising microdrama market",
+   "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+   "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+   "published": "Wed, 04 Nov 2026 04:45:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.02500000000000001,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.18333333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "anthropic",
-    "tech",
-    "high",
-    "stakes",
-    "referendum"
+    "india",
+    "eloelo",
+    "nabs",
+    "nbcuniversal",
+    "country"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Tech giants like Broadcom, Google and SpaceX have plenty of skin in the game as Anthropic heads for ",
+   "summary_short": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
    "category": "News"
   },
   {
@@ -745,44 +768,21 @@
    "category": "News"
   },
   {
-   "id": "627c7e1d3444d3978ecd6255f9d1b7ff",
-   "sector": "Tech/AI",
-   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-   "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-   "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-   "published": "Tue, 03 Nov 2026 19:24:37 +0000",
+   "id": "efa385db6bea1673d4d728d50c12e4de",
+   "sector": "Crypto",
+   "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+   "link": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 09:22:58 +0000",
    "source": "rss",
-   "sentiment_score": 0.3181818181818182,
+   "sentiment_score": 0.225,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "reddit",
-    "search",
-    "tests",
-    "results",
-    "traffic"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI sear",
-   "category": "News"
-  },
-  {
-   "id": "377a721335330b8229f61d6597e7ab7a",
-   "sector": "Crypto",
-   "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
-   "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 00:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "live",
-    "updates",
-    "crypto",
-    "election",
-    "gamble"
+    "morgan",
+    "stanley",
+    "says",
+    "among",
+    "first"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -791,21 +791,21 @@
    "category": "News"
   },
   {
-   "id": "e3de3fd758417fd0e29b147f98f226a2",
+   "id": "61b2c3f26d0231cd44022a8f7210508d",
    "sector": "Crypto",
-   "title": "What voters said about their views on crypto",
-   "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+   "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+   "link": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
    "summary": "",
-   "published": "Tue, 03 Nov 2026 23:19:44 +0000",
+   "published": "Wed, 04 Nov 2026 08:04:04 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "what",
-    "voters",
-    "about",
-    "their",
-    "views"
+    "zcash",
+    "grants",
+    "committee",
+    "drops",
+    "plan"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -814,21 +814,21 @@
    "category": "News"
   },
   {
-   "id": "9cbe118fe8e5a2522eff659156052c2d",
+   "id": "87ac26741f33890e8f895b51f3796221",
    "sector": "Crypto",
-   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-   "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+   "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
+   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
    "summary": "",
-   "published": "Tue, 03 Nov 2026 23:00:07 +0000",
+   "published": "Wed, 04 Nov 2026 06:16:40 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "what",
-    "happens",
-    "north",
-    "korea",
-    "steals"
+    "bitcoin",
+    "surges",
+    "shaped",
+    "comeback",
+    "midterm"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -837,67 +837,67 @@
    "category": "News"
   },
   {
-   "id": "167e031aa0bd53f3470f2d13461a17de",
+   "id": "e8db5b8bc8e5a1e7d244c95b11a42855",
    "sector": "Crypto",
-   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-   "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+   "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
    "summary": "",
-   "published": "Tue, 03 Nov 2026 22:14:44 +0000",
+   "published": "Wed, 04 Nov 2026 06:06:04 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "jack",
+    "dorsey",
+    "block",
+    "faces",
+    "million"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "bc4febd58b368753d13a2b736083a0f7",
+   "sector": "Crypto",
+   "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
+   "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 05:14:12 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "sanctioned",
+    "moscow",
+    "exchange",
+    "list",
+    "bitcoin"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "0ca687c26a1c65a0bda12be3e78eebba",
+   "sector": "Crypto",
+   "title": "South Korea's ruling party wants to delay its crypto tax again",
+   "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 05:09:40 +0000",
    "source": "rss",
    "sentiment_score": 0.2,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "cftc",
-    "gets",
-    "into",
-    "legal",
-    "clash"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "a4a0bf4ea4bc6b1c1b93d1cacfc0aec7",
-   "sector": "Crypto",
-   "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 16:55:10 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "justin",
-    "seeks",
-    "sanctions",
-    "against",
-    "trump"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "171c9a128ca481f1195c479db5cf58b9",
-   "sector": "Crypto",
-   "title": "South Korea's president says country needs a \u2018cybersecurity czar\u2019 following $6.3 billion Binance hack",
-   "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 16:49:56 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
     "south",
     "korea",
-    "president",
-    "says",
-    "country"
+    "ruling",
+    "party",
+    "wants"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -906,44 +906,44 @@
    "category": "News"
   },
   {
-   "id": "b2203a26f1e35c4d74d7af4f564b9b16",
+   "id": "63777a71dc1dc5c9cd904790d3b2c482",
    "sector": "Crypto",
-   "title": "Amazon, Tesla and SpaceX join OKX\u2013ICE tokenized stock objections as deadline looms",
-   "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+   "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+   "link": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
    "summary": "",
-   "published": "Tue, 03 Nov 2026 16:17:51 +0000",
+   "published": "Wed, 04 Nov 2026 04:55:11 +0000",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "democrats",
+    "surge",
+    "toward",
+    "senate",
+    "house"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "69b92789bcb01067d107d81242b6fa38",
+   "sector": "Crypto",
+   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+   "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 04:48:16 +0000",
+   "source": "rss",
+   "sentiment_score": -0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "amazon",
-    "tesla",
-    "spacex",
-    "join",
-    "tokenized"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "4baf4fcc36118826e6d323e7b9abcdec",
-   "sector": "Crypto",
-   "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-   "link": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-   "summary": "",
-   "published": "Tue, 03 Nov 2026 16:12:35 +0000",
-   "source": "rss",
-   "sentiment_score": -0.15000000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "stablecoin",
-    "governance",
-    "group",
-    "behind",
-    "ousd"
+    "bitcoin",
+    "briefly",
+    "sinks",
+    "bets",
+    "democratic"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -972,6 +972,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Europe\u2019s Hera spacecraft has captured its first clear view of two asteroids involved in NASA\u2019s histo",
+   "category": "News"
+  },
+  {
+   "id": "fed5dbd4e8a5ceb105cb1dfe11c8d62b",
+   "sector": "Science",
+   "title": "A hidden star is plowing through Betelgeuse\u2019s atmosphere, new evidence suggests",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+   "summary": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse\u2019s enormous atmosphere, creating disturbances that subtly stretch and distort the red supergiant\u2019s shape.",
+   "published": "Tue, 03 Nov 2026 21:52:16 EST",
+   "source": "rss",
+   "sentiment_score": -0.08939393939393939,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "star",
+    "betelgeuse",
+    "hidden",
+    "plowing",
+    "through"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culp",
    "category": "News"
   },
   {
@@ -1044,6 +1067,29 @@
    "category": "News"
   },
   {
+   "id": "c7170e6813e26439229892c00e95da9a",
+   "sector": "Science",
+   "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+   "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term safety a critical challenge.",
+   "published": "Tue, 03 Nov 2026 23:30:57 EST",
+   "source": "rss",
+   "sentiment_score": -0.062346938775510195,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "could",
+    "gene",
+    "editing",
+    "replace",
+    "lifetime"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and o",
+   "category": "News"
+  },
+  {
    "id": "214446dd21fe9b08110336046506f035",
    "sector": "Science",
    "title": "All 5 genetic \u201cletters\u201d of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
@@ -1087,52 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle seve",
-   "category": "News"
-  },
-  {
-   "id": "be1ca3c0535f59b83a453a0f9b9c5883",
-   "sector": "Science",
-   "title": "NASA reveals a haunting skull hidden in Antarctica\u2019s ice",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
-   "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have exposed large areas of dark ice, potentially accelerating future melting and gradually transforming the skull's ghostly features.",
-   "published": "Mon, 02 Nov 2026 04:50:36 EST",
-   "source": "rss",
-   "sentiment_score": -0.012797619047619044,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "skull",
-    "nasa",
-    "haunting",
-    "melting",
-    "reveals"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its",
-   "category": "News"
-  },
-  {
-   "id": "749f49154f56604f5946bc32268f1be4",
-   "sector": "Science",
-   "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
-   "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive \u201cghost particles\u201d could hold extraordinary clues about the Big Bang, extreme cosmic events, and some of the universe\u2019s greatest mysteries.",
-   "published": "Mon, 02 Nov 2026 08:42:07 EST",
-   "source": "rss",
-   "sentiment_score": 0.15648148148148147,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "particles",
-    "ghost",
-    "neutrinos",
-    "cosmic",
-    "icecube"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now d",
    "category": "News"
   },
   {
@@ -1320,18 +1320,64 @@
    "category": "News"
   },
   {
-   "id": "3b8cffa96e6e2a87d13855f2818ee973",
+   "id": "1f4653542fef605f991136a67f109071",
    "sector": "Tech/AI",
-   "title": "The Internals of PostgreSQL",
-   "link": "https://www.interdb.jp/pg/index.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+   "title": "Kitty 0.50",
+   "link": "https://sw.kovidgoyal.net/kitty/changelog/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362980\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 08:57:10 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "internals",
-    "postgresql",
+    "kitty",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362980\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "22d92d726f4ba32d81ed8178c856306a",
+   "sector": "Tech/AI",
+   "title": "Verification Is Not Knowledge: Science needs more than answers",
+   "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50363019\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 09:01:58 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "verification",
+    "knowledge",
+    "science",
+    "needs",
+    "more"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50363019\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "e26be885b9f3b5cb368c36b3c1de473e",
+   "sector": "Tech/AI",
+   "title": "Jelly Sheet",
+   "link": "https://mrdoob.github.io/codevember-2026/01/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50361268\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 03:40:50 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "jelly",
+    "sheet",
     "href",
     "https",
     "news"
@@ -1339,99 +1385,53 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358702\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50361268\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "83970c4932773c4d778cb2e616c04eb4",
+   "id": "adc2c60e3bc3a0173d8d4ffcb3fc15d7",
    "sector": "Tech/AI",
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
-   "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339288\">Comments</a>",
-   "published": "Mon, 02 Nov 2026 16:29:19 +0000",
+   "title": "The lost malloc()",
+   "link": "https://napcakes.nekoweb.org/posts/malloc/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362466\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 07:37:30 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "jailbreaking",
-    "navigation",
-    "system",
-    "just",
-    "change"
+    "lost",
+    "malloc",
+    "href",
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50339288\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50362466\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "d60da448c5d94a25012a0ee3389fc013",
+   "id": "827c99f03d05a122f8dc5fe94cb8c675",
    "sector": "Tech/AI",
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "link": "https://neufangled.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50354358\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 16:47:29 +0000",
+   "title": "C++26 Disapproved",
+   "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50360164\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 00:33:22 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "stringman",
-    "open",
-    "source",
-    "room",
-    "scale"
+    "disapproved",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50354358\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0640e1cb6e16ead58de8044b73203edd",
-   "sector": "Tech/AI",
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 21:39:05 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.15,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "safari",
-    "introduces",
-    "adaptive",
-    "dark",
-    "mode"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50358562\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "f716d9370e8845fde901e46d10256233",
-   "sector": "Tech/AI",
-   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-   "link": "https://hackertv.org",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50346755\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 01:18:09 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "show",
-    "hackertv",
-    "most",
-    "recommended",
-    "youtube"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50346755\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50360164\">Comments</a>",
    "category": "News"
   }
  ]
