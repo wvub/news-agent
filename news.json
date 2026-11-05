@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05 08:24 IST",
+ "updated": "2026-11-05 15:49 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,22 @@
    "article_count": 5
   },
   {
-   "keyword": "data",
+   "keyword": "million",
    "frequency": 8,
    "sectors": 3,
-   "article_count": 3
+   "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 6,
+   "keyword": "data",
+   "frequency": 7,
    "sectors": 2,
-   "article_count": 3
+   "article_count": 2
+  },
+  {
+   "keyword": "stock",
+   "frequency": 6,
+   "sectors": 1,
+   "article_count": 4
   },
   {
    "keyword": "scientists",
@@ -52,16 +58,10 @@
    "article_count": 2
   },
   {
-   "keyword": "election",
+   "keyword": "democrats",
    "frequency": 5,
    "sectors": 3,
    "article_count": 3
-  },
-  {
-   "keyword": "tests",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
   },
   {
    "keyword": "nasa",
@@ -88,200 +88,223 @@
    "article_count": 2
   },
   {
-   "keyword": "stock",
+   "keyword": "election",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 3
+   "sectors": 2,
+   "article_count": 2
   },
   {
-   "keyword": "crypto",
+   "keyword": "after",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 4
+   "sectors": 3,
+   "article_count": 3
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.276405+00:00",
+   "last_failure": "2026-11-05 10:19:19.681770+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.352357+00:00",
+   "last_failure": "2026-11-05 10:19:19.734185+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.430816+00:00",
+   "last_failure": "2026-11-05 10:19:19.782494+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.496697+00:00",
+   "last_failure": "2026-11-05 10:19:19.830872+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.563354+00:00",
+   "last_failure": "2026-11-05 10:19:19.881413+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.635960+00:00",
+   "last_failure": "2026-11-05 10:19:19.925955+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.719336+00:00",
+   "last_failure": "2026-11-05 10:19:19.978103+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.790535+00:00",
+   "last_failure": "2026-11-05 10:19:20.027933+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.861638+00:00",
+   "last_failure": "2026-11-05 10:19:20.074316+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.924696+00:00",
+   "last_failure": "2026-11-05 10:19:20.119824+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:14.989344+00:00",
+   "last_failure": "2026-11-05 10:19:20.167091+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:15.059977+00:00",
+   "last_failure": "2026-11-05 10:19:20.219622+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:15.129308+00:00",
+   "last_failure": "2026-11-05 10:19:20.270428+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:15.199098+00:00",
+   "last_failure": "2026-11-05 10:19:20.316920+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:15.270066+00:00",
+   "last_failure": "2026-11-05 10:19:20.363806+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-05 02:54:15.352781+00:00",
+   "last_failure": "2026-11-05 10:19:20.414379+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "7f68b7a1f0ff802d5d0d7c3b73d2fe39",
+   "id": "a0979b403a5c33ead3578aa8c3f04da3",
    "sector": "World",
-   "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-   "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+   "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+   "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+   "published": "Thu, 05 Nov 2026 03:47:56 GMT",
    "source": "rss",
-   "sentiment_score": -0.5,
+   "sentiment_score": -0.16666666666666666,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "republicans",
-    "disaster",
-    "angry",
-    "blame",
+    "election",
+    "president",
+    "vance",
+    "walks",
     "trump"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns",
+   "summary_short": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest break",
    "category": "News"
   },
   {
-   "id": "4ffb2ccfbb2c394d37c8212cbffd9469",
+   "id": "3112f99a35403967d590fd23f0e62d6c",
    "sector": "World",
-   "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-   "summary": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White House to come to a deal.",
-   "published": "Wed, 04 Nov 2026 18:01:31 GMT",
+   "title": "What Democrats can and can't do with their new power after taking Congress",
+   "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+   "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "democrats",
+    "power",
+    "what",
+    "their",
+    "after"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Democrats can vote legislation through. But Trump still has veto power.",
+   "category": "News"
+  },
+  {
+   "id": "55f1df21c4b3a6db59fb6249b91cf453",
+   "sector": "World",
+   "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "published": "Thu, 05 Nov 2026 08:07:22 GMT",
+   "source": "rss",
+   "sentiment_score": 0.55,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "wong",
+    "joshua",
+    "face",
+    "hong",
+    "kong"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "category": "News"
+  },
+  {
+   "id": "de55a58688bd730bbc60eee982d7bd3c",
+   "sector": "World",
+   "title": "Italian chef fired after refusing to put pineapple on pizza",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+   "summary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+   "published": "Thu, 05 Nov 2026 07:56:53 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "midterm",
-    "results",
-    "victory",
-    "canadians",
-    "hopeful"
+    "italian",
+    "pineapple",
+    "pizza",
+    "chef",
+    "fired"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "With Canada-US trade talks back on, Tuesday\u2019s midterm Democratic wave puts pressure on the White Hou",
-   "category": "News"
-  },
-  {
-   "id": "021159549e0227af0612d44696387705",
-   "sector": "World",
-   "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-   "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-   "published": "Wed, 04 Nov 2026 22:48:43 GMT",
-   "source": "rss",
-   "sentiment_score": -0.16666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "says",
-    "ukraine",
-    "bodycam",
-    "video",
-    "shows"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on",
+   "summary_short": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Itali",
    "category": "News"
   },
   {
@@ -308,6 +331,29 @@
    "category": "News"
   },
   {
+   "id": "84073ff80d3c48fc979498d3bc67afc5",
+   "sector": "World",
+   "title": "Typhoons batter East Asia as El Ni\u00f1o makes Pacific 'burn with fever'",
+   "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+   "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+   "published": "Wed, 04 Nov 2026 23:12:47 GMT",
+   "source": "rss",
+   "sentiment_score": -0.03333333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "typhoons",
+    "batter",
+    "east",
+    "asia",
+    "makes"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild",
+   "category": "News"
+  },
+  {
    "id": "89bea4e1526a6f469907968570e05e45",
    "sector": "World",
    "title": "'Most difficult days of my life' for keeper Owono",
@@ -331,72 +377,141 @@
    "category": "News"
   },
   {
-   "id": "6e3326e0e843e261e7e6efb0d5922475",
+   "id": "e2f9764eae7976465f0294b4ab82b3be",
    "sector": "World",
-   "title": "Israel's president begins consultations with parties after election deadlock",
-   "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-   "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-   "published": "Wed, 04 Nov 2026 16:18:21 GMT",
+   "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+   "link": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+   "published": "Thu, 05 Nov 2026 02:09:23 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.16666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "pope",
+    "dylan",
+    "hosts",
+    "official",
+    "residence"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmam",
+   "category": "News"
+  },
+  {
+   "id": "3d21b96fc0e8d40e9a0770e9388f0793",
+   "sector": "Markets",
+   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+   "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
+   "published": "Thu, 05 Nov 2026 10:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "election",
-    "israel",
-    "president",
-    "begins",
-    "consultations"
+    "brother",
+    "year",
+    "father",
+    "changed",
+    "hour"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to av",
+   "summary_short": "\u201cMy brother had no job and needed a place to live.\u201d",
    "category": "News"
   },
   {
-   "id": "48b24f5c35a39bcf11a6ae80575b2371",
-   "sector": "World",
-   "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-   "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-   "summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-   "published": "Wed, 04 Nov 2026 07:39:38 GMT",
+   "id": "52e6695e9421396907ad148000f0a957",
+   "sector": "Markets",
+   "title": "Toyota stock rallies after company lowered sales guidance. Here\u2019s how rare that is.",
+   "link": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
+   "summary": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its annual sales forecast.",
+   "published": "Thu, 05 Nov 2026 10:15:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.52,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.14444444444444446,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "delhi",
-    "quality",
-    "worsens",
-    "ahead",
-    "diwali"
+    "toyota",
+    "stock",
+    "after",
+    "sales",
+    "rallies"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+   "summary_short": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its a",
    "category": "News"
   },
   {
-   "id": "4419485eb758f029c552136e1f25cb51",
-   "sector": "World",
-   "title": "Secret police files released in Hungary, 37 years after fall of communism",
-   "link": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-   "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-   "published": "Wed, 04 Nov 2026 15:28:18 GMT",
+   "id": "d7e7ef5fd175a27da77c879706387a81",
+   "sector": "Markets",
+   "title": "Richard Simmons\u2019 L.A. estate sells for $3.8 million",
+   "link": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
+   "summary": "Over a year after Richard Simmons\u2019 death, the fitness guru\u2019s longtime home has sold to a buyer drawn to its rich history.",
+   "published": "Thu, 05 Nov 2026 10:02:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.3666666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.375,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "files",
-    "move",
-    "secret",
-    "police",
-    "released"
+    "richard",
+    "simmons",
+    "estate",
+    "sells",
+    "million"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks so",
+   "summary_short": "Over a year after Richard Simmons\u2019 death, the fitness guru\u2019s longtime home has sold to a buyer drawn",
+   "category": "News"
+  },
+  {
+   "id": "3e2b6449aa7af34749088cca9d537470",
+   "sector": "Markets",
+   "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+   "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+   "summary": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
+   "published": "Thu, 05 Nov 2026 08:13:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.53125,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "democrats",
+    "congress",
+    "scores",
+    "best",
+    "months"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to",
+   "category": "News"
+  },
+  {
+   "id": "a2a400f94abea9c0c427c5a1a9ea64fd",
+   "sector": "Markets",
+   "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
+   "link": "https://www.marketwatch.com/story/most-investors-are-blind-to-the-possibility-of-a-market-crash-here-is-the-five-part-strategy-to-survive-one-a1762911?mod=mw_rss_topstories",
+   "summary": "Wall Street veteran Jared Dillian says the biggest problem is many investors these days have not lived through a major downturn. He\u2019s got a portfolio that offers protection.",
+   "published": "Thu, 05 Nov 2026 07:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.11041666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "investors",
+    "most",
+    "blind",
+    "possibility",
+    "market"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Wall Street veteran Jared Dillian says the biggest problem is many investors these days have not liv",
    "category": "News"
   },
   {
@@ -466,121 +581,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these feat",
-   "category": "News"
-  },
-  {
-   "id": "954caf1bd49129d8230a12870869fd1b",
-   "sector": "Markets",
-   "title": "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
-   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
-   "summary": "The burger chain is overhauling its menu and seeking to deliver a \u201cclear and compelling value proposition.\u201d",
-   "published": "Thu, 05 Nov 2026 01:01:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1787878787878788,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "value",
-    "menu",
-    "mcdonald",
-    "tests",
-    "fast"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The burger chain is overhauling its menu and seeking to deliver a \u201cclear and compelling value propos",
-   "category": "News"
-  },
-  {
-   "id": "0ca813e5006614d296314f42bcda65b6",
-   "sector": "Markets",
-   "title": "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive knee-jerk\u2019 reaction",
-   "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
-   "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
-   "published": "Thu, 05 Nov 2026 00:38:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.022272727272727277,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "energy",
-    "stocks",
-    "vistra",
-    "other",
-    "slide"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-ce",
-   "category": "News"
-  },
-  {
-   "id": "0d4aa5e758276f71c475f95d234d96f3",
-   "sector": "Markets",
-   "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-   "summary": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
-   "published": "Wed, 04 Nov 2026 23:45:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "life",
-    "could",
-    "short",
-    "married",
-    "million"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
-   "sector": "Markets",
-   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "published": "Wed, 04 Nov 2026 22:15:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10833333333333334,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "seems",
-    "bizarre",
-    "traditional",
-    "iras",
-    "adviser"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "62a579ee6996f5964bf1733fc83c405c",
-   "sector": "Markets",
-   "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
-   "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-   "summary": "Most Americans are \u201cthrilled\u201d or \u201chappy\u201d about the results of this year\u2019s election. Some are especially so.",
-   "published": "Wed, 04 Nov 2026 22:06:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.41999999999999993,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "americans",
-    "about",
-    "results",
-    "feel",
-    "midterm"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Most Americans are \u201cthrilled\u201d or \u201chappy\u201d about the results of this year\u2019s election. Some are especia",
    "category": "News"
   },
   {
@@ -768,6 +768,167 @@
    "category": "News"
   },
   {
+   "id": "8667ec27d0448809cae9cadc193c9ecc",
+   "sector": "Crypto",
+   "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+   "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 08:35:37 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "hong",
+    "kong",
+    "passes",
+    "requiring",
+    "crypto"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "6d95b0d1d3eb65f2fd215d7bec151466",
+   "sector": "Crypto",
+   "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+   "link": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 08:26:26 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "openai",
+    "says",
+    "break",
+    "into",
+    "linux"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "80e21acdff2d3b309c83b94881514a68",
+   "sector": "Crypto",
+   "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+   "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 05:47:01 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "zcash",
+    "about",
+    "freeze",
+    "million",
+    "oldest"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "b30dd97e3226ac0deedc0ddaebc92a99",
+   "sector": "Crypto",
+   "title": "The pile of lawsuits against Kalshi just grew by one",
+   "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 05:28:52 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "pile",
+    "lawsuits",
+    "against",
+    "kalshi",
+    "just"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "dc98eb2f6a86d1f0f0389559f207cbb1",
+   "sector": "Crypto",
+   "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+   "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 05:25:06 +0000",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "ledger",
+    "fixes",
+    "disclosed",
+    "could",
+    "creation"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "71da527660540efb0d201cba0a5615af",
+   "sector": "Crypto",
+   "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 05:13:45 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bitcoin",
+    "holds",
+    "above",
+    "zcash",
+    "jumps"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "745f6dd8fcb72d511a9bb66ba5140284",
+   "sector": "Crypto",
+   "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+   "summary": "",
+   "published": "Thu, 05 Nov 2026 04:11:33 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "trump",
+    "media",
+    "moves",
+    "million",
+    "bitcoin"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "b93bc6baeb13e2ef0d20067c6a40d509",
    "sector": "Crypto",
    "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
@@ -783,167 +944,6 @@
     "weather",
     "democrats",
     "sweep"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "e1aa30cf3cefcd9293ff3c95d4cbb6e1",
-   "sector": "Crypto",
-   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-   "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 22:51:42 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "washington",
-    "hopes",
-    "fade",
-    "grayscale"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "8f7b525a44d5e3b9efe567f118ac6a76",
-   "sector": "Crypto",
-   "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-   "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 20:29:12 +0000",
-   "source": "rss",
-   "sentiment_score": -0.13333333333333333,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "crypto",
-    "powerhouse",
-    "super",
-    "suffers",
-    "costly"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "1c23238a799e1dc78da0fbc4c5bc7588",
-   "sector": "Crypto",
-   "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
-   "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 16:11:29 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "democratic",
-    "sweep",
-    "could",
-    "final",
-    "nail"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "f6954902eff763f3e7ae9081f558b8ea",
-   "sector": "Crypto",
-   "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-   "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 16:08:14 +0000",
-   "source": "rss",
-   "sentiment_score": 0.018181818181818174,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "wall",
-    "street",
-    "rethinks",
-    "data",
-    "center"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "7612592f0a657fe2541e09090af751a0",
-   "sector": "Crypto",
-   "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
-   "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 15:27:20 +0000",
-   "source": "rss",
-   "sentiment_score": 0.09444444444444444,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "long",
-    "short",
-    "betting",
-    "retail"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "297b6ee3786b14322c7a3a4ba8c1340d",
-   "sector": "Crypto",
-   "title": "The election changes Washington. The work on crypto continues",
-   "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 14:25:12 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "election",
-    "changes",
-    "washington",
-    "work",
-    "crypto"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "694cac08df1c38b6777958567f1f4e93",
-   "sector": "Crypto",
-   "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-   "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 14:00:53 +0000",
-   "source": "rss",
-   "sentiment_score": 0.03409090909090909,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "live",
-    "updates",
-    "bitcoin",
-    "rises",
-    "above"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,6 +1343,29 @@
    "category": "News"
   },
   {
+   "id": "f9a5eb50d049800a1e540e1bccfd3eda",
+   "sector": "Tech/AI",
+   "title": "Lemmings CSS Animation",
+   "link": "https://markblah.github.io/lemmings/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50375354\">Comments</a>",
+   "published": "Thu, 05 Nov 2026 04:54:10 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "lemmings",
+    "animation",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50375354\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "32be22ca751896b10238fc2ae0aa7b00",
    "sector": "Tech/AI",
    "title": "Images 2.6",
@@ -1389,49 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "2bde9b2dd9b1f43ac983c9b77703c988",
+   "id": "83e8208d96569b8bcf434811959c05cb",
    "sector": "Tech/AI",
-   "title": "Starfall \u2013 Affordable, routine access to microgravity",
-   "link": "https://www.spacex.com/starfall",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>",
-   "published": "Thu, 05 Nov 2026 00:18:18 +0000",
+   "title": "Partial Operator Precedence",
+   "link": "https://ziglang.org/devlog/2026/#2026-10-24",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50340195\">Comments</a>",
+   "published": "Mon, 02 Nov 2026 17:22:20 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "starfall",
-    "affordable",
-    "routine",
-    "access",
-    "microgravity"
+    "partial",
+    "operator",
+    "precedence",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "42e589561562b405c261bfd73ea845b4",
-   "sector": "Tech/AI",
-   "title": "AI is forcing us to pay off 40 years of technical debt",
-   "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50364336\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 11:52:17 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "forcing",
-    "years",
-    "technical",
-    "debt",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50364336\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50340195\">Comments</a>",
    "category": "News"
   }
  ]
