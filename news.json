@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05 04:19 IST",
+ "updated": "2026-11-05 08:24 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -29,9 +29,15 @@
   },
   {
    "keyword": "data",
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
+   "keyword": "million",
    "frequency": 6,
    "sectors": 2,
-   "article_count": 2
+   "article_count": 3
   },
   {
    "keyword": "scientists",
@@ -52,6 +58,12 @@
    "article_count": 3
   },
   {
+   "keyword": "tests",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
    "keyword": "nasa",
    "frequency": 5,
    "sectors": 1,
@@ -70,21 +82,9 @@
    "article_count": 2
   },
   {
-   "keyword": "million",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "files",
-   "frequency": 4,
-   "sectors": 2,
    "article_count": 2
   },
   {
@@ -94,122 +94,122 @@
    "article_count": 3
   },
   {
-   "keyword": "more",
+   "keyword": "crypto",
    "frequency": 4,
    "sectors": 1,
-   "article_count": 1
+   "article_count": 4
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:27.633957+00:00",
+   "last_failure": "2026-11-05 02:54:14.276405+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:27.713935+00:00",
+   "last_failure": "2026-11-05 02:54:14.352357+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:27.799925+00:00",
+   "last_failure": "2026-11-05 02:54:14.430816+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:27.875379+00:00",
+   "last_failure": "2026-11-05 02:54:14.496697+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:27.945097+00:00",
+   "last_failure": "2026-11-05 02:54:14.563354+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.023701+00:00",
+   "last_failure": "2026-11-05 02:54:14.635960+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.102820+00:00",
+   "last_failure": "2026-11-05 02:54:14.719336+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.179345+00:00",
+   "last_failure": "2026-11-05 02:54:14.790535+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.250741+00:00",
+   "last_failure": "2026-11-05 02:54:14.861638+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.320241+00:00",
+   "last_failure": "2026-11-05 02:54:14.924696+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.399695+00:00",
+   "last_failure": "2026-11-05 02:54:14.989344+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.478499+00:00",
+   "last_failure": "2026-11-05 02:54:15.059977+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.548875+00:00",
+   "last_failure": "2026-11-05 02:54:15.129308+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.615759+00:00",
+   "last_failure": "2026-11-05 02:54:15.199098+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.685794+00:00",
+   "last_failure": "2026-11-05 02:54:15.270066+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-04 22:49:28.764979+00:00",
+   "last_failure": "2026-11-05 02:54:15.352781+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -400,12 +400,35 @@
    "category": "News"
   },
   {
+   "id": "c7177333894f498645ac7da5664b0414",
+   "sector": "Markets",
+   "title": "Qualcomm\u2019s stock falls as twin forces pressure sales",
+   "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+   "summary": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall smartphone demand.",
+   "published": "Thu, 05 Nov 2026 01:06:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.04666666666666666,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "qualcomm",
+    "stock",
+    "falls",
+    "twin",
+    "forces"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall ",
+   "category": "News"
+  },
+  {
    "id": "ec6cf0d05356ec1900ccf4dfd55895eb",
    "sector": "Markets",
    "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
    "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
    "summary": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results.",
-   "published": "Wed, 04 Nov 2026 22:46:00 GMT",
+   "published": "Thu, 05 Nov 2026 01:05:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0965909090909091,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -420,6 +443,98 @@
    "why": "Error",
    "effect": "",
    "summary_short": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results.",
+   "category": "News"
+  },
+  {
+   "id": "f762aa6c41558a2ff1312d65c94648f6",
+   "sector": "Markets",
+   "title": "Figma\u2019s stock dips as investors worry that AI momentum is coming at a high price",
+   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+   "summary": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+   "published": "Thu, 05 Nov 2026 01:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.16999999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "figma",
+    "stock",
+    "dips",
+    "investors",
+    "worry"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these feat",
+   "category": "News"
+  },
+  {
+   "id": "954caf1bd49129d8230a12870869fd1b",
+   "sector": "Markets",
+   "title": "McDonald\u2019s tests new value menu as fast-food discount wars heat up",
+   "link": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+   "summary": "The burger chain is overhauling its menu and seeking to deliver a \u201cclear and compelling value proposition.\u201d",
+   "published": "Thu, 05 Nov 2026 01:01:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1787878787878788,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "value",
+    "menu",
+    "mcdonald",
+    "tests",
+    "fast"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The burger chain is overhauling its menu and seeking to deliver a \u201cclear and compelling value propos",
+   "category": "News"
+  },
+  {
+   "id": "0ca813e5006614d296314f42bcda65b6",
+   "sector": "Markets",
+   "title": "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive knee-jerk\u2019 reaction",
+   "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+   "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+   "published": "Thu, 05 Nov 2026 00:38:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.022272727272727277,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "energy",
+    "stocks",
+    "vistra",
+    "other",
+    "slide"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-ce",
+   "category": "News"
+  },
+  {
+   "id": "0d4aa5e758276f71c475f95d234d96f3",
+   "sector": "Markets",
+   "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+   "summary": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
+   "published": "Wed, 04 Nov 2026 23:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "life",
+    "could",
+    "short",
+    "married",
+    "million"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
    "category": "News"
   },
   {
@@ -469,124 +584,55 @@
    "category": "News"
   },
   {
-   "id": "c7177333894f498645ac7da5664b0414",
-   "sector": "Markets",
-   "title": "Qualcomm\u2019s stock falls as twin forces pressure sales",
-   "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-   "summary": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall smartphone demand.",
-   "published": "Wed, 04 Nov 2026 22:03:00 GMT",
+   "id": "874e9a5ba2489b08c26680d5d721433a",
+   "sector": "Tech/AI",
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "published": "Thu, 05 Nov 2026 01:26:22 +0000",
    "source": "rss",
-   "sentiment_score": -0.04666666666666666,
+   "sentiment_score": -0.075,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "qualcomm",
-    "stock",
-    "falls",
-    "twin",
-    "forces"
+    "apple",
+    "reportedly",
+    "cutting",
+    "budgets",
+    "internal"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Qualcomm faces the loss of Apple\u2019s business and the negative impact of high memory costs on overall ",
+   "summary_short": "The company is said to be significantly dropping the amount it's spending on AI for its engineering ",
    "category": "News"
   },
   {
-   "id": "fb48394f700c011d52982a4638ae4d6d",
-   "sector": "Markets",
-   "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
-   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-   "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not \u201cunwind projects already funded.\u201d",
-   "published": "Wed, 04 Nov 2026 21:55:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "other",
-    "micron",
-    "chip",
-    "stocks",
-    "slip"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, thou",
-   "category": "News"
-  },
-  {
-   "id": "9d52387e07f419f4c1f3f78957060ab8",
-   "sector": "Markets",
-   "title": "These stocks soared the most today after the Democrats trounced Trump",
-   "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
-   "summary": "Chemical company Mosaic\u2019s stock is the strongest performer among the S&amp;P 500, while several tech players and associated power providers show sharp declines",
-   "published": "Wed, 04 Nov 2026 21:55:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.125,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "these",
-    "stocks",
-    "soared",
-    "most",
-    "today"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Chemical company Mosaic\u2019s stock is the strongest performer among the S&amp;P 500, while several tech",
-   "category": "News"
-  },
-  {
-   "id": "619610a0ff67984b882afe47bd776e90",
-   "sector": "Markets",
-   "title": "Figma\u2019s stock falls as investors worry that AI momentum is coming at a high price",
-   "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-   "summary": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
-   "published": "Wed, 04 Nov 2026 21:48:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.16999999999999998,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "figma",
-    "stock",
-    "falls",
-    "investors",
-    "worry"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Figma\u2019s investments in AI models and agents are driving usage, but the cost of delivering these feat",
-   "category": "News"
-  },
-  {
-   "id": "ef4abe3aff8f0ef90871b362ac80a8f5",
-   "sector": "Markets",
-   "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost \u2014\u00a0and these factors show why",
-   "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-   "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
-   "published": "Wed, 04 Nov 2026 21:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.2375,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "microsoft",
-    "amazon",
-    "combined",
-    "billion",
-    "market"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a clou",
-   "category": "News"
-  },
-  {
-   "id": "52b645657400ec1b18c8ee7b86f8376d",
+   "id": "dbc22b3fa18fba83ee6c80dd812d8ba6",
    "sector": "Tech/AI",
-   "title": "AI PACs spent millions trying to shape Congress. Here\u2019s how they fared.",
+   "title": "After the midterms, a bigger clash over data centers could be coming",
+   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "summary": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+   "published": "Thu, 05 Nov 2026 01:02:14 +0000",
+   "source": "rss",
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "midterms",
+    "data",
+    "after",
+    "bigger",
+    "clash"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+   "category": "News"
+  },
+  {
+   "id": "69a13ec886f5a022c1b076b7765a4891",
+   "sector": "Tech/AI",
+   "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
    "published": "Wed, 04 Nov 2026 22:45:09 +0000",
@@ -722,67 +768,67 @@
    "category": "News"
   },
   {
-   "id": "cb5d931dfe62c91d5d550155fde295f4",
-   "sector": "Tech/AI",
-   "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-   "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-   "summary": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
-   "published": "Wed, 04 Nov 2026 20:36:57 +0000",
+   "id": "b93bc6baeb13e2ef0d20067c6a40d509",
+   "sector": "Crypto",
+   "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+   "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 22:55:00 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "hackers",
-    "customer",
-    "files",
-    "during",
-    "attack"
+    "tokenization",
+    "stablecoins",
+    "weather",
+    "democrats",
+    "sweep"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"de",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "9719d56b66d77820eb388ec0f0add5ad",
-   "sector": "Tech/AI",
-   "title": "Open source AI is booming. Hugging Face explains who profits.",
-   "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-   "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
-   "published": "Wed, 04 Nov 2026 19:30:04 +0000",
-   "source": "rss",
-   "sentiment_score": 0.25384615384615383,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "more",
-    "open",
-    "models",
-    "source",
-    "booming"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely ",
-   "category": "News"
-  },
-  {
-   "id": "06645bc9ab2e4269dfb3eec9dba89dd6",
+   "id": "e1aa30cf3cefcd9293ff3c95d4cbb6e1",
    "sector": "Crypto",
-   "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+   "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+   "summary": "",
+   "published": "Wed, 04 Nov 2026 22:51:42 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "crypto",
+    "washington",
+    "hopes",
+    "fade",
+    "grayscale"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "8f7b525a44d5e3b9efe567f118ac6a76",
+   "sector": "Crypto",
+   "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
    "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
    "summary": "",
    "published": "Wed, 04 Nov 2026 20:29:12 +0000",
    "source": "rss",
-   "sentiment_score": 0.3333333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.13333333333333333,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
     "crypto",
     "powerhouse",
     "super",
-    "fairshake",
-    "found"
+    "suffers",
+    "costly"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -898,52 +944,6 @@
     "bitcoin",
     "rises",
     "above"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "af724def75fb24424fb32b4363d82199",
-   "sector": "Crypto",
-   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-   "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "global",
-    "asset",
-    "manager",
-    "schroders",
-    "brings"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "e0a1eac82dd138e0d576f90a35d9141e",
-   "sector": "Crypto",
-   "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-   "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-   "summary": "",
-   "published": "Wed, 04 Nov 2026 12:49:56 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "thorchain",
-    "rune",
-    "jumps",
-    "north",
-    "korean"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,49 +1343,72 @@
    "category": "News"
   },
   {
-   "id": "1829daed3caf0731d953d7ab0b4a0c64",
+   "id": "32be22ca751896b10238fc2ae0aa7b00",
    "sector": "Tech/AI",
-   "title": "Insects don't swarm at LED lights",
-   "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50370610\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 19:50:23 +0000",
+   "title": "Images 2.6",
+   "link": "https://openai.com/index/introducing-images-2-6/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372945\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 23:35:44 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "insects",
-    "swarm",
-    "lights",
+    "images",
     "href",
-    "https"
+    "https",
+    "news",
+    "ycombinator"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50370610\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372945\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "4870ed52167665a44cf309410f12b4fd",
+   "id": "9858398739e39cd3e54d4bea2c35042b",
    "sector": "Tech/AI",
-   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "link": "https://www.ricursive.com/ripple",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 18:53:29 +0000",
+   "title": "A thousand fewer paths to root",
+   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372929\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 23:33:14 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "ripple",
-    "preview",
-    "open",
-    "weight",
-    "sota"
+    "thousand",
+    "fewer",
+    "paths",
+    "root",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50369925\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372929\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "2bde9b2dd9b1f43ac983c9b77703c988",
+   "sector": "Tech/AI",
+   "title": "Starfall \u2013 Affordable, routine access to microgravity",
+   "link": "https://www.spacex.com/starfall",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>",
+   "published": "Thu, 05 Nov 2026 00:18:18 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "starfall",
+    "affordable",
+    "routine",
+    "access",
+    "microgravity"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50373308\">Comments</a>",
    "category": "News"
   },
   {
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50364336\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "6b1b29a863442ab806d0201e98ace294",
-   "sector": "Tech/AI",
-   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-   "link": "https://icode4.coffee/?p=1746",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 22:01:49 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.6999999999999998,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "hacking",
-    "xbox",
-    "hypervisor",
-    "part",
-    "update"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50372164\">Comments</a>",
    "category": "News"
   }
  ]
