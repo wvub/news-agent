@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06 23:50 IST",
+ "updated": "2026-11-07 04:48 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 8,
   "trends_detected": 15
  },
  "trends": [
@@ -22,33 +22,27 @@
    "article_count": 6
   },
   {
+   "keyword": "data",
+   "frequency": 11,
+   "sectors": 3,
+   "article_count": 5
+  },
+  {
    "keyword": "news",
    "frequency": 10,
    "sectors": 1,
    "article_count": 5
   },
   {
-   "keyword": "data",
-   "frequency": 9,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "after",
-   "frequency": 8,
-   "sectors": 4,
-   "article_count": 7
-  },
-  {
-   "keyword": "million",
-   "frequency": 8,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
    "keyword": "scientists",
    "frequency": 7,
    "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "million",
+   "frequency": 7,
+   "sectors": 2,
    "article_count": 3
   },
   {
@@ -82,16 +76,22 @@
    "article_count": 2
   },
   {
+   "keyword": "after",
+   "frequency": 4,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
    "keyword": "threats",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "keep",
+   "keyword": "year",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 2
+   "article_count": 3
   },
   {
    "keyword": "telescope",
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.511068+00:00",
+   "last_failure": "2026-11-06 23:18:23.885154+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.589293+00:00",
+   "last_failure": "2026-11-06 23:18:24.015077+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.667265+00:00",
+   "last_failure": "2026-11-06 23:18:24.142468+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.737049+00:00",
+   "last_failure": "2026-11-06 23:18:24.266162+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.814331+00:00",
+   "last_failure": "2026-11-06 23:18:24.374255+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.887868+00:00",
+   "last_failure": "2026-11-06 23:18:24.474790+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:25.957868+00:00",
+   "last_failure": "2026-11-06 23:18:24.601543+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.029394+00:00",
+   "last_failure": "2026-11-06 23:18:24.741701+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.110466+00:00",
+   "last_failure": "2026-11-06 23:18:24.870708+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.178461+00:00",
+   "last_failure": "2026-11-06 23:18:24.984346+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.248487+00:00",
+   "last_failure": "2026-11-06 23:18:25.102763+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.323016+00:00",
+   "last_failure": "2026-11-06 23:18:25.206611+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.391427+00:00",
+   "last_failure": "2026-11-06 23:18:25.325952+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.460332+00:00",
+   "last_failure": "2026-11-06 23:18:25.432085+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.530255+00:00",
+   "last_failure": "2026-11-06 23:18:25.538263+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-06 18:20:26.608114+00:00",
+   "last_failure": "2026-11-06 23:18:25.647152+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "AI stocks climb after trillions wiped from market values",
    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
    "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "published": "Fri, 06 Nov 2026 17:03:02 GMT",
+   "published": "Fri, 06 Nov 2026 21:06:25 GMT",
    "source": "rss",
    "sentiment_score": -0.21875,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -331,6 +331,29 @@
    "category": "News"
   },
   {
+   "id": "540272d15ff9db3a299f37c8f2eabba6",
+   "sector": "World",
+   "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+   "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+   "published": "Fri, 06 Nov 2026 17:44:02 GMT",
+   "source": "rss",
+   "sentiment_score": -0.06666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "rail",
+    "spain",
+    "authorities",
+    "face",
+    "european"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train ",
+   "category": "News"
+  },
+  {
    "id": "f9d90cee96b9568cc04eed269cab8fdc",
    "sector": "World",
    "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
@@ -377,26 +400,118 @@
    "category": "News"
   },
   {
-   "id": "761a65866a4d8f3378a84af5942185f5",
-   "sector": "World",
-   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-   "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-   "published": "Fri, 06 Nov 2026 00:02:57 GMT",
+   "id": "adaccb170f71e419e7307e4d5bcc334c",
+   "sector": "Markets",
+   "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+   "summary": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+   "published": "Fri, 06 Nov 2026 21:45:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.011111111111111112,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "pope",
-    "lung",
-    "begins",
-    "lengthy",
-    "trip"
+    "financial",
+    "safety",
+    "rely",
+    "social",
+    "security"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+   "summary_short": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "c27d40adb83c5aacb0bd79ddd1eb55ca",
+   "sector": "Markets",
+   "title": "Elon Musk opens the door for a big SpaceX acquisition",
+   "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+   "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+   "published": "Fri, 06 Nov 2026 21:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "elon",
+    "musk",
+    "opens",
+    "door",
+    "spacex"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+   "category": "News"
+  },
+  {
+   "id": "0b6f2116d3e835fba42400db0b4ace03",
+   "sector": "Markets",
+   "title": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
+   "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+   "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won\u2019t get any better with Democrats in control of Congress.",
+   "published": "Fri, 06 Nov 2026 21:37:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.16249999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "debt",
+    "year",
+    "data",
+    "centers",
+    "problem"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance ",
+   "category": "News"
+  },
+  {
+   "id": "40fc784a77ae4e5584c10076d608804c",
+   "sector": "Markets",
+   "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
+   "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+   "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade\u2019s favor.",
+   "published": "Fri, 06 Nov 2026 21:24:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.13143939393939394,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "nvidia",
+    "other",
+    "chip",
+    "stocks",
+    "rebound"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Analysts warn of further volatility ahead, although there are several new factors that work in the A",
+   "category": "News"
+  },
+  {
+   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
+   "sector": "Markets",
+   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
+   "published": "Fri, 06 Nov 2026 21:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.10833333333333334,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "seems",
+    "bizarre",
+    "traditional",
+    "iras",
+    "adviser"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
    "category": "News"
   },
   {
@@ -405,7 +520,7 @@
    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "published": "Fri, 06 Nov 2026 18:15:00 GMT",
+   "published": "Fri, 06 Nov 2026 21:15:00 GMT",
    "source": "rss",
    "sentiment_score": 0.07142857142857142,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -423,164 +538,141 @@
    "category": "News"
   },
   {
-   "id": "ef10a37e139c76f31dc0a205f8978380",
+   "id": "95509bbdb9301d846e85f4e16578d384",
    "sector": "Markets",
-   "title": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-   "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-   "summary": "Some tech companies are giving more generous severance packages, but here\u2019s what to keep in mind.",
-   "published": "Fri, 06 Nov 2026 18:03:00 GMT",
+   "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate",
+   "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+   "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron\u2019s earnings power won\u2019t hold up.",
+   "published": "Fri, 06 Nov 2026 20:58:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "keep",
-    "here",
-    "fired",
-    "laptop",
-    "insurance"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Some tech companies are giving more generous severance packages, but here\u2019s what to keep in mind.",
-   "category": "News"
-  },
-  {
-   "id": "aac2b7f8fd56f8dd89fd044d42e49a95",
-   "sector": "Markets",
-   "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-   "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-   "summary": "Math may be cold and unemotional \u2014 but finances are not.",
-   "published": "Fri, 06 Nov 2026 18:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0666666666666667,
+   "sentiment_score": 0.033333333333333354,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "worth",
-    "more",
-    "than",
-    "million",
-    "afford"
+    "micron",
+    "stock",
+    "dirt",
+    "cheap",
+    "igniting"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Math may be cold and unemotional \u2014 but finances are not.",
+   "summary_short": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron\u2019",
    "category": "News"
   },
   {
-   "id": "40fc784a77ae4e5584c10076d608804c",
+   "id": "3d21b96fc0e8d40e9a0770e9388f0793",
    "sector": "Markets",
-   "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
-   "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-   "summary": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade\u2019s favor.",
-   "published": "Fri, 06 Nov 2026 18:00:00 GMT",
+   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+   "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
+   "published": "Fri, 06 Nov 2026 20:15:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.15772727272727274,
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "brother",
+    "year",
+    "father",
+    "changed",
+    "hour"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cMy brother had no job and needed a place to live.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "1d696fb505ed9cc1e9d65b4d003ffa71",
+   "sector": "Tech/AI",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+   "source": "rss",
+   "sentiment_score": -0.13333333333333333,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "nvidia",
-    "other",
-    "chip",
-    "stocks",
-    "rebound"
+    "openai",
+    "reportedly",
+    "additional",
+    "billion",
+    "raises"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI tr",
+   "summary_short": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed",
    "category": "News"
   },
   {
-   "id": "8b88e4e5b4d989ec72e15f49de9a2b18",
-   "sector": "Markets",
-   "title": "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
-   "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-   "summary": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
-   "published": "Fri, 06 Nov 2026 17:51:00 GMT",
+   "id": "e9d79ab1cde2ba87a680f7294efc86bf",
+   "sector": "Tech/AI",
+   "title": "The Duo apps are coming, says Apple",
+   "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+   "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "published": "Fri, 06 Nov 2026 21:38:05 +0000",
    "source": "rss",
-   "sentiment_score": 0.13333333333333333,
+   "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "draftkings",
-    "expensive",
-    "prediction",
-    "markets",
-    "crushing"
+    "apps",
+    "says",
+    "apple",
+    "coming",
+    "there"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulati",
+   "summary_short": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
    "category": "News"
   },
   {
-   "id": "99bbf5f58bd136038a558bcaea8a5170",
-   "sector": "Markets",
-   "title": "What\u2019s next for your portfolio after the decline in Big Tech stocks?",
-   "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
-   "summary": "Also in Weekend Reads: Ideas for generating investment income, new tax brackets, buying a home with cash and advice from the Moneyist.",
-   "published": "Fri, 06 Nov 2026 17:47:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.04545454545454545,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "what",
-    "next",
-    "your",
-    "portfolio",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Also in Weekend Reads: Ideas for generating investment income, new tax brackets, buying a home with ",
-   "category": "News"
-  },
-  {
-   "id": "4268244646229d32a873f99c5592f36d",
-   "sector": "Markets",
-   "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-   "published": "Fri, 06 Nov 2026 17:45:00 GMT",
+   "id": "1c69e7fb41b35f22fe19e8e12d26ae51",
+   "sector": "Tech/AI",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+   "published": "Fri, 06 Nov 2026 18:44:38 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "months",
-    "after",
-    "funeral",
-    "stepmother",
-    "father"
+    "hundreds",
+    "artex",
+    "hacking",
+    "found",
+    "exposed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
+   "summary_short": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to",
    "category": "News"
   },
   {
-   "id": "a5db8a8a9c79c40625b36bc968a5b547",
-   "sector": "Markets",
-   "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-   "summary": "The large-cap index is nowhere near as diversified as you think.",
-   "published": "Fri, 06 Nov 2026 17:19:00 GMT",
+   "id": "b8b660b9c98f88b2a42cd03fe8602887",
+   "sector": "Tech/AI",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "published": "Fri, 06 Nov 2026 18:44:20 +0000",
    "source": "rss",
-   "sentiment_score": -0.16666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "could",
-    "dangerously",
-    "exposed",
-    "here",
-    "some"
+    "meta",
+    "spaces",
+    "muse",
+    "introduces",
+    "collaborate"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The large-cap index is nowhere near as diversified as you think.",
+   "summary_short": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to",
    "category": "News"
   },
   {
@@ -676,95 +768,26 @@
    "category": "News"
   },
   {
-   "id": "b12452068e9e2990be6ae8c1b0d551cb",
-   "sector": "Tech/AI",
-   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-   "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-   "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+   "id": "5d0d17d0438485ea210e528c3dd2a7df",
+   "sector": "Crypto",
+   "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+   "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+   "summary": "",
+   "published": "Fri, 06 Nov 2026 20:09:18 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "amazon",
-    "users",
-    "after",
-    "blocking",
-    "muse"
+    "apple",
+    "meta",
+    "reject",
+    "tokenized",
+    "stock"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-   "category": "News"
-  },
-  {
-   "id": "54169162aede7b40b9dc6945b232de59",
-   "sector": "Tech/AI",
-   "title": "Underdog shows off a 32MB speech model in new demo",
-   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-   "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-   "published": "Fri, 06 Nov 2026 13:02:16 +0000",
-   "source": "rss",
-   "sentiment_score": 0.007575757575757569,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "underdog",
-    "speech",
-    "model",
-    "shows",
-    "demo"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Despite its small size, Underdog's new model can generate both speech and music.",
-   "category": "News"
-  },
-  {
-   "id": "8b8293257d1b1300230680976ce95f1c",
-   "sector": "Tech/AI",
-   "title": "Physicl raises $10M to make the digital world real enough for robots",
-   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-   "published": "Fri, 06 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.125,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "physicl",
-    "real",
-    "raises",
-    "make",
-    "digital"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods onli",
-   "category": "News"
-  },
-  {
-   "id": "ad9b9474e7a229809aba3df7cd887a8a",
-   "sector": "Tech/AI",
-   "title": "Tesla will stop making the Cybertruck in 2027",
-   "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-   "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-   "published": "Fri, 06 Nov 2026 11:50:10 +0000",
-   "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "tesla",
-    "stop",
-    "making",
-    "cybertruck",
-    "elon"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -883,21 +906,21 @@
    "category": "News"
   },
   {
-   "id": "73b9002ab6424384751818f88a127f16",
+   "id": "6da41024ee7ebac1b57bb2a7150a327a",
    "sector": "Crypto",
-   "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+   "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
    "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
    "summary": "",
    "published": "Fri, 06 Nov 2026 11:58:40 +0000",
    "source": "rss",
-   "sentiment_score": 0.12323232323232323,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.08181818181818182,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "live",
     "updates",
     "bitcoin",
-    "holds",
-    "narrow"
+    "flatlines",
+    "under"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -921,29 +944,6 @@
     "after",
     "selloff",
     "eyes"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "4abd68b2aa373809d1776b0e73b07c6b",
-   "sector": "Crypto",
-   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-   "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 09:53:27 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "recovers",
-    "level",
-    "etfs",
-    "shed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,6 +1320,98 @@
    "category": "News"
   },
   {
+   "id": "04d08ac9557d38d391fe321e137f8a8f",
+   "sector": "Tech/AI",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397429\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "opus",
+    "help",
+    "gives",
+    "accuracy",
+    "lower"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397429\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "279274570207cd0bacdbf134dbddffef",
+   "sector": "Tech/AI",
+   "title": "AI is dramatically accelerating AI research",
+   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397994\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "dramatically",
+    "accelerating",
+    "research",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397994\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "22c6d46a25c16aa46d5f5de2517b5d49",
+   "sector": "Tech/AI",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399569\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 22:50:43 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "chatgpt",
+    "silently",
+    "passes",
+    "data",
+    "between"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399569\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "14c2402ac384504f1bdf75fee6a14a91",
+   "sector": "Tech/AI",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "link": "https://pwn.ai/blog/firecracker-escape",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 19:33:38 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "firecracker",
+    "escape",
+    "pwnescape",
+    "part",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "1e2e5caa36ad08f49acca42a5d1c1453",
    "sector": "Tech/AI",
    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
@@ -1340,98 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50388001\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "5882d57acf44d83c1f1d2273af125d61",
-   "sector": "Tech/AI",
-   "title": "Tesla to wind down Cybertruck production",
-   "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 12:13:51 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "tesla",
-    "wind",
-    "down",
-    "cybertruck",
-    "production"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c01e6c2fee656e5f47f1f983298207dc",
-   "sector": "Tech/AI",
-   "title": "First steps in bare-metal programming using UEFI",
-   "link": "https://kevinboone.me/efitest_index.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50394855\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 16:50:29 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "first",
-    "steps",
-    "bare",
-    "metal",
-    "programming"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50394855\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "3ea534cf1844c3428c0321636640b1a0",
-   "sector": "Tech/AI",
-   "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-   "link": "https://github.com/anomalyco/rune",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50394569\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 16:31:32 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "rune",
-    "native",
-    "rendered",
-    "rust",
-    "framework"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50394569\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "113984ec58515c2b6d9ce73b3b0896b9",
-   "sector": "Tech/AI",
-   "title": "Gemini Omni 1.2 Flash",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50392118\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 13:35:27 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "gemini",
-    "omni",
-    "flash",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50392118\">Comments</a>",
    "category": "News"
   }
  ]
