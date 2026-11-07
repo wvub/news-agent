@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07 21:24 IST",
+ "updated": "2026-11-08 01:21 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -22,16 +22,22 @@
    "article_count": 6
   },
   {
-   "keyword": "data",
-   "frequency": 10,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
    "keyword": "news",
    "frequency": 10,
    "sectors": 1,
    "article_count": 5
+  },
+  {
+   "keyword": "million",
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
+   "keyword": "data",
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 2
   },
   {
    "keyword": "scientists",
@@ -40,16 +46,16 @@
    "article_count": 3
   },
   {
-   "keyword": "million",
-   "frequency": 7,
+   "keyword": "billion",
+   "frequency": 6,
    "sectors": 2,
    "article_count": 3
   },
   {
-   "keyword": "after",
+   "keyword": "countries",
    "frequency": 6,
    "sectors": 2,
-   "article_count": 4
+   "article_count": 3
   },
   {
    "keyword": "survey",
@@ -58,9 +64,9 @@
    "article_count": 2
   },
   {
-   "keyword": "billion",
+   "keyword": "after",
    "frequency": 5,
-   "sectors": 3,
+   "sectors": 2,
    "article_count": 3
   },
   {
@@ -82,146 +88,163 @@
    "article_count": 2
   },
   {
-   "keyword": "countries",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "keep",
+   "keyword": "what",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 2
+   "article_count": 3
   },
   {
-   "keyword": "swift",
+   "keyword": "apple",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 2
+   "article_count": 3
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:37.949843+00:00",
+   "last_failure": "2026-11-07 19:51:36.924182+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.094024+00:00",
+   "last_failure": "2026-11-07 19:51:37.041745+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.234383+00:00",
+   "last_failure": "2026-11-07 19:51:37.135288+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.360621+00:00",
+   "last_failure": "2026-11-07 19:51:37.250771+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.498408+00:00",
+   "last_failure": "2026-11-07 19:51:37.350576+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.638046+00:00",
+   "last_failure": "2026-11-07 19:51:37.446198+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.759747+00:00",
+   "last_failure": "2026-11-07 19:51:37.563756+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:38.880237+00:00",
+   "last_failure": "2026-11-07 19:51:37.654452+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.005905+00:00",
+   "last_failure": "2026-11-07 19:51:37.746035+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.127860+00:00",
+   "last_failure": "2026-11-07 19:51:37.841165+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.248854+00:00",
+   "last_failure": "2026-11-07 19:51:37.942620+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.387437+00:00",
+   "last_failure": "2026-11-07 19:51:38.039463+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.529446+00:00",
+   "last_failure": "2026-11-07 19:51:38.144284+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.652155+00:00",
+   "last_failure": "2026-11-07 19:51:38.239012+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.775138+00:00",
+   "last_failure": "2026-11-07 19:51:38.328723+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-07 15:54:39.897480+00:00",
+   "last_failure": "2026-11-07 19:51:38.436125+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
+   "id": "c7e318e599a2997d80c8de115ce9d766",
+   "sector": "World",
+   "title": "What we know about Krakow mass shooting so far",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+   "published": "Sat, 07 Nov 2026 19:40:10 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "what",
+    "know",
+    "about",
+    "krakow",
+    "mass"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second ",
+   "category": "News"
+  },
+  {
    "id": "2df537772984dc56b731efa2adc57c5e",
    "sector": "World",
    "title": "No clear winner after tight New Zealand general election",
    "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
    "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "published": "Sat, 07 Nov 2026 15:00:10 GMT",
+   "published": "Sat, 07 Nov 2026 15:56:28 GMT",
    "source": "rss",
    "sentiment_score": 0.023558441558441563,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -236,6 +259,75 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national",
+   "category": "News"
+  },
+  {
+   "id": "16147aed5320309b870cd88c76b2a540",
+   "sector": "World",
+   "title": "US offers $20m reward for information about Iran's nuclear programme",
+   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "published": "Sat, 07 Nov 2026 18:14:38 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "iran",
+    "nuclear",
+    "offers",
+    "reward",
+    "information"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facili",
+   "category": "News"
+  },
+  {
+   "id": "702e9ad9ebae749b3cc7bc5fd5962f1c",
+   "sector": "World",
+   "title": "Houthis say at least 25 killed in Saudi air strike",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "published": "Sat, 07 Nov 2026 17:09:24 GMT",
+   "source": "rss",
+   "sentiment_score": -0.25,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "houthis",
+    "saudi",
+    "least",
+    "killed",
+    "strike"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "category": "News"
+  },
+  {
+   "id": "96bf3c7c0a71510048dfed8647b821e2",
+   "sector": "World",
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+   "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+   "source": "rss",
+   "sentiment_score": 0.03214285714285715,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "cannot",
+    "cherry",
+    "pick",
+    "single",
+    "market"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic ",
    "category": "News"
   },
   {
@@ -262,49 +354,26 @@
    "category": "News"
   },
   {
-   "id": "5524ae4ca0c7d00dd4553efa87300005",
+   "id": "69de36cda720ae0621f28872a45b05bc",
    "sector": "World",
-   "title": "Paraguay's president impeached and under house arrest after bank collapse",
+   "title": "Paraguay's former president charged after bank collapse",
    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
    "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+   "published": "Sat, 07 Nov 2026 19:17:22 GMT",
    "source": "rss",
-   "sentiment_score": -0.16875,
+   "sentiment_score": -0.15625,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
     "paraguay",
+    "former",
     "president",
-    "impeached",
-    "under",
-    "house"
+    "charged",
+    "after"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
    "summary_short": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access thei",
-   "category": "News"
-  },
-  {
-   "id": "7bffdddc50c323900f3268eab88da2d8",
-   "sector": "World",
-   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-   "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-   "published": "Sat, 07 Nov 2026 12:49:36 GMT",
-   "source": "rss",
-   "sentiment_score": -0.03125,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "russian",
-    "talks",
-    "strikes",
-    "wound",
-    "nine"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks i",
    "category": "News"
   },
   {
@@ -331,256 +400,256 @@
    "category": "News"
   },
   {
-   "id": "026621f2598b32bd3449e471bf7ea613",
-   "sector": "World",
-   "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-   "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-   "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-   "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+   "id": "435bfc7b5c9b195a79e841a27914f081",
+   "sector": "Markets",
+   "title": "Here are the 2027 capital-gains tax rates for each income level",
+   "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+   "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+   "published": "Sat, 07 Nov 2026 19:48:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.05,
+   "sentiment_score": 0.06666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "after",
-    "meghan",
-    "father",
-    "thomas",
-    "markle"
+    "capital",
+    "gains",
+    "here",
+    "rates",
+    "each"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage uni",
+   "summary_short": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  informat",
    "category": "News"
   },
   {
-   "id": "9596e1fdc5c6ed0277daeded99c7298a",
-   "sector": "World",
-   "title": "Texas mayor instructs police to limit co-operation with ICE",
-   "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-   "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-   "published": "Sat, 07 Nov 2026 08:15:55 GMT",
+   "id": "24d23b9f79c334cb31a952bced6c5539",
+   "sector": "Markets",
+   "title": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
+   "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+   "summary": "Don\u2019t sit on the sidelines during open enrollment.",
+   "published": "Sat, 07 Nov 2026 19:20:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "texas",
-    "mayor",
-    "instructs",
-    "police",
-    "limit"
+    "medicare",
+    "prescription",
+    "drug",
+    "costs",
+    "jump"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE)",
+   "summary_short": "Don\u2019t sit on the sidelines during open enrollment.",
    "category": "News"
   },
   {
-   "id": "7945f4892fcbbdb3b17a935b66d30f07",
-   "sector": "World",
-   "title": "AI stocks climb after trillions wiped from market values",
-   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-   "published": "Fri, 06 Nov 2026 21:06:25 GMT",
-   "source": "rss",
-   "sentiment_score": -0.21875,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "stocks",
-    "climb",
-    "after",
-    "trillions",
-    "wiped"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Investors had been selling off tech shares in part due to concerns the Democrat election victory wou",
-   "category": "News"
-  },
-  {
-   "id": "ef10a37e139c76f31dc0a205f8978380",
+   "id": "e8f533d344a08c7d14e254be3ecac63b",
    "sector": "Markets",
-   "title": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-   "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-   "summary": "Some tech companies are giving more generous severance packages, but here\u2019s what to keep in mind.",
-   "published": "Sat, 07 Nov 2026 15:44:00 GMT",
+   "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+   "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+   "published": "Sat, 07 Nov 2026 18:36:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.5,
+   "sentiment_score": 0.14285714285714285,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "keep",
-    "here",
-    "fired",
-    "laptop",
-    "insurance"
+    "adviser",
+    "recommended",
+    "annuity",
+    "right",
+    "move"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Some tech companies are giving more generous severance packages, but here\u2019s what to keep in mind.",
+   "summary_short": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
    "category": "News"
   },
   {
-   "id": "adaccb170f71e419e7307e4d5bcc334c",
+   "id": "31f123fd695f47ea9f1860c88b973f9b",
    "sector": "Markets",
-   "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-   "summary": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
-   "published": "Sat, 07 Nov 2026 15:41:00 GMT",
+   "title": "Democrats\u2019 big election win revives a difficult Social Security question: Who pays?",
+   "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+   "summary": "There are many ideas for saving Social Security. All of them will hurt.",
+   "published": "Sat, 07 Nov 2026 17:43:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.011111111111111112,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.14444444444444446,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "financial",
-    "safety",
-    "rely",
     "social",
-    "security"
+    "security",
+    "democrats",
+    "election",
+    "revives"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+   "summary_short": "There are many ideas for saving Social Security. All of them will hurt.",
    "category": "News"
   },
   {
-   "id": "a3f1d0bba41f606e23a06ca2dea6210b",
+   "id": "aac2b7f8fd56f8dd89fd044d42e49a95",
    "sector": "Markets",
-   "title": "A record number of first-time home buyers now pay in cash. Here\u2019s where they get the money.",
-   "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-   "summary": "All-cash buyers are becoming more common, despite a housing market that\u2019s been struggling with affordability issues.",
-   "published": "Sat, 07 Nov 2026 15:35:00 GMT",
+   "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+   "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+   "summary": "Math may be cold and unemotional \u2014 but finances are not.",
+   "published": "Sat, 07 Nov 2026 17:33:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.21666666666666665,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "buyers",
-    "cash",
-    "record",
-    "number",
-    "first"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "All-cash buyers are becoming more common, despite a housing market that\u2019s been struggling with affor",
-   "category": "News"
-  },
-  {
-   "id": "e403101eae050bf152bec8f2359e4c0a",
-   "sector": "Markets",
-   "title": "Trump\u2019s Iran war has changed the future of Social Security",
-   "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-   "summary": "It\u2019s a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.",
-   "published": "Sat, 07 Nov 2026 15:18:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.006666666666666666,
+   "sentiment_score": 0.0666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "iran",
-    "future",
-    "trump",
-    "changed",
-    "social"
+    "worth",
+    "more",
+    "than",
+    "million",
+    "afford"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "It\u2019s a mathematical certainty that the Iran war is going to have an enormous influence on the future",
+   "summary_short": "Math may be cold and unemotional \u2014 but finances are not.",
    "category": "News"
   },
   {
-   "id": "8c16cc2327108e24234c9134e90aa115",
+   "id": "463490612c228b1094464aabfa1b8116",
    "sector": "Markets",
-   "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-   "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-   "published": "Sat, 07 Nov 2026 14:50:00 GMT",
+   "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
+   "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+   "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+   "published": "Sat, 07 Nov 2026 17:04:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.5,
+   "sentiment_score": 0.26666666666666666,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "cheese",
-    "cottage",
-    "sales",
-    "losing",
-    "protein"
+    "wealthiest",
+    "americans",
+    "pulling",
+    "ahead",
+    "everyone"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+   "summary_short": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
    "category": "News"
   },
   {
-   "id": "8169f38957b6c1d534d8422989f46bb6",
+   "id": "347345a6201c15566baa8b54bf3fc098",
    "sector": "Markets",
-   "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-   "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-   "summary": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d",
-   "published": "Sat, 07 Nov 2026 14:30:00 GMT",
+   "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+   "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+   "published": "Sat, 07 Nov 2026 17:01:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.1340909090909091,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.07142857142857142,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "much",
-    "roth",
-    "conversions",
-    "brackets",
-    "math"
+    "feels",
+    "like",
+    "quietly",
+    "building",
+    "separate"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d",
+   "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
    "category": "News"
   },
   {
-   "id": "bf1b0061b6ade0ecf33c9324d826b61b",
+   "id": "a5db8a8a9c79c40625b36bc968a5b547",
    "sector": "Markets",
-   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
-   "published": "Sat, 07 Nov 2026 14:00:00 GMT",
+   "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+   "summary": "The large-cap index is nowhere near as diversified as you think.",
+   "published": "Sat, 07 Nov 2026 16:40:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.75,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "taylor",
-    "swift",
-    "retired",
-    "professor",
-    "reinvented"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful",
-   "category": "News"
-  },
-  {
-   "id": "15e31913ea3e3281ca58cc5ade2349ae",
-   "sector": "Markets",
-   "title": "The AI trade is now counting on Anthropic\u2019s IPO \u2014 but it couldn\u2019t be happening at a worse time",
-   "link": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
-   "summary": "The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.",
-   "published": "Sat, 07 Nov 2026 13:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.4,
+   "sentiment_score": -0.16666666666666666,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "anthropic",
-    "trade",
-    "counting",
-    "couldn",
-    "happening"
+    "could",
+    "dangerously",
+    "exposed",
+    "here",
+    "some"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a",
+   "summary_short": "The large-cap index is nowhere near as diversified as you think.",
+   "category": "News"
+  },
+  {
+   "id": "7a2c78b7ac54da82224f67a38de6ccbd",
+   "sector": "Tech/AI",
+   "title": "Parents want safer phones for kids. These companies are answering the call.",
+   "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+   "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+   "published": "Sat, 07 Nov 2026 19:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "phones",
+    "parents",
+    "kids",
+    "companies",
+    "want"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are buil",
+   "category": "News"
+  },
+  {
+   "id": "6905d4447fe7a3cfe67f466e62f65863",
+   "sector": "Tech/AI",
+   "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
+   "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+   "published": "Sat, 07 Nov 2026 17:24:07 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3121212121212121,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "binance",
+    "after",
+    "billion",
+    "leaving",
+    "pursue"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurre",
+   "category": "News"
+  },
+  {
+   "id": "e7c5c8192931748b6b8eba61b985c413",
+   "sector": "Tech/AI",
+   "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
+   "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+   "published": "Sat, 07 Nov 2026 17:18:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.20606060606060606,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "amazon",
+    "basic",
+    "kindle",
+    "proves",
+    "need"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display ",
    "category": "News"
   },
   {
@@ -699,72 +768,72 @@
    "category": "News"
   },
   {
-   "id": "1c69e7fb41b35f22fe19e8e12d26ae51",
-   "sector": "Tech/AI",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-   "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+   "id": "f219dc0d6b0316b1a4167a6df6f39c74",
+   "sector": "Crypto",
+   "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+   "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+   "summary": "",
+   "published": "Sat, 07 Nov 2026 19:13:16 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "hundreds",
-    "artex",
-    "hacking",
-    "found",
-    "exposed"
+    "binance",
+    "users",
+    "some",
+    "european",
+    "countries"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "b8b660b9c98f88b2a42cd03fe8602887",
-   "sector": "Tech/AI",
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-   "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+   "id": "f798769aa3f645f90df99430b3f640b4",
+   "sector": "Crypto",
+   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+   "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+   "summary": "",
+   "published": "Sat, 07 Nov 2026 17:36:46 +0000",
    "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "meta",
-    "spaces",
-    "muse",
-    "introduces",
-    "collaborate"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to",
-   "category": "News"
-  },
-  {
-   "id": "75f816812e4b1518c65620d7d20dea9a",
-   "sector": "Tech/AI",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [&#8230;]",
-   "published": "Fri, 06 Nov 2026 17:23:52 +0000",
-   "source": "rss",
-   "sentiment_score": 0.09285714285714286,
+   "sentiment_score": -0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "data",
-    "industry",
-    "voted",
-    "center",
-    "ballot"
+    "treasury",
+    "moves",
+    "crypto",
+    "exchange",
+    "mexc"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech in",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "ee86590b3002b1a3cddb875dc036ca5a",
+   "sector": "Crypto",
+   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+   "summary": "",
+   "published": "Sat, 07 Nov 2026 16:51:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "gnosis",
+    "breach",
+    "exposes",
+    "card",
+    "numbers"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -875,75 +944,6 @@
     "october",
     "blowing",
     "past"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "3164be22e76d23f9d3582d3c5b146a37",
-   "sector": "Crypto",
-   "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 12:30:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "over",
-    "billion",
-    "bullish",
-    "bets",
-    "liquidated"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "6da41024ee7ebac1b57bb2a7150a327a",
-   "sector": "Crypto",
-   "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-   "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 11:58:40 +0000",
-   "source": "rss",
-   "sentiment_score": -0.08181818181818182,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "live",
-    "updates",
-    "bitcoin",
-    "flatlines",
-    "under"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "a93e4eee40e1dae0e171c9159b3f13db",
-   "sector": "Crypto",
-   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-   "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 11:49:35 +0000",
-   "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "bitcoin",
-    "steadies",
-    "after",
-    "selloff",
-    "eyes"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,118 +1320,118 @@
    "category": "News"
   },
   {
-   "id": "6d62e95f65f89afd607df93f9ac40e91",
+   "id": "16fa644a1b09e2ada4fad528a563a155",
    "sector": "Tech/AI",
-   "title": "The $8 Linux Computer (2022)",
-   "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50404599\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 14:00:20 +0000",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "link": "https://hunch.net/?p=13764006",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406563\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 18:02:17 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "linux",
-    "computer",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50404599\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "93f84919f8ecf34534aab7d35bf1f5d6",
-   "sector": "Tech/AI",
-   "title": "Need for Speed Underground 2 online in the browser",
-   "link": "https://nfsu2.xyz/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50403052\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 09:36:36 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "need",
-    "speed",
-    "underground",
-    "online",
-    "browser"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50403052\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "31c268f341807e069b673b61dc8b6636",
-   "sector": "Tech/AI",
-   "title": "Libghostty 1.0",
-   "link": "https://mitchellh.com/writing/libghostty-1-0",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 23:30:52 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "libghostty",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "8b52426feca9a86f568250217b16abec",
-   "sector": "Tech/AI",
-   "title": "Running a law firm on Free software",
-   "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50403066\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 09:39:06 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "running",
-    "firm",
-    "free",
-    "software",
+    "microsoft",
+    "research",
+    "frontiers",
+    "group",
     "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50403066\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406563\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "9e079f753312c2694258e26d9045613d",
+   "id": "2e36eee2d1456010267baab5229ade5e",
    "sector": "Tech/AI",
-   "title": "British Library Legal deposit and web archiving",
-   "link": "https://www.bl.uk/services/legal-deposit/web-archiving",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50352791\">Comments</a>",
-   "published": "Tue, 03 Nov 2026 14:56:30 +0000",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "link": "https://blog.bosscher.ch/posts/openstick/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406670\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 18:12:12 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.1,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "british",
-    "library",
-    "legal",
-    "deposit",
-    "archiving"
+    "what",
+    "openstick",
+    "homelab",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50352791\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406670\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "2de56cb6c35f2385829db7b69e5b3aec",
+   "sector": "Tech/AI",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "link": "https://github.com/hedgerow-dev/coldframe",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 17:27:30 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "show",
+    "coldframe",
+    "honeypot",
+    "poses",
+    "supermarket"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "af6ea9da3badfe56def4c30dc2b56734",
+   "sector": "Tech/AI",
+   "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+   "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406111\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 17:06:36 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "apple",
+    "grey",
+    "list",
+    "words",
+    "phrases"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406111\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "836b6c9a0ec5397a065affd81649c35e",
+   "sector": "Tech/AI",
+   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406222\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 17:19:00 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.475,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "maxxbench",
+    "nice",
+    "deepswe",
+    "score",
+    "true"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406222\">Comments</a>",
    "category": "News"
   }
  ]
