@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-08 01:21 IST",
+ "updated": "2026-11-08 04:54 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 16,
-   "sectors": 2,
-   "article_count": 4
+   "frequency": 15,
+   "sectors": 1,
+   "article_count": 3
   },
   {
    "keyword": "covid",
@@ -34,6 +34,12 @@
    "article_count": 4
   },
   {
+   "keyword": "after",
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 5
+  },
+  {
    "keyword": "data",
    "frequency": 7,
    "sectors": 2,
@@ -43,12 +49,6 @@
    "keyword": "scientists",
    "frequency": 7,
    "sectors": 1,
-   "article_count": 3
-  },
-  {
-   "keyword": "billion",
-   "frequency": 6,
-   "sectors": 2,
    "article_count": 3
   },
   {
@@ -62,12 +62,6 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "after",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
   },
   {
    "keyword": "nasa",
@@ -94,148 +88,177 @@
    "article_count": 3
   },
   {
-   "keyword": "apple",
+   "keyword": "swift",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 3
+   "article_count": 2
+  },
+  {
+   "keyword": "billion",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:36.924182+00:00",
+   "last_failure": "2026-11-07 23:24:46.924833+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.041745+00:00",
+   "last_failure": "2026-11-07 23:24:46.987495+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.135288+00:00",
+   "last_failure": "2026-11-07 23:24:47.043416+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.250771+00:00",
+   "last_failure": "2026-11-07 23:24:47.104028+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.350576+00:00",
+   "last_failure": "2026-11-07 23:24:47.164498+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.446198+00:00",
+   "last_failure": "2026-11-07 23:24:47.235828+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.563756+00:00",
+   "last_failure": "2026-11-07 23:24:47.296311+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.654452+00:00",
+   "last_failure": "2026-11-07 23:24:47.351020+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.746035+00:00",
+   "last_failure": "2026-11-07 23:24:47.404457+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.841165+00:00",
+   "last_failure": "2026-11-07 23:24:47.459289+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:37.942620+00:00",
+   "last_failure": "2026-11-07 23:24:47.508099+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:38.039463+00:00",
+   "last_failure": "2026-11-07 23:24:47.569782+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:38.144284+00:00",
+   "last_failure": "2026-11-07 23:24:47.620254+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:38.239012+00:00",
+   "last_failure": "2026-11-07 23:24:47.669553+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:38.328723+00:00",
+   "last_failure": "2026-11-07 23:24:47.723240+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-07 19:51:38.436125+00:00",
+   "last_failure": "2026-11-07 23:24:47.776921+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "c7e318e599a2997d80c8de115ce9d766",
+   "id": "c979748f1338dcf88d2be6425d5e37df",
    "sector": "World",
-   "title": "What we know about Krakow mass shooting so far",
+   "title": "What we know so far after Krakow gun attack",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-   "published": "Sat, 07 Nov 2026 19:40:10 GMT",
+   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+   "published": "Sat, 07 Nov 2026 22:58:49 GMT",
    "source": "rss",
-   "sentiment_score": -0.1,
+   "sentiment_score": -0.08666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
+    "were",
     "what",
     "know",
-    "about",
-    "krakow",
-    "mass"
+    "after",
+    "krakow"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second ",
+   "summary_short": "Six people were killed in a random shooting in the city's main square, and three bodies were later f",
+   "category": "News"
+  },
+  {
+   "id": "1031726c4df42263de20d76d53348ad9",
+   "sector": "World",
+   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+   "published": "Sat, 07 Nov 2026 22:19:59 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "israel",
+    "president",
+    "tasks",
+    "opposition",
+    "leader"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's electio",
    "category": "News"
   },
   {
@@ -377,26 +400,49 @@
    "category": "News"
   },
   {
-   "id": "c657e3c35a14dc6f0493a817c52f9f22",
-   "sector": "World",
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-   "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+   "id": "bf1b0061b6ade0ecf33c9324d826b61b",
+   "sector": "Markets",
+   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+   "published": "Sat, 07 Nov 2026 20:48:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.475,
+   "sentiment_score": 0.75,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "pope",
-    "pretty",
-    "good",
-    "health",
-    "starts"
+    "taylor",
+    "swift",
+    "retired",
+    "professor",
+    "reinvented"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "summary_short": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful",
+   "category": "News"
+  },
+  {
+   "id": "4bc224052d80219a528212c43f4375dd",
+   "sector": "Markets",
+   "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+   "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+   "published": "Sat, 07 Nov 2026 20:36:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.14285714285714285,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "second",
+    "guessing",
+    "adviser",
+    "annuity",
+    "right"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
    "category": "News"
   },
   {
@@ -443,29 +489,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Don\u2019t sit on the sidelines during open enrollment.",
-   "category": "News"
-  },
-  {
-   "id": "e8f533d344a08c7d14e254be3ecac63b",
-   "sector": "Markets",
-   "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-   "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
-   "published": "Sat, 07 Nov 2026 18:36:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.14285714285714285,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "adviser",
-    "recommended",
-    "annuity",
-    "right",
-    "move"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
    "category": "News"
   },
   {
@@ -561,26 +584,49 @@
    "category": "News"
   },
   {
-   "id": "a5db8a8a9c79c40625b36bc968a5b547",
-   "sector": "Markets",
-   "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-   "summary": "The large-cap index is nowhere near as diversified as you think.",
-   "published": "Sat, 07 Nov 2026 16:40:00 GMT",
+   "id": "13b87fbccddb626384d8fb8836b208af",
+   "sector": "Tech/AI",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "published": "Sat, 07 Nov 2026 22:07:22 +0000",
    "source": "rss",
-   "sentiment_score": -0.16666666666666666,
+   "sentiment_score": -0.3125,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "could",
-    "dangerously",
-    "exposed",
-    "here",
-    "some"
+    "midterms",
+    "after",
+    "things",
+    "looking",
+    "rocky"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The large-cap index is nowhere near as diversified as you think.",
+   "summary_short": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "category": "News"
+  },
+  {
+   "id": "ff989558c53a6d8ec4e106b97323be4d",
+   "sector": "Tech/AI",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "recruited",
+    "nvidia",
+    "memo",
+    "megaspeed",
+    "exec"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recru",
    "category": "News"
   },
   {
@@ -719,52 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The deal highlights the challenges of developing massive AI data centers.",
-   "category": "News"
-  },
-  {
-   "id": "1d696fb505ed9cc1e9d65b4d003ffa71",
-   "sector": "Tech/AI",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "published": "Fri, 06 Nov 2026 22:53:46 +0000",
-   "source": "rss",
-   "sentiment_score": -0.13333333333333333,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "openai",
-    "reportedly",
-    "additional",
-    "billion",
-    "raises"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed",
-   "category": "News"
-  },
-  {
-   "id": "e9d79ab1cde2ba87a680f7294efc86bf",
-   "sector": "Tech/AI",
-   "title": "The Duo apps are coming, says Apple",
-   "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-   "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-   "published": "Fri, 06 Nov 2026 21:38:05 +0000",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "apps",
-    "says",
-    "apple",
-    "coming",
-    "there"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
    "category": "News"
   },
   {
@@ -1366,29 +1366,6 @@
    "category": "News"
   },
   {
-   "id": "2de56cb6c35f2385829db7b69e5b3aec",
-   "sector": "Tech/AI",
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "link": "https://github.com/hedgerow-dev/coldframe",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 17:27:30 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "show",
-    "coldframe",
-    "honeypot",
-    "poses",
-    "supermarket"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "af6ea9da3badfe56def4c30dc2b56734",
    "sector": "Tech/AI",
    "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
@@ -1412,26 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "836b6c9a0ec5397a065affd81649c35e",
+   "id": "5f4b5e44a7054af0fd78441e71ca0cff",
    "sector": "Tech/AI",
-   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406222\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 17:19:00 +0000",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50407882\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 20:45:32 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.475,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "maxxbench",
-    "nice",
-    "deepswe",
-    "score",
-    "true"
+    "claude",
+    "code",
+    "again",
+    "exposes",
+    "passwords"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406222\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50407882\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "2de56cb6c35f2385829db7b69e5b3aec",
+   "sector": "Tech/AI",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "link": "https://github.com/hedgerow-dev/coldframe",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 17:27:30 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "show",
+    "coldframe",
+    "honeypot",
+    "poses",
+    "supermarket"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
    "category": "News"
   }
  ]
