@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 04:48 IST",
+ "updated": "2026-11-07 08:25 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -25,7 +25,7 @@
    "keyword": "data",
    "frequency": 11,
    "sectors": 3,
-   "article_count": 5
+   "article_count": 4
   },
   {
    "keyword": "news",
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:23.885154+00:00",
+   "last_failure": "2026-11-07 02:55:27.692002+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.015077+00:00",
+   "last_failure": "2026-11-07 02:55:27.810564+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.142468+00:00",
+   "last_failure": "2026-11-07 02:55:27.973758+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.266162+00:00",
+   "last_failure": "2026-11-07 02:55:28.080324+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.374255+00:00",
+   "last_failure": "2026-11-07 02:55:28.200831+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.474790+00:00",
+   "last_failure": "2026-11-07 02:55:28.318648+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.601543+00:00",
+   "last_failure": "2026-11-07 02:55:28.453807+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.741701+00:00",
+   "last_failure": "2026-11-07 02:55:28.586733+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.870708+00:00",
+   "last_failure": "2026-11-07 02:55:28.734186+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:24.984346+00:00",
+   "last_failure": "2026-11-07 02:55:28.851608+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.102763+00:00",
+   "last_failure": "2026-11-07 02:55:28.962559+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.206611+00:00",
+   "last_failure": "2026-11-07 02:55:29.062282+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.325952+00:00",
+   "last_failure": "2026-11-07 02:55:29.171174+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.432085+00:00",
+   "last_failure": "2026-11-07 02:55:29.288128+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.538263+00:00",
+   "last_failure": "2026-11-07 02:55:29.401838+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-06 23:18:25.647152+00:00",
+   "last_failure": "2026-11-07 02:55:29.504649+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -584,6 +584,29 @@
    "category": "News"
   },
   {
+   "id": "63a54f4727369f2fd0a9321cc355a456",
+   "sector": "Tech/AI",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+   "source": "rss",
+   "sentiment_score": -0.19999999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "data",
+    "crusoe",
+    "sells",
+    "troubled",
+    "wyoming"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The deal highlights the challenges of developing massive AI data centers.",
+   "category": "News"
+  },
+  {
    "id": "1d696fb505ed9cc1e9d65b4d003ffa71",
    "sector": "Tech/AI",
    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -611,7 +634,7 @@
    "sector": "Tech/AI",
    "title": "The Duo apps are coming, says Apple",
    "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-   "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
    "published": "Fri, 06 Nov 2026 21:38:05 +0000",
    "source": "rss",
    "sentiment_score": 0.25,
@@ -626,7 +649,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+   "summary_short": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
    "category": "News"
   },
   {
@@ -742,29 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition ",
-   "category": "News"
-  },
-  {
-   "id": "c4f8713069533bf8b217e9b5b2f63e84",
-   "sector": "Tech/AI",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-   "published": "Fri, 06 Nov 2026 15:54:47 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "spending",
-    "ramp",
-    "data",
-    "shows",
-    "stalling"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the bi",
    "category": "News"
   },
   {
@@ -1320,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "31c268f341807e069b673b61dc8b6636",
+   "sector": "Tech/AI",
+   "title": "Libghostty 1.0",
+   "link": "https://mitchellh.com/writing/libghostty-1-0",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "libghostty",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399933\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "04d08ac9557d38d391fe321e137f8a8f",
    "sector": "Tech/AI",
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
@@ -1343,49 +1366,49 @@
    "category": "News"
   },
   {
-   "id": "279274570207cd0bacdbf134dbddffef",
+   "id": "723b69a8a6a2be8738027bc02c7f2242",
    "sector": "Tech/AI",
-   "title": "AI is dramatically accelerating AI research",
-   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397994\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "link": "https://josef.cn/blog/unitree",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50400597\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 01:05:16 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "dramatically",
-    "accelerating",
-    "research",
-    "href",
-    "https"
+    "toured",
+    "unitree",
+    "factory",
+    "more",
+    "bullish"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397994\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50400597\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "22c6d46a25c16aa46d5f5de2517b5d49",
+   "id": "5882d57acf44d83c1f1d2273af125d61",
    "sector": "Tech/AI",
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-   "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399569\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 22:50:43 +0000",
+   "title": "Tesla to wind down Cybertruck production",
+   "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
+   "published": "Fri, 06 Nov 2026 12:13:51 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "chatgpt",
-    "silently",
-    "passes",
-    "data",
-    "between"
+    "tesla",
+    "wind",
+    "down",
+    "cybertruck",
+    "production"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50399569\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
    "category": "News"
   },
   {
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "1e2e5caa36ad08f49acca42a5d1c1453",
-   "sector": "Tech/AI",
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50388001\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 04:00:28 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "says",
-    "phase",
-    "floppy",
-    "disks",
-    "traffic"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50388001\">Comments</a>",
    "category": "News"
   }
  ]
