@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-07 08:25 IST",
+ "updated": "2026-11-07 15:06 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 15,
-   "sectors": 1,
-   "article_count": 3
+   "frequency": 16,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "covid",
@@ -76,18 +76,6 @@
    "article_count": 2
   },
   {
-   "keyword": "after",
-   "frequency": 4,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
-   "keyword": "threats",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "year",
    "frequency": 4,
    "sectors": 2,
@@ -98,123 +86,158 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "hubble",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:27.692002+00:00",
+   "last_failure": "2026-11-07 09:36:41.647228+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:27.810564+00:00",
+   "last_failure": "2026-11-07 09:36:41.752870+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:27.973758+00:00",
+   "last_failure": "2026-11-07 09:36:41.849695+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.080324+00:00",
+   "last_failure": "2026-11-07 09:36:41.942422+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.200831+00:00",
+   "last_failure": "2026-11-07 09:36:42.053879+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.318648+00:00",
+   "last_failure": "2026-11-07 09:36:42.122597+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.453807+00:00",
+   "last_failure": "2026-11-07 09:36:42.225222+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.586733+00:00",
+   "last_failure": "2026-11-07 09:36:42.305706+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.734186+00:00",
+   "last_failure": "2026-11-07 09:36:42.385651+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.851608+00:00",
+   "last_failure": "2026-11-07 09:36:42.486992+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:28.962559+00:00",
+   "last_failure": "2026-11-07 09:36:42.570072+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:29.062282+00:00",
+   "last_failure": "2026-11-07 09:36:42.657585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:29.171174+00:00",
+   "last_failure": "2026-11-07 09:36:42.773127+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:29.288128+00:00",
+   "last_failure": "2026-11-07 09:36:42.866589+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:29.401838+00:00",
+   "last_failure": "2026-11-07 09:36:42.986429+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-07 02:55:29.504649+00:00",
+   "last_failure": "2026-11-07 09:36:43.086442+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "5524ae4ca0c7d00dd4553efa87300005",
+   "sector": "World",
+   "title": "Paraguay's president impeached and under house arrest after bank collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.16875,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "paraguay",
+    "president",
+    "impeached",
+    "under",
+    "house"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access thei",
+   "category": "News"
+  },
   {
    "id": "7945f4892fcbbdb3b17a935b66d30f07",
    "sector": "World",
@@ -262,26 +285,26 @@
    "category": "News"
   },
   {
-   "id": "85c9d8394e32a541d937ff9138715b33",
+   "id": "c657e3c35a14dc6f0493a817c52f9f22",
    "sector": "World",
-   "title": "Two dead after bus crashes in France, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "published": "Fri, 06 Nov 2026 15:33:52 GMT",
+   "title": "Pope in 'pretty good health' as he starts Latin America tour",
+   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "published": "Sat, 07 Nov 2026 06:59:48 GMT",
    "source": "rss",
-   "sentiment_score": 0.049999999999999996,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.475,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "dead",
-    "after",
-    "crashes",
-    "france",
-    "officials"
+    "pope",
+    "pretty",
+    "good",
+    "health",
+    "starts"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "summary_short": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
    "category": "News"
   },
   {
@@ -354,49 +377,26 @@
    "category": "News"
   },
   {
-   "id": "f9d90cee96b9568cc04eed269cab8fdc",
+   "id": "85c9d8394e32a541d937ff9138715b33",
    "sector": "World",
-   "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-   "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-   "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-   "published": "Fri, 06 Nov 2026 15:30:42 GMT",
+   "title": "Two dead after bus crashes in France, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+   "published": "Fri, 06 Nov 2026 15:33:52 GMT",
    "source": "rss",
-   "sentiment_score": 0.05,
+   "sentiment_score": 0.049999999999999996,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "construction",
-    "trump",
-    "arch",
-    "judge",
-    "blocks"
+    "dead",
+    "after",
+    "crashes",
+    "france",
+    "officials"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as thi",
-   "category": "News"
-  },
-  {
-   "id": "d07f62cc179ecacd3b24ad6dadfd17ce",
-   "sector": "World",
-   "title": "Russian extremist group denies sending hoax bomb threats",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-   "published": "Fri, 06 Nov 2026 12:51:38 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bomb",
-    "threats",
-    "russian",
-    "extremist",
-    "group"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scores of flights across Europe have received bomb threats this week, but no explosives have been fo",
+   "summary_short": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
    "category": "News"
   },
   {
@@ -584,6 +584,52 @@
    "category": "News"
   },
   {
+   "id": "5b28b2789e224de59988a7e62762e5ff",
+   "sector": "Tech/AI",
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+   "published": "Sat, 07 Nov 2026 05:01:54 +0000",
+   "source": "rss",
+   "sentiment_score": 0.11481481481481481,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "sequoia",
+    "scouts",
+    "model",
+    "shutting",
+    "down"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be ",
+   "category": "News"
+  },
+  {
+   "id": "511c520c97137f2e6ce2d7448058166d",
+   "sector": "Tech/AI",
+   "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+   "published": "Sat, 07 Nov 2026 04:16:43 +0000",
+   "source": "rss",
+   "sentiment_score": -0.02916666666666666,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "what",
+    "tech",
+    "front",
+    "seat",
+    "midterms"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make frie",
+   "category": "News"
+  },
+  {
    "id": "63a54f4727369f2fd0a9321cc355a456",
    "sector": "Tech/AI",
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -719,52 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech in",
-   "category": "News"
-  },
-  {
-   "id": "74dc82acf58978a7da91d78dd7e32140",
-   "sector": "Tech/AI",
-   "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-   "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-   "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-   "published": "Fri, 06 Nov 2026 16:50:01 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "pentagon",
-    "battery",
-    "loan",
-    "offers",
-    "startup"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma",
-   "category": "News"
-  },
-  {
-   "id": "0ed4b0df881df5fd41a51489a0624870",
-   "sector": "Tech/AI",
-   "title": "Fox completes its $22B acquisition of Roku",
-   "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-   "summary": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
-   "published": "Fri, 06 Nov 2026 16:05:36 +0000",
-   "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "acquisition",
-    "roku",
-    "completes",
-    "months",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition ",
    "category": "News"
   },
   {
@@ -1343,6 +1343,52 @@
    "category": "News"
   },
   {
+   "id": "7aa6027d8e38906b91f06a06d837d6e2",
+   "sector": "Tech/AI",
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50401740\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 04:54:36 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.175,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "barbarian",
+    "tribe",
+    "mythic",
+    "origin",
+    "story"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50401740\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "c08fd3c2c3ca12f3a051118527ff027b",
+   "sector": "Tech/AI",
+   "title": "The Components of Agent Memory",
+   "link": "https://www.anthropic.com/research/components-of-agent-memory",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50402212\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 06:39:04 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "components",
+    "agent",
+    "memory",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50402212\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "04d08ac9557d38d391fe321e137f8a8f",
    "sector": "Tech/AI",
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
@@ -1366,29 +1412,6 @@
    "category": "News"
   },
   {
-   "id": "723b69a8a6a2be8738027bc02c7f2242",
-   "sector": "Tech/AI",
-   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-   "link": "https://josef.cn/blog/unitree",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50400597\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 01:05:16 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "toured",
-    "unitree",
-    "factory",
-    "more",
-    "bullish"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50400597\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "5882d57acf44d83c1f1d2273af125d61",
    "sector": "Tech/AI",
    "title": "Tesla to wind down Cybertruck production",
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50391456\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "14c2402ac384504f1bdf75fee6a14a91",
-   "sector": "Tech/AI",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "link": "https://pwn.ai/blog/firecracker-escape",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>",
-   "published": "Fri, 06 Nov 2026 19:33:38 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "firecracker",
-    "escape",
-    "pwnescape",
-    "part",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50397219\">Comments</a>",
    "category": "News"
   }
  ]
