@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08 04:54 IST",
+ "updated": "2026-11-08 08:08 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:46.924833+00:00",
+   "last_failure": "2026-11-08 02:38:43.650810+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:46.987495+00:00",
+   "last_failure": "2026-11-08 02:38:43.858224+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.043416+00:00",
+   "last_failure": "2026-11-08 02:38:43.981059+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.104028+00:00",
+   "last_failure": "2026-11-08 02:38:44.102585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.164498+00:00",
+   "last_failure": "2026-11-08 02:38:44.364389+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.235828+00:00",
+   "last_failure": "2026-11-08 02:38:44.505001+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.296311+00:00",
+   "last_failure": "2026-11-08 02:38:44.631929+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.351020+00:00",
+   "last_failure": "2026-11-08 02:38:44.773221+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.404457+00:00",
+   "last_failure": "2026-11-08 02:38:44.942469+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.459289+00:00",
+   "last_failure": "2026-11-08 02:38:45.083661+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.508099+00:00",
+   "last_failure": "2026-11-08 02:38:45.221346+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.569782+00:00",
+   "last_failure": "2026-11-08 02:38:45.353041+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.620254+00:00",
+   "last_failure": "2026-11-08 02:38:45.476322+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.669553+00:00",
+   "last_failure": "2026-11-08 02:38:45.599031+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.723240+00:00",
+   "last_failure": "2026-11-08 02:38:45.723555+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-07 23:24:47.776921+00:00",
+   "last_failure": "2026-11-08 02:38:45.847953+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -220,8 +220,8 @@
    "sector": "World",
    "title": "What we know so far after Krakow gun attack",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "published": "Sat, 07 Nov 2026 22:58:49 GMT",
+   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+   "published": "Sun, 08 Nov 2026 01:47:41 GMT",
    "source": "rss",
    "sentiment_score": -0.08666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -289,7 +289,7 @@
    "sector": "World",
    "title": "US offers $20m reward for information about Iran's nuclear programme",
    "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
    "published": "Sat, 07 Nov 2026 18:14:38 GMT",
    "source": "rss",
    "sentiment_score": 0.1,
@@ -304,7 +304,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facili",
+   "summary_short": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilitie",
    "category": "News"
   },
   {
@@ -1389,6 +1389,29 @@
    "category": "News"
   },
   {
+   "id": "1b4288ed2db441cc1d314aa33437638b",
+   "sector": "Tech/AI",
+   "title": "Making any integer with four 2s (2025)",
+   "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50408713\">Comments</a>",
+   "published": "Sat, 07 Nov 2026 22:38:58 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "making",
+    "integer",
+    "four",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50408713\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "5f4b5e44a7054af0fd78441e71ca0cff",
    "sector": "Tech/AI",
    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50407882\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "2de56cb6c35f2385829db7b69e5b3aec",
-   "sector": "Tech/AI",
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "link": "https://github.com/hedgerow-dev/coldframe",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 17:27:30 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "show",
-    "coldframe",
-    "honeypot",
-    "poses",
-    "supermarket"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406292\">Comments</a>",
    "category": "News"
   }
  ]
