@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 14:58 IST",
+ "updated": "2026-11-08 21:43 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -29,20 +29,8 @@
   },
   {
    "keyword": "million",
-   "frequency": 8,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
-   "keyword": "data",
    "frequency": 7,
    "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "scientists",
-   "frequency": 7,
-   "sectors": 1,
    "article_count": 3
   },
   {
@@ -64,10 +52,10 @@
    "article_count": 4
   },
   {
-   "keyword": "nasa",
+   "keyword": "data",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 2
+   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -82,134 +70,146 @@
    "article_count": 2
   },
   {
-   "keyword": "what",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "swift",
+   "keyword": "nuclear",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "billion",
+   "keyword": "could",
    "frequency": 4,
-   "sectors": 2,
+   "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "ancient",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "covax",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:14.327752+00:00",
+   "last_failure": "2026-11-08 16:13:41.037933+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:14.431397+00:00",
+   "last_failure": "2026-11-08 16:13:41.123785+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:14.608481+00:00",
+   "last_failure": "2026-11-08 16:13:41.204636+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:14.744677+00:00",
+   "last_failure": "2026-11-08 16:13:41.300413+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:14.946448+00:00",
+   "last_failure": "2026-11-08 16:13:41.375872+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.080421+00:00",
+   "last_failure": "2026-11-08 16:13:41.458067+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.269324+00:00",
+   "last_failure": "2026-11-08 16:13:41.544534+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.487911+00:00",
+   "last_failure": "2026-11-08 16:13:41.615252+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.692361+00:00",
+   "last_failure": "2026-11-08 16:13:41.692048+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.864830+00:00",
+   "last_failure": "2026-11-08 16:13:41.767901+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:15.983685+00:00",
+   "last_failure": "2026-11-08 16:13:41.841635+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:16.123481+00:00",
+   "last_failure": "2026-11-08 16:13:41.926737+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:16.287131+00:00",
+   "last_failure": "2026-11-08 16:13:42.008040+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:16.434145+00:00",
+   "last_failure": "2026-11-08 16:13:42.093627+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:16.574865+00:00",
+   "last_failure": "2026-11-08 16:13:42.164785+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-08 09:28:16.711863+00:00",
+   "last_failure": "2026-11-08 16:13:42.241581+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "What we know so far after Krakow gun attack",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
    "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-   "published": "Sun, 08 Nov 2026 07:52:33 GMT",
+   "published": "Sun, 08 Nov 2026 14:32:52 GMT",
    "source": "rss",
    "sentiment_score": -0.08666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -400,173 +400,12 @@
    "category": "News"
   },
   {
-   "id": "bf1b0061b6ade0ecf33c9324d826b61b",
-   "sector": "Markets",
-   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
-   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
-   "published": "Sat, 07 Nov 2026 20:48:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.75,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "taylor",
-    "swift",
-    "retired",
-    "professor",
-    "reinvented"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful",
-   "category": "News"
-  },
-  {
-   "id": "4bc224052d80219a528212c43f4375dd",
-   "sector": "Markets",
-   "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
-   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-   "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
-   "published": "Sat, 07 Nov 2026 20:36:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.14285714285714285,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "second",
-    "guessing",
-    "adviser",
-    "annuity",
-    "right"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "435bfc7b5c9b195a79e841a27914f081",
-   "sector": "Markets",
-   "title": "Here are the 2027 capital-gains tax rates for each income level",
-   "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-   "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
-   "published": "Sat, 07 Nov 2026 19:48:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06666666666666667,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "capital",
-    "gains",
-    "here",
-    "rates",
-    "each"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  informat",
-   "category": "News"
-  },
-  {
-   "id": "24d23b9f79c334cb31a952bced6c5539",
-   "sector": "Markets",
-   "title": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-   "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-   "summary": "Don\u2019t sit on the sidelines during open enrollment.",
-   "published": "Sat, 07 Nov 2026 19:20:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "medicare",
-    "prescription",
-    "drug",
-    "costs",
-    "jump"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Don\u2019t sit on the sidelines during open enrollment.",
-   "category": "News"
-  },
-  {
-   "id": "31f123fd695f47ea9f1860c88b973f9b",
-   "sector": "Markets",
-   "title": "Democrats\u2019 big election win revives a difficult Social Security question: Who pays?",
-   "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-   "summary": "There are many ideas for saving Social Security. All of them will hurt.",
-   "published": "Sat, 07 Nov 2026 17:43:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.14444444444444446,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "social",
-    "security",
-    "democrats",
-    "election",
-    "revives"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "There are many ideas for saving Social Security. All of them will hurt.",
-   "category": "News"
-  },
-  {
-   "id": "aac2b7f8fd56f8dd89fd044d42e49a95",
-   "sector": "Markets",
-   "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-   "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-   "summary": "Math may be cold and unemotional \u2014 but finances are not.",
-   "published": "Sat, 07 Nov 2026 17:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0666666666666667,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "worth",
-    "more",
-    "than",
-    "million",
-    "afford"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Math may be cold and unemotional \u2014 but finances are not.",
-   "category": "News"
-  },
-  {
-   "id": "463490612c228b1094464aabfa1b8116",
-   "sector": "Markets",
-   "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
-   "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-   "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-   "published": "Sat, 07 Nov 2026 17:04:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.26666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "wealthiest",
-    "americans",
-    "pulling",
-    "ahead",
-    "everyone"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-   "category": "News"
-  },
-  {
    "id": "347345a6201c15566baa8b54bf3fc098",
    "sector": "Markets",
    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "published": "Sat, 07 Nov 2026 17:01:00 GMT",
+   "published": "Sun, 08 Nov 2026 16:00:00 GMT",
    "source": "rss",
    "sentiment_score": 0.07142857142857142,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -581,6 +420,190 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "98caa3e1b4d9c689bb2f4a7e6b326ee1",
+   "sector": "Markets",
+   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+   "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "funeral",
+    "homes",
+    "finding",
+    "life",
+    "hosting"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "category": "News"
+  },
+  {
+   "id": "adaccb170f71e419e7307e4d5bcc334c",
+   "sector": "Markets",
+   "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+   "summary": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+   "published": "Sun, 08 Nov 2026 15:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.011111111111111112,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "financial",
+    "safety",
+    "rely",
+    "social",
+    "security"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "3d21b96fc0e8d40e9a0770e9388f0793",
+   "sector": "Markets",
+   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+   "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
+   "published": "Sun, 08 Nov 2026 15:16:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "brother",
+    "year",
+    "father",
+    "changed",
+    "hour"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cMy brother had no job and needed a place to live.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "c3eca607ba13f1cf10cc7c0574fa7ff8",
+   "sector": "Markets",
+   "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
+   "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+   "summary": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin in roughly four years.",
+   "published": "Sun, 08 Nov 2026 15:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.11250000000000002,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "corporate",
+    "america",
+    "profit",
+    "numbers",
+    "just"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin",
+   "category": "News"
+  },
+  {
+   "id": "8c16cc2327108e24234c9134e90aa115",
+   "sector": "Markets",
+   "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
+   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+   "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+   "published": "Sun, 08 Nov 2026 14:13:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "cheese",
+    "cottage",
+    "sales",
+    "losing",
+    "protein"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+   "category": "News"
+  },
+  {
+   "id": "a5fca983e497f1f211ff6f0c4e43586c",
+   "sector": "Markets",
+   "title": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
+   "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+   "summary": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
+   "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.21000000000000002,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "stocks",
+    "moving",
+    "sync",
+    "again",
+    "first"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has",
+   "category": "News"
+  },
+  {
+   "id": "83c498ea39980d5f1d1f6201b94a3272",
+   "sector": "Markets",
+   "title": "This market signal called the tech selloff. Now it\u2019s sending another warning.",
+   "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+   "summary": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
+   "published": "Sun, 08 Nov 2026 12:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.07749999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "market",
+    "signal",
+    "called",
+    "tech",
+    "selloff"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may no",
+   "category": "News"
+  },
+  {
+   "id": "b55eea6750c4af112a4e387112ec62e1",
+   "sector": "Tech/AI",
+   "title": "Ninja\u2019s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+   "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+   "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+   "published": "Sun, 08 Nov 2026 15:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 1.0,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "autobarista",
+    "ninja",
+    "impressively",
+    "versatile",
+    "feature"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform ho",
    "category": "News"
   },
   {
@@ -745,26 +768,26 @@
    "category": "News"
   },
   {
-   "id": "63a54f4727369f2fd0a9321cc355a456",
-   "sector": "Tech/AI",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+   "id": "24575f27e2f01ce44a9e0dde12d3991f",
+   "sector": "Crypto",
+   "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+   "summary": "",
+   "published": "Sun, 08 Nov 2026 12:55:59 +0000",
    "source": "rss",
-   "sentiment_score": -0.19999999999999998,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.11666666666666668,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "data",
-    "crusoe",
-    "sells",
-    "troubled",
-    "wyoming"
+    "these",
+    "finland",
+    "homes",
+    "free",
+    "heat"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The deal highlights the challenges of developing massive AI data centers.",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,26 +952,118 @@
    "category": "News"
   },
   {
-   "id": "6eb677ad2c8213c351ee4cf41d7d8e29",
-   "sector": "Crypto",
-   "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-   "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 13:31:54 +0000",
+   "id": "08a91131ecf652fcf5fb3e77b448cd47",
+   "sector": "Science",
+   "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+   "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
+   "published": "Sat, 07 Nov 2026 18:34:19 EST",
    "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "added",
-    "jobs",
-    "october",
-    "blowing",
-    "past"
+    "limit",
+    "space",
+    "time",
+    "could",
+    "electronics"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked wit",
+   "category": "News"
+  },
+  {
+   "id": "29e0a7d99e7f8bf385e11949c71805fd",
+   "sector": "Science",
+   "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+   "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
+   "published": "Sun, 08 Nov 2026 05:11:25 EST",
+   "source": "rss",
+   "sentiment_score": -0.032727272727272744,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "asteroid",
+    "nuclear",
+    "blast",
+    "could",
+    "save"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting ",
+   "category": "News"
+  },
+  {
+   "id": "adff894aeb07f64a08de73967243b066",
+   "sector": "Science",
+   "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+   "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
+   "published": "Sun, 08 Nov 2026 03:14:23 EST",
+   "source": "rss",
+   "sentiment_score": 0.29285714285714287,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "cannabis",
+    "evidence",
+    "ancient",
+    "siberian",
+    "tomb"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and ",
+   "category": "News"
+  },
+  {
+   "id": "52fbc2fb5c66f6e827c83aaf9913146d",
+   "sector": "Science",
+   "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+   "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet\u2019s surface.",
+   "published": "Sat, 07 Nov 2026 20:09:55 EST",
+   "source": "rss",
+   "sentiment_score": 0.04615384615384615,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "mysterious",
+    "suggest",
+    "mars",
+    "still",
+    "leaks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead ",
+   "category": "News"
+  },
+  {
+   "id": "e7949e60eeeb0806bf5441196a739c41",
+   "sector": "Science",
+   "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+   "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who received a high-dose influenza vaccine had a nearly 55% lower risk of developing Alzheimer's, compared with a 40% reduction previously associated with the standard-dose vaccine.",
+   "published": "Sat, 07 Nov 2026 21:52:28 EST",
+   "source": "rss",
+   "sentiment_score": 0.20033670033670037,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nearly",
+    "alzheimer",
+    "stronger",
+    "shot",
+    "lower"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A surprising new study suggests that a stronger flu shot could offer older adults significantly grea",
    "category": "News"
   },
   {
@@ -1018,121 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old ",
-   "category": "News"
-  },
-  {
-   "id": "2503db284a90032de5f83d4d6bcd5d30",
-   "sector": "Science",
-   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
-   "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits. Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss b",
-   "published": "Thu, 05 Nov 2026 20:11:19 EST",
-   "source": "rss",
-   "sentiment_score": 0.4454545454545455,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "before",
-    "alzheimer",
-    "anti",
-    "aging",
-    "drug"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A surprising new study suggests that an anti-aging drug could help protect people genetically predis",
-   "category": "News"
-  },
-  {
-   "id": "79f9e621d1048332cb40306ed62480ae",
-   "sector": "Science",
-   "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-   "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests could actually harm the biodiversity conservationists hope to protect.",
-   "published": "Sat, 07 Nov 2026 04:44:48 EST",
-   "source": "rss",
-   "sentiment_score": 0.16642857142857143,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "forests",
-    "scientists",
-    "europe",
-    "discover",
-    "ancient"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open ",
-   "category": "News"
-  },
-  {
-   "id": "f96a0a67c412f9507a99e844a3d6d024",
-   "sector": "Science",
-   "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
-   "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say measuring it more accurately could improve climate models.",
-   "published": "Sat, 07 Nov 2026 05:00:03 EST",
-   "source": "rss",
-   "sentiment_score": 0.25918367346938775,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "produce",
-    "billion",
-    "just",
-    "more",
-    "carbon"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning fo",
-   "category": "News"
-  },
-  {
-   "id": "5667b4d7d4c8fc8a1f6de3191bfbf92f",
-   "sector": "Science",
-   "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-   "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets. Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics. The discovery could lead to faster computers, ",
-   "published": "Wed, 04 Nov 2026 05:43:44 EST",
-   "source": "rss",
-   "sentiment_score": 0.1537202380952381,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "scientists",
-    "third",
-    "type",
-    "magnetism",
-    "slac"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers ha",
-   "category": "News"
-  },
-  {
-   "id": "47391a83ded8f35a2ab4567ea3b60b19",
-   "sector": "Science",
-   "title": "NASA is racing against time to save the Hubble Space Telescope",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-   "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034. To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it wh",
-   "published": "Wed, 04 Nov 2026 06:22:33 EST",
-   "source": "rss",
-   "sentiment_score": 0.2875,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "hubble",
-    "nasa",
-    "space",
-    "save",
-    "telescope"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery",
    "category": "News"
   },
   {
@@ -1320,118 +1320,118 @@
    "category": "News"
   },
   {
-   "id": "ad601a69c8a1efe27db8b863037bee03",
+   "id": "344c9b5e834a21f71073dbe39e99d7c1",
    "sector": "Tech/AI",
-   "title": "Goodbye Claude, Hello Pi",
-   "link": "https://caleb.software/posts/claude-to-pi.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 03:11:48 +0000",
+   "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+   "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50414427\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 16:07:42 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.2436026936026936,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "tesla",
+    "hasn",
+    "successful",
+    "product",
+    "launch"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50414427\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "12d6554f0e3f3f179a065731741364cf",
+   "sector": "Tech/AI",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "link": "https://github.com/synchopate/llama-modchip",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 10:22:04 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "goodbye",
-    "claude",
-    "hello",
+    "llama",
+    "modchip",
+    "deepseek",
     "href",
     "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "dcd467bc030b775967a4ceeb564250c4",
+   "id": "ce3cf248574f6400f6754b3860d5f09f",
    "sector": "Tech/AI",
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 08:40:23 +0000",
+   "title": "Porting Android 16 to my blind mother's keypad phone",
+   "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366821\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 15:18:59 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.5,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "agent",
-    "memory",
-    "needs",
-    "opentelemetry",
-    "moment"
+    "porting",
+    "android",
+    "blind",
+    "mother",
+    "keypad"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366821\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "2e36eee2d1456010267baab5229ade5e",
+   "id": "7961295abc6803be70f624a7fe4f7505",
    "sector": "Tech/AI",
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "link": "https://blog.bosscher.ch/posts/openstick/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406670\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 18:12:12 +0000",
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50413822\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 14:49:23 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "what",
-    "openstick",
-    "homelab",
+    "openai",
+    "raises",
+    "valuation",
     "href",
     "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406670\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50413822\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "f5a16dd967318663f7505298f9e75c54",
+   "id": "5f307d24b230c553d4bea7763f540b59",
    "sector": "Tech/AI",
-   "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-   "link": "https://clj.rs/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 15:23:16 +0000",
+   "title": "Writing as a thinking tool",
+   "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50412067\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 10:41:52 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "clojure",
-    "dialect",
-    "implemented",
-    "rust",
-    "href"
+    "writing",
+    "thinking",
+    "tool",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "5f4b5e44a7054af0fd78441e71ca0cff",
-   "sector": "Tech/AI",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50407882\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 20:45:32 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "claude",
-    "code",
-    "again",
-    "exposes",
-    "passwords"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50407882\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50412067\">Comments</a>",
    "category": "News"
   }
  ]
