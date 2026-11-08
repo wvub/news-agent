@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08 21:43 IST",
+ "updated": "2026-11-09 02:02 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -34,6 +34,12 @@
    "article_count": 3
   },
   {
+   "keyword": "after",
+   "frequency": 6,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
    "keyword": "countries",
    "frequency": 6,
    "sectors": 2,
@@ -46,10 +52,10 @@
    "article_count": 2
   },
   {
-   "keyword": "after",
+   "keyword": "funeral",
    "frequency": 5,
-   "sectors": 2,
-   "article_count": 4
+   "sectors": 1,
+   "article_count": 2
   },
   {
    "keyword": "data",
@@ -67,12 +73,6 @@
    "keyword": "services",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "nuclear",
-   "frequency": 4,
-   "sectors": 2,
    "article_count": 2
   },
   {
@@ -104,138 +104,207 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.037933+00:00",
+   "last_failure": "2026-11-08 20:32:31.421168+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.123785+00:00",
+   "last_failure": "2026-11-08 20:32:31.503246+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.204636+00:00",
+   "last_failure": "2026-11-08 20:32:31.584168+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.300413+00:00",
+   "last_failure": "2026-11-08 20:32:31.647555+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.375872+00:00",
+   "last_failure": "2026-11-08 20:32:31.719363+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.458067+00:00",
+   "last_failure": "2026-11-08 20:32:31.903585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.544534+00:00",
+   "last_failure": "2026-11-08 20:32:31.978722+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.615252+00:00",
+   "last_failure": "2026-11-08 20:32:32.160011+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.692048+00:00",
+   "last_failure": "2026-11-08 20:32:32.367880+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.767901+00:00",
+   "last_failure": "2026-11-08 20:32:32.442751+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.841635+00:00",
+   "last_failure": "2026-11-08 20:32:32.515677+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:41.926737+00:00",
+   "last_failure": "2026-11-08 20:32:32.583018+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:42.008040+00:00",
+   "last_failure": "2026-11-08 20:32:32.808259+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:42.093627+00:00",
+   "last_failure": "2026-11-08 20:32:32.883435+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:42.164785+00:00",
+   "last_failure": "2026-11-08 20:32:32.951052+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-08 16:13:42.241581+00:00",
+   "last_failure": "2026-11-08 20:32:33.129706+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "c979748f1338dcf88d2be6425d5e37df",
+   "id": "f1a076d1769dffa8bf0e2ae450d2b70b",
    "sector": "World",
-   "title": "What we know so far after Krakow gun attack",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-   "published": "Sun, 08 Nov 2026 14:32:52 GMT",
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "published": "Sun, 08 Nov 2026 18:22:53 GMT",
    "source": "rss",
-   "sentiment_score": -0.08666666666666667,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.19999999999999998,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "krakow",
-    "were",
-    "what",
-    "know",
-    "after"
+    "surgeon",
+    "having",
+    "lunch",
+    "near",
+    "krakow"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later fou",
+   "summary_short": "Further details have emerged about two police officers hailed for preventing a Polish gunman from ki",
+   "category": "News"
+  },
+  {
+   "id": "6a83dfc80f97f4747fde061c599d63ca",
+   "sector": "World",
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+   "published": "Sun, 08 Nov 2026 19:58:02 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "after",
+    "trains",
+    "seven",
+    "dead",
+    "more"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Several carriages derailed after two trains travelling in the same direction crashed outside the cit",
+   "category": "News"
+  },
+  {
+   "id": "60215651d6c56b9aa8e6a2cad9e7b534",
+   "sector": "World",
+   "title": "Homes and temples glow across India to mark Diwali",
+   "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+   "published": "Sun, 08 Nov 2026 14:42:09 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "homes",
+    "temples",
+    "glow",
+    "across",
+    "india"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional",
+   "category": "News"
+  },
+  {
+   "id": "e7f2cf230a4d298b37743fe27111b37d",
+   "sector": "World",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "protests",
+    "iran",
+    "executes",
+    "three",
+    "armed"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests e",
    "category": "News"
   },
   {
@@ -285,75 +354,6 @@
    "category": "News"
   },
   {
-   "id": "1031726c4df42263de20d76d53348ad9",
-   "sector": "World",
-   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "published": "Sat, 07 Nov 2026 22:19:59 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "israel",
-    "president",
-    "tasks",
-    "opposition",
-    "leader"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's electio",
-   "category": "News"
-  },
-  {
-   "id": "16147aed5320309b870cd88c76b2a540",
-   "sector": "World",
-   "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-   "published": "Sat, 07 Nov 2026 18:14:38 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "iran",
-    "nuclear",
-    "offers",
-    "reward",
-    "information"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilitie",
-   "category": "News"
-  },
-  {
-   "id": "96bf3c7c0a71510048dfed8647b821e2",
-   "sector": "World",
-   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-   "published": "Sat, 07 Nov 2026 15:19:35 GMT",
-   "source": "rss",
-   "sentiment_score": 0.03214285714285715,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "cannot",
-    "cherry",
-    "pick",
-    "single",
-    "market"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic ",
-   "category": "News"
-  },
-  {
    "id": "69de36cda720ae0621f28872a45b05bc",
    "sector": "World",
    "title": "Paraguay's former president charged after bank collapse",
@@ -400,6 +400,75 @@
    "category": "News"
   },
   {
+   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
+   "sector": "Markets",
+   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
+   "published": "Sun, 08 Nov 2026 18:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.10833333333333334,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "seems",
+    "bizarre",
+    "traditional",
+    "iras",
+    "adviser"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "4268244646229d32a873f99c5592f36d",
+   "sector": "Markets",
+   "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+   "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
+   "published": "Sun, 08 Nov 2026 17:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "months",
+    "after",
+    "funeral",
+    "stepmother",
+    "father"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "98caa3e1b4d9c689bb2f4a7e6b326ee1",
+   "sector": "Markets",
+   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+   "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "published": "Sun, 08 Nov 2026 17:23:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "funeral",
+    "homes",
+    "finding",
+    "life",
+    "hosting"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "category": "News"
+  },
+  {
    "id": "347345a6201c15566baa8b54bf3fc098",
    "sector": "Markets",
    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
@@ -420,29 +489,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "98caa3e1b4d9c689bb2f4a7e6b326ee1",
-   "sector": "Markets",
-   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-   "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
-   "published": "Sun, 08 Nov 2026 16:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "funeral",
-    "homes",
-    "finding",
-    "life",
-    "hosting"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
    "category": "News"
   },
   {
@@ -538,49 +584,118 @@
    "category": "News"
   },
   {
-   "id": "a5fca983e497f1f211ff6f0c4e43586c",
-   "sector": "Markets",
-   "title": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
-   "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-   "summary": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
-   "published": "Sun, 08 Nov 2026 14:00:00 GMT",
+   "id": "03ec2368c535eb418e0a5484e0b85f70",
+   "sector": "Tech/AI",
+   "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
+   "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+   "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+   "published": "Sun, 08 Nov 2026 20:30:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.21000000000000002,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "stocks",
-    "moving",
-    "sync",
-    "again",
-    "first"
+    "coordinated",
+    "worldwide",
+    "researchers",
+    "solved",
+    "mystery"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has",
+   "summary_short": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of resea",
    "category": "News"
   },
   {
-   "id": "83c498ea39980d5f1d1f6201b94a3272",
-   "sector": "Markets",
-   "title": "This market signal called the tech selloff. Now it\u2019s sending another warning.",
-   "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-   "summary": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
-   "published": "Sun, 08 Nov 2026 12:00:00 GMT",
+   "id": "82cd48c0757ea36935c24ebac5b34945",
+   "sector": "Tech/AI",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+   "published": "Sun, 08 Nov 2026 19:51:30 +0000",
    "source": "rss",
-   "sentiment_score": 0.07749999999999999,
+   "sentiment_score": -0.015909090909090914,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "market",
-    "signal",
-    "called",
-    "tech",
-    "selloff"
+    "sequoia",
+    "partners",
+    "reportedly",
+    "blindsided",
+    "when"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may no",
+   "summary_short": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+   "category": "News"
+  },
+  {
+   "id": "0381f3dd6fa441c534c1ab8074c8f4cc",
+   "sector": "Tech/AI",
+   "title": "SNL has a new impression of Elon Musk, \u2018the worst thing South Africa has ever done\u2019",
+   "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+   "summary": "SNL seems to have its knives out for tech executives.",
+   "published": "Sun, 08 Nov 2026 18:00:04 +0000",
+   "source": "rss",
+   "sentiment_score": -0.4318181818181818,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "impression",
+    "elon",
+    "musk",
+    "worst",
+    "thing"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "SNL seems to have its knives out for tech executives.",
+   "category": "News"
+  },
+  {
+   "id": "1c5802e0f9d487d1e9152da9d92b1095",
+   "sector": "Tech/AI",
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he\u2019s a cybersecurity VC.",
+   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+   "published": "Sun, 08 Nov 2026 17:30:00 +0000",
+   "source": "rss",
+   "sentiment_score": -4.625929269271485e-18,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "arrested",
+    "hacker",
+    "then",
+    "spent",
+    "months"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of rough",
+   "category": "News"
+  },
+  {
+   "id": "362cb27e6322f7b4030da3b013ec2823",
+   "sector": "Tech/AI",
+   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+   "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "published": "Sun, 08 Nov 2026 17:02:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.325,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "techcrunch",
+    "mobility",
+    "cybertruck",
+    "experiment",
+    "over"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev",
    "category": "News"
   },
   {
@@ -653,118 +768,49 @@
    "category": "News"
   },
   {
-   "id": "7a2c78b7ac54da82224f67a38de6ccbd",
-   "sector": "Tech/AI",
-   "title": "Parents want safer phones for kids. These companies are answering the call.",
-   "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-   "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
-   "published": "Sat, 07 Nov 2026 19:00:00 +0000",
+   "id": "ec88763b1fc91ee3e4969a3d83b84a09",
+   "sector": "Crypto",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+   "summary": "",
+   "published": "Sun, 08 Nov 2026 19:30:00 +0000",
+   "source": "rss",
+   "sentiment_score": -0.3125,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "crypto",
+    "what",
+    "election",
+    "results",
+    "mean"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "5c2e6846b8512b6ff58033761ddf3a9a",
+   "sector": "Crypto",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "summary": "",
+   "published": "Sun, 08 Nov 2026 19:16:42 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "phones",
-    "parents",
-    "kids",
-    "companies",
-    "want"
+    "stablecoin",
+    "growth",
+    "stalled",
+    "payments",
+    "boom"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are buil",
-   "category": "News"
-  },
-  {
-   "id": "6905d4447fe7a3cfe67f466e62f65863",
-   "sector": "Tech/AI",
-   "title": "Binance CFO is leaving to \u2018pursue a new venture\u2019 after $6.3 billion hack",
-   "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-   "published": "Sat, 07 Nov 2026 17:24:07 +0000",
-   "source": "rss",
-   "sentiment_score": 0.3121212121212121,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "binance",
-    "after",
-    "billion",
-    "leaving",
-    "pursue"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurre",
-   "category": "News"
-  },
-  {
-   "id": "e7c5c8192931748b6b8eba61b985c413",
-   "sector": "Tech/AI",
-   "title": "Amazon\u2019s new basic Kindle proves you don\u2019t need all the bells and whistles",
-   "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-   "published": "Sat, 07 Nov 2026 17:18:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.20606060606060606,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "amazon",
-    "basic",
-    "kindle",
-    "proves",
-    "need"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display ",
-   "category": "News"
-  },
-  {
-   "id": "5b28b2789e224de59988a7e62762e5ff",
-   "sector": "Tech/AI",
-   "title": "Sequoia shutting down its Scouts program marks the end of an era",
-   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-   "published": "Sat, 07 Nov 2026 05:01:54 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11481481481481481,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "sequoia",
-    "scouts",
-    "model",
-    "shutting",
-    "down"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be ",
-   "category": "News"
-  },
-  {
-   "id": "511c520c97137f2e6ce2d7448058166d",
-   "sector": "Tech/AI",
-   "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-   "published": "Sat, 07 Nov 2026 04:16:43 +0000",
-   "source": "rss",
-   "sentiment_score": -0.02916666666666666,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "what",
-    "tech",
-    "front",
-    "seat",
-    "midterms"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make frie",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -898,52 +944,6 @@
     "regulator",
     "issues",
     "demand"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "5678b78ac0c7bc84b8c41819020d0389",
-   "sector": "Crypto",
-   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-   "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 15:26:38 +0000",
-   "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "crypto",
-    "industry",
-    "found",
-    "ways",
-    "grow"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "08641ca2cc763e72a007b7cccdb517b5",
-   "sector": "Crypto",
-   "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-   "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 14:33:49 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "thailand",
-    "moves",
-    "block",
-    "bitget",
-    "crypto"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,118 +1320,118 @@
    "category": "News"
   },
   {
-   "id": "344c9b5e834a21f71073dbe39e99d7c1",
+   "id": "03b9bfc45682e7a2df37f4025367ac5f",
    "sector": "Tech/AI",
-   "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-   "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50414427\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 16:07:42 +0000",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 18:16:07 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.2436026936026936,
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "goldman",
+    "sachs",
+    "pulling",
+    "claude",
+    "code"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "0e011f156aa0a90816e1b3b280c1a9db",
+   "sector": "Tech/AI",
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "link": "https://duxlabs.dev/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 19:08:51 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.4,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "tesla",
-    "hasn",
-    "successful",
-    "product",
-    "launch"
+    "free",
+    "open",
+    "source",
+    "wayland",
+    "desktop"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50414427\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "12d6554f0e3f3f179a065731741364cf",
+   "id": "91b3238c921547f7842f0a5807010c12",
    "sector": "Tech/AI",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "link": "https://github.com/synchopate/llama-modchip",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 10:22:04 +0000",
+   "title": "How I Fight AI Brain Fry",
+   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 19:37:42 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "llama",
-    "modchip",
-    "deepseek",
+    "fight",
+    "brain",
     "href",
-    "https"
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411961\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "ce3cf248574f6400f6754b3860d5f09f",
+   "id": "b7ab905638caa03676289dc0705bbec9",
    "sector": "Tech/AI",
-   "title": "Porting Android 16 to my blind mother's keypad phone",
-   "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366821\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 15:18:59 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.5,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "porting",
-    "android",
-    "blind",
-    "mother",
-    "keypad"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366821\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "7961295abc6803be70f624a7fe4f7505",
-   "sector": "Tech/AI",
-   "title": "OpenAI raises $11B at a $1.25T valuation",
-   "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50413822\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 14:49:23 +0000",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416158\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 19:20:32 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "openai",
-    "raises",
-    "valuation",
-    "href",
-    "https"
+    "outlook",
+    "quietly",
+    "rejecting",
+    "email",
+    "domains"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50413822\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416158\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "5f307d24b230c553d4bea7763f540b59",
+   "id": "e8fef5130e7044b80bcc58da25ee7385",
    "sector": "Tech/AI",
-   "title": "Writing as a thinking tool",
-   "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50412067\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 10:41:52 +0000",
+   "title": "Declarative Dragging",
+   "link": "https://declarative-dragging.github.io/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 17:05:07 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "writing",
-    "thinking",
-    "tool",
+    "declarative",
+    "dragging",
     "href",
-    "https"
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50412067\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>",
    "category": "News"
   }
  ]
