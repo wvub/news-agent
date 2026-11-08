@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-08 08:08 IST",
+ "updated": "2026-11-08 14:58 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 15,
-   "sectors": 1,
-   "article_count": 3
+   "frequency": 16,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "covid",
@@ -32,12 +32,6 @@
    "frequency": 8,
    "sectors": 3,
    "article_count": 4
-  },
-  {
-   "keyword": "after",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 5
   },
   {
    "keyword": "data",
@@ -62,6 +56,12 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "after",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "nasa",
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:43.650810+00:00",
+   "last_failure": "2026-11-08 09:28:14.327752+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:43.858224+00:00",
+   "last_failure": "2026-11-08 09:28:14.431397+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:43.981059+00:00",
+   "last_failure": "2026-11-08 09:28:14.608481+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.102585+00:00",
+   "last_failure": "2026-11-08 09:28:14.744677+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.364389+00:00",
+   "last_failure": "2026-11-08 09:28:14.946448+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.505001+00:00",
+   "last_failure": "2026-11-08 09:28:15.080421+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.631929+00:00",
+   "last_failure": "2026-11-08 09:28:15.269324+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.773221+00:00",
+   "last_failure": "2026-11-08 09:28:15.487911+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:44.942469+00:00",
+   "last_failure": "2026-11-08 09:28:15.692361+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.083661+00:00",
+   "last_failure": "2026-11-08 09:28:15.864830+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.221346+00:00",
+   "last_failure": "2026-11-08 09:28:15.983685+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.353041+00:00",
+   "last_failure": "2026-11-08 09:28:16.123481+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.476322+00:00",
+   "last_failure": "2026-11-08 09:28:16.287131+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.599031+00:00",
+   "last_failure": "2026-11-08 09:28:16.434145+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.723555+00:00",
+   "last_failure": "2026-11-08 09:28:16.574865+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-08 02:38:45.847953+00:00",
+   "last_failure": "2026-11-08 09:28:16.711863+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -220,22 +220,68 @@
    "sector": "World",
    "title": "What we know so far after Krakow gun attack",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-   "published": "Sun, 08 Nov 2026 01:47:41 GMT",
+   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "published": "Sun, 08 Nov 2026 07:52:33 GMT",
    "source": "rss",
    "sentiment_score": -0.08666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
+    "krakow",
     "were",
     "what",
     "know",
-    "after",
-    "krakow"
+    "after"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Six people were killed in a random shooting in the city's main square, and three bodies were later f",
+   "summary_short": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later fou",
+   "category": "News"
+  },
+  {
+   "id": "f4db8f52e3958bd8434e3d28f7a19f42",
+   "sector": "World",
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+   "source": "rss",
+   "sentiment_score": -0.25,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "houthis",
+    "saudi",
+    "least",
+    "killed",
+    "strike"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "category": "News"
+  },
+  {
+   "id": "daf3b1c7bb618b68d0866e6090ac12b4",
+   "sector": "World",
+   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+   "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+   "published": "Sat, 07 Nov 2026 21:36:16 GMT",
+   "source": "rss",
+   "sentiment_score": -0.08944805194805194,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "flat",
+    "tired",
+    "cynical",
+    "unusually",
+    "gloomy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The national mood is low, and faith in politics even lower - with voters deserting the major parties",
    "category": "News"
   },
   {
@@ -262,29 +308,6 @@
    "category": "News"
   },
   {
-   "id": "2df537772984dc56b731efa2adc57c5e",
-   "sector": "World",
-   "title": "No clear winner after tight New Zealand general election",
-   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "published": "Sat, 07 Nov 2026 15:56:28 GMT",
-   "source": "rss",
-   "sentiment_score": 0.023558441558441563,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "after",
-    "clear",
-    "winner",
-    "tight",
-    "zealand"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national",
-   "category": "News"
-  },
-  {
    "id": "16147aed5320309b870cd88c76b2a540",
    "sector": "World",
    "title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -305,29 +328,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilitie",
-   "category": "News"
-  },
-  {
-   "id": "702e9ad9ebae749b3cc7bc5fd5962f1c",
-   "sector": "World",
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "published": "Sat, 07 Nov 2026 17:09:24 GMT",
-   "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "houthis",
-    "saudi",
-    "least",
-    "killed",
-    "strike"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
    "category": "News"
   },
   {
@@ -354,29 +354,6 @@
    "category": "News"
   },
   {
-   "id": "5c8cd1a83e25740c863cca77d6b54a29",
-   "sector": "World",
-   "title": "With Stephen Miller pick, Trump readies for a battle",
-   "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-   "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-   "published": "Fri, 06 Nov 2026 23:24:15 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15656565656565655,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "miller",
-    "stephen",
-    "pick",
-    "trump",
-    "readies"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets",
-   "category": "News"
-  },
-  {
    "id": "69de36cda720ae0621f28872a45b05bc",
    "sector": "World",
    "title": "Paraguay's former president charged after bank collapse",
@@ -397,6 +374,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access thei",
+   "category": "News"
+  },
+  {
+   "id": "c657e3c35a14dc6f0493a817c52f9f22",
+   "sector": "World",
+   "title": "Pope in 'pretty good health' as he starts Latin America tour",
+   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+   "source": "rss",
+   "sentiment_score": 0.475,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "pope",
+    "pretty",
+    "good",
+    "health",
+    "starts"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
    "category": "News"
   },
   {
@@ -1320,26 +1320,49 @@
    "category": "News"
   },
   {
-   "id": "16fa644a1b09e2ada4fad528a563a155",
+   "id": "ad601a69c8a1efe27db8b863037bee03",
    "sector": "Tech/AI",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "link": "https://hunch.net/?p=13764006",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406563\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 18:02:17 +0000",
+   "title": "Goodbye Claude, Hello Pi",
+   "link": "https://caleb.software/posts/claude-to-pi.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 03:11:48 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "microsoft",
-    "research",
-    "frontiers",
-    "group",
-    "href"
+    "goodbye",
+    "claude",
+    "hello",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406563\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50410107\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "dcd467bc030b775967a4ceeb564250c4",
+   "sector": "Tech/AI",
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 08:40:23 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "agent",
+    "memory",
+    "needs",
+    "opentelemetry",
+    "moment"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50411467\">Comments</a>",
    "category": "News"
   },
   {
@@ -1366,49 +1389,26 @@
    "category": "News"
   },
   {
-   "id": "af6ea9da3badfe56def4c30dc2b56734",
+   "id": "f5a16dd967318663f7505298f9e75c54",
    "sector": "Tech/AI",
-   "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-   "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406111\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 17:06:36 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "apple",
-    "grey",
-    "list",
-    "words",
-    "phrases"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50406111\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "1b4288ed2db441cc1d314aa33437638b",
-   "sector": "Tech/AI",
-   "title": "Making any integer with four 2s (2025)",
-   "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50408713\">Comments</a>",
-   "published": "Sat, 07 Nov 2026 22:38:58 +0000",
+   "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+   "link": "https://clj.rs/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>",
+   "published": "Wed, 04 Nov 2026 15:23:16 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "making",
-    "integer",
-    "four",
-    "href",
-    "https"
+    "clojure",
+    "dialect",
+    "implemented",
+    "rust",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50408713\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50366902\">Comments</a>",
    "category": "News"
   },
   {
