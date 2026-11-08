@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09 02:02 IST",
+ "updated": "2026-11-09 05:29 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -29,13 +29,7 @@
   },
   {
    "keyword": "million",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "after",
-   "frequency": 6,
+   "frequency": 8,
    "sectors": 3,
    "article_count": 4
   },
@@ -50,6 +44,12 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "after",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 3
   },
   {
    "keyword": "funeral",
@@ -76,140 +76,140 @@
    "article_count": 2
   },
   {
+   "keyword": "swift",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "huang",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "hacker",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 4
+  },
+  {
    "keyword": "could",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "ancient",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "tests",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "covax",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.421168+00:00",
+   "last_failure": "2026-11-08 23:59:16.366838+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.503246+00:00",
+   "last_failure": "2026-11-08 23:59:16.420422+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.584168+00:00",
+   "last_failure": "2026-11-08 23:59:16.475865+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.647555+00:00",
+   "last_failure": "2026-11-08 23:59:16.523705+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.719363+00:00",
+   "last_failure": "2026-11-08 23:59:16.576636+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.903585+00:00",
+   "last_failure": "2026-11-08 23:59:16.626543+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:31.978722+00:00",
+   "last_failure": "2026-11-08 23:59:16.680750+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.160011+00:00",
+   "last_failure": "2026-11-08 23:59:16.738066+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.367880+00:00",
+   "last_failure": "2026-11-08 23:59:16.782079+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.442751+00:00",
+   "last_failure": "2026-11-08 23:59:16.833344+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.515677+00:00",
+   "last_failure": "2026-11-08 23:59:16.883122+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.583018+00:00",
+   "last_failure": "2026-11-08 23:59:16.933964+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.808259+00:00",
+   "last_failure": "2026-11-08 23:59:16.982573+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.883435+00:00",
+   "last_failure": "2026-11-08 23:59:17.032691+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:32.951052+00:00",
+   "last_failure": "2026-11-08 23:59:17.079718+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-08 20:32:33.129706+00:00",
+   "last_failure": "2026-11-08 23:59:17.128531+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
    "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
    "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-   "published": "Sun, 08 Nov 2026 18:22:53 GMT",
+   "published": "Sun, 08 Nov 2026 23:34:18 GMT",
    "source": "rss",
    "sentiment_score": 0.19999999999999998,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -308,26 +308,26 @@
    "category": "News"
   },
   {
-   "id": "f4db8f52e3958bd8434e3d28f7a19f42",
+   "id": "09084ea4fa22ae516a94ad7a98dc9a42",
    "sector": "World",
-   "title": "Houthis say at least 33 killed in Saudi air strike",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "published": "Sun, 08 Nov 2026 04:03:12 GMT",
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+   "published": "Sun, 08 Nov 2026 21:37:36 GMT",
    "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "houthis",
-    "saudi",
-    "least",
-    "killed",
-    "strike"
+    "capital",
+    "aramco",
+    "tower",
+    "heart",
+    "saudi"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "summary_short": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial ",
    "category": "News"
   },
   {
@@ -400,6 +400,121 @@
    "category": "News"
   },
   {
+   "id": "8169f38957b6c1d534d8422989f46bb6",
+   "sector": "Markets",
+   "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+   "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+   "summary": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d",
+   "published": "Sun, 08 Nov 2026 23:50:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1340909090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "much",
+    "roth",
+    "conversions",
+    "brackets",
+    "math"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "aac2b7f8fd56f8dd89fd044d42e49a95",
+   "sector": "Markets",
+   "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+   "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+   "summary": "Math may be cold and unemotional \u2014 but finances are not.",
+   "published": "Sun, 08 Nov 2026 23:49:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "worth",
+    "more",
+    "than",
+    "million",
+    "afford"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Math may be cold and unemotional \u2014 but finances are not.",
+   "category": "News"
+  },
+  {
+   "id": "bf1b0061b6ade0ecf33c9324d826b61b",
+   "sector": "Markets",
+   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+   "published": "Sun, 08 Nov 2026 23:35:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.75,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "taylor",
+    "swift",
+    "retired",
+    "professor",
+    "reinvented"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful",
+   "category": "News"
+  },
+  {
+   "id": "04cf1574972298dc22a25412b0877e50",
+   "sector": "Markets",
+   "title": "You follow the rules for smart stock trading. But are they the right rules?",
+   "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+   "summary": "Apply the wisdom of investment pros to develop your own consistent methodology.",
+   "published": "Sun, 08 Nov 2026 23:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3375,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "rules",
+    "follow",
+    "smart",
+    "stock",
+    "trading"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Apply the wisdom of investment pros to develop your own consistent methodology.",
+   "category": "News"
+  },
+  {
+   "id": "1b0ee49177e3a3424794ddf9e596ddae",
+   "sector": "Markets",
+   "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
+   "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+   "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia\u2019s stock for some time.",
+   "published": "Sun, 08 Nov 2026 23:05:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.018181818181818174,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nvidia",
+    "huang",
+    "setback",
+    "trade",
+    "board"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the m",
+   "category": "News"
+  },
+  {
    "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
    "sector": "Markets",
    "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
@@ -469,118 +584,72 @@
    "category": "News"
   },
   {
-   "id": "347345a6201c15566baa8b54bf3fc098",
-   "sector": "Markets",
-   "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-   "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "published": "Sun, 08 Nov 2026 16:00:00 GMT",
+   "id": "4f57e484502f80a65e15f622aba42f44",
+   "sector": "Tech/AI",
+   "title": "Apps to distract you from the endless cycle of doomscrolling",
+   "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+   "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that\u2019s engaging and productive.",
+   "published": "Sun, 08 Nov 2026 22:00:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.07142857142857142,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "feels",
-    "like",
-    "quietly",
-    "building",
-    "separate"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "adaccb170f71e419e7307e4d5bcc334c",
-   "sector": "Markets",
-   "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-   "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-   "summary": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
-   "published": "Sun, 08 Nov 2026 15:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.011111111111111112,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "financial",
-    "safety",
-    "rely",
-    "social",
-    "security"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "3d21b96fc0e8d40e9a0770e9388f0793",
-   "sector": "Markets",
-   "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-   "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-   "summary": "\u201cMy brother had no job and needed a place to live.\u201d",
-   "published": "Sun, 08 Nov 2026 15:16:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "brother",
-    "year",
-    "father",
-    "changed",
-    "hour"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cMy brother had no job and needed a place to live.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "c3eca607ba13f1cf10cc7c0574fa7ff8",
-   "sector": "Markets",
-   "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-   "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-   "summary": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin in roughly four years.",
-   "published": "Sun, 08 Nov 2026 15:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.11250000000000002,
+   "sentiment_score": 0.12083333333333333,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "corporate",
-    "america",
-    "profit",
-    "numbers",
-    "just"
+    "apps",
+    "cycle",
+    "doomscrolling",
+    "distract",
+    "endless"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin",
+   "summary_short": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend ",
    "category": "News"
   },
   {
-   "id": "8c16cc2327108e24234c9134e90aa115",
-   "sector": "Markets",
-   "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-   "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-   "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-   "published": "Sun, 08 Nov 2026 14:13:00 GMT",
+   "id": "f8b0f97e53ea2733ebfeac9eb283c6c9",
+   "sector": "Tech/AI",
+   "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "published": "Sun, 08 Nov 2026 21:00:11 +0000",
    "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "cheese",
-    "cottage",
-    "sales",
-    "losing",
-    "protein"
+    "huang",
+    "nvidia",
+    "investigate",
+    "jensen",
+    "relationship"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+   "summary_short": "In a memo to the company, Huang admitted that he had an affair.",
+   "category": "News"
+  },
+  {
+   "id": "441afedb2e52b9853e9db11451423330",
+   "sector": "Tech/AI",
+   "title": "If Snap\u2019s Specs are still ridiculously expensive, they\u2019re also a lot more comfortable than they used to be",
+   "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+   "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+   "published": "Sun, 08 Nov 2026 21:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.225,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "they",
+    "snap",
+    "specs",
+    "still",
+    "ridiculously"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will",
    "category": "News"
   },
   {
@@ -696,75 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev",
-   "category": "News"
-  },
-  {
-   "id": "b55eea6750c4af112a4e387112ec62e1",
-   "sector": "Tech/AI",
-   "title": "Ninja\u2019s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-   "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-   "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
-   "published": "Sun, 08 Nov 2026 15:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 1.0,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "autobarista",
-    "ninja",
-    "impressively",
-    "versatile",
-    "feature"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform ho",
-   "category": "News"
-  },
-  {
-   "id": "13b87fbccddb626384d8fb8836b208af",
-   "sector": "Tech/AI",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "published": "Sat, 07 Nov 2026 22:07:22 +0000",
-   "source": "rss",
-   "sentiment_score": -0.3125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "midterms",
-    "after",
-    "things",
-    "looking",
-    "rocky"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "category": "News"
-  },
-  {
-   "id": "ff989558c53a6d8ec4e106b97323be4d",
-   "sector": "Tech/AI",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "published": "Sat, 07 Nov 2026 21:17:08 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "recruited",
-    "nvidia",
-    "memo",
-    "megaspeed",
-    "exec"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recru",
    "category": "News"
   },
   {
@@ -1320,26 +1320,72 @@
    "category": "News"
   },
   {
-   "id": "03b9bfc45682e7a2df37f4025367ac5f",
+   "id": "dff1c4fac4b7824b823919c3101b98a3",
    "sector": "Tech/AI",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 18:16:07 +0000",
+   "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+   "link": "https://ketchup3d.github.io/app/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 22:35:35 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "goldman",
-    "sachs",
-    "pulling",
-    "claude",
-    "code"
+    "ketchup",
+    "open",
+    "source",
+    "sketchup",
+    "alternative"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50415628\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50418176\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "d65dc398c08fdbb864751316b762dd15",
+   "sector": "Tech/AI",
+   "title": "Ask HN: What are you working on? (November 2026)",
+   "link": "https://news.ycombinator.com/item?id=50417407",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 21:20:20 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "what",
+    "working",
+    "november",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "28aba282977ae8db01d256788ed67a56",
+   "sector": "Tech/AI",
+   "title": "Chimera Vocal Synth",
+   "link": "https://chimera-vocal-synth.vercel.app/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>",
+   "published": "Sun, 08 Nov 2026 22:36:03 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "chimera",
+    "vocal",
+    "synth",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>",
    "category": "News"
   },
   {
@@ -1363,52 +1409,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "91b3238c921547f7842f0a5807010c12",
-   "sector": "Tech/AI",
-   "title": "How I Fight AI Brain Fry",
-   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 19:37:42 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "fight",
-    "brain",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416363\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "b7ab905638caa03676289dc0705bbec9",
-   "sector": "Tech/AI",
-   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-   "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416158\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 19:20:32 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "outlook",
-    "quietly",
-    "rejecting",
-    "email",
-    "domains"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416158\">Comments</a>",
    "category": "News"
   },
   {
