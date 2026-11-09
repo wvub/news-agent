@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-09 05:29 IST",
+ "updated": "2026-11-09 11:24 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 16,
-   "sectors": 2,
-   "article_count": 4
+   "frequency": 15,
+   "sectors": 1,
+   "article_count": 3
   },
   {
    "keyword": "covid",
@@ -28,10 +28,16 @@
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 8,
-   "sectors": 3,
+   "keyword": "could",
+   "frequency": 6,
+   "sectors": 2,
    "article_count": 4
+  },
+  {
+   "keyword": "million",
+   "frequency": 6,
+   "sectors": 2,
+   "article_count": 3
   },
   {
    "keyword": "countries",
@@ -46,13 +52,7 @@
    "article_count": 2
   },
   {
-   "keyword": "after",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "funeral",
+   "keyword": "huang",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
@@ -76,16 +76,10 @@
    "article_count": 2
   },
   {
-   "keyword": "swift",
+   "keyword": "after",
    "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "huang",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
+   "sectors": 1,
+   "article_count": 3
   },
   {
    "keyword": "hacker",
@@ -94,7 +88,13 @@
    "article_count": 4
   },
   {
-   "keyword": "could",
+   "keyword": "ancient",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "ocean",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.366838+00:00",
+   "last_failure": "2026-11-09 05:54:18.620633+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.420422+00:00",
+   "last_failure": "2026-11-09 05:54:18.685938+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.475865+00:00",
+   "last_failure": "2026-11-09 05:54:18.755477+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.523705+00:00",
+   "last_failure": "2026-11-09 05:54:18.819647+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.576636+00:00",
+   "last_failure": "2026-11-09 05:54:18.885370+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.626543+00:00",
+   "last_failure": "2026-11-09 05:54:18.943129+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.680750+00:00",
+   "last_failure": "2026-11-09 05:54:19.011538+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.738066+00:00",
+   "last_failure": "2026-11-09 05:54:19.070050+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.782079+00:00",
+   "last_failure": "2026-11-09 05:54:19.135274+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.833344+00:00",
+   "last_failure": "2026-11-09 05:54:19.191375+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.883122+00:00",
+   "last_failure": "2026-11-09 05:54:19.255673+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.933964+00:00",
+   "last_failure": "2026-11-09 05:54:19.318608+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:16.982573+00:00",
+   "last_failure": "2026-11-09 05:54:19.378658+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:17.032691+00:00",
+   "last_failure": "2026-11-09 05:54:19.449118+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:17.079718+00:00",
+   "last_failure": "2026-11-09 05:54:19.515195+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-08 23:59:17.128531+00:00",
+   "last_failure": "2026-11-09 05:54:19.579285+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -285,26 +285,26 @@
    "category": "News"
   },
   {
-   "id": "e7f2cf230a4d298b37743fe27111b37d",
+   "id": "c9e592d2893ab9aa0bf698fb9d576cd8",
    "sector": "World",
-   "title": "Iran executes three men for 'armed unrest' after January protests",
-   "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-   "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+   "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+   "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+   "published": "Mon, 09 Nov 2026 02:50:13 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "protests",
-    "iran",
-    "executes",
-    "three",
-    "armed"
+    "cruise",
+    "ship",
+    "pianist",
+    "rescued",
+    "after"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests e",
+   "summary_short": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian ",
    "category": "News"
   },
   {
@@ -354,6 +354,29 @@
    "category": "News"
   },
   {
+   "id": "e7f2cf230a4d298b37743fe27111b37d",
+   "sector": "World",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "published": "Sun, 08 Nov 2026 13:37:50 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "protests",
+    "iran",
+    "executes",
+    "three",
+    "armed"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests e",
+   "category": "News"
+  },
+  {
    "id": "69de36cda720ae0621f28872a45b05bc",
    "sector": "World",
    "title": "Paraguay's former president charged after bank collapse",
@@ -377,26 +400,118 @@
    "category": "News"
   },
   {
-   "id": "c657e3c35a14dc6f0493a817c52f9f22",
-   "sector": "World",
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-   "published": "Sat, 07 Nov 2026 06:59:48 GMT",
+   "id": "19893f6a68b51f24b9e937e62e016796",
+   "sector": "Markets",
+   "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+   "summary": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
+   "published": "Mon, 09 Nov 2026 01:21:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.475,
+   "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "pope",
-    "pretty",
-    "good",
-    "health",
-    "starts"
+    "life",
+    "could",
+    "short",
+    "married",
+    "brain"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "summary_short": "\u201cI also want to preserve the opportunity to leave a meaningful legacy for my two sons.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "a5db8a8a9c79c40625b36bc968a5b547",
+   "sector": "Markets",
+   "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+   "summary": "The large-cap index is nowhere near as diversified as you think.",
+   "published": "Mon, 09 Nov 2026 00:40:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.16666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "could",
+    "dangerously",
+    "exposed",
+    "here",
+    "some"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The large-cap index is nowhere near as diversified as you think.",
+   "category": "News"
+  },
+  {
+   "id": "c93fb3ce299636afaf7fc29fc4cb2483",
+   "sector": "Markets",
+   "title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
+   "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+   "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+   "published": "Mon, 09 Nov 2026 00:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.14285714285714285,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "second",
+    "guessing",
+    "adviser",
+    "annuity",
+    "right"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "347345a6201c15566baa8b54bf3fc098",
+   "sector": "Markets",
+   "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+   "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+   "published": "Mon, 09 Nov 2026 00:02:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.07142857142857142,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "feels",
+    "like",
+    "quietly",
+    "building",
+    "separate"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "98caa3e1b4d9c689bb2f4a7e6b326ee1",
+   "sector": "Markets",
+   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+   "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "published": "Mon, 09 Nov 2026 00:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "funeral",
+    "homes",
+    "finding",
+    "life",
+    "hosting"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
    "category": "News"
   },
   {
@@ -469,118 +584,26 @@
    "category": "News"
   },
   {
-   "id": "04cf1574972298dc22a25412b0877e50",
-   "sector": "Markets",
-   "title": "You follow the rules for smart stock trading. But are they the right rules?",
-   "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-   "summary": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-   "published": "Sun, 08 Nov 2026 23:15:00 GMT",
+   "id": "37359b5fa13c78178cbdb01c19a32be7",
+   "sector": "Tech/AI",
+   "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.",
+   "published": "Mon, 09 Nov 2026 05:26:29 +0000",
    "source": "rss",
-   "sentiment_score": 0.3375,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "rules",
-    "follow",
-    "smart",
-    "stock",
-    "trading"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Apply the wisdom of investment pros to develop your own consistent methodology.",
-   "category": "News"
-  },
-  {
-   "id": "1b0ee49177e3a3424794ddf9e596ddae",
-   "sector": "Markets",
-   "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
-   "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-   "summary": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia\u2019s stock for some time.",
-   "published": "Sun, 08 Nov 2026 23:05:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.018181818181818174,
+   "sentiment_score": -0.05,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "nvidia",
     "huang",
-    "setback",
-    "trade",
-    "board"
+    "jensen",
+    "yale",
+    "jeffrey",
+    "sonnenfeld"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the m",
-   "category": "News"
-  },
-  {
-   "id": "3e3ed3a896c6d9c965b95d7f18ff3c52",
-   "sector": "Markets",
-   "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "summary": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "published": "Sun, 08 Nov 2026 18:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10833333333333334,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "seems",
-    "bizarre",
-    "traditional",
-    "iras",
-    "adviser"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "4268244646229d32a873f99c5592f36d",
-   "sector": "Markets",
-   "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-   "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-   "summary": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-   "published": "Sun, 08 Nov 2026 17:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "months",
-    "after",
-    "funeral",
-    "stepmother",
-    "father"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cAbout two months after his funeral, my stepmother called and said she wanted the money back.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "98caa3e1b4d9c689bb2f4a7e6b326ee1",
-   "sector": "Markets",
-   "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-   "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-   "summary": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
-   "published": "Sun, 08 Nov 2026 17:23:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "funeral",
-    "homes",
-    "finding",
-    "life",
-    "hosting"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+   "summary_short": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and",
    "category": "News"
   },
   {
@@ -745,26 +768,72 @@
    "category": "News"
   },
   {
-   "id": "362cb27e6322f7b4030da3b013ec2823",
-   "sector": "Tech/AI",
-   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-   "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "published": "Sun, 08 Nov 2026 17:02:00 +0000",
+   "id": "fcf3157c0161c1b9a7dcb0a519802049",
+   "sector": "Crypto",
+   "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+   "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+   "summary": "",
+   "published": "Mon, 09 Nov 2026 05:16:54 +0000",
    "source": "rss",
-   "sentiment_score": 0.325,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "techcrunch",
-    "mobility",
-    "cybertruck",
-    "experiment",
-    "over"
+    "rival",
+    "ethereum",
+    "proposals",
+    "stop",
+    "glamsterdam"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ev",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "f5c28d07703f393f58de09d8e4315ebd",
+   "sector": "Crypto",
+   "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+   "summary": "",
+   "published": "Mon, 09 Nov 2026 04:54:39 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "binance",
+    "bitcoin",
+    "mining",
+    "pool",
+    "finds"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "9e0877abba89cf653407c583d45c7921",
+   "sector": "Crypto",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "summary": "",
+   "published": "Mon, 09 Nov 2026 03:21:49 +0000",
+   "source": "rss",
+   "sentiment_score": -0.5,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bitcoin",
+    "drops",
+    "then",
+    "pops",
+    "nvidia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -883,75 +952,6 @@
    "category": "News"
   },
   {
-   "id": "ee86590b3002b1a3cddb875dc036ca5a",
-   "sector": "Crypto",
-   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "summary": "",
-   "published": "Sat, 07 Nov 2026 16:51:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "gnosis",
-    "breach",
-    "exposes",
-    "card",
-    "numbers"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "5d0d17d0438485ea210e528c3dd2a7df",
-   "sector": "Crypto",
-   "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-   "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 20:09:18 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "apple",
-    "meta",
-    "reject",
-    "tokenized",
-    "stock"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "cdc29ec2e6b5e1fed18ee54aba6976f2",
-   "sector": "Crypto",
-   "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-   "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-   "summary": "",
-   "published": "Fri, 06 Nov 2026 17:42:28 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "prediction",
-    "markets",
-    "regulator",
-    "issues",
-    "demand"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
    "id": "08a91131ecf652fcf5fb3e77b448cd47",
    "sector": "Science",
    "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
@@ -972,6 +972,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked wit",
+   "category": "News"
+  },
+  {
+   "id": "e8941ba19e5a47e03345c327e15632d4",
+   "sector": "Science",
+   "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
+   "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
+   "published": "Sun, 08 Nov 2026 17:45:01 EST",
+   "source": "rss",
+   "sentiment_score": 0.2852272727272727,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "ancient",
+    "giant",
+    "major",
+    "evolutionary",
+    "ocean"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionar",
    "category": "News"
   },
   {
@@ -1067,6 +1090,29 @@
    "category": "News"
   },
   {
+   "id": "3966a51dbf47a034eef8d9cb949a980c",
+   "sector": "Science",
+   "title": "Hidden climate superpower: Why some ocean \u201csnow\u201d carries six times more carbon",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261105224558.htm",
+   "summary": "Scientists have discovered that the stickiness of underwater \u201cmarine snow\u201d plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as much carbon to the depths, revealing an unexpected connection between ocean slime and Earth's climate.",
+   "published": "Sun, 08 Nov 2026 20:14:33 EST",
+   "source": "rss",
+   "sentiment_score": 0.21666666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "ocean",
+    "carbon",
+    "climate",
+    "snow",
+    "times"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have discovered that the stickiness of underwater \u201cmarine snow\u201d plays a surprisingly impo",
+   "category": "News"
+  },
+  {
    "id": "c4a00c81b99c46fed86ac2397c5cce0c",
    "sector": "Science",
    "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
@@ -1087,52 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pair",
-   "category": "News"
-  },
-  {
-   "id": "40fb2378e7b1d6d14874010800884c4a",
-   "sector": "Science",
-   "title": "NASA\u2019s Swift telescope falls to Earth after nearly 22 years in space",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
-   "summary": "After nearly 22 years of exploring the universe\u2019s most violent explosions, NASA\u2019s Swift Observatory has re-entered Earth\u2019s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts.",
-   "published": "Fri, 06 Nov 2026 02:12:55 EST",
-   "source": "rss",
-   "sentiment_score": 0.013541666666666657,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "years",
-    "nasa",
-    "swift",
-    "telescope",
-    "earth"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "After nearly 22 years of exploring the universe\u2019s most violent explosions, NASA\u2019s Swift Observatory ",
-   "category": "News"
-  },
-  {
-   "id": "9267e179fba389d74a3d68ad66d0f2fb",
-   "sector": "Science",
-   "title": "Scientists just found dinosaur blood that survived 115 million years",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-   "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.",
-   "published": "Fri, 06 Nov 2026 06:28:01 EST",
-   "source": "rss",
-   "sentiment_score": 0.263939393939394,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "scientists",
-    "dinosaur",
-    "blood",
-    "million",
-    "ancient"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old ",
    "category": "News"
   },
   {
@@ -1320,6 +1320,52 @@
    "category": "News"
   },
   {
+   "id": "3c6250beaa1b18f8a996b39e491ea704",
+   "sector": "Tech/AI",
+   "title": "RIP, Harvest",
+   "link": "https://aphyr.com/posts/427-rip-harvest",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50420035\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 01:58:21 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "harvest",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50420035\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "2f0a5be70f34d318697bbe7abb5f721e",
+   "sector": "Tech/AI",
+   "title": "A Critique of GPUI",
+   "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50420857\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 03:51:10 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "critique",
+    "gpui",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50420857\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "dff1c4fac4b7824b823919c3101b98a3",
    "sector": "Tech/AI",
    "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
@@ -1343,26 +1389,26 @@
    "category": "News"
   },
   {
-   "id": "d65dc398c08fdbb864751316b762dd15",
+   "id": "ab1d7f5d588840c9bfc8faac784a9fba",
    "sector": "Tech/AI",
-   "title": "Ask HN: What are you working on? (November 2026)",
-   "link": "https://news.ycombinator.com/item?id=50417407",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 21:20:20 +0000",
+   "title": "Unlocking any car from X brand in most of the world",
+   "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 00:10:50 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "what",
-    "working",
-    "november",
-    "href",
-    "https"
+    "unlocking",
+    "brand",
+    "most",
+    "world",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50417407\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50419215\">Comments</a>",
    "category": "News"
   },
   {
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50418182\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0e011f156aa0a90816e1b3b280c1a9db",
-   "sector": "Tech/AI",
-   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "link": "https://duxlabs.dev/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>",
-   "published": "Sun, 08 Nov 2026 19:08:51 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.4,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "free",
-    "open",
-    "source",
-    "wayland",
-    "desktop"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50416053\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "e8fef5130e7044b80bcc58da25ee7385",
-   "sector": "Tech/AI",
-   "title": "Declarative Dragging",
-   "link": "https://declarative-dragging.github.io/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>",
-   "published": "Wed, 04 Nov 2026 17:05:07 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "declarative",
-    "dragging",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50368481\">Comments</a>",
    "category": "News"
   }
  ]
