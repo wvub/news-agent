@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10 05:16 IST",
+ "updated": "2026-11-10 10:19 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -35,14 +35,14 @@
   },
   {
    "keyword": "data",
-   "frequency": 9,
+   "frequency": 7,
    "sectors": 2,
-   "article_count": 3
+   "article_count": 2
   },
   {
-   "keyword": "could",
+   "keyword": "huang",
    "frequency": 6,
-   "sectors": 2,
+   "sectors": 1,
    "article_count": 3
   },
   {
@@ -52,10 +52,28 @@
    "article_count": 2
   },
   {
-   "keyword": "stock",
+   "keyword": "says",
    "frequency": 5,
-   "sectors": 3,
-   "article_count": 5
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "scandal",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 3
+  },
+  {
+   "keyword": "jensen",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "brain",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
   },
   {
    "keyword": "mental",
@@ -80,136 +98,118 @@
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "huang",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "giant",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "ancient",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:26.918057+00:00",
+   "last_failure": "2026-11-10 04:49:16.642085+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:26.989538+00:00",
+   "last_failure": "2026-11-10 04:49:16.693278+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.056978+00:00",
+   "last_failure": "2026-11-10 04:49:16.744316+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.124118+00:00",
+   "last_failure": "2026-11-10 04:49:16.795868+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.191864+00:00",
+   "last_failure": "2026-11-10 04:49:16.858142+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.263688+00:00",
+   "last_failure": "2026-11-10 04:49:16.912223+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.332248+00:00",
+   "last_failure": "2026-11-10 04:49:16.971718+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.400994+00:00",
+   "last_failure": "2026-11-10 04:49:17.027566+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.472391+00:00",
+   "last_failure": "2026-11-10 04:49:17.080114+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.540877+00:00",
+   "last_failure": "2026-11-10 04:49:17.130667+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.611583+00:00",
+   "last_failure": "2026-11-10 04:49:17.182096+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.677031+00:00",
+   "last_failure": "2026-11-10 04:49:17.240425+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.742284+00:00",
+   "last_failure": "2026-11-10 04:49:17.294649+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.821322+00:00",
+   "last_failure": "2026-11-10 04:49:17.344222+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.886559+00:00",
+   "last_failure": "2026-11-10 04:49:17.396929+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-09 23:46:27.949849+00:00",
+   "last_failure": "2026-11-10 04:49:17.446000+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
    "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-   "published": "Mon, 09 Nov 2026 23:20:29 GMT",
+   "published": "Tue, 10 Nov 2026 03:58:13 GMT",
    "source": "rss",
    "sentiment_score": -0.06666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -262,6 +262,75 @@
    "category": "News"
   },
   {
+   "id": "98ce19c13031ba57feaae4d18dafb8de",
+   "sector": "World",
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+   "published": "Tue, 10 Nov 2026 00:09:49 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "talks",
+    "ukraine",
+    "peace",
+    "resume",
+    "some"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first tri",
+   "category": "News"
+  },
+  {
+   "id": "c679e9e56861fa200ea9aca21583f360",
+   "sector": "World",
+   "title": "Trump says more US attacks on Iran 'highly unlikely'",
+   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation in the Middle East change.",
+   "published": "Tue, 10 Nov 2026 04:09:16 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "says",
+    "iran",
+    "trump",
+    "more",
+    "attacks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should t",
+   "category": "News"
+  },
+  {
+   "id": "f6bb751a834822ea489176a7d6f37ff2",
+   "sector": "World",
+   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+   "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "published": "Tue, 10 Nov 2026 00:14:03 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "agency",
+    "says",
+    "epstein",
+    "associate",
+    "still"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+   "category": "News"
+  },
+  {
    "id": "4bddd2e63ad17d7f1f8f6dd9fb712b12",
    "sector": "World",
    "title": "France accuses Iran of supermarket fridge hacking",
@@ -285,58 +354,12 @@
    "category": "News"
   },
   {
-   "id": "cbda8f4920e485551edfe496006d9219",
-   "sector": "World",
-   "title": "Turkey steel factory blast kills at least 17 people",
-   "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
-   "published": "Mon, 09 Nov 2026 20:42:04 GMT",
-   "source": "rss",
-   "sentiment_score": -0.09999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "turkey",
-    "steel",
-    "factory",
-    "blast",
-    "kills"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the H",
-   "category": "News"
-  },
-  {
-   "id": "03f89f3000e35506866ae89388929672",
-   "sector": "World",
-   "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-   "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-   "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-   "published": "Mon, 09 Nov 2026 23:28:53 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "case",
-    "judge",
-    "denies",
-    "motion",
-    "dismiss"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-   "category": "News"
-  },
-  {
    "id": "85517275aa13d8f5c4d99ec0a87e85c3",
    "sector": "World",
    "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
    "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
-   "published": "Mon, 09 Nov 2026 23:45:14 GMT",
+   "published": "Tue, 10 Nov 2026 01:38:49 GMT",
    "source": "rss",
    "sentiment_score": 0.06,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -354,49 +377,95 @@
    "category": "News"
   },
   {
-   "id": "f90f4865861dfcd6bf6b0e1b4434b097",
+   "id": "a69af8712a67b0334405ced6f5de6d63",
    "sector": "World",
-   "title": "Russia's leading independent newspaper closes after eviction",
-   "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
-   "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-   "published": "Mon, 09 Nov 2026 18:08:07 GMT",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "published": "Tue, 10 Nov 2026 01:55:22 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "russia",
-    "leading",
-    "independent",
-    "newspaper",
-    "closes"
+    "qantas",
+    "outsource",
+    "local",
+    "jobs",
+    "most"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiv",
+   "summary_short": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of",
    "category": "News"
   },
   {
-   "id": "d875f9e2c77001388e2a6f6339ebabc1",
-   "sector": "World",
-   "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-   "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-   "published": "Mon, 09 Nov 2026 21:48:38 GMT",
+   "id": "23e6237e7150cac75fef92c03ba81918",
+   "sector": "Markets",
+   "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+   "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
+   "published": "Tue, 10 Nov 2026 03:38:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.008333333333333331,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.25,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "trial",
-    "date",
-    "alleged",
-    "charlie",
-    "kirk"
+    "want",
+    "worst",
+    "fight",
+    "husband",
+    "retire"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with ",
+   "summary_short": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "6ab9e424b941cc1c63e7cb53db4dda4c",
+   "sector": "Markets",
+   "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+   "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+   "summary": "\u2018We were confident in the research initially, and we\u2019re still confident in it now,\u2019 says Christian Lamarco, founder of Culper Research",
+   "published": "Tue, 10 Nov 2026 00:48:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "china",
+    "confident",
+    "research",
+    "short",
+    "seller"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u2018We were confident in the research initially, and we\u2019re still confident in it now,\u2019 says Christian L",
+   "category": "News"
+  },
+  {
+   "id": "bf1b0061b6ade0ecf33c9324d826b61b",
+   "sector": "Markets",
+   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+   "published": "Mon, 09 Nov 2026 23:52:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.75,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "taylor",
+    "swift",
+    "retired",
+    "professor",
+    "reinvented"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful",
    "category": "News"
   },
   {
@@ -492,29 +561,6 @@
    "category": "News"
   },
   {
-   "id": "23e6237e7150cac75fef92c03ba81918",
-   "sector": "Markets",
-   "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
-   "published": "Mon, 09 Nov 2026 21:45:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "want",
-    "worst",
-    "fight",
-    "husband",
-    "retire"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
-   "category": "News"
-  },
-  {
    "id": "ed97ed98576714bc75208bbae610c577",
    "sector": "Markets",
    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
@@ -538,49 +584,49 @@
    "category": "News"
   },
   {
-   "id": "f8cb209a02a7c90fc7f4b071782cce88",
-   "sector": "Markets",
-   "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-   "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-   "summary": "Tuesday\u2019s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade\u2019s resilience",
-   "published": "Mon, 09 Nov 2026 21:24:00 GMT",
+   "id": "08f50a1b7339e3c6971f76ae0f4f2e7d",
+   "sector": "Tech/AI",
+   "title": "Jensen Huang\u2019s alleged honeypot scandal has inspired some top-notch memes",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+   "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+   "published": "Tue, 10 Nov 2026 04:34:15 +0000",
+   "source": "rss",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "jensen",
+    "huang",
+    "alleged",
+    "honeypot",
+    "scandal"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+   "category": "News"
+  },
+  {
+   "id": "28f16a242612890b6217af076ac8d3e4",
+   "sector": "Tech/AI",
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+   "published": "Tue, 10 Nov 2026 01:27:12 +0000",
    "source": "rss",
    "sentiment_score": -0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "inflation",
-    "could",
-    "test",
-    "stock",
-    "market"
+    "plans",
+    "anthropic",
+    "reportedly",
+    "move",
+    "forward"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Tuesday\u2019s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotatio",
-   "category": "News"
-  },
-  {
-   "id": "d29f8b1489558764aed2c0b4449013de",
-   "sector": "Markets",
-   "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-   "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-   "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
-   "published": "Mon, 09 Nov 2026 21:21:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.05000000000000001,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "trial",
-    "drug",
-    "failed",
-    "heart",
-    "casts"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular ben",
+   "summary_short": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
    "category": "News"
   },
   {
@@ -588,7 +634,7 @@
    "sector": "Tech/AI",
    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-   "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
    "published": "Mon, 09 Nov 2026 23:28:37 +0000",
    "source": "rss",
    "sentiment_score": -0.06590909090909092,
@@ -603,7 +649,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's bu",
+   "summary_short": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's",
    "category": "News"
   },
   {
@@ -722,49 +768,26 @@
    "category": "News"
   },
   {
-   "id": "0c2256f4d286fadbd0d58d2201f16a1e",
-   "sector": "Tech/AI",
-   "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-   "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-   "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-   "published": "Mon, 09 Nov 2026 19:39:41 +0000",
+   "id": "3ae19799053f883e348b63cef708f1af",
+   "sector": "Crypto",
+   "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+   "summary": "",
+   "published": "Tue, 10 Nov 2026 03:22:26 +0000",
    "source": "rss",
-   "sentiment_score": 0.32083333333333336,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "youtube",
-    "streaming",
-    "data",
-    "billboard",
-    "returns"
+    "bitcoin",
+    "faces",
+    "test",
+    "analysts",
+    "warn"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula",
-   "category": "News"
-  },
-  {
-   "id": "99ab0294e9d642a95bc1bebec30facac",
-   "sector": "Tech/AI",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-   "published": "Mon, 09 Nov 2026 19:24:51 +0000",
-   "source": "rss",
-   "sentiment_score": 0.21818181818181817,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "anthropic",
-    "models",
-    "releases",
-    "mythos",
-    "fable"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as we",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,26 +952,49 @@
    "category": "News"
   },
   {
-   "id": "29fefcfccd714ff4a0f5d1c6936a9c7d",
-   "sector": "Crypto",
-   "title": "Trump says he knows \u2018nothing\u2019 about World Liberty\u2019s UAE ties as Justin Sun challenges filings",
-   "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-   "summary": "",
-   "published": "Mon, 09 Nov 2026 12:37:13 +0000",
+   "id": "8a95917ca6a1eb428acb28e9365865b3",
+   "sector": "Science",
+   "title": "Alzheimer\u2019s may have early warning signs outside the brain",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "summary": "A surprising discovery suggests that some early signs of Alzheimer\u2019s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer\u2019s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+   "published": "Mon, 09 Nov 2026 20:47:34 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.12142857142857141,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "trump",
-    "says",
-    "knows",
-    "nothing",
-    "about"
+    "alzheimer",
+    "brain",
+    "early",
+    "signs",
+    "outside"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "A surprising discovery suggests that some early signs of Alzheimer\u2019s disease may begin outside the b",
+   "category": "News"
+  },
+  {
+   "id": "7c1e89437dd533e7f414d46d5b5bae04",
+   "sector": "Science",
+   "title": "Scientists finally discover why we learn to love bitter coffee",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+   "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.",
+   "published": "Mon, 09 Nov 2026 18:19:35 EST",
+   "source": "rss",
+   "sentiment_score": -0.03233525733525733,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "scientists",
+    "bitter",
+    "coffee",
+    "brain",
+    "finally"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffe",
    "category": "News"
   },
   {
@@ -972,6 +1018,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue O",
+   "category": "News"
+  },
+  {
+   "id": "ddcc101357074699c14827fa054a2b3c",
+   "sector": "Science",
+   "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+   "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.",
+   "published": "Mon, 09 Nov 2026 19:42:52 EST",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "years",
+    "cern",
+    "evidence",
+    "billion",
+    "particle"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in",
    "category": "News"
   },
   {
@@ -1064,75 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting ",
-   "category": "News"
-  },
-  {
-   "id": "adff894aeb07f64a08de73967243b066",
-   "sector": "Science",
-   "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
-   "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.",
-   "published": "Sun, 08 Nov 2026 03:14:23 EST",
-   "source": "rss",
-   "sentiment_score": 0.29285714285714287,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "cannabis",
-    "evidence",
-    "ancient",
-    "siberian",
-    "tomb"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and ",
-   "category": "News"
-  },
-  {
-   "id": "52fbc2fb5c66f6e827c83aaf9913146d",
-   "sector": "Science",
-   "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-   "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet\u2019s surface.",
-   "published": "Sat, 07 Nov 2026 20:09:55 EST",
-   "source": "rss",
-   "sentiment_score": 0.04615384615384615,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "mysterious",
-    "suggest",
-    "mars",
-    "still",
-    "leaks"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead ",
-   "category": "News"
-  },
-  {
-   "id": "ac08fc5cb59eb452999a8face2a85ab0",
-   "sector": "Science",
-   "title": "Scientists discover a surprising link between acorns and lyme disease",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
-   "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers the following year. Even acorn production can predict tick population surges two years in advance, while extreme temperatures may be far less deadly to ticks than scientists once believed.",
-   "published": "Mon, 09 Nov 2026 05:59:35 EST",
-   "source": "rss",
-   "sentiment_score": 0.17651515151515154,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "scientists",
-    "than",
-    "surprising",
-    "lyme",
-    "disease"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "After more than 35 years of research, scientists have uncovered surprising clues about what really d",
    "category": "News"
   },
   {
@@ -1320,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "7827c4e976729e277e1c0d1358c119a6",
+   "sector": "Tech/AI",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429068\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 18:01:10 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "claude",
+    "fable",
+    "mythos",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429068\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "e0de4aebe61feb22a9854419f0a1ee18",
    "sector": "Tech/AI",
    "title": "USPS now offers official ZIP Code boundary polygons",
@@ -1343,78 +1366,9 @@
    "category": "News"
   },
   {
-   "id": "f8785c8080904ce621fb4da6ecdb7164",
+   "id": "fe990066a7b5f571e0e85e8e42ae627b",
    "sector": "Tech/AI",
-   "title": "TPUs",
-   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50432831\">Comments</a>",
-   "published": "Mon, 09 Nov 2026 21:56:57 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "tpus",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50432831\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "3977ab27c1e3266af87c86457c8a8473",
-   "sector": "Tech/AI",
-   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-   "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50431144\">Comments</a>",
-   "published": "Mon, 09 Nov 2026 20:04:55 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "claude",
-    "fable",
-    "scores",
-    "artificial",
-    "analysis"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50431144\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "54a2fdc722c36bfba00d40c0ec76120e",
-   "sector": "Tech/AI",
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "link": "https://github.com/thisisme6598/gemini_files/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429426\">Comments</a>",
-   "published": "Mon, 09 Nov 2026 18:24:38 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "google",
-    "gemini",
-    "routes",
-    "personal",
-    "drive"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429426\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "65fefe49629e8799b76c7a43bcf0f2ff",
-   "sector": "Tech/AI",
-   "title": "E-means: 10x faster k-means at equal loss",
+   "title": "E-means: Outperforming k-means in one-tenth the epochs",
    "link": "https://e-means.github.io/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429734\">Comments</a>",
    "published": "Mon, 09 Nov 2026 18:45:43 +0000",
@@ -1423,15 +1377,61 @@
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "means",
-    "faster",
-    "equal",
-    "loss",
+    "outperforming",
+    "tenth",
+    "epochs",
     "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50429734\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "6217b9ddce65102d767f01ecf449a265",
+   "sector": "Tech/AI",
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50427362\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 16:00:45 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "canada",
+    "payments",
+    "announces",
+    "launch",
+    "real"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50427362\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "7d9237484945cd61eae742337a8e5660",
+   "sector": "Tech/AI",
+   "title": "Foldable Flight: The Best Paper Airplanes",
+   "link": "https://www.foldableflight.com",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50424581\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 12:19:22 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 1.0,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "foldable",
+    "flight",
+    "best",
+    "paper",
+    "airplanes"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50424581\">Comments</a>",
    "category": "News"
   }
  ]
