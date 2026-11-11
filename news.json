@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11 06:17 IST",
+ "updated": "2026-11-11 12:45 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -28,14 +28,20 @@
    "article_count": 5
   },
   {
-   "keyword": "openai",
-   "frequency": 6,
-   "sectors": 1,
-   "article_count": 3
+   "keyword": "million",
+   "frequency": 9,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "survey",
    "frequency": 6,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "nasa",
+   "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
@@ -64,37 +70,31 @@
    "article_count": 2
   },
   {
-   "keyword": "million",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "children",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "nuclear",
+   "keyword": "after",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "could",
+   "keyword": "openai",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "tests",
+   "keyword": "scientists",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "mars",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
@@ -104,124 +104,170 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.227092+00:00",
+   "last_failure": "2026-11-11 07:15:44.966637+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.342068+00:00",
+   "last_failure": "2026-11-11 07:15:45.072833+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.469562+00:00",
+   "last_failure": "2026-11-11 07:15:45.176773+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.601434+00:00",
+   "last_failure": "2026-11-11 07:15:45.278237+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.714069+00:00",
+   "last_failure": "2026-11-11 07:15:45.375430+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:16.876939+00:00",
+   "last_failure": "2026-11-11 07:15:45.470304+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.018397+00:00",
+   "last_failure": "2026-11-11 07:15:45.555509+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.267984+00:00",
+   "last_failure": "2026-11-11 07:15:45.659135+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.382133+00:00",
+   "last_failure": "2026-11-11 07:15:45.760586+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.497151+00:00",
+   "last_failure": "2026-11-11 07:15:45.859866+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.611644+00:00",
+   "last_failure": "2026-11-11 07:15:45.953248+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.722539+00:00",
+   "last_failure": "2026-11-11 07:15:46.072320+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.835330+00:00",
+   "last_failure": "2026-11-11 07:15:46.175353+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:17.944248+00:00",
+   "last_failure": "2026-11-11 07:15:46.274913+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:18.059624+00:00",
+   "last_failure": "2026-11-11 07:15:46.359060+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-11 00:47:18.165926+00:00",
+   "last_failure": "2026-11-11 07:15:46.561187+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
+   "id": "f3d18e4e9d5511201b596d75f0d07933",
+   "sector": "World",
+   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+   "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+   "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+   "source": "rss",
+   "sentiment_score": 0.08125,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "including",
+    "incident",
+    "says",
+    "three",
+    "iran"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The US Department of Justice says the men were involved in a string of plots, including a major inci",
+   "category": "News"
+  },
+  {
+   "id": "497903977189f32150336b61e5595fca",
+   "sector": "World",
+   "title": "US Army soldier suspected of spying for Russia arrested in UK",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+   "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+   "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "soldier",
+    "army",
+    "suspected",
+    "spying",
+    "russia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The 41-year-old senior soldier is accused of national security offences and is being questioned in L",
+   "category": "News"
+  },
+  {
    "id": "e188694fcd6354dc78532a071987e38b",
    "sector": "World",
    "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
    "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
    "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-   "published": "Wed, 11 Nov 2026 00:38:33 GMT",
+   "published": "Wed, 11 Nov 2026 03:26:42 GMT",
    "source": "rss",
    "sentiment_score": 0.26666666666666666,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -244,7 +290,7 @@
    "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
    "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-   "published": "Tue, 10 Nov 2026 22:17:45 GMT",
+   "published": "Wed, 11 Nov 2026 02:41:16 GMT",
    "source": "rss",
    "sentiment_score": -0.03333333333333333,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -259,52 +305,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The 82-year-old was placed under house detention in Florida last week after being charged over posse",
-   "category": "News"
-  },
-  {
-   "id": "9ea241eeb851c98a5817a8b6a4c31dfe",
-   "sector": "World",
-   "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-   "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-   "published": "Tue, 10 Nov 2026 18:33:51 GMT",
-   "source": "rss",
-   "sentiment_score": -0.05000000000000001,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "malaysia",
-    "disgraced",
-    "former",
-    "leaves",
-    "jail"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign we",
-   "category": "News"
-  },
-  {
-   "id": "70371d0745c58cbc1a405da5140c448f",
-   "sector": "World",
-   "title": "Israel's new parliament sworn in as leaders compete to form government",
-   "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-   "published": "Tue, 10 Nov 2026 17:03:16 GMT",
-   "source": "rss",
-   "sentiment_score": 0.13787878787878788,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "government",
-    "israel",
-    "parliament",
-    "sworn",
-    "leaders"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government",
    "category": "News"
   },
   {
@@ -331,26 +331,26 @@
    "category": "News"
   },
   {
-   "id": "8f47c51e4e35b5eb378c2f2aca81950c",
+   "id": "422a3b2dd323c30bba9f980977286fc7",
    "sector": "World",
-   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-   "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-   "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
-   "published": "Tue, 10 Nov 2026 19:26:42 GMT",
+   "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+   "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+   "published": "Wed, 11 Nov 2026 02:47:59 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.3,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "supporters",
-    "violence",
-    "erupts",
-    "bangladesh",
-    "ousted"
+    "gang",
+    "salvador",
+    "headquarters",
+    "haitian",
+    "destroyed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Supporters of Sheikh Hasina want her to return from exile in India.",
+   "summary_short": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands o",
    "category": "News"
   },
   {
@@ -377,26 +377,95 @@
    "category": "News"
   },
   {
-   "id": "eb6ebf48feaa8c41be767352b677b299",
+   "id": "efc4b6f1e1c2fb1eef31863bd1564619",
    "sector": "World",
-   "title": "Spain's king and queen attend memorial service for rail crash victims",
-   "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
-   "published": "Tue, 10 Nov 2026 20:46:40 GMT",
+   "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+   "published": "Wed, 11 Nov 2026 03:44:06 GMT",
    "source": "rss",
-   "sentiment_score": 0.1,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "spain",
-    "king",
-    "queen",
-    "attend",
-    "memorial"
+    "would",
+    "cast",
+    "shadow",
+    "kennedys",
+    "block"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+   "summary_short": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+   "category": "News"
+  },
+  {
+   "id": "7f9dcda84af54156afcbe3e10e6f378d",
+   "sector": "Markets",
+   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "published": "Wed, 11 Nov 2026 02:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.022222222222222223,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "social",
+    "security",
+    "thought",
+    "living",
+    "terrifies"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "category": "News"
+  },
+  {
+   "id": "3d14bf5f7547292f56e3ff976284ca22",
+   "sector": "Markets",
+   "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
+   "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+   "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+   "published": "Wed, 11 Nov 2026 01:54:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.10714285714285714,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "children",
+    "reason",
+    "place",
+    "filing",
+    "bankruptcy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $8",
+   "category": "News"
+  },
+  {
+   "id": "e96a614494ef8fba605a0ba4f8f1cfbc",
+   "sector": "Markets",
+   "title": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+   "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+   "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave\u2019s business.",
+   "published": "Wed, 11 Nov 2026 01:12:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "coreweave",
+    "stock",
+    "pops",
+    "financing",
+    "playbook"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence",
    "category": "News"
   },
   {
@@ -446,29 +515,6 @@
    "category": "News"
   },
   {
-   "id": "7f9dcda84af54156afcbe3e10e6f378d",
-   "sector": "Markets",
-   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
-   "published": "Tue, 10 Nov 2026 23:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.022222222222222223,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "social",
-    "security",
-    "thought",
-    "living",
-    "terrifies"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
-   "category": "News"
-  },
-  {
    "id": "7a5adb573bf05283abf6c40d47022a3b",
    "sector": "Markets",
    "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
@@ -489,29 +535,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
-   "category": "News"
-  },
-  {
-   "id": "3d14bf5f7547292f56e3ff976284ca22",
-   "sector": "Markets",
-   "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
-   "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-   "summary": "People might be having fewer children, but that isn\u2019t the only thing to blame for Children\u2019s Place filing for bankruptcy.",
-   "published": "Tue, 10 Nov 2026 22:56:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "children",
-    "place",
-    "filing",
-    "bankruptcy",
-    "reason"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "People might be having fewer children, but that isn\u2019t the only thing to blame for Children\u2019s Place f",
    "category": "News"
   },
   {
@@ -561,26 +584,26 @@
    "category": "News"
   },
   {
-   "id": "a82c11182fc9d5ee73c13559e727c982",
-   "sector": "Markets",
-   "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-   "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-   "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia\u2019s CEO was the target of a China spy operation",
-   "published": "Tue, 10 Nov 2026 22:05:00 GMT",
+   "id": "04c1437fb3d268aad23307ff3a12e716",
+   "sector": "Tech/AI",
+   "title": "X launches its own clipping feature to spur influencer engagement",
+   "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+   "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+   "published": "Wed, 11 Nov 2026 01:02:13 +0000",
    "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.10999999999999999,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "nvidia",
-    "meet",
-    "former",
-    "prosecutor",
-    "hired"
+    "clipping",
+    "into",
+    "launches",
+    "feature",
+    "spur"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent invest",
+   "summary_short": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips ",
    "category": "News"
   },
   {
@@ -742,29 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that",
-   "category": "News"
-  },
-  {
-   "id": "54cd51dc42f23e702bd0306e9c52efaa",
-   "sector": "Tech/AI",
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-   "published": "Tue, 10 Nov 2026 18:49:52 +0000",
-   "source": "rss",
-   "sentiment_score": 0.21704545454545454,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "openai",
-    "chatgpt",
-    "more",
-    "rolls",
-    "business"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new feature",
    "category": "News"
   },
   {
@@ -952,6 +952,98 @@
    "category": "News"
   },
   {
+   "id": "15e64ef0f59c94fe8d6a1c398953b125",
+   "sector": "Science",
+   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+   "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+   "published": "Tue, 10 Nov 2026 20:36:04 EST",
+   "source": "rss",
+   "sentiment_score": -0.055952380952380955,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "scientists",
+    "giant",
+    "rodent",
+    "lived",
+    "million"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, rev",
+   "category": "News"
+  },
+  {
+   "id": "8cbb752eada09e7ffab06cc768009f3b",
+   "sector": "Science",
+   "title": "Why heart attacks can still happen even when bad cholesterol is low",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+   "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
+   "published": "Mon, 09 Nov 2026 20:54:15 EST",
+   "source": "rss",
+   "sentiment_score": -0.21111111111111108,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "cholesterol",
+    "heart",
+    "attacks",
+    "even",
+    "when"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart att",
+   "category": "News"
+  },
+  {
+   "id": "8b86f4c8b1f07996ebe52e146a00466b",
+   "sector": "Science",
+   "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+   "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
+   "published": "Tue, 10 Nov 2026 19:59:32 EST",
+   "source": "rss",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "amphibian",
+    "million",
+    "bizarre",
+    "armored",
+    "year"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that ",
+   "category": "News"
+  },
+  {
+   "id": "852342632241c88753532154af5917e0",
+   "sector": "Science",
+   "title": "NASA\u2019s CHAPEA Mars crew finally emerges after more than a year in isolation",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+   "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
+   "published": "Tue, 10 Nov 2026 00:00:41 EST",
+   "source": "rss",
+   "sentiment_score": 0.2916666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "mars",
+    "nasa",
+    "finally",
+    "after",
+    "more"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from iso",
+   "category": "News"
+  },
+  {
    "id": "8a95917ca6a1eb428acb28e9365865b3",
    "sector": "Science",
    "title": "Alzheimer\u2019s may have early warning signs outside the brain",
@@ -1041,98 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in",
-   "category": "News"
-  },
-  {
-   "id": "2981ebbc27d32df19b477a1d537ad7d5",
-   "sector": "Science",
-   "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
-   "summary": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth's past and the environments it encountered. The findings offer a fresh scientific perspective on a centuries-old mystery that continues to spark fascination and debate.",
-   "published": "Sun, 08 Nov 2026 21:48:24 EST",
-   "source": "rss",
-   "sentiment_score": 0.14196969696969694,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "shroud",
-    "turin",
-    "centuries",
-    "reveals",
-    "hidden"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The Shroud of Turin, one of history's most mysterious religious artifacts, is yielding surprising ne",
-   "category": "News"
-  },
-  {
-   "id": "08a91131ecf652fcf5fb3e77b448cd47",
-   "sector": "Science",
-   "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
-   "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology.",
-   "published": "Sat, 07 Nov 2026 18:34:19 EST",
-   "source": "rss",
-   "sentiment_score": 0.26666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "limit",
-    "space",
-    "time",
-    "could",
-    "electronics"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked wit",
-   "category": "News"
-  },
-  {
-   "id": "e8941ba19e5a47e03345c327e15632d4",
-   "sector": "Science",
-   "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm",
-   "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth's history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant reptiles, sharks, and other creatures thrived as older evolutionary groups approached extinction and newer ones emerged. They call this previously unrecognized pattern a \"Biotic Inflection,\" suggesting that major transformations in life can occur without mass extinctions.",
-   "published": "Sun, 08 Nov 2026 17:45:01 EST",
-   "source": "rss",
-   "sentiment_score": 0.2852272727272727,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "ancient",
-    "giant",
-    "major",
-    "evolutionary",
-    "ocean"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionar",
-   "category": "News"
-  },
-  {
-   "id": "29e0a7d99e7f8bf385e11949c71805fd",
-   "sector": "Science",
-   "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-   "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle.",
-   "published": "Sun, 08 Nov 2026 05:11:25 EST",
-   "source": "rss",
-   "sentiment_score": -0.032727272727272744,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "asteroid",
-    "nuclear",
-    "blast",
-    "could",
-    "save"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting ",
    "category": "News"
   },
   {
@@ -1320,6 +1320,52 @@
    "category": "News"
   },
   {
+   "id": "bfbae8d6840ac11a745a74de3683e094",
+   "sector": "Tech/AI",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 04:28:57 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.4,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "protecting",
+    "keys",
+    "macos",
+    "secure",
+    "enclave"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50449748\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "f494fa3ced646edacc5b7cc255b8b75b",
+   "sector": "Tech/AI",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "link": "https://github.com/gmkurtzer/ginux",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50450007\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 05:25:54 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "greg",
+    "kurtzer",
+    "ginux",
+    "userspace",
+    "kernel"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50450007\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "6163d5a9a6184de16079af09510a7538",
    "sector": "Tech/AI",
    "title": "Scion is back and is going to sell a kei truck in America",
@@ -1340,29 +1386,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50445401\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c996efd6d0857ce122d7afda2f9d9a00",
-   "sector": "Tech/AI",
-   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-   "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50447074\">Comments</a>",
-   "published": "Tue, 10 Nov 2026 22:17:56 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "after",
-    "months",
-    "glasswing",
-    "overwelms",
-    "maintainers"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50447074\">Comments</a>",
    "category": "News"
   },
   {
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50441707\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "cdb6845b9c5dcac305a2ba667a91d7dc",
-   "sector": "Tech/AI",
-   "title": "Six Math Essentials by Terence Tao",
-   "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50446246\">Comments</a>",
-   "published": "Tue, 10 Nov 2026 20:58:44 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "math",
-    "essentials",
-    "terence",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50446246\">Comments</a>",
    "category": "News"
   }
  ]
