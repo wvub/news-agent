@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12 03:36 IST",
+ "updated": "2026-11-12 08:25 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -35,8 +35,14 @@
   },
   {
    "keyword": "data",
-   "frequency": 8,
-   "sectors": 3,
+   "frequency": 7,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "nvidia",
+   "frequency": 6,
+   "sectors": 2,
    "article_count": 3
   },
   {
@@ -44,6 +50,12 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "coreweave",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -64,39 +76,27 @@
    "article_count": 2
   },
   {
-   "keyword": "stock",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 4
-  },
-  {
-   "keyword": "more",
-   "frequency": 4,
-   "sectors": 3,
-   "article_count": 3
-  },
-  {
-   "keyword": "even",
+   "keyword": "board",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "bitcoin",
+   "keyword": "stock",
    "frequency": 4,
-   "sectors": 1,
+   "sectors": 3,
    "article_count": 4
   },
   {
-   "keyword": "ozone",
+   "keyword": "after",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
+   "sectors": 2,
+   "article_count": 2
   },
   {
-   "keyword": "nasa",
+   "keyword": "even",
    "frequency": 4,
-   "sectors": 1,
+   "sectors": 2,
    "article_count": 2
   }
  ],
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.000816+00:00",
+   "last_failure": "2026-11-12 02:55:39.446970+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.053006+00:00",
+   "last_failure": "2026-11-12 02:55:39.493987+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.112414+00:00",
+   "last_failure": "2026-11-12 02:55:39.537567+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.167159+00:00",
+   "last_failure": "2026-11-12 02:55:39.603687+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.219212+00:00",
+   "last_failure": "2026-11-12 02:55:39.642322+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.281330+00:00",
+   "last_failure": "2026-11-12 02:55:39.685513+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.333131+00:00",
+   "last_failure": "2026-11-12 02:55:39.726344+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:28.388149+00:00",
+   "last_failure": "2026-11-12 02:55:39.773346+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.171653+00:00",
+   "last_failure": "2026-11-12 02:55:39.838321+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.221889+00:00",
+   "last_failure": "2026-11-12 02:55:39.888571+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.268282+00:00",
+   "last_failure": "2026-11-12 02:55:39.959253+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.314271+00:00",
+   "last_failure": "2026-11-12 02:55:40.028177+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.359360+00:00",
+   "last_failure": "2026-11-12 02:55:40.071517+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.410269+00:00",
+   "last_failure": "2026-11-12 02:55:40.120737+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.461172+00:00",
+   "last_failure": "2026-11-12 02:55:40.181647+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-11 22:06:29.513291+00:00",
+   "last_failure": "2026-11-12 02:55:40.248475+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
    "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
    "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-   "published": "Wed, 11 Nov 2026 20:52:52 GMT",
+   "published": "Wed, 11 Nov 2026 22:07:37 GMT",
    "source": "rss",
    "sentiment_score": 0.12555555555555556,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -236,6 +236,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Tens of thousands of people have been taking part in the strike, called by the country's main unions",
+   "category": "News"
+  },
+  {
+   "id": "0a4a85647aad5bf41da8a0a1651cf518",
+   "sector": "World",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+   "published": "Thu, 12 Nov 2026 02:09:08 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1766666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "colom",
+    "senate",
+    "democrat",
+    "scott",
+    "seals"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
    "category": "News"
   },
   {
@@ -262,49 +285,26 @@
    "category": "News"
   },
   {
-   "id": "1aa0b1b778b9e60cc54aa4d657c23434",
+   "id": "4fe46892f4c5098f39d0150e41f6fa85",
    "sector": "World",
-   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-   "published": "Wed, 11 Nov 2026 16:45:11 GMT",
+   "title": "New York building collapse kills one person and injures 12",
+   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+   "published": "Thu, 12 Nov 2026 02:33:12 GMT",
    "source": "rss",
-   "sentiment_score": -0.037727272727272734,
+   "sentiment_score": -0.03181818181818183,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bessent",
-    "treasury",
-    "secretary",
-    "scott",
-    "relocated"
+    "building",
+    "york",
+    "collapse",
+    "kills",
+    "person"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Bessent is now one of several Trump administration officials to live on military bases due to safety",
-   "category": "News"
-  },
-  {
-   "id": "f4d7ef0a09b2e0b7f7a5c0c7ca2bf915",
-   "sector": "World",
-   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-   "published": "Wed, 11 Nov 2026 18:38:45 GMT",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "schools",
-    "italy",
-    "scotland",
-    "northern",
-    "ireland"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appe",
+   "summary_short": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in",
    "category": "News"
   },
   {
@@ -354,49 +354,187 @@
    "category": "News"
   },
   {
-   "id": "216fc189586f755738e56820fca06eca",
+   "id": "2c28e72dfbb4284083ac047777ba4224",
    "sector": "World",
-   "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-   "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-   "published": "Wed, 11 Nov 2026 18:10:57 GMT",
+   "title": "Famed ship SS United States to be sunk off coast of Florida",
+   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+   "published": "Wed, 11 Nov 2026 18:42:27 GMT",
    "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.3,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "found",
-    "missing",
-    "month",
-    "baby",
-    "buried"
+    "famed",
+    "ship",
+    "united",
+    "states",
+    "sunk"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, a",
+   "summary_short": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but",
    "category": "News"
   },
   {
-   "id": "4db8c2c1c510dcc24a82255387974c27",
+   "id": "f4d7ef0a09b2e0b7f7a5c0c7ca2bf915",
    "sector": "World",
-   "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-   "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-   "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-   "published": "Wed, 11 Nov 2026 13:24:29 GMT",
+   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+   "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+   "published": "Wed, 11 Nov 2026 18:38:45 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "schools",
+    "italy",
+    "scotland",
+    "northern",
+    "ireland"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appe",
+   "category": "News"
+  },
+  {
+   "id": "4f1b3cd3a9b737a7d670691af19f04a8",
+   "sector": "Markets",
+   "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+   "summary": "Nvidia\u2019s board of directors reportedly could meet as soon as today to determine the CEO\u2019s fate.",
+   "published": "Thu, 12 Nov 2026 02:52:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "daughter",
-    "four",
-    "grizzly",
-    "bears",
-    "killed"
+    "nvidia",
+    "board",
+    "reportedly",
+    "stock",
+    "drops"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Sel",
+   "summary_short": "Nvidia\u2019s board of directors reportedly could meet as soon as today to determine the CEO\u2019s fate.",
+   "category": "News"
+  },
+  {
+   "id": "7a5adb573bf05283abf6c40d47022a3b",
+   "sector": "Markets",
+   "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
+   "published": "Thu, 12 Nov 2026 02:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.039880952380952385,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "sick",
+    "flying",
+    "paid",
+    "priority",
+    "boarding"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
+   "category": "News"
+  },
+  {
+   "id": "68758bb0b1beec037be0619610c73ac8",
+   "sector": "Markets",
+   "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+   "summary": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
+   "published": "Thu, 12 Nov 2026 02:31:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "spending",
+    "roof",
+    "deck",
+    "home",
+    "being"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "cf25f48010246ab532606e4915dc0a44",
+   "sector": "Markets",
+   "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+   "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+   "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+   "published": "Thu, 12 Nov 2026 01:12:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.12685185185185185,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "nasdaq",
+    "futures",
+    "nvidia",
+    "after",
+    "shares"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell",
+   "category": "News"
+  },
+  {
+   "id": "62a0d729ba4858326493da7814d41905",
+   "sector": "Markets",
+   "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+   "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+   "summary": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual percentage rate to decline because of it.",
+   "published": "Wed, 11 Nov 2026 23:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "your",
+    "credit",
+    "card",
+    "holiday",
+    "bills"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual p",
+   "category": "News"
+  },
+  {
+   "id": "e19d0465ffa44194a77ef62ae9897933",
+   "sector": "Markets",
+   "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+   "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+   "summary": "CoreWeave\u2019s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
+   "published": "Wed, 11 Nov 2026 22:05:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0625,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "coreweave",
+    "just",
+    "gave",
+    "shot",
+    "micron"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "CoreWeave\u2019s improved AI economics and its vow to show some discipline around debt are sparking a bro",
    "category": "News"
   },
   {
@@ -446,141 +584,72 @@
    "category": "News"
   },
   {
-   "id": "e1192e2e802285f4fef195e155833317",
-   "sector": "Markets",
-   "title": "Sandisk\u2019s stock just staged a big gain. Here\u2019s how it could march even higher.",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
-   "summary": "Various \u201cstructural changes\u201d afoot in the memory industry could help Sandisk shares more than double from here, according to an Evercore analyst.",
-   "published": "Wed, 11 Nov 2026 21:40:00 GMT",
+   "id": "c57747a3e0d876b11fae78597b1f8821",
+   "sector": "Tech/AI",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "Wed, 11 Nov 2026 23:50:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.15,
+   "sentiment_score": 0.45,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "sandisk",
-    "here",
-    "could",
-    "stock",
-    "just"
+    "unfolding",
+    "jensen",
+    "huang",
+    "scandal",
+    "timeline"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Various \u201cstructural changes\u201d afoot in the memory industry could help Sandisk shares more than double",
+   "summary_short": "The affair could have ramifications for national security as the U.S. and China race to develop the ",
    "category": "News"
   },
   {
-   "id": "0e23b031333994a298e0629a880dcc93",
-   "sector": "Markets",
-   "title": "Why this \u2018big idea\u2019 to fix Social Security relies on a massive stock-market gamble",
-   "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-   "summary": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than the rule",
-   "published": "Wed, 11 Nov 2026 21:21:00 GMT",
+   "id": "cd07dbffb5411b3db67fb1fd6ac86a12",
+   "sector": "Tech/AI",
+   "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+   "published": "Wed, 11 Nov 2026 23:28:45 +0000",
    "source": "rss",
-   "sentiment_score": 0.043333333333333335,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "market",
-    "idea",
-    "social",
-    "security",
-    "relies"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "From a long-term perspective, the past 50 years of strong market gains are the exception rather than",
-   "category": "News"
-  },
-  {
-   "id": "a4340b56b6e06be9c2f7af3208eb4ec1",
-   "sector": "Markets",
-   "title": "Bloom Energy\u2019s stock is rallying as data-center jitters subside",
-   "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
-   "summary": "CoreWeave\u2019s upbeat outlook helped calm nerves around the energy company.",
-   "published": "Wed, 11 Nov 2026 21:14:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.30000000000000004,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "energy",
-    "bloom",
+    "nvidia",
+    "board",
     "stock",
-    "rallying",
-    "data"
+    "drops",
+    "reportedly"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "CoreWeave\u2019s upbeat outlook helped calm nerves around the energy company.",
+   "summary_short": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
    "category": "News"
   },
   {
-   "id": "0f4bf1df303a89f84204faacd1673b1d",
-   "sector": "Markets",
-   "title": "It\u2019s not \u2018Medicare for All,\u2019 but \u2018Medicare for More.\u2019 What this could mean for workers over 50.",
-   "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-   "summary": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
-   "published": "Wed, 11 Nov 2026 20:53:00 GMT",
+   "id": "2f229d354930da2a41853c432fb28544",
+   "sector": "Tech/AI",
+   "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+   "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+   "published": "Wed, 11 Nov 2026 23:17:05 +0000",
    "source": "rss",
-   "sentiment_score": 0.10795454545454546,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "medicare",
-    "more",
-    "what",
-    "could",
-    "mean"
+    "accused",
+    "affair",
+    "jensen",
+    "huang",
+    "having"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "A new bill would lower the Medicare age to 50, expanding coverage to an additional 60 million adults",
-   "category": "News"
-  },
-  {
-   "id": "50d7fbc22802fa5dd08a2904203d9486",
-   "sector": "Markets",
-   "title": "The trillion-dollar mistake corporate America is making about retirement",
-   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-   "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "published": "Wed, 11 Nov 2026 20:46:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.12222222222222223,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "trillion",
-    "dollar",
-    "mistake",
-    "corporate",
-    "america"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "category": "News"
-  },
-  {
-   "id": "23e6237e7150cac75fef92c03ba81918",
-   "sector": "Markets",
-   "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
-   "published": "Wed, 11 Nov 2026 20:45:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "want",
-    "worst",
-    "fight",
-    "husband",
-    "retire"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
+   "summary_short": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chi",
    "category": "News"
   },
   {
@@ -657,7 +726,7 @@
    "sector": "Tech/AI",
    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-   "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings.",
+   "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third-quarter earnings.",
    "published": "Wed, 11 Nov 2026 19:54:00 +0000",
    "source": "rss",
    "sentiment_score": 0.125,
@@ -672,7 +741,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and",
+   "summary_short": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, an",
    "category": "News"
   },
   {
@@ -696,75 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-   "category": "News"
-  },
-  {
-   "id": "94e3c604328d0c2c6c37c932a22a4815",
-   "sector": "Tech/AI",
-   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-   "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-   "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-   "published": "Wed, 11 Nov 2026 19:22:22 +0000",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "call",
-    "jensen",
-    "huang",
-    "answer",
-    "alleged"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republica",
-   "category": "News"
-  },
-  {
-   "id": "23fb96f75baf0a1ca6c1736dfb278497",
-   "sector": "Tech/AI",
-   "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
-   "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-   "summary": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said.",
-   "published": "Wed, 11 Nov 2026 16:16:07 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1333333333333334,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "jensen",
-    "huang",
-    "behavior",
-    "more",
-    "commonplace"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively c",
-   "category": "News"
-  },
-  {
-   "id": "c3328ef13e26183d338b4b27ff6c048d",
-   "sector": "Tech/AI",
-   "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
-   "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-   "published": "Wed, 11 Nov 2026 16:14:44 +0000",
-   "source": "rss",
-   "sentiment_score": 0.125,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "revenue",
-    "billion",
-    "openai",
-    "quarterly",
-    "reportedly"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded",
    "category": "News"
   },
   {
@@ -1320,26 +1320,26 @@
    "category": "News"
   },
   {
-   "id": "a100a8142a2d38ce6dbd507aa588e139",
+   "id": "f662c6ea88ad2f0d3c42a9a8055f52d4",
    "sector": "Tech/AI",
-   "title": "AWS emulator",
-   "link": "https://github.com/aws/aws-emulator",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 18:21:38 +0000",
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "link": "https://www.mcmillen.dev/sigbovik/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 22:34:23 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "emulator",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
+    "paint",
+    "splatters",
+    "valid",
+    "perl",
+    "programs"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
    "category": "News"
   },
   {
@@ -1366,6 +1366,52 @@
    "category": "News"
   },
   {
+   "id": "a100a8142a2d38ce6dbd507aa588e139",
+   "sector": "Tech/AI",
+   "title": "AWS emulator",
+   "link": "https://github.com/aws/aws-emulator",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 18:21:38 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "emulator",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "acf8dd997487417862e34b606693051b",
+   "sector": "Tech/AI",
+   "title": "Lock Your GitHub Actions",
+   "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "lock",
+    "your",
+    "github",
+    "actions",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "7e341f9859aaaa47a5775946a5a5f7a8",
    "sector": "Tech/AI",
    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50458900\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "fbbff348af63476569f69dbf59ca504b",
-   "sector": "Tech/AI",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50455394\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 16:38:44 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.1666666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "false",
-    "smoke",
-    "alarm",
-    "almost",
-    "drowned"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50455394\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "305d170ad48a3220fae6744d2e7a67e1",
-   "sector": "Tech/AI",
-   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-   "link": "https://termsheetplease.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50457230\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 19:12:16 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "show",
-    "recreated",
-    "papers",
-    "please",
-    "deciding"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50457230\">Comments</a>",
    "category": "News"
   }
  ]
