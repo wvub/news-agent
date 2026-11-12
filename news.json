@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-13 00:05 IST",
+ "updated": "2026-11-13 05:21 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 15,
-   "sectors": 1,
-   "article_count": 3
+   "frequency": 16,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "covid",
@@ -22,39 +22,45 @@
    "article_count": 6
   },
   {
+   "keyword": "million",
+   "frequency": 10,
+   "sectors": 3,
+   "article_count": 5
+  },
+  {
    "keyword": "news",
    "frequency": 10,
    "sectors": 1,
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 9,
-   "sectors": 4,
-   "article_count": 5
-  },
-  {
    "keyword": "huang",
    "frequency": 8,
-   "sectors": 2,
-   "article_count": 5
-  },
-  {
-   "keyword": "nvidia",
-   "frequency": 7,
    "sectors": 3,
    "article_count": 5
   },
   {
+   "keyword": "nvidia",
+   "frequency": 6,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
    "keyword": "jensen",
-   "frequency": 7,
-   "sectors": 2,
+   "frequency": 6,
+   "sectors": 3,
    "article_count": 5
   },
   {
    "keyword": "survey",
    "frequency": 6,
    "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "tests",
+   "frequency": 5,
+   "sectors": 2,
    "article_count": 2
   },
   {
@@ -88,140 +94,157 @@
    "article_count": 2
   },
   {
-   "keyword": "power",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "keep",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
+   "keyword": "hacker",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 5
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.663449+00:00",
+   "last_failure": "2026-11-12 23:51:48.713259+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.736420+00:00",
+   "last_failure": "2026-11-12 23:51:48.790740+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.797502+00:00",
+   "last_failure": "2026-11-12 23:51:48.873916+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.859019+00:00",
+   "last_failure": "2026-11-12 23:51:48.959621+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.931723+00:00",
+   "last_failure": "2026-11-12 23:51:49.069879+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:36.988209+00:00",
+   "last_failure": "2026-11-12 23:51:49.438064+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.239953+00:00",
+   "last_failure": "2026-11-12 23:51:49.536989+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.464805+00:00",
+   "last_failure": "2026-11-12 23:51:49.661789+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.616089+00:00",
+   "last_failure": "2026-11-12 23:51:49.768481+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.719990+00:00",
+   "last_failure": "2026-11-12 23:51:49.837251+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.794317+00:00",
+   "last_failure": "2026-11-12 23:51:49.924010+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:37.891085+00:00",
+   "last_failure": "2026-11-12 23:51:50.010100+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:38.044840+00:00",
+   "last_failure": "2026-11-12 23:51:50.094674+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:38.138240+00:00",
+   "last_failure": "2026-11-12 23:51:50.205953+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:38.344863+00:00",
+   "last_failure": "2026-11-12 23:51:50.291094+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-12 18:35:38.424773+00:00",
+   "last_failure": "2026-11-12 23:51:50.387298+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "c459062577c9b7a6561d3911c9d0bae9",
+   "id": "a1939c6459d20a7375dcb48ce8da8708",
    "sector": "World",
-   "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+   "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+   "source": "rss",
+   "sentiment_score": -0.03333333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "huang",
+    "scandal",
+    "nvidia",
+    "jensen",
+    "quits"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chi",
+   "category": "News"
+  },
+  {
+   "id": "3c7abc174ae37d7dc98c83341bbd032a",
+   "sector": "World",
+   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
    "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "published": "Thu, 12 Nov 2026 18:28:59 GMT",
+   "published": "Thu, 12 Nov 2026 21:00:42 GMT",
    "source": "rss",
    "sentiment_score": -0.06666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -229,8 +252,8 @@
     "talks",
     "putin",
     "envoys",
-    "head",
-    "meet"
+    "meet",
+    "zelensky"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -239,26 +262,26 @@
    "category": "News"
   },
   {
-   "id": "c6fba2a6e613693490a55801bc2c2eff",
+   "id": "27f4254696af224363d5b22186daebcd",
    "sector": "World",
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+   "published": "Thu, 12 Nov 2026 20:09:16 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.0625,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "power",
-    "inside",
-    "ruined",
-    "ukraine",
-    "plant"
+    "russian",
+    "ukrainian",
+    "warship",
+    "drone",
+    "gulf"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballist",
+   "summary_short": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open ",
    "category": "News"
   },
   {
@@ -267,7 +290,7 @@
    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-   "published": "Thu, 12 Nov 2026 12:39:39 GMT",
+   "published": "Thu, 12 Nov 2026 19:23:02 GMT",
    "source": "rss",
    "sentiment_score": 0.15,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -308,26 +331,26 @@
    "category": "News"
   },
   {
-   "id": "e4ae3b03f88ce9c6f30da269404ea849",
+   "id": "a9678972c523ba47cbb026254c5e10b4",
    "sector": "World",
-   "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-   "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
-   "published": "Thu, 12 Nov 2026 16:52:53 GMT",
+   "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+   "published": "Thu, 12 Nov 2026 18:47:35 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.05,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "pentagon",
-    "backs",
-    "memorial",
-    "guard",
-    "reprimanded"
+    "hegseth",
+    "group",
+    "awards",
+    "medal",
+    "memorial"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service C",
+   "summary_short": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talk",
    "category": "News"
   },
   {
@@ -377,49 +400,141 @@
    "category": "News"
   },
   {
-   "id": "d049337d965b6855743c128ba5ac9e9a",
-   "sector": "World",
-   "title": "Five new miniature frog species found in eastern Himalayas",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-   "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-   "published": "Thu, 12 Nov 2026 11:07:19 GMT",
+   "id": "8d935474d373c99942fe94f8712ab184",
+   "sector": "Markets",
+   "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+   "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+   "summary": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
+   "published": "Thu, 12 Nov 2026 22:57:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.24545454545454545,
+   "sentiment_score": 0.21818181818181817,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "himalayas",
-    "five",
-    "miniature",
-    "frog",
-    "species"
+    "nvidia",
+    "replace",
+    "jensen",
+    "huang",
+    "these"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+   "summary_short": "As Nvidia\u2019s board seeks a new CEO, experts say that person will need a rare balance of tech vision a",
    "category": "News"
   },
   {
-   "id": "f201667abf72a974e795b2e416de2617",
+   "id": "cdcb507f1f9eb551c8fcdd6650e38198",
    "sector": "Markets",
-   "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
-   "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
-   "summary": "Defined-contribution plans are getting a bump. IRA savers are not.",
-   "published": "Thu, 12 Nov 2026 18:19:00 GMT",
+   "title": "Opening trading-card packs has become a $2 billion market",
+   "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+   "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like payoff\u201d raises risks.",
+   "published": "Thu, 12 Nov 2026 22:38:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "limits",
-    "here",
-    "much",
-    "more",
-    "save"
+    "opening",
+    "trading",
+    "card",
+    "packs",
+    "become"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Defined-contribution plans are getting a bump. IRA savers are not.",
+   "summary_short": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like ",
+   "category": "News"
+  },
+  {
+   "id": "68bad4e328f8e3cf38f0eb96e42d67c6",
+   "sector": "Markets",
+   "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+   "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+   "summary": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets.",
+   "published": "Thu, 12 Nov 2026 22:16:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3333333333333333,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "more",
+    "rate",
+    "bond",
+    "yields",
+    "just"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets",
+   "category": "News"
+  },
+  {
+   "id": "fdebf93063fb9469b429019d8f3d0eec",
+   "sector": "Markets",
+   "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-year dream retirement. I think he\u2019s cheap.",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "published": "Thu, 12 Nov 2026 22:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "retirement",
+    "million",
+    "calls",
+    "plans",
+    "fantasy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "0b4ebcc3b015313a59fa0efced70408a",
+   "sector": "Markets",
+   "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+   "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+   "summary": "More people want to understand the fine print on plans this year, financial planners say.",
+   "published": "Thu, 12 Nov 2026 21:55:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.22916666666666669,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "overpaying",
+    "health",
+    "insurance",
+    "answer",
+    "question"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "More people want to understand the fine print on plans this year, financial planners say.",
+   "category": "News"
+  },
+  {
+   "id": "d56a82bb13e8e4228e68050b39107881",
+   "sector": "Markets",
+   "title": "The 10 best stocks for a year-end momentum trade",
+   "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+   "summary": "Why December is the best month of the year for momentum strategies",
+   "published": "Thu, 12 Nov 2026 21:50:00 GMT",
+   "source": "rss",
+   "sentiment_score": 1.0,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "best",
+    "year",
+    "momentum",
+    "stocks",
+    "trade"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Why December is the best month of the year for momentum strategies",
    "category": "News"
   },
   {
@@ -428,7 +543,7 @@
    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
    "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
    "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
-   "published": "Thu, 12 Nov 2026 18:15:00 GMT",
+   "published": "Thu, 12 Nov 2026 21:30:00 GMT",
    "source": "rss",
    "sentiment_score": -0.15,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -446,104 +561,12 @@
    "category": "News"
   },
   {
-   "id": "34c3a496daf4b477559944ff8c2cebff",
+   "id": "ed83c12272126e0d6bebeb8e7184b17c",
    "sector": "Markets",
-   "title": "Nvidia\u2019s stock is on sale after Jensen Huang\u2019s exit. But is the selloff just beginning?",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-   "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
-   "published": "Thu, 12 Nov 2026 18:09:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.45,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "nvidia",
-    "stock",
-    "sale",
-    "after",
-    "jensen"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatili",
-   "category": "News"
-  },
-  {
-   "id": "858966b16c3c22a20fbd0fbdccbd0359",
-   "sector": "Markets",
-   "title": "The bond market now has an even bigger fear than AI fallout",
-   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-   "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
-   "published": "Thu, 12 Nov 2026 18:08:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3416666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "more",
-    "bond",
-    "market",
-    "even",
-    "bigger"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed ra",
-   "category": "News"
-  },
-  {
-   "id": "50d7fbc22802fa5dd08a2904203d9486",
-   "sector": "Markets",
-   "title": "The trillion-dollar mistake corporate America is making about retirement",
-   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-   "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "published": "Thu, 12 Nov 2026 17:59:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.12222222222222223,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "trillion",
-    "dollar",
-    "mistake",
-    "corporate",
-    "america"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "category": "News"
-  },
-  {
-   "id": "9dd8378f26d2bbc6afe7ed39033dd216",
-   "sector": "Markets",
-   "title": "The scandal at Nvidia is exactly what\u2019s wrong with the S&P 500",
-   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-   "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-   "published": "Thu, 12 Nov 2026 17:42:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "scandal",
-    "nvidia",
-    "exactly",
-    "what",
-    "wrong"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-   "category": "News"
-  },
-  {
-   "id": "549aa0c6a2e5a37b3b386e3987f29595",
-   "sector": "Markets",
-   "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of the market afloat.",
+   "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
    "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
    "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-   "published": "Thu, 12 Nov 2026 17:38:00 GMT",
+   "published": "Thu, 12 Nov 2026 21:08:00 GMT",
    "source": "rss",
    "sentiment_score": -0.1416666666666667,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -551,8 +574,8 @@
     "shrugging",
     "nvidia",
     "selloff",
-    "here",
-    "what"
+    "week",
+    "here"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -561,210 +584,256 @@
    "category": "News"
   },
   {
-   "id": "9a9546d8fa0303fef68e52e65711604a",
-   "sector": "Markets",
-   "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-   "summary": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
-   "published": "Thu, 12 Nov 2026 17:30:00 GMT",
+   "id": "a9634fb7ab97e4b278a54f620b120e1f",
+   "sector": "Tech/AI",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "published": "Thu, 12 Nov 2026 22:42:51 +0000",
    "source": "rss",
-   "sentiment_score": -0.23333333333333334,
+   "sentiment_score": -0.15,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "home",
-    "should",
-    "widow",
-    "leave",
-    "late"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "6137e7e841a81a9d7a688dfb7b910de6",
-   "sector": "Tech/AI",
-   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang\u2019s exit",
-   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
-   "published": "Thu, 12 Nov 2026 17:36:40 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hugging",
-    "face",
-    "keep",
-    "fighting",
-    "open"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions",
-   "category": "News"
-  },
-  {
-   "id": "1b80caaf392934359d3b593fea04570e",
-   "sector": "Tech/AI",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-   "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-   "published": "Thu, 12 Nov 2026 17:17:58 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "agents",
-    "flights",
-    "united",
-    "airlines",
-    "blocks"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The airline said it will not allow customers to use AI agents to book flights and manage reservation",
-   "category": "News"
-  },
-  {
-   "id": "3513668ade703b798fc2af7aac46c7ed",
-   "sector": "Tech/AI",
-   "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-   "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-   "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-   "published": "Thu, 12 Nov 2026 17:00:52 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "softbank",
-    "billion",
-    "loss",
-    "natural",
-    "power"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what",
-   "category": "News"
-  },
-  {
-   "id": "9a3414125df428a592768ce5a277af23",
-   "sector": "Tech/AI",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-   "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it\u2019s easier for anyone to turn everyday moments into better photos.",
-   "published": "Thu, 12 Nov 2026 17:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.033333333333333326,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "phota",
-    "labs",
-    "turn",
-    "everyday",
-    "photos"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI t",
-   "category": "News"
-  },
-  {
-   "id": "23f86d48b9a8d348852db1cdafb0ed39",
-   "sector": "Tech/AI",
-   "title": "Jensen Huang agrees to testify before Congress",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-   "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-   "published": "Thu, 12 Nov 2026 16:36:37 +0000",
-   "source": "rss",
-   "sentiment_score": -0.03333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "huang",
-    "testify",
-    "jensen",
-    "agrees",
-    "before"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying",
-   "category": "News"
-  },
-  {
-   "id": "55a958b3706058160385cfa8113bd391",
-   "sector": "Tech/AI",
-   "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-   "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-   "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-   "published": "Thu, 12 Nov 2026 16:32:33 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ways",
-    "jensen",
-    "huang",
     "nvidia",
-    "industry"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire se",
-   "category": "News"
-  },
-  {
-   "id": "18ae397191c33ef78026f458c96f389f",
-   "sector": "Tech/AI",
-   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
-   "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-   "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-   "published": "Thu, 12 Nov 2026 16:12:44 +0000",
-   "source": "rss",
-   "sentiment_score": 0.016666666666666666,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
+    "investigation",
     "trump",
-    "cook",
-    "jensen",
-    "huang",
-    "floats"
+    "democrats",
+    "launch"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head o",
+   "summary_short": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second",
    "category": "News"
   },
   {
-   "id": "38a89e97ad6b4115305db5b5482f2c71",
+   "id": "a3e6b8305752efdc30de0375370ecc94",
    "sector": "Tech/AI",
-   "title": "Whoop just launched a social network",
-   "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-   "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
-   "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+   "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "summary": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+   "published": "Thu, 12 Nov 2026 22:22:28 +0000",
    "source": "rss",
-   "sentiment_score": 0.16944444444444443,
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "muse",
+    "place",
+    "calls",
+    "businesses",
+    "outbound"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+   "category": "News"
+  },
+  {
+   "id": "fc6fc43052aa48bcaee277388293e5af",
+   "sector": "Tech/AI",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "published": "Thu, 12 Nov 2026 21:35:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "whoop",
-    "social",
-    "network",
-    "just",
-    "launched"
+    "jensen",
+    "huang",
+    "unfolding",
+    "scandal",
+    "timeline"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data,",
+   "summary_short": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for nation",
+   "category": "News"
+  },
+  {
+   "id": "92de12844a1eed2c531dfda0d72b196c",
+   "sector": "Tech/AI",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nebius",
+    "billion",
+    "tests",
+    "neocloud",
+    "playbook"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and lo",
+   "category": "News"
+  },
+  {
+   "id": "237dea048dba0c871bd98fd438d5d4f0",
+   "sector": "Tech/AI",
+   "title": "Jensen Huang was having a third affair, Reuters reports",
+   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+   "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+   "published": "Thu, 12 Nov 2026 20:26:47 +0000",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "huang",
+    "reuters",
+    "employee",
+    "jensen",
+    "having"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of ",
+   "category": "News"
+  },
+  {
+   "id": "1fe07a86282eecd42d43ed14c767d120",
+   "sector": "Tech/AI",
+   "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+   "published": "Thu, 12 Nov 2026 19:27:45 +0000",
+   "source": "rss",
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "google",
+    "better",
+    "latest",
+    "search",
+    "upgrade"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, s",
+   "category": "News"
+  },
+  {
+   "id": "215b99b889efca7f64a2648b8e6addb1",
+   "sector": "Tech/AI",
+   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+   "published": "Thu, 12 Nov 2026 19:11:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nectar",
+    "agent",
+    "outreach",
+    "brands",
+    "launches"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outre",
+   "category": "News"
+  },
+  {
+   "id": "797d6ca59887dcd33a62a02416c2fe6f",
+   "sector": "Tech/AI",
+   "title": "Microsoft\u2019s Outlook email hit by new outage",
+   "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+   "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+   "published": "Thu, 12 Nov 2026 19:03:39 +0000",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "microsoft",
+    "outlook",
+    "email",
+    "outage",
+    "hasn"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+   "category": "News"
+  },
+  {
+   "id": "c08c2daab167fd709bc3c5de108258ae",
+   "sector": "Crypto",
+   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+   "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 22:55:52 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "north",
+    "korea",
+    "binance",
+    "hack",
+    "faces"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "52b2352141eea5c6ed7d0761bcc0e95f",
+   "sector": "Crypto",
+   "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+   "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 22:47:41 +0000",
+   "source": "rss",
+   "sentiment_score": 0.075,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "president",
+    "trump",
+    "names",
+    "cftc",
+    "nominees"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "2b1d323ea2e7d5784e6c364d6c55d3cf",
+   "sector": "Crypto",
+   "title": "Kalshi ends Donald Trump Jr.\u2019s advisory contract over 1789 Capital\u2019s Polymarket investment",
+   "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 21:07:49 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "kalshi",
+    "ends",
+    "donald",
+    "trump",
+    "advisory"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -875,75 +944,6 @@
     "write",
     "rules",
     "emerging"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "bc66f5895965b25be619d87763799683",
-   "sector": "Crypto",
-   "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-   "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-   "summary": "",
-   "published": "Thu, 12 Nov 2026 13:57:53 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "huang",
-    "quits",
-    "company",
-    "founded"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "82157b461592cd78f6450a0c626b5d7c",
-   "sector": "Crypto",
-   "title": "Bitcoin weakness erases September's bullish signal",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-   "summary": "",
-   "published": "Thu, 12 Nov 2026 12:15:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "weakness",
-    "erases",
-    "september",
-    "bullish"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "8bb5dcfa2796704cef266088bdd3e7fb",
-   "sector": "Crypto",
-   "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-   "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-   "summary": "",
-   "published": "Thu, 12 Nov 2026 12:04:42 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bank",
-    "griffin",
-    "raises",
-    "million",
-    "expand"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,35 +1343,12 @@
    "category": "News"
   },
   {
-   "id": "b944f7fe229710bea5c4d7814af94551",
+   "id": "62ad0c9cececa4ef00a25b0559c562ef",
    "sector": "Tech/AI",
-   "title": "Gemini 4 Hydrogen",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50471431\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 18:01:48 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "gemini",
-    "hydrogen",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50471431\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "d4b14a665a73b96e33c9672cc15c0e4f",
-   "sector": "Tech/AI",
-   "title": "Rust 1.100.0",
-   "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50471793\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 18:24:06 +0000",
+   "title": "Rust 1.100",
+   "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50472038\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 18:39:05 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -1385,53 +1362,76 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50471793\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50472038\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "0d1520e38119074fe95cb2335eca0b1b",
+   "id": "cd230a15f35cd11f38be3cd9091df5cf",
    "sector": "Tech/AI",
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50467618\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 14:18:49 +0000",
+   "title": "Why You Should Expect an AI Crash",
+   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475735\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 23:08:31 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "abandoned",
-    "quake",
-    "expansion",
-    "finished",
-    "modders"
+    "should",
+    "expect",
+    "crash",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50467618\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475735\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "5b4bfc23edf2f1e4aee532fcc7c95217",
+   "id": "8466849ab120233360bb3831c911a32e",
    "sector": "Tech/AI",
-   "title": "I'm making LLMs work on small and old devices",
-   "link": "https://github.com/hyperionaidev/smolmaxxing/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50468888\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 15:23:10 +0000",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50472260\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 18:52:01 +0000",
    "source": "hacker_news",
-   "sentiment_score": -0.075,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "making",
-    "llms",
-    "work",
-    "small",
-    "devices"
+    "gemini",
+    "hydrogen",
+    "orchestrator",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50468888\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50472260\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "f89980b6076347854d07ff915ae22c10",
+   "sector": "Tech/AI",
+   "title": "Foundation Models framework",
+   "link": "https://developer.apple.com/foundation-models-framework/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474361\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 21:13:26 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "foundation",
+    "models",
+    "framework",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474361\">Comments</a>",
    "category": "News"
   }
  ]
