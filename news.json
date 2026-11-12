@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12 08:25 IST",
+ "updated": "2026-11-12 16:08 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -23,13 +23,19 @@
   },
   {
    "keyword": "news",
-   "frequency": 11,
-   "sectors": 2,
-   "article_count": 6
+   "frequency": 10,
+   "sectors": 1,
+   "article_count": 5
   },
   {
    "keyword": "million",
-   "frequency": 9,
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
+   "keyword": "nvidia",
+   "frequency": 7,
    "sectors": 2,
    "article_count": 4
   },
@@ -40,10 +46,10 @@
    "article_count": 2
   },
   {
-   "keyword": "nvidia",
+   "keyword": "huang",
    "frequency": 6,
    "sectors": 2,
-   "article_count": 3
+   "article_count": 4
   },
   {
    "keyword": "survey",
@@ -52,10 +58,22 @@
    "article_count": 2
   },
   {
-   "keyword": "coreweave",
+   "keyword": "water",
    "frequency": 5,
-   "sectors": 3,
-   "article_count": 3
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "jensen",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 4
+  },
+  {
+   "keyword": "earth",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
   },
   {
    "keyword": "mental",
@@ -76,25 +94,7 @@
    "article_count": 2
   },
   {
-   "keyword": "board",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "stock",
-   "frequency": 4,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
-   "keyword": "after",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "even",
+   "keyword": "years",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
@@ -104,117 +104,278 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.446970+00:00",
+   "last_failure": "2026-11-12 10:38:30.751232+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.493987+00:00",
+   "last_failure": "2026-11-12 10:38:30.807290+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.537567+00:00",
+   "last_failure": "2026-11-12 10:38:30.869769+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.603687+00:00",
+   "last_failure": "2026-11-12 10:38:30.946061+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.642322+00:00",
+   "last_failure": "2026-11-12 10:38:31.007193+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.685513+00:00",
+   "last_failure": "2026-11-12 10:38:31.078208+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.726344+00:00",
+   "last_failure": "2026-11-12 10:38:31.140526+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.773346+00:00",
+   "last_failure": "2026-11-12 10:38:31.203351+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.838321+00:00",
+   "last_failure": "2026-11-12 10:38:31.266141+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.888571+00:00",
+   "last_failure": "2026-11-12 10:38:31.328604+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:39.959253+00:00",
+   "last_failure": "2026-11-12 10:38:31.386625+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:40.028177+00:00",
+   "last_failure": "2026-11-12 10:38:31.447201+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:40.071517+00:00",
+   "last_failure": "2026-11-12 10:38:31.522134+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:40.120737+00:00",
+   "last_failure": "2026-11-12 10:38:31.579955+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:40.181647+00:00",
+   "last_failure": "2026-11-12 10:38:31.643888+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-12 02:55:40.248475+00:00",
+   "last_failure": "2026-11-12 10:38:31.699498+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "b924a6dcde82e50338fdf9ebe451e9c7",
+   "sector": "World",
+   "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "published": "Thu, 12 Nov 2026 07:59:33 GMT",
+   "source": "rss",
+   "sentiment_score": -0.08333333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "power",
+    "light",
+    "water",
+    "heat",
+    "ukrainians"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power ",
+   "category": "News"
+  },
+  {
+   "id": "fae3778b5c91c4cd6b40b67224f05c70",
+   "sector": "World",
+   "title": "New York building collapse kills at least two, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+   "published": "Thu, 12 Nov 2026 05:12:56 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2545454545454546,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "building",
+    "york",
+    "collapse",
+    "kills",
+    "least"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on We",
+   "category": "News"
+  },
+  {
+   "id": "b136c164430e4c50d15add2d4bb07b6c",
+   "sector": "World",
+   "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+   "published": "Thu, 12 Nov 2026 10:02:32 GMT",
+   "source": "rss",
+   "sentiment_score": 0.12777777777777777,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "colom",
+    "years",
+    "democrat",
+    "scott",
+    "makes"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins",
+   "category": "News"
+  },
+  {
+   "id": "4817444e0572a04d687b2101be10654c",
+   "sector": "World",
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "published": "Thu, 12 Nov 2026 09:43:11 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "gaza",
+    "hospital",
+    "israeli",
+    "strike",
+    "kills"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nas",
+   "category": "News"
+  },
+  {
+   "id": "7678bb358a157151638268c4757626b9",
+   "sector": "World",
+   "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "published": "Thu, 12 Nov 2026 10:08:38 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ukraine",
+    "envoys",
+    "arrive",
+    "moscow",
+    "talks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr",
+   "category": "News"
+  },
+  {
+   "id": "1fe7d2a2c178c97148faabda370f64b2",
+   "sector": "World",
+   "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
+   "published": "Thu, 12 Nov 2026 07:45:52 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "oranges",
+    "after",
+    "girls",
+    "investigated",
+    "four"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling",
+   "category": "News"
+  },
+  {
+   "id": "05775f90741b5388b9a46f1d647d0f23",
+   "sector": "World",
+   "title": "British woman missing from cruise ship in Atlantic",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+   "published": "Thu, 12 Nov 2026 10:13:35 GMT",
+   "source": "rss",
+   "sentiment_score": -0.06666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ship",
+    "british",
+    "woman",
+    "missing",
+    "cruise"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+   "category": "News"
+  },
   {
    "id": "85427a0d243d973b5f6cab791dbb269d",
    "sector": "World",
@@ -239,164 +400,26 @@
    "category": "News"
   },
   {
-   "id": "0a4a85647aad5bf41da8a0a1651cf518",
-   "sector": "World",
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-   "published": "Thu, 12 Nov 2026 02:09:08 GMT",
+   "id": "097e09223e91a66224e05665f7de14c3",
+   "sector": "Markets",
+   "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+   "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
+   "published": "Thu, 12 Nov 2026 10:15:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.1766666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "colom",
-    "senate",
-    "democrat",
-    "scott",
-    "seals"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-   "category": "News"
-  },
-  {
-   "id": "416cf080ec1175bfe288eda1be80f5e4",
-   "sector": "World",
-   "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-   "published": "Wed, 11 Nov 2026 18:04:58 GMT",
-   "source": "rss",
-   "sentiment_score": -0.125,
+   "sentiment_score": -0.15,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "talks",
-    "security",
-    "russia",
-    "ukraine",
-    "turn"
+    "inherited",
+    "million",
+    "father",
+    "wrong",
+    "husband"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and ",
-   "category": "News"
-  },
-  {
-   "id": "4fe46892f4c5098f39d0150e41f6fa85",
-   "sector": "World",
-   "title": "New York building collapse kills one person and injures 12",
-   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-   "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
-   "published": "Thu, 12 Nov 2026 02:33:12 GMT",
-   "source": "rss",
-   "sentiment_score": -0.03181818181818183,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "building",
-    "york",
-    "collapse",
-    "kills",
-    "person"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in",
-   "category": "News"
-  },
-  {
-   "id": "9a14dd6994c7789a3b42579aec1a130d",
-   "sector": "World",
-   "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-   "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-   "published": "Wed, 11 Nov 2026 16:38:07 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "indonesia",
-    "vice",
-    "president",
-    "resigns",
-    "amid"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko W",
-   "category": "News"
-  },
-  {
-   "id": "4a65ab3d934311d72085a9d05796ac59",
-   "sector": "World",
-   "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-   "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
-   "published": "Wed, 11 Nov 2026 14:56:11 GMT",
-   "source": "rss",
-   "sentiment_score": -0.016666666666666666,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "kidnapper",
-    "escapes",
-    "house",
-    "arrest",
-    "argentina"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to b",
-   "category": "News"
-  },
-  {
-   "id": "2c28e72dfbb4284083ac047777ba4224",
-   "sector": "World",
-   "title": "Famed ship SS United States to be sunk off coast of Florida",
-   "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-   "published": "Wed, 11 Nov 2026 18:42:27 GMT",
-   "source": "rss",
-   "sentiment_score": -0.3,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "famed",
-    "ship",
-    "united",
-    "states",
-    "sunk"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but",
-   "category": "News"
-  },
-  {
-   "id": "f4d7ef0a09b2e0b7f7a5c0c7ca2bf915",
-   "sector": "World",
-   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-   "published": "Wed, 11 Nov 2026 18:38:45 GMT",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "schools",
-    "italy",
-    "scotland",
-    "northern",
-    "ireland"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appe",
+   "summary_short": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected ",
    "category": "News"
   },
   {
@@ -404,11 +427,11 @@
    "sector": "Markets",
    "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
    "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-   "summary": "Nvidia\u2019s board of directors reportedly could meet as soon as today to determine the CEO\u2019s fate.",
-   "published": "Thu, 12 Nov 2026 02:52:00 GMT",
+   "summary": "Nvidia\u2019s board of directors reportedly met late Wednesday to determine the CEO\u2019s fate.",
+   "published": "Thu, 12 Nov 2026 10:07:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.3,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
     "nvidia",
     "board",
@@ -419,7 +442,122 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Nvidia\u2019s board of directors reportedly could meet as soon as today to determine the CEO\u2019s fate.",
+   "summary_short": "Nvidia\u2019s board of directors reportedly met late Wednesday to determine the CEO\u2019s fate.",
+   "category": "News"
+  },
+  {
+   "id": "ccb198e7a113adc3393d82f75efc2ef5",
+   "sector": "Markets",
+   "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
+   "link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
+   "summary": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend\u2019s estate after returning to the U.K. with their children in August.",
+   "published": "Thu, 12 Nov 2026 10:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "prince",
+    "harry",
+    "meghan",
+    "markle",
+    "into"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Prince Harry and Meghan Markle have reportedly moved into a new Cotswolds home on their friend\u2019s est",
+   "category": "News"
+  },
+  {
+   "id": "99a03f3d5fcbde03eed13302b685c2d0",
+   "sector": "Markets",
+   "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+   "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+   "summary": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals across the supply chain. What happens if he\u2019s gone?",
+   "published": "Thu, 12 Nov 2026 07:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "huang",
+    "jensen",
+    "built",
+    "nvidia",
+    "into"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Huang fueled his company and the AI ecosystem with advanced chips and creative financing deals acros",
+   "category": "News"
+  },
+  {
+   "id": "cf25f48010246ab532606e4915dc0a44",
+   "sector": "Markets",
+   "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+   "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+   "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
+   "published": "Thu, 12 Nov 2026 04:41:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.12685185185185185,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "nasdaq",
+    "futures",
+    "nvidia",
+    "after",
+    "shares"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell",
+   "category": "News"
+  },
+  {
+   "id": "7f9dcda84af54156afcbe3e10e6f378d",
+   "sector": "Markets",
+   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "published": "Thu, 12 Nov 2026 03:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.022222222222222223,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "social",
+    "security",
+    "thought",
+    "living",
+    "terrifies"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "category": "News"
+  },
+  {
+   "id": "f0cdcc67d497050220105619c62cf91a",
+   "sector": "Markets",
+   "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+   "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+   "published": "Thu, 12 Nov 2026 03:10:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.30833333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "here",
+    "bernie",
+    "sanders",
+    "wants",
+    "keep"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
    "category": "News"
   },
   {
@@ -446,141 +584,26 @@
    "category": "News"
   },
   {
-   "id": "68758bb0b1beec037be0619610c73ac8",
-   "sector": "Markets",
-   "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-   "summary": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
-   "published": "Thu, 12 Nov 2026 02:31:00 GMT",
+   "id": "cc3c857d0a48a237ddc1088cb25ef4e2",
+   "sector": "Tech/AI",
+   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+   "published": "Thu, 12 Nov 2026 03:13:10 +0000",
    "source": "rss",
-   "sentiment_score": 0.09999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "spending",
-    "roof",
-    "deck",
-    "home",
-    "being"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "cf25f48010246ab532606e4915dc0a44",
-   "sector": "Markets",
-   "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-   "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-   "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-   "published": "Thu, 12 Nov 2026 01:12:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.12685185185185185,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "nasdaq",
-    "futures",
-    "nvidia",
-    "after",
-    "shares"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell",
-   "category": "News"
-  },
-  {
-   "id": "62a0d729ba4858326493da7814d41905",
-   "sector": "Markets",
-   "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-   "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-   "summary": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual percentage rate to decline because of it.",
-   "published": "Wed, 11 Nov 2026 23:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "your",
-    "credit",
-    "card",
-    "holiday",
-    "bills"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual p",
-   "category": "News"
-  },
-  {
-   "id": "e19d0465ffa44194a77ef62ae9897933",
-   "sector": "Markets",
-   "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-   "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-   "summary": "CoreWeave\u2019s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
-   "published": "Wed, 11 Nov 2026 22:05:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0625,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "coreweave",
-    "just",
-    "gave",
-    "shot",
-    "micron"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "CoreWeave\u2019s improved AI economics and its vow to show some discipline around debt are sparking a bro",
-   "category": "News"
-  },
-  {
-   "id": "ac2f456f9df6f2d48a88068cab0967d1",
-   "sector": "Markets",
-   "title": "Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
-   "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-   "summary": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like payoff\u201d raises risks.",
-   "published": "Wed, 11 Nov 2026 21:55:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.13636363636363635,
+   "sentiment_score": 0.1366666666666667,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "apps",
-    "opening",
-    "trading",
-    "card",
-    "packs"
+    "could",
+    "replace",
+    "jensen",
+    "huang",
+    "highly"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their \u201cslot-like ",
-   "category": "News"
-  },
-  {
-   "id": "e21fcab9bcee5d402c1172f77987d86e",
-   "sector": "Markets",
-   "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world\u2019s most important bond market",
-   "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-   "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It\u2019s a sign that inflation concerns are extending beyond the energy shock.",
-   "published": "Wed, 11 Nov 2026 21:42:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.001473922902494326,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "prices",
-    "down",
-    "falling",
-    "longer",
-    "enough"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The tight trading relationship between oil prices and Treasury yields has broken down. It\u2019s a sign t",
+   "summary_short": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
    "category": "News"
   },
   {
@@ -745,44 +768,21 @@
    "category": "News"
   },
   {
-   "id": "c4d22c83acf892343852448e6b5cabda",
-   "sector": "Tech/AI",
-   "title": "With $720M round, Britain\u2019s Fractile gets a leg up in the race for AI chips",
-   "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-   "published": "Wed, 11 Nov 2026 19:34:55 +0000",
+   "id": "62dec9aec4ec47cebb92b15197807d36",
+   "sector": "Crypto",
+   "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+   "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 10:10:48 +0000",
    "source": "rss",
-   "sentiment_score": -0.2,
+   "sentiment_score": -0.19999999999999998,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "fractile",
-    "race",
-    "chips",
-    "round",
-    "britain"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-   "category": "News"
-  },
-  {
-   "id": "61a694630edfa073d8ba8f9f0c663816",
-   "sector": "Crypto",
-   "title": "Crypto Long & Short: The GENIUS Act\u2019s guarantees don\u2019t cover DeFi lending",
-   "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-   "summary": "",
-   "published": "Wed, 11 Nov 2026 16:00:45 +0000",
-   "source": "rss",
-   "sentiment_score": -0.025,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "long",
-    "short",
-    "genius",
-    "guarantees"
+    "india",
+    "financial",
+    "crimes",
+    "watchdog",
+    "raids"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -791,67 +791,21 @@
    "category": "News"
   },
   {
-   "id": "c4347c9da4fd74744e057f23fae8849a",
+   "id": "2e55ab73d120164fea9ea4f33ed05a3a",
    "sector": "Crypto",
-   "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-   "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+   "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+   "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
    "summary": "",
-   "published": "Wed, 11 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "okxice",
-    "debut",
-    "tokenized",
-    "stock",
-    "trading"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "d0d1aaee000e89a8e6d427e9d1a37f03",
-   "sector": "Crypto",
-   "title": "Meet Spiko, the largest tokenized fund in the world you\u2019ve probably never heard about",
-   "link": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-   "summary": "",
-   "published": "Wed, 11 Nov 2026 12:57:36 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "meet",
-    "spiko",
-    "largest",
-    "tokenized",
-    "fund"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "422ef8ca9f7a5d44aad65201adddb252",
-   "sector": "Crypto",
-   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-   "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-   "summary": "",
-   "published": "Wed, 11 Nov 2026 12:21:24 +0000",
+   "published": "Thu, 12 Nov 2026 09:15:04 +0000",
    "source": "rss",
    "sentiment_score": 0.13636363636363635,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
     "live",
-    "news",
+    "updates",
     "bitcoin",
-    "remains",
-    "under"
+    "etfs",
+    "bleed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -860,44 +814,21 @@
    "category": "News"
   },
   {
-   "id": "e2e7d69d3c090500cf12c55bb6e9eb55",
+   "id": "b7cd378d50bceea7cc6d4dad50c054d2",
    "sector": "Crypto",
-   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+   "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+   "link": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
    "summary": "",
-   "published": "Wed, 11 Nov 2026 12:19:30 +0000",
+   "published": "Thu, 12 Nov 2026 09:07:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "bitcoin",
-    "barely",
-    "flinches",
-    "selling",
-    "slows"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "09f50be1ee89ab631bac839ef5a8843c",
-   "sector": "Crypto",
-   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-   "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-   "summary": "",
-   "published": "Wed, 11 Nov 2026 11:37:04 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "sits",
-    "stock",
-    "rebound",
-    "outflows"
+    "gemini",
+    "sells",
+    "european",
+    "operations",
+    "stablecoin"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -906,21 +837,21 @@
    "category": "News"
   },
   {
-   "id": "0805b80c26634f227a29759d0cdea70c",
+   "id": "4027949ae9a37b5da919c73d61e84eb9",
    "sector": "Crypto",
-   "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-   "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+   "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
    "summary": "",
-   "published": "Wed, 11 Nov 2026 10:51:34 +0000",
+   "published": "Thu, 12 Nov 2026 07:41:18 +0000",
    "source": "rss",
    "sentiment_score": 0.5,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "kraken",
-    "xstocks",
-    "adds",
-    "shares",
-    "assets"
+    "canaan",
+    "sell",
+    "more",
+    "bitcoin",
+    "stock"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -929,21 +860,90 @@
    "category": "News"
   },
   {
-   "id": "3f05a396b8394fdac2c80fc5511629e7",
+   "id": "dddd30a5569010d1063fa0fbdcd88ee4",
    "sector": "Crypto",
-   "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-   "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+   "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
    "summary": "",
-   "published": "Wed, 11 Nov 2026 10:45:49 +0000",
+   "published": "Thu, 12 Nov 2026 07:00:37 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "msci",
+    "dropping",
+    "strategy",
+    "index",
+    "exclusion"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "7a5e61a9e1b88ca3bf722314b941ba38",
+   "sector": "Crypto",
+   "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+   "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 05:49:44 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "zcash",
+    "holders",
+    "vote",
+    "pulling",
+    "worth"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "4114ed1b2ab14a582bcce601ba1cd7f4",
+   "sector": "Crypto",
+   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+   "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 05:22:31 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "bitcoin",
-    "stuck",
-    "under",
-    "coreweave",
-    "earnings"
+    "core",
+    "reveals",
+    "made",
+    "thousands"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "3a012e949d0e3b0324cc1b1643822a8e",
+   "sector": "Crypto",
+   "title": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
+   "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+   "summary": "",
+   "published": "Thu, 12 Nov 2026 05:18:43 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ripple",
+    "bank",
+    "lending",
+    "system",
+    "moves"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -975,6 +975,29 @@
    "category": "News"
   },
   {
+   "id": "6c71bd44d0afa95eabbd5d674b20f2d4",
+   "sector": "Science",
+   "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+   "summary": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation. The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space.",
+   "published": "Thu, 12 Nov 2026 03:38:42 EST",
+   "source": "rss",
+   "sentiment_score": 0.07916666666666666,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "water",
+    "earth",
+    "fiery",
+    "hundreds",
+    "oceans"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comet",
+   "category": "News"
+  },
+  {
    "id": "668de4ead7955f9b2120db7ebd9125ed",
    "sector": "Science",
    "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
@@ -995,6 +1018,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual w",
+   "category": "News"
+  },
+  {
+   "id": "5f68eb36a3e81d9aad86f27a3d5aa1cc",
+   "sector": "Science",
+   "title": "A massive new simulation reveals how the universe emerged from darkness",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+   "summary": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
+   "published": "Wed, 11 Nov 2026 23:07:24 EST",
+   "source": "rss",
+   "sentiment_score": 0.0765993265993266,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "simulation",
+    "universe",
+    "cosmic",
+    "billion",
+    "years"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark ",
    "category": "News"
   },
   {
@@ -1067,72 +1113,26 @@
    "category": "News"
   },
   {
-   "id": "8b86f4c8b1f07996ebe52e146a00466b",
+   "id": "749c75d1277f3b22d03573b0ec6394bc",
    "sector": "Science",
-   "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-   "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-   "published": "Tue, 10 Nov 2026 19:59:32 EST",
+   "title": "NASA\u2019s Parker Solar Probe discovers a hidden pattern in the Sun\u2019s chaotic magnetic fields",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+   "summary": "NASA\u2019s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
+   "published": "Wed, 11 Nov 2026 20:45:09 EST",
    "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.04523809523809524,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "amphibian",
-    "million",
-    "bizarre",
-    "armored",
-    "year"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that ",
-   "category": "News"
-  },
-  {
-   "id": "852342632241c88753532154af5917e0",
-   "sector": "Science",
-   "title": "NASA\u2019s CHAPEA Mars crew finally emerges after more than a year in isolation",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-   "summary": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars.",
-   "published": "Tue, 10 Nov 2026 00:00:41 EST",
-   "source": "rss",
-   "sentiment_score": 0.2916666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "mars",
+    "solar",
     "nasa",
-    "finally",
-    "after",
-    "more"
+    "parker",
+    "probe",
+    "hidden"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from iso",
-   "category": "News"
-  },
-  {
-   "id": "828551af250b12c3ec7a00d6aa89ea4e",
-   "sector": "Science",
-   "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
-   "summary": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago. Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin was crushed under extreme pressure, potentially during its original production.",
-   "published": "Wed, 11 Nov 2026 05:48:22 EST",
-   "source": "rss",
-   "sentiment_score": 0.12575757575757573,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "coin",
-    "silver",
-    "scientists",
-    "uncover",
-    "year"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a ra",
+   "summary_short": "NASA\u2019s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbule",
    "category": "News"
   },
   {
@@ -1320,26 +1320,49 @@
    "category": "News"
   },
   {
-   "id": "f662c6ea88ad2f0d3c42a9a8055f52d4",
+   "id": "da2360070ccafb925c62a58e039e672d",
    "sector": "Tech/AI",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "link": "https://www.mcmillen.dev/sigbovik/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+   "title": "Jane Street: Socratic Tutor",
+   "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50438261\">Comments</a>",
+   "published": "Tue, 10 Nov 2026 10:18:22 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "paint",
-    "splatters",
-    "valid",
-    "perl",
-    "programs"
+    "jane",
+    "street",
+    "socratic",
+    "tutor",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50438261\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "99d715e06a7deb4f32e85d72efce958d",
+   "sector": "Tech/AI",
+   "title": "A live tree of systemd jobs on the boot console",
+   "link": "https://codeberg.org/wvhulle/bootvine",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50425017\">Comments</a>",
+   "published": "Mon, 09 Nov 2026 13:02:44 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "live",
+    "tree",
+    "systemd",
+    "jobs",
+    "boot"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50425017\">Comments</a>",
    "category": "News"
   },
   {
@@ -1366,72 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "a100a8142a2d38ce6dbd507aa588e139",
+   "id": "f662c6ea88ad2f0d3c42a9a8055f52d4",
    "sector": "Tech/AI",
-   "title": "AWS emulator",
-   "link": "https://github.com/aws/aws-emulator",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 18:21:38 +0000",
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "link": "https://www.mcmillen.dev/sigbovik/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
+   "published": "Wed, 11 Nov 2026 22:34:23 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "emulator",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
+    "paint",
+    "splatters",
+    "valid",
+    "perl",
+    "programs"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50456631\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459745\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "acf8dd997487417862e34b606693051b",
+   "id": "11c2afa0ab3c13d4ae86a4d44b3eb5be",
    "sector": "Tech/AI",
-   "title": "Lock Your GitHub Actions",
-   "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50462177\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 02:11:11 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "lock",
-    "your",
-    "github",
-    "actions",
-    "href"
+    "critical",
+    "vulnerability",
+    "apache",
+    "http",
+    "server"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50459485\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "7e341f9859aaaa47a5775946a5a5f7a8",
-   "sector": "Tech/AI",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50458900\">Comments</a>",
-   "published": "Wed, 11 Nov 2026 21:24:35 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "united",
-    "airlines",
-    "bans",
-    "agents",
-    "booking"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50458900\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50462177\">Comments</a>",
    "category": "News"
   }
  ]
