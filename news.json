@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13 05:21 IST",
+ "updated": "2026-11-13 10:29 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -22,12 +22,6 @@
    "article_count": 6
   },
   {
-   "keyword": "million",
-   "frequency": 10,
-   "sectors": 3,
-   "article_count": 5
-  },
-  {
    "keyword": "news",
    "frequency": 10,
    "sectors": 1,
@@ -40,10 +34,16 @@
    "article_count": 5
   },
   {
-   "keyword": "nvidia",
-   "frequency": 6,
-   "sectors": 3,
+   "keyword": "million",
+   "frequency": 8,
+   "sectors": 2,
    "article_count": 4
+  },
+  {
+   "keyword": "earth",
+   "frequency": 7,
+   "sectors": 1,
+   "article_count": 3
   },
   {
    "keyword": "jensen",
@@ -58,13 +58,19 @@
    "article_count": 2
   },
   {
+   "keyword": "nvidia",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
    "keyword": "tests",
    "frequency": 5,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "earth",
+   "keyword": "life",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
@@ -92,173 +98,190 @@
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "hacker",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 5
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:48.713259+00:00",
+   "last_failure": "2026-11-13 04:59:43.187378+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:48.790740+00:00",
+   "last_failure": "2026-11-13 04:59:43.278472+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:48.873916+00:00",
+   "last_failure": "2026-11-13 04:59:43.340129+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:48.959621+00:00",
+   "last_failure": "2026-11-13 04:59:43.485964+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.069879+00:00",
+   "last_failure": "2026-11-13 04:59:43.537261+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.438064+00:00",
+   "last_failure": "2026-11-13 04:59:43.588094+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.536989+00:00",
+   "last_failure": "2026-11-13 04:59:43.652023+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.661789+00:00",
+   "last_failure": "2026-11-13 04:59:43.712083+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.768481+00:00",
+   "last_failure": "2026-11-13 04:59:43.792384+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.837251+00:00",
+   "last_failure": "2026-11-13 04:59:43.921439+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:49.924010+00:00",
+   "last_failure": "2026-11-13 04:59:44.004771+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:50.010100+00:00",
+   "last_failure": "2026-11-13 04:59:44.136015+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:50.094674+00:00",
+   "last_failure": "2026-11-13 04:59:44.276422+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:50.205953+00:00",
+   "last_failure": "2026-11-13 04:59:44.354192+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:50.291094+00:00",
+   "last_failure": "2026-11-13 04:59:44.408415+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-12 23:51:50.387298+00:00",
+   "last_failure": "2026-11-13 04:59:44.464263+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "a1939c6459d20a7375dcb48ce8da8708",
+   "id": "a66830120b34c3c06115d2a0c35b5dac",
    "sector": "World",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-   "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+   "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+   "published": "Fri, 13 Nov 2026 03:57:01 GMT",
    "source": "rss",
-   "sentiment_score": -0.03333333333333333,
+   "sentiment_score": 0.035,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "huang",
-    "scandal",
+    "alleged",
     "nvidia",
     "jensen",
-    "quits"
+    "summoned"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chi",
+   "summary_short": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelati",
    "category": "News"
   },
   {
-   "id": "3c7abc174ae37d7dc98c83341bbd032a",
+   "id": "355f84a3148d35b5ed1d6559a77ff7da",
    "sector": "World",
-   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "published": "Thu, 12 Nov 2026 21:00:42 GMT",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "published": "Fri, 13 Nov 2026 02:01:35 GMT",
    "source": "rss",
-   "sentiment_score": -0.06666666666666667,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "talks",
-    "putin",
-    "envoys",
-    "meet",
-    "zelensky"
+    "ukraine",
+    "zelensky",
+    "welcomes",
+    "bringing",
+    "europe"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next roun",
+   "summary_short": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to ",
+   "category": "News"
+  },
+  {
+   "id": "5e194d6d65a672ce92f18754c81c4a29",
+   "sector": "World",
+   "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+   "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+   "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+   "published": "Fri, 13 Nov 2026 02:48:29 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "north",
+    "korean",
+    "hackers",
+    "used",
+    "fake"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 month",
    "category": "News"
   },
   {
@@ -308,26 +331,26 @@
    "category": "News"
   },
   {
-   "id": "05b454300a744f239fa8fe5a09d547f2",
+   "id": "5195fb03fb678118b1caf3b2d2be9370",
    "sector": "World",
-   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-   "published": "Thu, 12 Nov 2026 12:56:55 GMT",
+   "title": "Australian footballers will not be charged after hotel incident, police say",
+   "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+   "published": "Fri, 13 Nov 2026 03:02:54 GMT",
    "source": "rss",
-   "sentiment_score": 0.12777777777777777,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "colom",
-    "democrat",
-    "scott",
-    "makes",
-    "history"
+    "after",
+    "australian",
+    "footballers",
+    "charged",
+    "hotel"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins",
+   "summary_short": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game ",
    "category": "News"
   },
   {
@@ -354,49 +377,49 @@
    "category": "News"
   },
   {
-   "id": "df6ac318256bc4af8f4419baa25dc454",
+   "id": "05b454300a744f239fa8fe5a09d547f2",
    "sector": "World",
-   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-   "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-   "published": "Thu, 12 Nov 2026 15:18:20 GMT",
+   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+   "published": "Thu, 12 Nov 2026 12:56:55 GMT",
    "source": "rss",
-   "sentiment_score": 0.03333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.12777777777777777,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "staff",
-    "unpaid",
-    "millions",
-    "ebola",
-    "dollars"
+    "colom",
+    "democrat",
+    "scott",
+    "makes",
+    "history"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential ",
+   "summary_short": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins",
    "category": "News"
   },
   {
-   "id": "4817444e0572a04d687b2101be10654c",
-   "sector": "World",
-   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-   "published": "Thu, 12 Nov 2026 16:54:12 GMT",
+   "id": "7f9dcda84af54156afcbe3e10e6f378d",
+   "sector": "Markets",
+   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "published": "Fri, 13 Nov 2026 04:46:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.022222222222222223,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "gaza",
-    "hospital",
-    "israeli",
-    "strike",
-    "kills"
+    "social",
+    "security",
+    "thought",
+    "living",
+    "terrifies"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nas",
+   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
    "category": "News"
   },
   {
@@ -561,29 +584,6 @@
    "category": "News"
   },
   {
-   "id": "ed83c12272126e0d6bebeb8e7184b17c",
-   "sector": "Markets",
-   "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-   "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-   "published": "Thu, 12 Nov 2026 21:08:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.1416666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "shrugging",
-    "nvidia",
-    "selloff",
-    "week",
-    "here"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and",
-   "category": "News"
-  },
-  {
    "id": "a9634fb7ab97e4b278a54f620b120e1f",
    "sector": "Tech/AI",
    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
@@ -607,11 +607,11 @@
    "category": "News"
   },
   {
-   "id": "a3e6b8305752efdc30de0375370ecc94",
+   "id": "0647fa5dccf56ef5ed236a95ca9ab2fe",
    "sector": "Tech/AI",
-   "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+   "title": "Muse can now place calls to US businesses \u2014 if you pay",
    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-   "summary": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+   "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
    "published": "Thu, 12 Nov 2026 22:22:28 +0000",
    "source": "rss",
    "sentiment_score": -0.2,
@@ -626,7 +626,7 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+   "summary_short": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
    "category": "News"
   },
   {
@@ -765,6 +765,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+   "category": "News"
+  },
+  {
+   "id": "651dbe29d4f7a0e4807737d05a27ea66",
+   "sector": "Crypto",
+   "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+   "summary": "",
+   "published": "Fri, 13 Nov 2026 03:37:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.16,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "bitcoin",
+    "dips",
+    "below",
+    "dollar",
+    "index"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,26 +952,72 @@
    "category": "News"
   },
   {
-   "id": "ed1d710da446bd096fde0e71005f347f",
-   "sector": "Crypto",
-   "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-   "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-   "summary": "",
-   "published": "Thu, 12 Nov 2026 14:24:51 +0000",
+   "id": "ec50f968ef5a114fa331df61550c57a0",
+   "sector": "Science",
+   "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+   "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
+   "published": "Thu, 12 Nov 2026 06:24:47 EST",
    "source": "rss",
-   "sentiment_score": 0.125,
+   "sentiment_score": 0.21079545454545454,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "next",
-    "congress",
-    "write",
-    "rules",
-    "emerging"
+    "earth",
+    "life",
+    "treasure",
+    "reveals",
+    "where"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our under",
+   "category": "News"
+  },
+  {
+   "id": "0913b31025444cb966679cdbc765e51b",
+   "sector": "Science",
+   "title": "NASA\u2019s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+   "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
+   "published": "Thu, 12 Nov 2026 06:37:06 EST",
+   "source": "rss",
+   "sentiment_score": 0.10925925925925926,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "life",
+    "nasa",
+    "perseverance",
+    "ancient",
+    "mars"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient M",
+   "category": "News"
+  },
+  {
+   "id": "77c66b3ded098886ee54fb7a026ceae8",
+   "sector": "Science",
+   "title": "Crows can make decisions twice as fast as humans, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+   "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of T\u00fcbingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+   "published": "Thu, 12 Nov 2026 07:17:19 EST",
+   "source": "rss",
+   "sentiment_score": 0.22222222222222224,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "crows",
+    "make",
+    "decisions",
+    "twice",
+    "fast"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at t",
    "category": "News"
   },
   {
@@ -972,6 +1041,52 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A remarkable discovery in a South African cave suggests that an extinct human relative may have crea",
+   "category": "News"
+  },
+  {
+   "id": "20e70c8023e7cd0f3f70a7e00db84277",
+   "sector": "Science",
+   "title": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+   "summary": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by side.",
+   "published": "Thu, 12 Nov 2026 05:47:43 EST",
+   "source": "rss",
+   "sentiment_score": 0.034722222222222224,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "butterfly",
+    "scientists",
+    "side",
+    "fooled",
+    "years"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly iden",
+   "category": "News"
+  },
+  {
+   "id": "45576be6b966e9b323a5eb048ee4f922",
+   "sector": "Science",
+   "title": "AI-powered bionic eye breakthrough could help the blind see again",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+   "published": "Thu, 12 Nov 2026 06:55:55 EST",
+   "source": "rss",
+   "sentiment_score": 0.0625,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "powered",
+    "bionic",
+    "could",
+    "blind",
+    "technology"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology mo",
    "category": "News"
   },
   {
@@ -1018,121 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual w",
-   "category": "News"
-  },
-  {
-   "id": "5f68eb36a3e81d9aad86f27a3d5aa1cc",
-   "sector": "Science",
-   "title": "A massive new simulation reveals how the universe emerged from darkness",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-   "summary": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not.",
-   "published": "Wed, 11 Nov 2026 23:07:24 EST",
-   "source": "rss",
-   "sentiment_score": 0.0765993265993266,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "simulation",
-    "universe",
-    "cosmic",
-    "billion",
-    "years"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark ",
-   "category": "News"
-  },
-  {
-   "id": "15e64ef0f59c94fe8d6a1c398953b125",
-   "sector": "Science",
-   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-   "summary": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-   "published": "Tue, 10 Nov 2026 20:36:04 EST",
-   "source": "rss",
-   "sentiment_score": -0.055952380952380955,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "scientists",
-    "giant",
-    "rodent",
-    "lived",
-    "million"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, rev",
-   "category": "News"
-  },
-  {
-   "id": "8cbb752eada09e7ffab06cc768009f3b",
-   "sector": "Science",
-   "title": "Why heart attacks can still happen even when bad cholesterol is low",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-   "summary": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
-   "published": "Mon, 09 Nov 2026 20:54:15 EST",
-   "source": "rss",
-   "sentiment_score": -0.21111111111111108,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "cholesterol",
-    "heart",
-    "attacks",
-    "even",
-    "when"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart att",
-   "category": "News"
-  },
-  {
-   "id": "a270b82fbe7f41bf3ffb75ccf5f8a3f3",
-   "sector": "Science",
-   "title": "The mystery of how hair knows where to grow may finally be solved",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
-   "summary": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blueprint.",
-   "published": "Wed, 11 Nov 2026 07:48:30 EST",
-   "source": "rss",
-   "sentiment_score": 0.020000000000000007,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hair",
-    "patterns",
-    "mystery",
-    "knows",
-    "where"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a",
-   "category": "News"
-  },
-  {
-   "id": "749c75d1277f3b22d03573b0ec6394bc",
-   "sector": "Science",
-   "title": "NASA\u2019s Parker Solar Probe discovers a hidden pattern in the Sun\u2019s chaotic magnetic fields",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-   "summary": "NASA\u2019s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.",
-   "published": "Wed, 11 Nov 2026 20:45:09 EST",
-   "source": "rss",
-   "sentiment_score": 0.04523809523809524,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "solar",
-    "nasa",
-    "parker",
-    "probe",
-    "hidden"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "NASA\u2019s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbule",
    "category": "News"
   },
   {
@@ -1343,6 +1343,29 @@
    "category": "News"
   },
   {
+   "id": "a440a5b12c0ea907d6f6e3292789bef4",
+   "sector": "Tech/AI",
+   "title": "Switcher (2004)",
+   "link": "https://folklore.org/Switcher.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50477714\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 03:14:59 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "switcher",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50477714\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "62ad0c9cececa4ef00a25b0559c562ef",
    "sector": "Tech/AI",
    "title": "Rust 1.100",
@@ -1363,29 +1386,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50472038\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "cd230a15f35cd11f38be3cd9091df5cf",
-   "sector": "Tech/AI",
-   "title": "Why You Should Expect an AI Crash",
-   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475735\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 23:08:31 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "should",
-    "expect",
-    "crash",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475735\">Comments</a>",
    "category": "News"
   },
   {
@@ -1412,26 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "f89980b6076347854d07ff915ae22c10",
+   "id": "f170d227b66c4caf39a1eb58b4570ed0",
    "sector": "Tech/AI",
-   "title": "Foundation Models framework",
-   "link": "https://developer.apple.com/foundation-models-framework/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474361\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 21:13:26 +0000",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475713\">Comments</a>",
+   "published": "Thu, 12 Nov 2026 23:06:17 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.6,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "foundation",
-    "models",
-    "framework",
-    "href",
-    "https"
+    "frontier",
+    "capabilities",
+    "your",
+    "computer",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474361\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50475713\">Comments</a>",
    "category": "News"
   }
  ]
