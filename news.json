@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 06:27 IST",
+ "updated": "2026-11-14 12:57 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -34,10 +34,10 @@
    "article_count": 4
   },
   {
-   "keyword": "bitcoin",
+   "keyword": "nvidia",
    "frequency": 7,
-   "sectors": 2,
-   "article_count": 7
+   "sectors": 3,
+   "article_count": 4
   },
   {
    "keyword": "data",
@@ -46,9 +46,9 @@
    "article_count": 2
   },
   {
-   "keyword": "nvidia",
+   "keyword": "services",
    "frequency": 6,
-   "sectors": 3,
+   "sectors": 2,
    "article_count": 3
   },
   {
@@ -70,16 +70,16 @@
    "article_count": 2
   },
   {
-   "keyword": "microsoft",
+   "keyword": "says",
    "frequency": 5,
-   "sectors": 1,
+   "sectors": 2,
    "article_count": 3
   },
   {
-   "keyword": "outage",
+   "keyword": "bitcoin",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 3
+   "article_count": 5
   },
   {
    "keyword": "mental",
@@ -88,15 +88,15 @@
    "article_count": 1
   },
   {
-   "keyword": "services",
+   "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "countries",
-   "frequency": 5,
-   "sectors": 1,
+   "keyword": "more",
+   "frequency": 4,
+   "sectors": 2,
    "article_count": 2
   }
  ],
@@ -104,117 +104,140 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:48.701305+00:00",
+   "last_failure": "2026-11-14 07:27:39.588636+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:48.743084+00:00",
+   "last_failure": "2026-11-14 07:27:39.652685+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:48.872349+00:00",
+   "last_failure": "2026-11-14 07:27:39.714023+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:48.926503+00:00",
+   "last_failure": "2026-11-14 07:27:39.782376+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:48.971126+00:00",
+   "last_failure": "2026-11-14 07:27:39.846559+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.020078+00:00",
+   "last_failure": "2026-11-14 07:27:39.911427+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.058991+00:00",
+   "last_failure": "2026-11-14 07:27:39.977908+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.100737+00:00",
+   "last_failure": "2026-11-14 07:27:40.037470+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.146211+00:00",
+   "last_failure": "2026-11-14 07:27:40.106869+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.190285+00:00",
+   "last_failure": "2026-11-14 07:27:40.167557+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.234973+00:00",
+   "last_failure": "2026-11-14 07:27:40.228857+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.274541+00:00",
+   "last_failure": "2026-11-14 07:27:40.300696+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.316153+00:00",
+   "last_failure": "2026-11-14 07:27:40.364025+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.360915+00:00",
+   "last_failure": "2026-11-14 07:27:40.434318+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.403256+00:00",
+   "last_failure": "2026-11-14 07:27:40.492462+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-14 00:57:49.446809+00:00",
+   "last_failure": "2026-11-14 07:27:40.553148+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "20b850254811865b1cf78672ccb7817f",
+   "sector": "World",
+   "title": "What we know about the longest ground stop since 9/11",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
+   "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "what",
+    "know",
+    "about",
+    "longest",
+    "ground"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a ",
+   "category": "News"
+  },
   {
    "id": "dc57b4d65000979b13bb2c727de3739b",
    "sector": "World",
@@ -239,72 +262,49 @@
    "category": "News"
   },
   {
-   "id": "3f5bcfc388a517d18b028a0fd4bbc643",
+   "id": "63e299304fabaae82344f985d0dc05f4",
    "sector": "World",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "published": "Sat, 14 Nov 2026 05:52:31 GMT",
    "source": "rss",
-   "sentiment_score": -0.19166666666666665,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "microsoft",
-    "deeply",
-    "sorry",
-    "global",
-    "outage"
+    "trump",
+    "says",
+    "putin",
+    "plan",
+    "historic"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big ",
+   "summary_short": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman ",
    "category": "News"
   },
   {
-   "id": "efc970e5f538d5d3e629ca35bbcabe04",
+   "id": "ac19f8b3d6d4b1d584472a657b1c46da",
    "sector": "World",
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "published": "Fri, 13 Nov 2026 18:36:57 GMT",
+   "title": "Microsoft says services fully restored after for day-long global outage",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+   "published": "Sat, 14 Nov 2026 06:42:27 GMT",
    "source": "rss",
-   "sentiment_score": -0.0125,
+   "sentiment_score": -0.03333333333333333,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
+    "says",
     "microsoft",
-    "outage",
-    "lasting",
-    "long",
-    "emails"
+    "services",
+    "fully",
+    "restored"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Microsoft says it is continuing to restore services including Outlook and Teams following a global o",
-   "category": "News"
-  },
-  {
-   "id": "621dee076b51cfb69227643f3b5c7a3b",
-   "sector": "World",
-   "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-   "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-   "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-   "published": "Fri, 13 Nov 2026 11:43:27 GMT",
-   "source": "rss",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "outage",
-    "microsoft",
-    "teams",
-    "outlook",
-    "watch"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+   "summary_short": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech fir",
    "category": "News"
   },
   {
@@ -400,18 +400,18 @@
    "category": "News"
   },
   {
-   "id": "f6576dcf779e9d2d285d2688aaa61e1c",
+   "id": "096eaa80aa31e2f08aa612a436a8cec3",
    "sector": "Markets",
-   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+   "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
    "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "summary": "Agency cites \u201cextraordinary circumstances,\u201d while  Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
-   "published": "Sat, 14 Nov 2026 00:40:00 GMT",
+   "summary": "Homeland Security Secretary Mullin said that there was \u2018zero evidence\u2019 of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+   "published": "Sat, 14 Nov 2026 02:42:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.30833333333333335,
+   "sentiment_score": 0.3,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
     "flights",
-    "declares",
+    "lifts",
     "rare",
     "nationwide",
     "ground"
@@ -419,7 +419,30 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Agency cites \u201cextraordinary circumstances,\u201d while  Homeland Security Secretary Mullin says no indica",
+   "summary_short": "Homeland Security Secretary Mullin said that there was \u2018zero evidence\u2019 of cyberattack as fewer fligh",
+   "category": "News"
+  },
+  {
+   "id": "484b8c92f549e5dd086220058a33ac5a",
+   "sector": "Markets",
+   "title": "14 dividend stocks selected for long-term growth",
+   "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+   "summary": "These stocks feature attractive dividend payouts and are trading low to the companies\u2019 intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+   "published": "Sat, 14 Nov 2026 01:58:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.4,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "dividend",
+    "stocks",
+    "selected",
+    "long",
+    "term"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "These stocks feature attractive dividend payouts and are trading low to the companies\u2019 intrinsic val",
    "category": "News"
   },
   {
@@ -558,29 +581,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "adf9bccfd9deab7f380c03ba13d09f19",
-   "sector": "Markets",
-   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-   "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-   "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
-   "published": "Fri, 13 Nov 2026 21:26:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "could",
-    "investors",
-    "their",
-    "bitcoin",
-    "below"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for",
    "category": "News"
   },
   {
@@ -768,6 +768,29 @@
    "category": "News"
   },
   {
+   "id": "3dd90c27065082af213759f14cf28d56",
+   "sector": "Crypto",
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "summary": "",
+   "published": "Sat, 14 Nov 2026 04:30:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "satoshi",
+    "wallet",
+    "served",
+    "billion",
+    "lawsuit"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "f0bfafc8953b9719e9c3b52cae93af92",
    "sector": "Crypto",
    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
@@ -929,26 +952,26 @@
    "category": "News"
   },
   {
-   "id": "b9e7865c6c3a6be91ccb9d61da05bf54",
-   "sector": "Crypto",
-   "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-   "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-   "summary": "",
-   "published": "Fri, 13 Nov 2026 09:16:58 +0000",
+   "id": "2fc00f9776f88fe3e11d76fcaed155fa",
+   "sector": "Science",
+   "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+   "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt\u2019s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife.",
+   "published": "Fri, 13 Nov 2026 21:59:05 EST",
    "source": "rss",
-   "sentiment_score": 0.11212121212121212,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "live",
-    "updates",
-    "bitcoin",
-    "eyes",
-    "bear"
+    "kings",
+    "year",
+    "skulls",
+    "disturbing",
+    "ancient"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "A 5,000-year-old mystery surrounding the tombs of Egypt\u2019s first kings has taken a disturbing turn. S",
    "category": "News"
   },
   {
@@ -995,6 +1018,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our under",
+   "category": "News"
+  },
+  {
+   "id": "e04773aab62e4764a9d0cd9f1e223bcc",
+   "sector": "Science",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+   "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
+   "published": "Fri, 13 Nov 2026 20:13:05 EST",
+   "source": "rss",
+   "sentiment_score": 0.04217171717171717,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "scientists",
+    "electrons",
+    "making",
+    "seemingly",
+    "impossible"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in",
    "category": "News"
   },
   {
@@ -1087,52 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal bill",
-   "category": "News"
-  },
-  {
-   "id": "77c66b3ded098886ee54fb7a026ceae8",
-   "sector": "Science",
-   "title": "Crows can make decisions twice as fast as humans, scientists discover",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
-   "summary": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of T\u00fcbingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
-   "published": "Thu, 12 Nov 2026 07:17:19 EST",
-   "source": "rss",
-   "sentiment_score": 0.22222222222222224,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "crows",
-    "make",
-    "decisions",
-    "twice",
-    "fast"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at t",
-   "category": "News"
-  },
-  {
-   "id": "a4a6869fb0f10e510a795503ce210989",
-   "sector": "Science",
-   "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-   "summary": "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago. Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade.",
-   "published": "Wed, 11 Nov 2026 04:43:55 EST",
-   "source": "rss",
-   "sentiment_score": 0.004999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ancient",
-    "human",
-    "mystery",
-    "where",
-    "males"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A remarkable discovery in a South African cave suggests that an extinct human relative may have crea",
    "category": "News"
   },
   {
@@ -1320,9 +1320,55 @@
    "category": "News"
   },
   {
-   "id": "b20d683160e027392745ce27d275d059",
+   "id": "057a159a41cda12345925624eed2fb47",
    "sector": "Tech/AI",
-   "title": "FAA issues national ground stop",
+   "title": "Ggml v1.0.0",
+   "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493062\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ggml",
+    "href",
+    "https",
+    "news",
+    "ycombinator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493062\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "88e271405c4db1aa1f1ac780400e6515",
+   "sector": "Tech/AI",
+   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+   "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493251\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nvidia",
+    "allegedly",
+    "engineered",
+    "scarcity",
+    "funding"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493251\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "c8bf302ba5e9063c3283601b263c0a1b",
+   "sector": "Tech/AI",
+   "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
    "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
    "published": "Fri, 13 Nov 2026 21:05:53 +0000",
@@ -1334,7 +1380,7 @@
     "national",
     "ground",
     "stop",
-    "href"
+    "lifted"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,95 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "7ca5b6d3e998deeb643cde62b9682f11",
+   "id": "9de03311e1ed3521a6dd5487a04e4f6d",
    "sector": "Tech/AI",
-   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-   "link": "https://orcasairband.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50490593\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 22:04:24 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "live",
-    "airband",
-    "frequencies",
-    "kors",
-    "victoria"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50490593\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "9d2d53320d979ee21e292f5f3dc577c5",
-   "sector": "Tech/AI",
-   "title": "FM-1 Workbench",
-   "link": "https://open.m-vave.com/fm1-workbench",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488325\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 19:14:02 +0000",
+   "title": "Terminal borders that don't cost a cell",
+   "link": "https://www.joshka.net/cell-borders/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491423\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 23:06:40 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "workbench",
-    "href",
-    "https",
-    "news",
-    "ycombinator"
+    "terminal",
+    "borders",
+    "cost",
+    "cell",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488325\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491423\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "51eae5b9d51a58c30d7996a09c9ea60c",
+   "id": "30d6149596b04abb958e7f69631b282b",
    "sector": "Tech/AI",
-   "title": "What Happened to 3Com?",
-   "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491830\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 23:48:59 +0000",
+   "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+   "link": "https://unsloth.ai/docs/models/qwen3.8",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491980\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 00:06:04 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "what",
-    "happened",
-    "href",
-    "https",
-    "news"
+    "unsloth",
+    "quantizations",
+    "dynamic",
+    "update",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491830\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "76d11d4d13a5e009d9cd1fb944a652bb",
-   "sector": "Tech/AI",
-   "title": "Found: A protein that drives ageing without unleashing inflammation",
-   "link": "https://www.nature.com/articles/d41586-026-03638-3",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488470\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 19:25:21 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "found",
-    "protein",
-    "drives",
-    "ageing",
-    "without"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488470\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491980\">Comments</a>",
    "category": "News"
   }
  ]
