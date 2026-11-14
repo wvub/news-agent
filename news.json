@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14 01:55 IST",
+ "updated": "2026-11-14 06:27 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,16 @@
    "article_count": 5
   },
   {
-   "keyword": "nvidia",
-   "frequency": 9,
+   "keyword": "million",
+   "frequency": 8,
    "sectors": 3,
-   "article_count": 5
+   "article_count": 4
   },
   {
-   "keyword": "microsoft",
+   "keyword": "bitcoin",
    "frequency": 7,
    "sectors": 2,
-   "article_count": 3
+   "article_count": 7
   },
   {
    "keyword": "data",
@@ -46,13 +46,13 @@
    "article_count": 2
   },
   {
-   "keyword": "outage",
+   "keyword": "nvidia",
    "frequency": 6,
-   "sectors": 2,
+   "sectors": 3,
    "article_count": 3
   },
   {
-   "keyword": "million",
+   "keyword": "life",
    "frequency": 6,
    "sectors": 2,
    "article_count": 3
@@ -70,16 +70,16 @@
    "article_count": 2
   },
   {
-   "keyword": "bitcoin",
+   "keyword": "microsoft",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 5
+   "article_count": 3
   },
   {
-   "keyword": "life",
+   "keyword": "outage",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 2
+   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -104,117 +104,163 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.178607+00:00",
+   "last_failure": "2026-11-14 00:57:48.701305+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.255921+00:00",
+   "last_failure": "2026-11-14 00:57:48.743084+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.336735+00:00",
+   "last_failure": "2026-11-14 00:57:48.872349+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.407451+00:00",
+   "last_failure": "2026-11-14 00:57:48.926503+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.476433+00:00",
+   "last_failure": "2026-11-14 00:57:48.971126+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.544455+00:00",
+   "last_failure": "2026-11-14 00:57:49.020078+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.606909+00:00",
+   "last_failure": "2026-11-14 00:57:49.058991+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.674264+00:00",
+   "last_failure": "2026-11-14 00:57:49.100737+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.736659+00:00",
+   "last_failure": "2026-11-14 00:57:49.146211+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.797036+00:00",
+   "last_failure": "2026-11-14 00:57:49.190285+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.866410+00:00",
+   "last_failure": "2026-11-14 00:57:49.234973+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:20.934817+00:00",
+   "last_failure": "2026-11-14 00:57:49.274541+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:21.002079+00:00",
+   "last_failure": "2026-11-14 00:57:49.316153+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:21.071238+00:00",
+   "last_failure": "2026-11-14 00:57:49.360915+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:21.140293+00:00",
+   "last_failure": "2026-11-14 00:57:49.403256+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-13 20:25:21.212299+00:00",
+   "last_failure": "2026-11-14 00:57:49.446809+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "dc57b4d65000979b13bb2c727de3739b",
+   "sector": "World",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "collision",
+    "miracle",
+    "mississippi",
+    "passengers",
+    "rescued"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "category": "News"
+  },
+  {
+   "id": "3f5bcfc388a517d18b028a0fd4bbc643",
+   "sector": "World",
+   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+   "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+   "source": "rss",
+   "sentiment_score": -0.19166666666666665,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "microsoft",
+    "deeply",
+    "sorry",
+    "global",
+    "outage"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big ",
+   "category": "News"
+  },
   {
    "id": "efc970e5f538d5d3e629ca35bbcabe04",
    "sector": "World",
@@ -259,6 +305,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+   "category": "News"
+  },
+  {
+   "id": "b6cde7710333437ad3e1b451c36b613b",
+   "sector": "World",
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
+   "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+   "source": "rss",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "rocket",
+    "catch",
+    "setback",
+    "spacex",
+    "starship"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the",
    "category": "News"
   },
   {
@@ -308,29 +377,6 @@
    "category": "News"
   },
   {
-   "id": "9000170e0099978433dff8730f8bd0be",
-   "sector": "World",
-   "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-   "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
-   "published": "Fri, 13 Nov 2026 15:42:52 GMT",
-   "source": "rss",
-   "sentiment_score": 0.028409090909090908,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "german",
-    "powers",
-    "spies",
-    "handed",
-    "tackle"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "German reforms mean foreign and domestic intelligence services will have greater powers to combat es",
-   "category": "News"
-  },
-  {
    "id": "fc1531bfd44a5466da6400c49574b4f5",
    "sector": "World",
    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
@@ -354,233 +400,256 @@
    "category": "News"
   },
   {
-   "id": "228cd3d543d78cc048a6bf29939caa87",
-   "sector": "World",
-   "title": "Democratic Senate leader Schumer set to face leadership challenge",
-   "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-   "published": "Fri, 13 Nov 2026 19:03:10 GMT",
+   "id": "f6576dcf779e9d2d285d2688aaa61e1c",
+   "sector": "Markets",
+   "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+   "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+   "summary": "Agency cites \u201cextraordinary circumstances,\u201d while  Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+   "published": "Sat, 14 Nov 2026 00:40:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.04545454545454545,
+   "sentiment_score": 0.30833333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "flights",
+    "declares",
+    "rare",
+    "nationwide",
+    "ground"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Agency cites \u201cextraordinary circumstances,\u201d while  Homeland Security Secretary Mullin says no indica",
+   "category": "News"
+  },
+  {
+   "id": "7f9dcda84af54156afcbe3e10e6f378d",
+   "sector": "Markets",
+   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "published": "Fri, 13 Nov 2026 23:12:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.022222222222222223,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "leadership",
-    "democratic",
-    "senate",
-    "leader",
-    "schumer"
+    "social",
+    "security",
+    "thought",
+    "living",
+    "terrifies"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's rece",
+   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
    "category": "News"
   },
   {
-   "id": "8c05a567ce2149442c3482770b6f87f3",
-   "sector": "World",
-   "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-   "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
-   "published": "Fri, 13 Nov 2026 13:11:23 GMT",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666669,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "ukrainian",
-    "aide",
-    "fugitive",
-    "wounded",
-    "latest"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime ",
-   "category": "News"
-  },
-  {
-   "id": "c1c7808996fca969cfe0cfa421bb8af2",
+   "id": "bcd39041e71b78ceae1ffc34c6244d9a",
    "sector": "Markets",
-   "title": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks.",
-   "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-   "summary": "The former Nvidia CEO was an \u2018influential voice\u2019 for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
-   "published": "Fri, 13 Nov 2026 20:19:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.125,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "nvidia",
-    "chinese",
-    "jensen",
-    "huang",
-    "china"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The former Nvidia CEO was an \u2018influential voice\u2019 for selling chips to Chinese companies, but now inv",
-   "category": "News"
-  },
-  {
-   "id": "4ced8d7ee07873de272c924c662e5eaa",
-   "sector": "Markets",
-   "title": "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every gavel that matters for aging and public policy\u2019",
-   "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-   "summary": "Here\u2019s what might be coming for Social Security, Medicare and long-term care.",
-   "published": "Fri, 13 Nov 2026 20:02:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.011111111111111112,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "retirees",
-    "should",
-    "beneficiaries",
-    "midterms",
-    "democrats"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Here\u2019s what might be coming for Social Security, Medicare and long-term care.",
-   "category": "News"
-  },
-  {
-   "id": "6d9360a07e669d53aa28c11314afa048",
-   "sector": "Markets",
-   "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
-   "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-   "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "published": "Fri, 13 Nov 2026 20:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10714285714285714,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "husband",
-    "inherited",
-    "refuses",
-    "spend",
-    "home"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "d092d39abef74c2f8a67f0eb4e211505",
-   "sector": "Markets",
-   "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-   "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-   "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-   "published": "Fri, 13 Nov 2026 19:40:00 GMT",
+   "title": "4 expert tips for signing up for Medicare",
+   "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+   "summary": "A day in the life of a Medicare counselor",
+   "published": "Fri, 13 Nov 2026 22:45:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "budget",
-    "airlines",
-    "going",
-    "upscale",
-    "first"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
-   "category": "News"
-  },
-  {
-   "id": "b00b69a8980b186c0f9117b87b9f886f",
-   "sector": "Markets",
-   "title": "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
-   "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-   "summary": "It\u2019s not \u201cMedicare for All,\u201d but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
-   "published": "Fri, 13 Nov 2026 19:26:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.08096590909090909,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
     "medicare",
-    "what",
-    "more",
-    "could",
-    "mean"
+    "expert",
+    "tips",
+    "signing",
+    "life"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "It\u2019s not \u201cMedicare for All,\u201d but a new bill would lower the Medicare age to 50, expanding coverage f",
+   "summary_short": "A day in the life of a Medicare counselor",
    "category": "News"
   },
   {
-   "id": "9dd8378f26d2bbc6afe7ed39033dd216",
+   "id": "061fa8da3312f19514fdac882e8bf2c0",
    "sector": "Markets",
-   "title": "The scandal at Nvidia is exactly what\u2019s wrong with the S&P 500",
-   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-   "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-   "published": "Fri, 13 Nov 2026 19:19:00 GMT",
+   "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+   "summary": "Nvidia wiped out $573 billion in market capitalization this week \u2014\u00a0its sixth consecutive week of stock declines.",
+   "published": "Fri, 13 Nov 2026 22:21:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.05,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "scandal",
     "nvidia",
-    "exactly",
-    "what",
-    "wrong"
+    "stock",
+    "week",
+    "losing",
+    "streak"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "A big chunk of your retirement is likely invested in the computer-chip giant.",
+   "summary_short": "Nvidia wiped out $573 billion in market capitalization this week \u2014\u00a0its sixth consecutive week of sto",
    "category": "News"
   },
   {
-   "id": "de05ad07b488791e8246ad9ed3d65e93",
+   "id": "16c888ac5678a043385133e1c554155b",
    "sector": "Markets",
-   "title": "Washington\u2019s efforts to block Beijing\u2019s access to Nvidia chips could spark a \u2018short-lived U.S.-China trade war\u2019 that rattles markets",
-   "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-   "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
-   "published": "Fri, 13 Nov 2026 19:19:00 GMT",
+   "title": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
+   "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+   "summary": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn\u2019t automatically lead to lower diesel prices.",
+   "published": "Fri, 13 Nov 2026 22:04:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.017187499999999994,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "diesel",
+    "more",
+    "global",
+    "supplies",
+    "suddenly"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since th",
+   "category": "News"
+  },
+  {
+   "id": "8fd5a27b413484108887be1641f9ebb0",
+   "sector": "Markets",
+   "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "published": "Fri, 13 Nov 2026 22:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "retirement",
+    "million",
+    "calls",
+    "plans",
+    "fantasy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "8fa593b9c2cd6e3d66dbb17cd88a2059",
+   "sector": "Markets",
+   "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "published": "Fri, 13 Nov 2026 21:32:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "brother",
+    "sister",
+    "history",
+    "financial",
+    "mismanagement"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "adf9bccfd9deab7f380c03ba13d09f19",
+   "sector": "Markets",
+   "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+   "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+   "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+   "published": "Fri, 13 Nov 2026 21:26:00 GMT",
    "source": "rss",
    "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "nvidia",
-    "washington",
-    "efforts",
-    "block",
-    "beijing"
+    "could",
+    "investors",
+    "their",
+    "bitcoin",
+    "below"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hear",
+   "summary_short": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for",
    "category": "News"
   },
   {
-   "id": "097e09223e91a66224e05665f7de14c3",
-   "sector": "Markets",
-   "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-   "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
-   "published": "Fri, 13 Nov 2026 19:16:00 GMT",
+   "id": "64bb8075378b071a54ba6a1baf6937dd",
+   "sector": "Tech/AI",
+   "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price",
+   "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+   "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
+   "published": "Fri, 13 Nov 2026 23:00:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.15,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.2622159090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "inherited",
-    "million",
-    "father",
-    "wrong",
-    "husband"
+    "colorsoft",
+    "premium",
+    "edge",
+    "amazon",
+    "kindle"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected ",
+   "summary_short": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. B",
+   "category": "News"
+  },
+  {
+   "id": "4650c8dc21502c730c38b9ab22b87b49",
+   "sector": "Tech/AI",
+   "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "huang",
+    "founders",
+    "jensen",
+    "departure",
+    "blasts"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and V",
+   "category": "News"
+  },
+  {
+   "id": "74fc06bf32c908c665781d7700175bb6",
+   "sector": "Tech/AI",
+   "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+   "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+   "published": "Fri, 13 Nov 2026 21:44:38 +0000",
+   "source": "rss",
+   "sentiment_score": 0.05208333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "across",
+    "united",
+    "states",
+    "government",
+    "grounds"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication i",
    "category": "News"
   },
   {
@@ -630,9 +699,9 @@
    "category": "News"
   },
   {
-   "id": "335f471ff883d6635bcb2b3f5bb4a72a",
+   "id": "7eca274b750eeac71d8e61243e1d5003",
    "sector": "Tech/AI",
-   "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+   "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "published": "Fri, 13 Nov 2026 18:40:30 +0000",
@@ -699,72 +768,26 @@
    "category": "News"
   },
   {
-   "id": "245f70084390befc09f3d2b1eccc9cf1",
-   "sector": "Tech/AI",
-   "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
-   "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-   "published": "Fri, 13 Nov 2026 14:57:55 +0000",
+   "id": "f0bfafc8953b9719e9c3b52cae93af92",
+   "sector": "Crypto",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "summary": "",
+   "published": "Fri, 13 Nov 2026 23:30:00 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "drivers",
-    "license",
-    "information",
-    "uber",
-    "confirms"
+    "bitcoin",
+    "miners",
+    "paraguay",
+    "million",
+    "year"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was ",
-   "category": "News"
-  },
-  {
-   "id": "562298b89450b7a8cbbe6dd007e3e857",
-   "sector": "Tech/AI",
-   "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
-   "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-   "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-   "published": "Fri, 13 Nov 2026 14:44:48 +0000",
-   "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "meeting",
-    "dictation",
-    "teams",
-    "elevenlabs",
-    "combines"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-   "category": "News"
-  },
-  {
-   "id": "0972d142e0e88b244f04ba6b735fd48d",
-   "sector": "Tech/AI",
-   "title": "Microsoft\u2019s latest email outage turned into a full-blown global cloud crisis",
-   "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-   "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-   "published": "Fri, 13 Nov 2026 13:15:20 +0000",
-   "source": "rss",
-   "sentiment_score": 0.2333333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "microsoft",
-    "outage",
-    "cloud",
-    "latest",
-    "email"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's ",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -921,29 +944,6 @@
     "bitcoin",
     "eyes",
     "bear"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "117e68914718d9fb691cb417dabf865a",
-   "sector": "Crypto",
-   "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-   "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-   "summary": "",
-   "published": "Fri, 13 Nov 2026 07:05:29 +0000",
-   "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "ethereum",
-    "treasury",
-    "firm",
-    "btcs",
-    "sold"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,6 +1320,52 @@
    "category": "News"
   },
   {
+   "id": "b20d683160e027392745ce27d275d059",
+   "sector": "Tech/AI",
+   "title": "FAA issues national ground stop",
+   "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 21:05:53 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "issues",
+    "national",
+    "ground",
+    "stop",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "7ca5b6d3e998deeb643cde62b9682f11",
+   "sector": "Tech/AI",
+   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+   "link": "https://orcasairband.com/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50490593\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 22:04:24 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "live",
+    "airband",
+    "frequencies",
+    "kors",
+    "victoria"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50490593\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "9d2d53320d979ee21e292f5f3dc577c5",
    "sector": "Tech/AI",
    "title": "FM-1 Workbench",
@@ -1343,95 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "ac61ab06f1fe9d40707dd59f9b8d63bd",
+   "id": "51eae5b9d51a58c30d7996a09c9ea60c",
    "sector": "Tech/AI",
-   "title": "After 600 experiments, here's what I discovered about JEPA world models",
-   "link": "https://haddyalchaer.com/jepa",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487185\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 17:55:28 +0000",
+   "title": "What Happened to 3Com?",
+   "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491830\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 23:48:59 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "after",
-    "experiments",
-    "here",
     "what",
-    "discovered"
+    "happened",
+    "href",
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487185\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491830\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "19c73b530f8355f326da686e8fec6719",
+   "id": "76d11d4d13a5e009d9cd1fb944a652bb",
    "sector": "Tech/AI",
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474959\">Comments</a>",
-   "published": "Thu, 12 Nov 2026 22:03:09 +0000",
+   "title": "Found: A protein that drives ageing without unleashing inflammation",
+   "link": "https://www.nature.com/articles/d41586-026-03638-3",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488470\">Comments</a>",
+   "published": "Fri, 13 Nov 2026 19:25:21 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "reverse",
-    "engineering",
-    "coway",
-    "purifier",
-    "ditch"
+    "found",
+    "protein",
+    "drives",
+    "ageing",
+    "without"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50474959\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c36d08791bddac9e322b127fb16f6f83",
-   "sector": "Tech/AI",
-   "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-   "link": "https://isometricsf.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487228\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 17:58:37 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "show",
-    "isometric",
-    "pixel",
-    "area",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487228\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0ae1ac542602749696a1624ab322323d",
-   "sector": "Tech/AI",
-   "title": "Models can now transmit viruses in weight-space",
-   "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487762\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 18:33:35 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "models",
-    "transmit",
-    "viruses",
-    "weight",
-    "space"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50487762\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50488470\">Comments</a>",
    "category": "News"
   }
  ]
