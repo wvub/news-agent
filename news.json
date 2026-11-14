@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14 12:57 IST",
+ "updated": "2026-11-14 19:54 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -28,15 +28,9 @@
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 8,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
-   "keyword": "nvidia",
+   "keyword": "says",
    "frequency": 7,
-   "sectors": 3,
+   "sectors": 2,
    "article_count": 4
   },
   {
@@ -52,16 +46,10 @@
    "article_count": 3
   },
   {
-   "keyword": "life",
+   "keyword": "million",
    "frequency": 6,
    "sectors": 2,
    "article_count": 3
-  },
-  {
-   "keyword": "earth",
-   "frequency": 6,
-   "sectors": 1,
-   "article_count": 2
   },
   {
    "keyword": "survey",
@@ -70,16 +58,16 @@
    "article_count": 2
   },
   {
-   "keyword": "says",
+   "keyword": "could",
    "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
+   "sectors": 3,
+   "article_count": 4
   },
   {
-   "keyword": "bitcoin",
+   "keyword": "stocks",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 5
+   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -94,9 +82,21 @@
    "article_count": 2
   },
   {
-   "keyword": "more",
+   "keyword": "huang",
    "frequency": 4,
-   "sectors": 2,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "bitcoin",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 4
+  },
+  {
+   "keyword": "hidden",
+   "frequency": 4,
+   "sectors": 1,
    "article_count": 2
   }
  ],
@@ -104,124 +104,124 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.588636+00:00",
+   "last_failure": "2026-11-14 14:24:53.174075+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.652685+00:00",
+   "last_failure": "2026-11-14 14:24:53.265641+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.714023+00:00",
+   "last_failure": "2026-11-14 14:24:53.348404+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.782376+00:00",
+   "last_failure": "2026-11-14 14:24:53.469165+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.846559+00:00",
+   "last_failure": "2026-11-14 14:24:53.554343+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.911427+00:00",
+   "last_failure": "2026-11-14 14:24:53.658786+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:39.977908+00:00",
+   "last_failure": "2026-11-14 14:24:53.761927+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.037470+00:00",
+   "last_failure": "2026-11-14 14:24:53.851785+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.106869+00:00",
+   "last_failure": "2026-11-14 14:24:53.954294+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.167557+00:00",
+   "last_failure": "2026-11-14 14:24:54.042164+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.228857+00:00",
+   "last_failure": "2026-11-14 14:24:54.132756+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.300696+00:00",
+   "last_failure": "2026-11-14 14:24:54.217307+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.364025+00:00",
+   "last_failure": "2026-11-14 14:24:54.306670+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.434318+00:00",
+   "last_failure": "2026-11-14 14:24:54.372949+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.492462+00:00",
+   "last_failure": "2026-11-14 14:24:54.444277+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-14 07:27:40.553148+00:00",
+   "last_failure": "2026-11-14 14:24:54.544125+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "20b850254811865b1cf78672ccb7817f",
+   "id": "d0f650614dcc6852709157e1395166ac",
    "sector": "World",
-   "title": "What we know about the longest ground stop since 9/11",
+   "title": "What we know about the ground stop and what to do if you're affected",
    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-   "published": "Sat, 14 Nov 2026 03:45:21 GMT",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "published": "Sat, 14 Nov 2026 14:20:57 GMT",
    "source": "rss",
    "sentiment_score": 0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -229,36 +229,36 @@
     "what",
     "know",
     "about",
-    "longest",
-    "ground"
+    "ground",
+    "stop"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a ",
+   "summary_short": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
    "category": "News"
   },
   {
-   "id": "dc57b4d65000979b13bb2c727de3739b",
+   "id": "64fab206071333097c322d5745fae024",
    "sector": "World",
-   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-   "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+   "published": "Sat, 14 Nov 2026 11:41:20 GMT",
    "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "collision",
-    "miracle",
-    "mississippi",
-    "passengers",
-    "rescued"
+    "says",
+    "floated",
+    "ukraine",
+    "ceding",
+    "donbas"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "summary_short": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Ru",
    "category": "News"
   },
   {
@@ -285,9 +285,55 @@
    "category": "News"
   },
   {
-   "id": "ac19f8b3d6d4b1d584472a657b1c46da",
+   "id": "dc57b4d65000979b13bb2c727de3739b",
    "sector": "World",
-   "title": "Microsoft says services fully restored after for day-long global outage",
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "collision",
+    "miracle",
+    "mississippi",
+    "passengers",
+    "rescued"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+   "category": "News"
+  },
+  {
+   "id": "3543640de0150476f313074c50a7b651",
+   "sector": "World",
+   "title": "Second catch attempt for SpaceX Starship rocket",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.",
+   "published": "Sat, 14 Nov 2026 14:18:41 GMT",
+   "source": "rss",
+   "sentiment_score": -0.07777777777777778,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "catch",
+    "attempt",
+    "rocket",
+    "second",
+    "spacex"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down ",
+   "category": "News"
+  },
+  {
+   "id": "0edf6497dc32002f69e02a50b297c969",
+   "sector": "World",
+   "title": "Microsoft says services fully restored after day-long global outage",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
    "published": "Sat, 14 Nov 2026 06:42:27 GMT",
@@ -308,26 +354,26 @@
    "category": "News"
   },
   {
-   "id": "b6cde7710333437ad3e1b451c36b613b",
+   "id": "c0ee742c8a51b1260f3c46f7a9baa87d",
    "sector": "World",
-   "title": "Setback for SpaceX Starship rocket's double-catch test",
-   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
-   "published": "Sat, 14 Nov 2026 00:01:01 GMT",
+   "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
+   "published": "Sat, 14 Nov 2026 10:42:20 GMT",
    "source": "rss",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "rocket",
-    "catch",
-    "setback",
-    "spacex",
-    "starship"
+    "minister",
+    "hungarian",
+    "authorities",
+    "uncover",
+    "during"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the",
+   "summary_short": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April.",
    "category": "News"
   },
   {
@@ -354,72 +400,118 @@
    "category": "News"
   },
   {
-   "id": "391017b1d29d4bb766f2da809138e763",
-   "sector": "World",
-   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "summary": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-   "published": "Fri, 13 Nov 2026 19:53:57 GMT",
-   "source": "rss",
-   "sentiment_score": -0.35,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "nvidia",
-    "scandal",
-    "fallout",
-    "widens",
-    "trump"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scott Bessent suggests Howard Lutnick\u2019s commerce department failed to ban exports of Nvidia's chips ",
-   "category": "News"
-  },
-  {
-   "id": "fc1531bfd44a5466da6400c49574b4f5",
-   "sector": "World",
-   "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
-   "published": "Fri, 13 Nov 2026 18:34:45 GMT",
-   "source": "rss",
-   "sentiment_score": 0.6,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "pope",
-    "peruvian",
-    "city",
-    "embraced",
-    "peru"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung ",
-   "category": "News"
-  },
-  {
-   "id": "096eaa80aa31e2f08aa612a436a8cec3",
+   "id": "9721a30e556be99d52e5fb5348326808",
    "sector": "Markets",
-   "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+   "title": "U.S. air travel could take days to recover after FAA\u2019s lifting of rare nationwide ground stop",
    "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-   "summary": "Homeland Security Secretary Mullin said that there was \u2018zero evidence\u2019 of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-   "published": "Sat, 14 Nov 2026 02:42:00 GMT",
+   "summary": "Homeland Security Secretary Markwayne Mullin says \u201czero evidence\u201d of cyberattack, while high jet-fuel costs mean fewer flights available to travelers seeking to rebook.",
+   "published": "Sat, 14 Nov 2026 14:04:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.3,
+   "sentiment_score": 0.136875,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "flights",
-    "lifts",
-    "rare",
-    "nationwide",
-    "ground"
+    "travel",
+    "could",
+    "take",
+    "days",
+    "recover"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Homeland Security Secretary Mullin said that there was \u2018zero evidence\u2019 of cyberattack as fewer fligh",
+   "summary_short": "Homeland Security Secretary Markwayne Mullin says \u201czero evidence\u201d of cyberattack, while high jet-fue",
+   "category": "News"
+  },
+  {
+   "id": "efeaf052bf280f8af6306b0b12f93300",
+   "sector": "Markets",
+   "title": "What\u2019s the most tax-efficient way to donate to charity?",
+   "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+   "summary": "How to make your donations beneficial for both you and the recipient",
+   "published": "Sat, 14 Nov 2026 14:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "what",
+    "most",
+    "efficient",
+    "donate",
+    "charity"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "How to make your donations beneficial for both you and the recipient",
+   "category": "News"
+  },
+  {
+   "id": "d7d041d02873c32570196ec711797130",
+   "sector": "Markets",
+   "title": "Washington can start delivering on affordability by rejecting Trump\u2019s tariffs",
+   "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+   "summary": "Americans voted against policies that drove up their costs. Will policymakers ignore them?",
+   "published": "Sat, 14 Nov 2026 13:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "washington",
+    "start",
+    "delivering",
+    "affordability",
+    "rejecting"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Americans voted against policies that drove up their costs. Will policymakers ignore them?",
+   "category": "News"
+  },
+  {
+   "id": "5fae4bb18a77a55d46bb1d59dc7d9077",
+   "sector": "Markets",
+   "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+   "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+   "summary": "The postelection panic over data centers has led to a widespread tech selloff, but some stocks are more insulated than they seem, according to Bernstein.",
+   "published": "Sat, 14 Nov 2026 13:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "stocks",
+    "these",
+    "battered",
+    "could",
+    "bounce"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The postelection panic over data centers has led to a widespread tech selloff, but some stocks are m",
+   "category": "News"
+  },
+  {
+   "id": "872ecac657ddc69603c535b40af9b682",
+   "sector": "Markets",
+   "title": "China\u2019s hottest stocks these days have one thing in common: names that sound like sheep",
+   "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+   "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+   "published": "Sat, 14 Nov 2026 12:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.029166666666666657,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "sheep",
+    "china",
+    "hottest",
+    "stocks",
+    "these"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year",
    "category": "News"
   },
   {
@@ -489,98 +581,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A day in the life of a Medicare counselor",
-   "category": "News"
-  },
-  {
-   "id": "061fa8da3312f19514fdac882e8bf2c0",
-   "sector": "Markets",
-   "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-   "summary": "Nvidia wiped out $573 billion in market capitalization this week \u2014\u00a0its sixth consecutive week of stock declines.",
-   "published": "Fri, 13 Nov 2026 22:21:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "stock",
-    "week",
-    "losing",
-    "streak"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nvidia wiped out $573 billion in market capitalization this week \u2014\u00a0its sixth consecutive week of sto",
-   "category": "News"
-  },
-  {
-   "id": "16c888ac5678a043385133e1c554155b",
-   "sector": "Markets",
-   "title": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
-   "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-   "summary": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn\u2019t automatically lead to lower diesel prices.",
-   "published": "Fri, 13 Nov 2026 22:04:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.017187499999999994,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "diesel",
-    "more",
-    "global",
-    "supplies",
-    "suddenly"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since th",
-   "category": "News"
-  },
-  {
-   "id": "8fd5a27b413484108887be1641f9ebb0",
-   "sector": "Markets",
-   "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
-   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
-   "published": "Fri, 13 Nov 2026 22:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "retirement",
-    "million",
-    "calls",
-    "plans",
-    "fantasy"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "8fa593b9c2cd6e3d66dbb17cd88a2059",
-   "sector": "Markets",
-   "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-   "published": "Fri, 13 Nov 2026 21:32:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "brother",
-    "sister",
-    "history",
-    "financial",
-    "mismanagement"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
    "category": "News"
   },
   {
@@ -768,6 +768,52 @@
    "category": "News"
   },
   {
+   "id": "c54ba02037f2a299dd0faf6a0b202ac7",
+   "sector": "Crypto",
+   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+   "summary": "",
+   "published": "Sat, 14 Nov 2026 13:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "britain",
+    "could",
+    "turn",
+    "wasted",
+    "scottish"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "1da37c5ccd9b9ed85e6d0b8a9bcaeb2b",
+   "sector": "Crypto",
+   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+   "summary": "",
+   "published": "Sat, 14 Nov 2026 12:57:00 +0000",
+   "source": "rss",
+   "sentiment_score": -0.4,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "behind",
+    "scenes",
+    "force",
+    "amplify",
+    "bitcoin"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "3dd90c27065082af213759f14cf28d56",
    "sector": "Crypto",
    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
@@ -906,49 +952,72 @@
    "category": "News"
   },
   {
-   "id": "bced8bae7544df077226e43aaa07fae5",
-   "sector": "Crypto",
-   "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-   "summary": "",
-   "published": "Fri, 13 Nov 2026 12:14:22 +0000",
+   "id": "3817ab0bd07257de339146feac7d9084",
+   "sector": "Science",
+   "title": "Scientists find a simple daily routine linked to less pain and depression",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+   "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.",
+   "published": "Sat, 14 Nov 2026 07:48:01 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.034895833333333334,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "momentum",
-    "gauge",
-    "turning",
+    "daily",
+    "simple",
+    "routine",
+    "less",
+    "pain"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A simple change to your daily routine could make a surprising difference in how you feel, both physi",
+   "category": "News"
+  },
+  {
+   "id": "3622ea2ebcf4acad11c2d4f912f1a824",
+   "sector": "Science",
+   "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+   "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
+   "published": "Sat, 14 Nov 2026 06:58:42 EST",
+   "source": "rss",
+   "sentiment_score": 0.10774410774410774,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "beyond",
+    "dwarf",
+    "planet",
+    "pluto",
     "could"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in",
    "category": "News"
   },
   {
-   "id": "45bebbde30ef7839b94c84d3bcdb1199",
-   "sector": "Crypto",
-   "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-   "summary": "",
-   "published": "Fri, 13 Nov 2026 11:52:25 +0000",
+   "id": "eeb5bfca06cd0a5676e95398135fce7c",
+   "sector": "Science",
+   "title": "Stanford scientists discover hidden brain signals that predict Alzheimer\u2019s years before symptoms",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer\u2019s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+   "published": "Sat, 14 Nov 2026 07:25:05 EST",
    "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.016666666666666663,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "hits",
-    "week",
-    "dollar",
-    "rallies"
+    "stanford",
+    "hidden",
+    "brain",
+    "predict",
+    "alzheimer"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer\u2019s ",
    "category": "News"
   },
   {
@@ -1064,75 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? ",
-   "category": "News"
-  },
-  {
-   "id": "0913b31025444cb966679cdbc765e51b",
-   "sector": "Science",
-   "title": "NASA\u2019s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-   "summary": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building blocks of life may once have been widespread across Mars.",
-   "published": "Thu, 12 Nov 2026 06:37:06 EST",
-   "source": "rss",
-   "sentiment_score": 0.10925925925925926,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "life",
-    "nasa",
-    "perseverance",
-    "ancient",
-    "mars"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient M",
-   "category": "News"
-  },
-  {
-   "id": "18faefea7c165eb7767d6eb27c30c040",
-   "sector": "Science",
-   "title": "The Sun unleashed a monster storm. Earth may have made it worse",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-   "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth's upper atmosphere rather than the solar wind. Scientists also detected an extraordinary 40% weakening of Earth's magnetic field high above the planet.",
-   "published": "Fri, 13 Nov 2026 04:49:36 EST",
-   "source": "rss",
-   "sentiment_score": 0.09933333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "earth",
-    "storm",
-    "solar",
-    "atmosphere",
-    "unleashed"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twi",
-   "category": "News"
-  },
-  {
-   "id": "867de11c6dc0cd014c8464120fdedb5e",
-   "sector": "Science",
-   "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-   "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history.",
-   "published": "Fri, 13 Nov 2026 06:08:34 EST",
-   "source": "rss",
-   "sentiment_score": -0.09787878787878787,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "years",
-    "dark",
-    "energy",
-    "negative",
-    "positive"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal bill",
    "category": "News"
   },
   {
@@ -1320,6 +1320,52 @@
    "category": "News"
   },
   {
+   "id": "065bb8390c19d57f42516b3467351e36",
+   "sector": "Tech/AI",
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50440709\">Comments</a>",
+   "published": "Tue, 10 Nov 2026 14:16:05 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "expensive",
+    "when",
+    "phone",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50440709\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "1efe0318c866110b0dba98e7cd2c13ab",
+   "sector": "Tech/AI",
+   "title": "Generative AI uses more energy on non-English text",
+   "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50441444\">Comments</a>",
+   "published": "Tue, 10 Nov 2026 15:07:28 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "generative",
+    "uses",
+    "more",
+    "energy",
+    "english"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50441444\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "057a159a41cda12345925624eed2fb47",
    "sector": "Tech/AI",
    "title": "Ggml v1.0.0",
@@ -1343,95 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "88e271405c4db1aa1f1ac780400e6515",
+   "id": "519b0c6366fcbc77e92014f710105615",
    "sector": "Tech/AI",
-   "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-   "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493251\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 02:52:59 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "allegedly",
-    "engineered",
-    "scarcity",
-    "funding"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493251\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c8bf302ba5e9063c3283601b263c0a1b",
-   "sector": "Tech/AI",
-   "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
-   "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 21:05:53 +0000",
+   "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+   "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50496602\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 12:45:45 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "issues",
-    "national",
-    "ground",
-    "stop",
-    "lifted"
+    "tech",
+    "companies",
+    "trying",
+    "shift",
+    "concept"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50489641\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50496602\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "9de03311e1ed3521a6dd5487a04e4f6d",
+   "id": "fff9844e65af30daf3914f47080561c8",
    "sector": "Tech/AI",
-   "title": "Terminal borders that don't cost a cell",
-   "link": "https://www.joshka.net/cell-borders/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491423\">Comments</a>",
-   "published": "Fri, 13 Nov 2026 23:06:40 +0000",
+   "title": "Monkey Island: all 13 versions side by side",
+   "link": "https://monkeyisland.pages.dev/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493904\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 04:23:30 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.05,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "terminal",
-    "borders",
-    "cost",
-    "cell",
+    "side",
+    "monkey",
+    "island",
+    "versions",
     "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491423\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "30d6149596b04abb958e7f69631b282b",
-   "sector": "Tech/AI",
-   "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-   "link": "https://unsloth.ai/docs/models/qwen3.8",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491980\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 00:06:04 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "unsloth",
-    "quantizations",
-    "dynamic",
-    "update",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50491980\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50493904\">Comments</a>",
    "category": "News"
   }
  ]
