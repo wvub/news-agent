@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15 00:52 IST",
+ "updated": "2026-11-15 04:44 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -23,27 +23,15 @@
   },
   {
    "keyword": "news",
-   "frequency": 13,
-   "sectors": 2,
-   "article_count": 6
-  },
-  {
-   "keyword": "bloomberg",
-   "frequency": 11,
+   "frequency": 10,
    "sectors": 1,
-   "article_count": 4
-  },
-  {
-   "keyword": "data",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 2
+   "article_count": 5
   },
   {
    "keyword": "million",
-   "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
+   "frequency": 9,
+   "sectors": 3,
+   "article_count": 5
   },
   {
    "keyword": "survey",
@@ -52,22 +40,10 @@
    "article_count": 2
   },
   {
-   "keyword": "over",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "trump",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "china",
+   "keyword": "data",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 2
+   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -88,14 +64,38 @@
    "article_count": 2
   },
   {
-   "keyword": "says",
+   "keyword": "make",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "hidden",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "spacex",
+   "keyword": "magma",
    "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "covax",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "spacex",
+   "frequency": 3,
    "sectors": 2,
    "article_count": 2
   }
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.452088+00:00",
+   "last_failure": "2026-11-14 23:14:28.643311+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.507686+00:00",
+   "last_failure": "2026-11-14 23:14:28.801819+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.570311+00:00",
+   "last_failure": "2026-11-14 23:14:28.890961+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.627189+00:00",
+   "last_failure": "2026-11-14 23:14:28.962332+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.686073+00:00",
+   "last_failure": "2026-11-14 23:14:29.070905+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.740793+00:00",
+   "last_failure": "2026-11-14 23:14:29.126906+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.795073+00:00",
+   "last_failure": "2026-11-14 23:14:29.177784+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.849180+00:00",
+   "last_failure": "2026-11-14 23:14:29.241107+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.910115+00:00",
+   "last_failure": "2026-11-14 23:14:29.285595+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:24.970579+00:00",
+   "last_failure": "2026-11-14 23:14:29.329012+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.020215+00:00",
+   "last_failure": "2026-11-14 23:14:29.371122+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.072751+00:00",
+   "last_failure": "2026-11-14 23:14:29.423892+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.122753+00:00",
+   "last_failure": "2026-11-14 23:14:29.475308+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.174504+00:00",
+   "last_failure": "2026-11-14 23:14:29.526364+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.229691+00:00",
+   "last_failure": "2026-11-14 23:14:29.584873+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-14 19:22:25.291267+00:00",
+   "last_failure": "2026-11-14 23:14:29.638228+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -243,22 +243,22 @@
    "sector": "World",
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "published": "Sat, 14 Nov 2026 19:21:10 GMT",
+   "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+   "published": "Sat, 14 Nov 2026 22:37:25 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "says",
     "floated",
     "ukraine",
     "ceding",
-    "donbas"
+    "donbas",
+    "nato"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Ru",
+   "summary_short": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas",
    "category": "News"
   },
   {
@@ -285,6 +285,29 @@
    "category": "News"
   },
   {
+   "id": "36a3bb952fd4886d9e98c4091a9a8888",
+   "sector": "World",
+   "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+   "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+   "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "spacex",
+    "believe",
+    "catches",
+    "part",
+    "starship"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "category": "News"
+  },
+  {
    "id": "e84d4f0cb04d93265c984d4cd37ebb38",
    "sector": "World",
    "title": "Philippines wins first Eurovision Song Contest Asia",
@@ -305,29 +328,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-   "category": "News"
-  },
-  {
-   "id": "3543640de0150476f313074c50a7b651",
-   "sector": "World",
-   "title": "Second catch attempt for SpaceX Starship rocket",
-   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.",
-   "published": "Sat, 14 Nov 2026 14:18:41 GMT",
-   "source": "rss",
-   "sentiment_score": -0.07777777777777778,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "catch",
-    "attempt",
-    "rocket",
-    "second",
-    "spacex"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down ",
    "category": "News"
   },
   {
@@ -400,187 +400,233 @@
    "category": "News"
   },
   {
-   "id": "4aa06c3b8da23343396f8a6c117ca583",
+   "id": "288f4774f24f321b7b37ae5508205f7b",
    "sector": "Markets",
-   "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship\u2019s Longest Test Flight",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-   "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and \u201cEnding Alzheimer\u2019s\u201d Podcast Host David Cameron, Space Network Co-Founder Ross Hamilton, Axios Tech Policy Reporter Maria Curi, The Jamestown Foundation President and \u201cChinese Communist Espionage\u201d Author and Former CIA Counterintelligence Analyst Peter Mattis, Poppi Co-",
-   "published": "Sat, 14 Nov 2026 16:45:01 GMT",
+   "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+   "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+   "summary": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
+   "published": "Sat, 14 Nov 2026 21:31:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "stop",
-    "david",
-    "former",
-    "nationwide",
-    "ground"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring c",
-   "category": "News"
-  },
-  {
-   "id": "ff9543ee2175468d36b2f173c3c0950e",
-   "sector": "Markets",
-   "title": "Pointed! Bloomberg\u2019s Weekly News Quiz For Risk-Takers",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-   "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg\u2019s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-   "published": "Sat, 14 Nov 2026 16:22:29 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bloomberg",
-    "news",
-    "quiz",
-    "pointed",
-    "their"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the",
-   "category": "News"
-  },
-  {
-   "id": "6d6796804a34be3d91623aceeb661dc1",
-   "sector": "Markets",
-   "title": "The Entrepreneurs Behind Poppi Start Over",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
-   "summary": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers market business into a nearly $2 billion beverage brand and what they learned from the decade-long journey. Speaking with hosts David Gura and Lisa Mateo, the couple explains why they are starting over with Jetty, a new hydration brand, and how lessons about social media, hiring and building a team are shaping their second act. (Source: Bloomberg)",
-   "published": "Sat, 14 Nov 2026 16:13:04 GMT",
-   "source": "rss",
-   "sentiment_score": -0.02171717171717173,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "they",
-    "poppi",
-    "over",
-    "bloomberg",
-    "brand"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Poppi founders Allison and Stephen Ellsworth tell Bloomberg This Weekend how they turned a farmers m",
-   "category": "News"
-  },
-  {
-   "id": "701eb53e0d00dc761ac3c3510e50ccf0",
-   "sector": "Markets",
-   "title": "How China\u2019s Intelligence Operations Target Tech",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
-   "summary": "Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China\u2019s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decision-making in strategically important industries. Speaking with hosts David Gura and Christina Ruffini, Mattis explains why technology executives can become valuable targets even without access to classified information and how AI is expanding the capabilities of Chinese intelligen",
-   "published": "Sat, 14 Nov 2026 15:41:12 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "china",
-    "intelligence",
-    "mattis",
-    "operations",
-    "target"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China\u2019s Ministr",
-   "category": "News"
-  },
-  {
-   "id": "20d76956f08d67650840dadcb448df25",
-   "sector": "Markets",
-   "title": "The Stadium Bidding War Shaking Up the Midwest",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
-   "summary": "The Chicago Bears are weighing three possible homes for a new stadium: downtown Chicago, suburban Arlington Heights and Hammond, Indiana. The competition has turned into a high-stakes economic development battle involving billions of dollars in potential investment, tax incentives and public financing. Supporters say a new stadium could generate jobs, development and tax revenue, but former Indiana Governor Mitch Daniels warns that emotion can push politicians into deals that leave taxpayers pay",
-   "published": "Sat, 14 Nov 2026 15:04:14 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05909090909090909,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "stadium",
-    "chicago",
-    "indiana",
-    "into",
-    "development"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The Chicago Bears are weighing three possible homes for a new stadium: downtown Chicago, suburban Ar",
-   "category": "News"
-  },
-  {
-   "id": "c26b09c7a187400bd0ea3b3c79789712",
-   "sector": "Markets",
-   "title": "SpaceX Pushes Starship Reusability to New Test",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
-   "summary": "Space Network co-founder Ross Hamilton tells Bloomberg This Weekend why SpaceX\u2019s attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. Speaking with hosts David Gura and Christina Ruffini, Hamilton explains how more frequent and less expensive launches could accelerate Starlink expansion, orbital data centers and SpaceX\u2019s broader ambitions in space. (Source: Bloomberg)",
-   "published": "Sat, 14 Nov 2026 14:36:01 GMT",
-   "source": "rss",
-   "sentiment_score": 0.022032828282828282,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "spacex",
-    "starship",
-    "space",
-    "hamilton",
-    "bloomberg"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Space Network co-founder Ross Hamilton tells Bloomberg This Weekend why SpaceX\u2019s attempt to catch St",
-   "category": "News"
-  },
-  {
-   "id": "1d1f15a0ceb10cc864558d32d55622e5",
-   "sector": "Markets",
-   "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
-   "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick\u2019s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. (",
-   "published": "Sat, 14 Nov 2026 14:30:24 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1375,
+   "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "lutnick",
-    "china",
-    "bessent",
-    "over",
-    "nvidia"
+    "spending",
+    "roof",
+    "deck",
+    "home",
+    "good"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump adm",
+   "summary_short": "\u201cI have a net worth of $2.3 million and my only debt is a 15-year mortgage.\u201d",
    "category": "News"
   },
   {
-   "id": "a3ae42f0dfae3d90d6cfc2d8ce6c5722",
+   "id": "097e09223e91a66224e05665f7de14c3",
    "sector": "Markets",
-   "title": "Trump Heads to China for Talks With Xi and Putin",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
-   "summary": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy\u2019s push for $50 billion to modernize the US air traffic control system. Speaking with hosts David Gura and Christina Ruffini, Mason also looks ahead to President Donald Trump\u2019s Asia trip and a planned meeting with Chinese President Xi Jinping as technology and AI remain in focus. (Source: Bloomberg)",
-   "published": "Sat, 14 Nov 2026 14:11:19 GMT",
+   "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+   "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+   "summary": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected to that.\u201d",
+   "published": "Sat, 14 Nov 2026 21:00:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.15,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "trump",
-    "bloomberg",
-    "mason",
-    "president",
-    "heads"
+    "inherited",
+    "million",
+    "father",
+    "wrong",
+    "husband"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administra",
+   "summary_short": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected ",
+   "category": "News"
+  },
+  {
+   "id": "f25eb75bd62724295b33e52fb5aaf7c1",
+   "sector": "Markets",
+   "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+   "summary": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
+   "published": "Sat, 14 Nov 2026 20:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "leaves",
+    "sour",
+    "taste",
+    "elderly",
+    "mother"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "7a5adb573bf05283abf6c40d47022a3b",
+   "sector": "Markets",
+   "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
+   "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.039880952380952385,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "sick",
+    "flying",
+    "paid",
+    "priority",
+    "boarding"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
+   "category": "News"
+  },
+  {
+   "id": "9a9546d8fa0303fef68e52e65711604a",
+   "sector": "Markets",
+   "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "summary": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
+   "published": "Sat, 14 Nov 2026 18:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.23333333333333334,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "home",
+    "should",
+    "widow",
+    "leave",
+    "late"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "8fd5a27b413484108887be1641f9ebb0",
+   "sector": "Markets",
+   "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+   "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "published": "Sat, 14 Nov 2026 18:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "retirement",
+    "million",
+    "calls",
+    "plans",
+    "fantasy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "f0cdcc67d497050220105619c62cf91a",
+   "sector": "Markets",
+   "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+   "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+   "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+   "published": "Sat, 14 Nov 2026 17:50:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.30833333333333335,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "here",
+    "bernie",
+    "sanders",
+    "wants",
+    "keep"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+   "category": "News"
+  },
+  {
+   "id": "50d7fbc22802fa5dd08a2904203d9486",
+   "sector": "Markets",
+   "title": "The trillion-dollar mistake corporate America is making about retirement",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+   "published": "Sat, 14 Nov 2026 17:50:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.12222222222222223,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "trillion",
+    "dollar",
+    "mistake",
+    "corporate",
+    "america"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+   "category": "News"
+  },
+  {
+   "id": "7b22b1531e10a10efdd34e306cef7067",
+   "sector": "Tech/AI",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+   "source": "rss",
+   "sentiment_score": 0.1875,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "petition",
+    "elon",
+    "musk",
+    "other",
+    "tech"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "category": "News"
+  },
+  {
+   "id": "dbb05b548983c0b3c20ee85e8afa12d8",
+   "sector": "Tech/AI",
+   "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+   "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+   "published": "Sat, 14 Nov 2026 20:04:44 +0000",
+   "source": "rss",
+   "sentiment_score": 0.08,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "monthly",
+    "tesla",
+    "opens",
+    "cybercab",
+    "orders"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Even Elon Musk said the monthly fee is \"too high.\"",
    "category": "News"
   },
   {
@@ -722,55 +768,9 @@
    "category": "News"
   },
   {
-   "id": "74fc06bf32c908c665781d7700175bb6",
-   "sector": "Tech/AI",
-   "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
-   "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-   "published": "Fri, 13 Nov 2026 21:44:38 +0000",
-   "source": "rss",
-   "sentiment_score": 0.05208333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "across",
-    "united",
-    "states",
-    "government",
-    "grounds"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication i",
-   "category": "News"
-  },
-  {
-   "id": "b02c8352dad30534a035db923af68577",
-   "sector": "Tech/AI",
-   "title": "This young startup wants to power floating data centers with the ocean\u2019s heat, and investors are already on board",
-   "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-   "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
-   "published": "Fri, 13 Nov 2026 20:07:24 +0000",
-   "source": "rss",
-   "sentiment_score": 0.09583333333333335,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ocean",
-    "power",
-    "floating",
-    "data",
-    "centers"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first protot",
-   "category": "News"
-  },
-  {
-   "id": "9edda89909ae8922b027f8d16f29d252",
+   "id": "dac2633c83bf2f5c3d6c553220bcfa67",
    "sector": "Crypto",
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
    "summary": "",
    "published": "Sat, 14 Nov 2026 16:33:29 +0000",
@@ -779,10 +779,10 @@
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "bitcoin",
-    "slides",
+    "crashes",
     "month",
-    "analyst",
-    "flags"
+    "below",
+    "analyst"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,6 +1343,29 @@
    "category": "News"
   },
   {
+   "id": "ec04c4ae292d81194716f8f4584aec92",
+   "sector": "Tech/AI",
+   "title": "SpaceX Catches the Starship to end Flight 15",
+   "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "spacex",
+    "catches",
+    "starship",
+    "flight",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "a844403fdf62087fff82c20694aba929",
    "sector": "Tech/AI",
    "title": "A Family Tree of Software Job Titles",
@@ -1363,29 +1386,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50499038\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0a64cd756256b7aea5cfbe6dd93ee9f2",
-   "sector": "Tech/AI",
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 15:40:52 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "pypi",
-    "redesigned",
-    "project",
-    "pages",
-    "clearer"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
    "category": "News"
   },
   {
@@ -1412,26 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "065bb8390c19d57f42516b3467351e36",
+   "id": "0a64cd756256b7aea5cfbe6dd93ee9f2",
    "sector": "Tech/AI",
-   "title": "Why get an expensive Pi when I have an old phone?",
-   "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50440709\">Comments</a>",
-   "published": "Tue, 10 Nov 2026 14:16:05 +0000",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 15:40:52 +0000",
    "source": "hacker_news",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "expensive",
-    "when",
-    "phone",
-    "href",
-    "https"
+    "pypi",
+    "redesigned",
+    "project",
+    "pages",
+    "clearer"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50440709\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
    "category": "News"
   }
  ]
