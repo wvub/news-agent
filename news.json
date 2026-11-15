@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15 08:16 IST",
+ "updated": "2026-11-15 15:28 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -22,15 +22,15 @@
    "article_count": 6
   },
   {
-   "keyword": "news",
+   "keyword": "million",
    "frequency": 10,
-   "sectors": 1,
+   "sectors": 3,
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 9,
-   "sectors": 3,
+   "keyword": "news",
+   "frequency": 10,
+   "sectors": 1,
    "article_count": 5
   },
   {
@@ -40,10 +40,10 @@
    "article_count": 2
   },
   {
-   "keyword": "spacex",
+   "keyword": "alzheimer",
    "frequency": 5,
-   "sectors": 3,
-   "article_count": 3
+   "sectors": 1,
+   "article_count": 2
   },
   {
    "keyword": "data",
@@ -70,25 +70,13 @@
    "article_count": 2
   },
   {
-   "keyword": "nvidia",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 3
-  },
-  {
    "keyword": "make",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "hidden",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "magma",
+   "keyword": "dinosaurs",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
@@ -98,146 +86,135 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "covax",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "lawsuit",
+   "frequency": 3,
+   "sectors": 2,
+   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.070303+00:00",
+   "last_failure": "2026-11-15 09:58:02.167140+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.175344+00:00",
+   "last_failure": "2026-11-15 09:58:02.216383+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.288101+00:00",
+   "last_failure": "2026-11-15 09:58:02.267942+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.398916+00:00",
+   "last_failure": "2026-11-15 09:58:02.313700+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.501447+00:00",
+   "last_failure": "2026-11-15 09:58:02.354532+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.605557+00:00",
+   "last_failure": "2026-11-15 09:58:02.399546+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.710383+00:00",
+   "last_failure": "2026-11-15 09:58:02.443226+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.801923+00:00",
+   "last_failure": "2026-11-15 09:58:02.494653+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:34.938530+00:00",
+   "last_failure": "2026-11-15 09:58:02.564493+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.037074+00:00",
+   "last_failure": "2026-11-15 09:58:02.624434+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.131540+00:00",
+   "last_failure": "2026-11-15 09:58:02.669391+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.230188+00:00",
+   "last_failure": "2026-11-15 09:58:02.719202+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.342117+00:00",
+   "last_failure": "2026-11-15 09:58:02.765619+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.459263+00:00",
+   "last_failure": "2026-11-15 09:58:02.825022+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.551603+00:00",
+   "last_failure": "2026-11-15 09:58:02.871970+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-15 02:46:35.655510+00:00",
+   "last_failure": "2026-11-15 09:58:02.956792+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
-  {
-   "id": "b7bef17b5b177170edfa0bafdf83dbe2",
-   "sector": "World",
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-   "published": "Sat, 14 Nov 2026 19:12:25 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "caused",
-    "copper",
-    "wire",
-    "upgrade",
-    "nationwide"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equ",
-   "category": "News"
-  },
   {
    "id": "64fab206071333097c322d5745fae024",
    "sector": "World",
@@ -262,49 +239,118 @@
    "category": "News"
   },
   {
-   "id": "0fc84910ff7f0910e93248eff5b3e26a",
+   "id": "0f69f72897e0bf0303dcf2b801abb2ed",
    "sector": "World",
-   "title": "Italy fines Meta \u20ac805m over accessing users' photos",
-   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-   "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-   "published": "Sat, 14 Nov 2026 18:28:06 GMT",
+   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+   "published": "Sun, 15 Nov 2026 07:10:31 GMT",
    "source": "rss",
-   "sentiment_score": 0.016666666666666666,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.4,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "users",
-    "photos",
-    "italy",
-    "fines",
-    "meta"
+    "copper",
+    "wire",
+    "upgrade",
+    "behind",
+    "flight"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+   "summary_short": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equ",
    "category": "News"
   },
   {
-   "id": "36a3bb952fd4886d9e98c4091a9a8888",
+   "id": "4527b97e7cb1cd06940275b533d0fe9d",
    "sector": "World",
-   "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-   "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-   "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-   "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+   "published": "Sun, 15 Nov 2026 09:57:25 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "pope",
+    "speaks",
+    "community",
+    "suffering",
+    "visit"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2",
+   "category": "News"
+  },
+  {
+   "id": "6fc723c82956e29f8e6d04783b532180",
+   "sector": "World",
+   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+   "published": "Sun, 15 Nov 2026 03:21:04 GMT",
+   "source": "rss",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "golf",
+    "judge",
+    "temporarily",
+    "blocks",
+    "trump"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It is the latest development in a months-long challenge to the US president's plans for East Potomac",
+   "category": "News"
+  },
+  {
+   "id": "456f124fe7427ee93034456271c0b8cf",
+   "sector": "World",
+   "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+   "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+   "published": "Sun, 15 Nov 2026 09:26:37 GMT",
+   "source": "rss",
+   "sentiment_score": -0.22857142857142856,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "injuries",
+    "fire",
+    "fifth",
+    "canadian",
+    "soldier"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore thro",
+   "category": "News"
+  },
+  {
+   "id": "e51cfa3801d604accc87584c9e203ea5",
+   "sector": "World",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "published": "Sun, 15 Nov 2026 08:17:41 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "spacex",
-    "believe",
-    "catches",
-    "part",
-    "starship"
+    "hamas",
+    "commander",
+    "officials",
+    "israel",
+    "kills"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+   "summary_short": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
    "category": "News"
   },
   {
@@ -331,72 +377,26 @@
    "category": "News"
   },
   {
-   "id": "2a25477727e7c7c3eb818f4e79d70442",
+   "id": "4e5c6baa2bfa9b7cb1eea7c6604aba7d",
    "sector": "World",
-   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-   "published": "Sat, 14 Nov 2026 18:00:10 GMT",
+   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+   "published": "Sat, 14 Nov 2026 22:27:06 GMT",
    "source": "rss",
-   "sentiment_score": -0.16666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "sotheby",
-    "auction",
-    "gogh",
-    "challenged",
-    "over"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try a",
-   "category": "News"
-  },
-  {
-   "id": "63e299304fabaae82344f985d0dc05f4",
-   "sector": "World",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "published": "Sat, 14 Nov 2026 15:53:55 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15,
+   "sentiment_score": 0.13636363636363635,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "trump",
-    "says",
-    "putin",
-    "plan",
-    "historic"
+    "orleans",
+    "lawsuit",
+    "tanker",
+    "collision",
+    "port"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman ",
-   "category": "News"
-  },
-  {
-   "id": "dfa0a49bf4cef90b7fe3a51b6695490b",
-   "sector": "World",
-   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-   "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-   "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-   "published": "Sat, 14 Nov 2026 00:03:52 GMT",
-   "source": "rss",
-   "sentiment_score": -0.024999999999999994,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "succession",
-    "arrested",
-    "generals",
-    "threatened",
-    "president"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic ",
+   "summary_short": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision w",
    "category": "News"
   },
   {
@@ -768,6 +768,29 @@
    "category": "News"
   },
   {
+   "id": "3fd6ace2c32bd3f2a5cab4dec75ca33d",
+   "sector": "Crypto",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "summary": "",
+   "published": "Sun, 15 Nov 2026 02:50:57 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "crashes",
+    "lowest",
+    "since",
+    "november",
+    "money"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "f866a8cb520ae90c96d4f2f88061eea4",
    "sector": "Crypto",
    "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
@@ -929,26 +952,26 @@
    "category": "News"
   },
   {
-   "id": "f0bfafc8953b9719e9c3b52cae93af92",
-   "sector": "Crypto",
-   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-   "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-   "summary": "",
-   "published": "Fri, 13 Nov 2026 23:30:00 +0000",
+   "id": "9eedf0eddf808542f9f48fbfa4e6d87c",
+   "sector": "Science",
+   "title": "Alzheimer\u2019s may start shrinking two brain regions years before memory loss",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer\u2019s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer\u2019s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+   "published": "Sat, 14 Nov 2026 23:31:56 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.040606060606060604,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "miners",
-    "paraguay",
-    "million",
-    "year"
+    "alzheimer",
+    "before",
+    "memory",
+    "start",
+    "shrinking"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer\u2019s disease that may appear ",
    "category": "News"
   },
   {
@@ -972,6 +995,98 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A simple change to your daily routine could make a surprising difference in how you feel, both physi",
+   "category": "News"
+  },
+  {
+   "id": "c001c98d9a2392f2e2bb9ebc83bb9ce8",
+   "sector": "Science",
+   "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+   "summary": "ESA\u2019s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+   "published": "Sat, 14 Nov 2026 20:52:47 EST",
+   "source": "rss",
+   "sentiment_score": 0.12916666666666665,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "euclid",
+    "ancient",
+    "cosmic",
+    "beacons",
+    "time"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "ESA\u2019s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking object",
+   "category": "News"
+  },
+  {
+   "id": "45ec924df48fa326efefef2b483c1cb7",
+   "sector": "Science",
+   "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+   "summary": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators.",
+   "published": "Sat, 14 Nov 2026 22:00:54 EST",
+   "source": "rss",
+   "sentiment_score": 0.15328282828282827,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "dinosaurs",
+    "eating",
+    "seaweed",
+    "million",
+    "years"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, a",
+   "category": "News"
+  },
+  {
+   "id": "587af888d0a5a5d2458b4169ecefb3dc",
+   "sector": "Science",
+   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+   "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+   "published": "Sat, 14 Nov 2026 21:18:16 EST",
+   "source": "rss",
+   "sentiment_score": 0.10995670995670996,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "laser",
+    "light",
+    "crystal",
+    "electrical",
+    "physicists"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions ins",
+   "category": "News"
+  },
+  {
+   "id": "f883cad9124c342e8c8cc64e2a7e9547",
+   "sector": "Science",
+   "title": "Scientists discover a bizarre paradox among endangered penguins",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+   "summary": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller.",
+   "published": "Sat, 14 Nov 2026 22:42:52 EST",
+   "source": "rss",
+   "sentiment_score": 0.23459595959595958,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "endangered",
+    "penguins",
+    "more",
+    "islands",
+    "scientists"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered",
    "category": "News"
   },
   {
@@ -1018,121 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer\u2019s ",
-   "category": "News"
-  },
-  {
-   "id": "2fc00f9776f88fe3e11d76fcaed155fa",
-   "sector": "Science",
-   "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
-   "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt\u2019s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife.",
-   "published": "Fri, 13 Nov 2026 21:59:05 EST",
-   "source": "rss",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "kings",
-    "year",
-    "skulls",
-    "disturbing",
-    "ancient"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A 5,000-year-old mystery surrounding the tombs of Egypt\u2019s first kings has taken a disturbing turn. S",
-   "category": "News"
-  },
-  {
-   "id": "124d30022ec77293899c6792926f7e6e",
-   "sector": "Science",
-   "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-   "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model.",
-   "published": "Fri, 13 Nov 2026 07:55:11 EST",
-   "source": "rss",
-   "sentiment_score": 0.060930735930735926,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hidden",
-    "viral",
-    "infections",
-    "immune",
-    "changes"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A new study reveals that viral infections may leave behind hidden damage to the immune system long a",
-   "category": "News"
-  },
-  {
-   "id": "ec50f968ef5a114fa331df61550c57a0",
-   "sector": "Science",
-   "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-   "summary": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions around the world, researchers have created a powerful tool to guide future excavations.",
-   "published": "Thu, 12 Nov 2026 06:24:47 EST",
-   "source": "rss",
-   "sentiment_score": 0.21079545454545454,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "earth",
-    "life",
-    "treasure",
-    "reveals",
-    "where"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our under",
-   "category": "News"
-  },
-  {
-   "id": "e04773aab62e4764a9d0cd9f1e223bcc",
-   "sector": "Science",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-   "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
-   "published": "Fri, 13 Nov 2026 20:13:05 EST",
-   "source": "rss",
-   "sentiment_score": 0.04217171717171717,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "scientists",
-    "electrons",
-    "making",
-    "seemingly",
-    "impossible"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in",
-   "category": "News"
-  },
-  {
-   "id": "7d7495ac4501ab77fbe7bb3cc6cf3fb9",
-   "sector": "Science",
-   "title": "Superheated magma could fuel towering lava fountains",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-   "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated.",
-   "published": "Fri, 13 Nov 2026 06:56:39 EST",
-   "source": "rss",
-   "sentiment_score": 0.21805555555555559,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "magma",
-    "superheated",
-    "lava",
-    "fountains",
-    "more"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? ",
    "category": "News"
   },
   {
@@ -1366,72 +1366,72 @@
    "category": "News"
   },
   {
-   "id": "d640a91318034addf26f6b8469ed8f94",
+   "id": "af41501a11f3c94f25b813805f107eb1",
    "sector": "Tech/AI",
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "link": "https://retrocomputing.stackexchange.com/questions/17957",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+   "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+   "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50443331\">Comments</a>",
+   "published": "Tue, 10 Nov 2026 17:21:48 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "write",
-    "apple",
-    "basic",
-    "before",
-    "building"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "a844403fdf62087fff82c20694aba929",
-   "sector": "Tech/AI",
-   "title": "A family tree of software job titles",
-   "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50499038\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 17:45:19 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "family",
-    "tree",
-    "software",
-    "titles",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50499038\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "aa7635d6ef7af8136072b3c1460beaa8",
-   "sector": "Tech/AI",
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 22:26:30 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.16,
+   "sentiment_score": 0.3,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "nvidia",
-    "deliberately",
-    "kept",
-    "prices",
-    "high"
+    "high",
+    "rare",
+    "glimpse",
+    "inside",
+    "risk"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50443331\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "36891d0cff560c753b356fa5f62060ba",
+   "sector": "Tech/AI",
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50502988\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 01:18:36 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "court",
+    "denies",
+    "motion",
+    "dismiss",
+    "dram"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50502988\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "b86cdbd2965adb24af187b5e699c888e",
+   "sector": "Tech/AI",
+   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "link": "https://space.stackexchange.com/questions/37775",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50505271\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 09:06:43 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "some",
+    "apollo",
+    "missions",
+    "carry",
+    "grenade"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50505271\">Comments</a>",
    "category": "News"
   }
  ]
