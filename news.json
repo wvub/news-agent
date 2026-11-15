@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-15 04:44 IST",
+ "updated": "2026-11-15 08:16 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -40,6 +40,12 @@
    "article_count": 2
   },
   {
+   "keyword": "spacex",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
    "keyword": "data",
    "frequency": 5,
    "sectors": 1,
@@ -64,6 +70,12 @@
    "article_count": 2
   },
   {
+   "keyword": "nvidia",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
    "keyword": "make",
    "frequency": 4,
    "sectors": 2,
@@ -86,130 +98,118 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
-  },
-  {
-   "keyword": "covax",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "spacex",
-   "frequency": 3,
-   "sectors": 2,
-   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:28.643311+00:00",
+   "last_failure": "2026-11-15 02:46:34.070303+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:28.801819+00:00",
+   "last_failure": "2026-11-15 02:46:34.175344+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:28.890961+00:00",
+   "last_failure": "2026-11-15 02:46:34.288101+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:28.962332+00:00",
+   "last_failure": "2026-11-15 02:46:34.398916+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.070905+00:00",
+   "last_failure": "2026-11-15 02:46:34.501447+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.126906+00:00",
+   "last_failure": "2026-11-15 02:46:34.605557+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.177784+00:00",
+   "last_failure": "2026-11-15 02:46:34.710383+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.241107+00:00",
+   "last_failure": "2026-11-15 02:46:34.801923+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.285595+00:00",
+   "last_failure": "2026-11-15 02:46:34.938530+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.329012+00:00",
+   "last_failure": "2026-11-15 02:46:35.037074+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.371122+00:00",
+   "last_failure": "2026-11-15 02:46:35.131540+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.423892+00:00",
+   "last_failure": "2026-11-15 02:46:35.230188+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.475308+00:00",
+   "last_failure": "2026-11-15 02:46:35.342117+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.526364+00:00",
+   "last_failure": "2026-11-15 02:46:35.459263+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.584873+00:00",
+   "last_failure": "2026-11-15 02:46:35.551603+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-14 23:14:29.638228+00:00",
+   "last_failure": "2026-11-15 02:46:35.655510+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -400,6 +400,29 @@
    "category": "News"
   },
   {
+   "id": "aeb321b3dca69869fb43c7a126cf33d4",
+   "sector": "Markets",
+   "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+   "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+   "summary": "The historic first gets SpaceX closer to \u201crapid reusability\u201d of rockets.",
+   "published": "Sun, 15 Nov 2026 00:33:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "spacex",
+    "successfully",
+    "catches",
+    "starship",
+    "rocket"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The historic first gets SpaceX closer to \u201crapid reusability\u201d of rockets.",
+   "category": "News"
+  },
+  {
    "id": "288f4774f24f321b7b37ae5508205f7b",
    "sector": "Markets",
    "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
@@ -561,26 +584,26 @@
    "category": "News"
   },
   {
-   "id": "50d7fbc22802fa5dd08a2904203d9486",
-   "sector": "Markets",
-   "title": "The trillion-dollar mistake corporate America is making about retirement",
-   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-   "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "published": "Sat, 14 Nov 2026 17:50:00 GMT",
+   "id": "90db31d6583becbffdd0f3c34bab3b50",
+   "sector": "Tech/AI",
+   "title": "Where was Nvidia\u2019s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+   "published": "Sun, 15 Nov 2026 00:08:07 +0000",
    "source": "rss",
-   "sentiment_score": 0.12222222222222223,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.043055555555555555,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "trillion",
-    "dollar",
-    "mistake",
-    "corporate",
-    "america"
+    "security",
+    "nvidia",
+    "where",
+    "team",
+    "chief"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+   "summary_short": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over ",
    "category": "News"
   },
   {
@@ -745,32 +768,9 @@
    "category": "News"
   },
   {
-   "id": "4650c8dc21502c730c38b9ab22b87b49",
-   "sector": "Tech/AI",
-   "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-   "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "huang",
-    "founders",
-    "jensen",
-    "departure",
-    "blasts"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and V",
-   "category": "News"
-  },
-  {
-   "id": "dac2633c83bf2f5c3d6c553220bcfa67",
+   "id": "f866a8cb520ae90c96d4f2f88061eea4",
    "sector": "Crypto",
-   "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
    "summary": "",
    "published": "Sat, 14 Nov 2026 16:33:29 +0000",
@@ -1320,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "6abaadf7eb6163d094ef365968cf0b28",
+   "sector": "Tech/AI",
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "link": "https://www.spacex.com/launches/starship-flight-15",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "spacex",
+    "catches",
+    "starship",
+    "flight",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "fd278dc87abc60c41b8fd75867e19e97",
    "sector": "Tech/AI",
    "title": "Lovable apps expose passport details and more than 200K private messages",
@@ -1343,32 +1366,32 @@
    "category": "News"
   },
   {
-   "id": "ec04c4ae292d81194716f8f4584aec92",
+   "id": "d640a91318034addf26f6b8469ed8f94",
    "sector": "Tech/AI",
-   "title": "SpaceX Catches the Starship to end Flight 15",
-   "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 21:22:24 +0000",
+   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+   "link": "https://retrocomputing.stackexchange.com/questions/17957",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 22:22:49 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "spacex",
-    "catches",
-    "starship",
-    "flight",
-    "href"
+    "write",
+    "apple",
+    "basic",
+    "before",
+    "building"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50500963\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501594\">Comments</a>",
    "category": "News"
   },
   {
    "id": "a844403fdf62087fff82c20694aba929",
    "sector": "Tech/AI",
-   "title": "A Family Tree of Software Job Titles",
+   "title": "A family tree of software job titles",
    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50499038\">Comments</a>",
    "published": "Sat, 14 Nov 2026 17:45:19 +0000",
@@ -1389,49 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "14412165589c82518ef82415da6c28fc",
+   "id": "aa7635d6ef7af8136072b3c1460beaa8",
    "sector": "Tech/AI",
-   "title": "KDE: The documentary [video]",
-   "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50496976\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 13:43:28 +0000",
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>",
+   "published": "Sat, 14 Nov 2026 22:26:30 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "documentary",
-    "video",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50496976\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "0a64cd756256b7aea5cfbe6dd93ee9f2",
-   "sector": "Tech/AI",
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
-   "published": "Sat, 14 Nov 2026 15:40:52 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
+   "sentiment_score": 0.16,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "pypi",
-    "redesigned",
-    "project",
-    "pages",
-    "clearer"
+    "nvidia",
+    "deliberately",
+    "kept",
+    "prices",
+    "high"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50497892\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50501631\">Comments</a>",
    "category": "News"
   }
  ]
