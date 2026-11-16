@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16 02:57 IST",
+ "updated": "2026-11-16 06:49 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -23,9 +23,15 @@
   },
   {
    "keyword": "news",
-   "frequency": 10,
+   "frequency": 12,
    "sectors": 1,
-   "article_count": 5
+   "article_count": 6
+  },
+  {
+   "keyword": "nvidia",
+   "frequency": 9,
+   "sectors": 3,
+   "article_count": 6
   },
   {
    "keyword": "million",
@@ -40,12 +46,6 @@
    "article_count": 4
   },
   {
-   "keyword": "nvidia",
-   "frequency": 6,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
    "keyword": "cancer",
    "frequency": 6,
    "sectors": 1,
@@ -56,18 +56,6 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "security",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "make",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
   },
   {
    "keyword": "data",
@@ -94,122 +82,134 @@
    "article_count": 2
   },
   {
+   "keyword": "drug",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
    "keyword": "tech",
    "frequency": 4,
    "sectors": 1,
    "article_count": 3
+  },
+  {
+   "keyword": "magnetic",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.043010+00:00",
+   "last_failure": "2026-11-16 01:19:16.889093+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.076260+00:00",
+   "last_failure": "2026-11-16 01:19:16.917305+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.102014+00:00",
+   "last_failure": "2026-11-16 01:19:16.943922+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.133005+00:00",
+   "last_failure": "2026-11-16 01:19:16.981060+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.167040+00:00",
+   "last_failure": "2026-11-16 01:19:17.003122+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.196143+00:00",
+   "last_failure": "2026-11-16 01:19:17.041744+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.227614+00:00",
+   "last_failure": "2026-11-16 01:19:17.069843+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.257090+00:00",
+   "last_failure": "2026-11-16 01:19:17.107785+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.284047+00:00",
+   "last_failure": "2026-11-16 01:19:17.149061+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.314634+00:00",
+   "last_failure": "2026-11-16 01:19:17.174314+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.342965+00:00",
+   "last_failure": "2026-11-16 01:19:17.195555+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.370623+00:00",
+   "last_failure": "2026-11-16 01:19:17.222513+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.396900+00:00",
+   "last_failure": "2026-11-16 01:19:17.253566+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.424074+00:00",
+   "last_failure": "2026-11-16 01:19:17.276805+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.460078+00:00",
+   "last_failure": "2026-11-16 01:19:17.299423+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-15 21:27:52.501326+00:00",
+   "last_failure": "2026-11-16 01:19:17.321065+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -220,22 +220,68 @@
    "sector": "World",
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
    "published": "Sun, 15 Nov 2026 19:32:39 GMT",
    "source": "rss",
    "sentiment_score": -0.07142857142857144,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "restrictions",
     "zelensky",
     "urges",
     "musk",
-    "lift"
+    "lift",
+    "starlink"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian",
+   "summary_short": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks",
+   "category": "News"
+  },
+  {
+   "id": "2f3c072792ce687623c0cd3e7ace09a4",
+   "sector": "World",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+   "published": "Sun, 15 Nov 2026 22:24:20 GMT",
+   "source": "rss",
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "china",
+    "nvidia",
+    "suspected",
+    "linked",
+    "boss"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US",
+   "category": "News"
+  },
+  {
+   "id": "fca9feffe4cbf31055818cb1dacab890",
+   "sector": "World",
+   "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+   "published": "Sun, 15 Nov 2026 23:52:10 GMT",
+   "source": "rss",
+   "sentiment_score": -0.025,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "drug",
+    "mexican",
+    "lord",
+    "miguel",
+    "angel"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s befor",
    "category": "News"
   },
   {
@@ -285,26 +331,26 @@
    "category": "News"
   },
   {
-   "id": "2f3c072792ce687623c0cd3e7ace09a4",
+   "id": "23e150064f77ca808cf9bce6538938c5",
    "sector": "World",
-   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "published": "Sun, 15 Nov 2026 14:56:21 GMT",
+   "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+   "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+   "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+   "published": "Sun, 15 Nov 2026 22:57:27 GMT",
    "source": "rss",
-   "sentiment_score": 0.2,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.09015151515151515,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "china",
-    "nvidia",
-    "suspected",
-    "linked",
-    "boss"
+    "steering",
+    "cruise",
+    "ship",
+    "failure",
+    "preceded"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US",
+   "summary_short": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffer",
    "category": "News"
   },
   {
@@ -331,72 +377,141 @@
    "category": "News"
   },
   {
-   "id": "47e6ebbaf3f72458596b8243f1dd7007",
+   "id": "8250759d27e6d4c75af0ee18c87ff51b",
    "sector": "World",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-   "published": "Sun, 15 Nov 2026 13:42:58 GMT",
+   "title": "Police ban protests near 10 schools and five universities in Paris",
+   "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+   "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+   "published": "Sun, 15 Nov 2026 22:28:54 GMT",
    "source": "rss",
-   "sentiment_score": -0.3,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "iran",
-    "attack",
-    "targets",
-    "military",
-    "base"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "It marks the second attack on the country in three days and comes as the US and Iran remain locked i",
-   "category": "News"
-  },
-  {
-   "id": "b31656cfcffdc9cee3180e6e89108ca8",
-   "sector": "World",
-   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-   "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-   "published": "Sun, 15 Nov 2026 11:06:32 GMT",
-   "source": "rss",
-   "sentiment_score": -0.1,
+   "sentiment_score": 0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "church",
-    "three",
-    "sentenced",
-    "death",
-    "jordan"
+    "police",
+    "paris",
+    "protests",
+    "near",
+    "schools"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+   "summary_short": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
    "category": "News"
   },
   {
-   "id": "6f238fcfea925a2883f046fcad0081d4",
-   "sector": "World",
-   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-   "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-   "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (\u00a3182) a month.",
-   "published": "Sun, 15 Nov 2026 16:15:20 GMT",
+   "id": "f25eb75bd62724295b33e52fb5aaf7c1",
+   "sector": "Markets",
+   "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+   "summary": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
+   "published": "Sun, 15 Nov 2026 23:30:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.5,
+   "sentiment_score": 0.15,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "workers",
-    "over",
-    "clothing",
-    "factories",
-    "shut"
+    "leaves",
+    "sour",
+    "taste",
+    "elderly",
+    "mother"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Workers are striking over demands for a minimum wage of 30,000 taka (\u00a3182) a month.",
+   "summary_short": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "9a9546d8fa0303fef68e52e65711604a",
+   "sector": "Markets",
+   "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+   "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+   "summary": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
+   "published": "Sun, 15 Nov 2026 23:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.23333333333333334,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "home",
+    "should",
+    "widow",
+    "leave",
+    "late"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "f6c2ed8ba00fe3581d8901d4d9f81bba",
+   "sector": "Markets",
+   "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
+   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "published": "Sun, 15 Nov 2026 22:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.28888888888888886,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "brother",
+    "sister",
+    "older",
+    "children",
+    "only"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "c555c6fdf6a43624e413803b329db41b",
+   "sector": "Markets",
+   "title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
+   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+   "summary": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019s history.\u201d",
+   "published": "Sun, 15 Nov 2026 21:32:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "most",
+    "earnings",
+    "nvidia",
+    "gearing",
+    "wall"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019",
+   "category": "News"
+  },
+  {
+   "id": "d092d39abef74c2f8a67f0eb4e211505",
+   "sector": "Markets",
+   "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+   "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+   "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+   "published": "Sun, 15 Nov 2026 21:31:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "budget",
+    "airlines",
+    "going",
+    "upscale",
+    "first"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
    "category": "News"
   },
   {
@@ -420,29 +535,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cHe has always said he wants his daughter to inherit a chunk of his estate, and I\u2019ve never objected ",
-   "category": "News"
-  },
-  {
-   "id": "f25eb75bd62724295b33e52fb5aaf7c1",
-   "sector": "Markets",
-   "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-   "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-   "summary": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
-   "published": "Sun, 15 Nov 2026 20:01:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "leaves",
-    "sour",
-    "taste",
-    "elderly",
-    "mother"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI know older people can easily feel patronized, and I don\u2019t want that to happen.\u201d",
    "category": "News"
   },
   {
@@ -492,95 +584,49 @@
    "category": "News"
   },
   {
-   "id": "872ecac657ddc69603c535b40af9b682",
-   "sector": "Markets",
-   "title": "China\u2019s hottest stocks these days have one thing in common: names that sound like sheep",
-   "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-   "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
-   "published": "Sun, 15 Nov 2026 15:22:00 GMT",
+   "id": "b052253ee0ec7e08244413388ef2c7d6",
+   "sector": "Tech/AI",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "published": "Sun, 15 Nov 2026 23:30:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.029166666666666657,
+   "sentiment_score": 0.0375,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "sheep",
-    "china",
-    "hottest",
-    "stocks",
-    "these"
+    "bharat",
+    "semi",
+    "sensor",
+    "indian",
+    "chip"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year",
+   "summary_short": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies incl",
    "category": "News"
   },
   {
-   "id": "7a5adb573bf05283abf6c40d47022a3b",
-   "sector": "Markets",
-   "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-   "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
-   "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+   "id": "34860cf96028871cd5464c839d5aef5e",
+   "sector": "Tech/AI",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "published": "Sun, 15 Nov 2026 21:56:35 +0000",
    "source": "rss",
-   "sentiment_score": -0.039880952380952385,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.22857142857142848,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "sick",
-    "flying",
-    "paid",
-    "priority",
-    "boarding"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
-   "category": "News"
-  },
-  {
-   "id": "c555c6fdf6a43624e413803b329db41b",
-   "sector": "Markets",
-   "title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
-   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-   "summary": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019s history.\u201d",
-   "published": "Sun, 15 Nov 2026 15:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "most",
-    "earnings",
+    "news",
+    "jensen",
     "nvidia",
-    "gearing",
-    "wall"
+    "huang",
+    "also"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019",
-   "category": "News"
-  },
-  {
-   "id": "7f9dcda84af54156afcbe3e10e6f378d",
-   "sector": "Markets",
-   "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "summary": "There is already a demographic \u2018run\u2019 on Social Security.",
-   "published": "Sun, 15 Nov 2026 14:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.022222222222222223,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "social",
-    "security",
-    "thought",
-    "living",
-    "terrifies"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "There is already a demographic \u2018run\u2019 on Social Security.",
+   "summary_short": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
    "category": "News"
   },
   {
@@ -719,52 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "category": "News"
-  },
-  {
-   "id": "dbb05b548983c0b3c20ee85e8afa12d8",
-   "sector": "Tech/AI",
-   "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
-   "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-   "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-   "published": "Sat, 14 Nov 2026 20:04:44 +0000",
-   "source": "rss",
-   "sentiment_score": 0.08,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "monthly",
-    "tesla",
-    "opens",
-    "cybercab",
-    "orders"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Even Elon Musk said the monthly fee is \"too high.\"",
-   "category": "News"
-  },
-  {
-   "id": "b77cfaabc0683865c2838875299317b0",
-   "sector": "Tech/AI",
-   "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-   "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-   "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
-   "published": "Sat, 14 Nov 2026 18:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "iphone",
-    "these",
-    "make",
-    "easier",
-    "settings"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's folda",
    "category": "News"
   },
   {
@@ -1320,118 +1320,118 @@
    "category": "News"
   },
   {
-   "id": "9ea75377b7c4253acf244ff4e2461d2e",
+   "id": "890e0c6d1c21b9396dc0778570769cd4",
    "sector": "Tech/AI",
-   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-   "link": "https://arkanumdata.com/research/house-trades",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50510005\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 19:46:02 +0000",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511395\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 22:11:43 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.1,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "trades",
-    "house",
-    "members",
-    "stock",
-    "beat"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50510005\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "e26954217eb1abcff037a9a772ee88e3",
-   "sector": "Tech/AI",
-   "title": "A short explainer on how El Ni\u00f1o works [video]",
-   "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509308\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 18:23:21 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "short",
-    "explainer",
-    "works",
-    "video",
+    "bitly",
+    "links",
+    "being",
+    "hijacked",
     "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509308\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511395\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "41fb15e41cc9bf2de86ca03c5b94bbcb",
+   "id": "2b2da155e350e1203d2c91d7df264079",
    "sector": "Tech/AI",
-   "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-   "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509023\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 17:53:31 +0000",
+   "title": "Preserving 30 Years of Salon Journalism",
+   "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511806\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 23:00:11 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "birdbrain",
-    "misnomer",
-    "crows",
-    "make",
-    "decisions"
+    "preserving",
+    "years",
+    "salon",
+    "journalism",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509023\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511806\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "1f1ff521e8db2682f8c0980fe39dbc0e",
+   "id": "38b3a5af8821f91e74dc797907e06d54",
    "sector": "Tech/AI",
-   "title": "The MacBook Pro's OLED PWM problem",
-   "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50506719\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 13:15:22 +0000",
+   "title": "What's Next for Nvidia?",
+   "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512235\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 23:55:55 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "macbook",
-    "oled",
-    "problem",
+    "what",
+    "next",
+    "nvidia",
     "href",
     "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50506719\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512235\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "34199a7737dbe64b054aa4728d180e46",
+   "id": "bf181e931f5659be954b4b734f3816ba",
    "sector": "Tech/AI",
-   "title": "Eclipse Mosquitto \u2013 An open source MQTT broker",
-   "link": "https://github.com/eclipse-mosquitto/mosquitto",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509416\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 18:36:40 +0000",
+   "title": "Mini.nvim Is Now on Tangled",
+   "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512231\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 23:55:41 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "eclipse",
-    "mosquitto",
-    "open",
-    "source",
-    "mqtt"
+    "mini",
+    "nvim",
+    "tangled",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509416\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512231\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "26d283b05057c0c553c9c22e7cc1507d",
+   "sector": "Tech/AI",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "link": "https://bruceroettgers.eu/blog/protomaps/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509837\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 19:26:22 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.4166666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "protomaps",
+    "self",
+    "hosting",
+    "tiles",
+    "gotten"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509837\">Comments</a>",
    "category": "News"
   }
  ]
