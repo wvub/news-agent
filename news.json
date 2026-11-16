@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-16 06:49 IST",
+ "updated": "2026-11-16 13:34 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
   {
    "keyword": "health",
-   "frequency": 15,
-   "sectors": 1,
-   "article_count": 3
+   "frequency": 16,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "covid",
@@ -30,26 +30,26 @@
   {
    "keyword": "nvidia",
    "frequency": 9,
-   "sectors": 3,
-   "article_count": 6
+   "sectors": 4,
+   "article_count": 7
   },
   {
    "keyword": "million",
-   "frequency": 8,
-   "sectors": 2,
-   "article_count": 4
-  },
-  {
-   "keyword": "could",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 4
+   "frequency": 9,
+   "sectors": 3,
+   "article_count": 5
   },
   {
    "keyword": "cancer",
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "could",
+   "frequency": 6,
+   "sectors": 1,
+   "article_count": 3
   },
   {
    "keyword": "survey",
@@ -88,13 +88,13 @@
    "article_count": 2
   },
   {
-   "keyword": "tech",
+   "keyword": "magnetic",
    "frequency": 4,
    "sectors": 1,
-   "article_count": 3
+   "article_count": 1
   },
   {
-   "keyword": "magnetic",
+   "keyword": "star",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
@@ -104,117 +104,140 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:16.889093+00:00",
+   "last_failure": "2026-11-16 08:04:33.499035+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:16.917305+00:00",
+   "last_failure": "2026-11-16 08:04:33.627341+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:16.943922+00:00",
+   "last_failure": "2026-11-16 08:04:33.677842+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:16.981060+00:00",
+   "last_failure": "2026-11-16 08:04:33.723414+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.003122+00:00",
+   "last_failure": "2026-11-16 08:04:33.778701+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.041744+00:00",
+   "last_failure": "2026-11-16 08:04:33.825880+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.069843+00:00",
+   "last_failure": "2026-11-16 08:04:33.888129+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.107785+00:00",
+   "last_failure": "2026-11-16 08:04:33.926790+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.149061+00:00",
+   "last_failure": "2026-11-16 08:04:33.977640+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.174314+00:00",
+   "last_failure": "2026-11-16 08:04:34.017671+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.195555+00:00",
+   "last_failure": "2026-11-16 08:04:34.124899+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.222513+00:00",
+   "last_failure": "2026-11-16 08:04:34.174082+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.253566+00:00",
+   "last_failure": "2026-11-16 08:04:34.227475+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.276805+00:00",
+   "last_failure": "2026-11-16 08:04:34.265851+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.299423+00:00",
+   "last_failure": "2026-11-16 08:04:34.307144+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-16 01:19:17.321065+00:00",
+   "last_failure": "2026-11-16 08:04:34.359724+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "eccc2bb5195d2a8ce3a2c2fc91a9ae22",
+   "sector": "World",
+   "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "published": "Mon, 16 Nov 2026 07:23:23 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "forces",
+    "yemeni",
+    "retreat",
+    "leaves",
+    "houthis"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim c",
+   "category": "News"
+  },
   {
    "id": "65f4e7fe1798274397b41fe055ad63e5",
    "sector": "World",
@@ -244,7 +267,7 @@
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
    "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-   "published": "Sun, 15 Nov 2026 22:24:20 GMT",
+   "published": "Mon, 16 Nov 2026 01:47:57 GMT",
    "source": "rss",
    "sentiment_score": 0.2,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -262,12 +285,35 @@
    "category": "News"
   },
   {
-   "id": "fca9feffe4cbf31055818cb1dacab890",
+   "id": "e136e3102e7ac84be8161f85366d959f",
    "sector": "World",
-   "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+   "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+   "published": "Mon, 16 Nov 2026 03:09:49 GMT",
+   "source": "rss",
+   "sentiment_score": 0.029999999999999992,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "after",
+    "alleged",
+    "attack",
+    "australian",
+    "full"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+   "category": "News"
+  },
+  {
+   "id": "5001745dfe80d2863c620daccefb282b",
+   "sector": "World",
+   "title": "Mexican drug lord Miguel \u00c1ngel F\u00e9lix Gallardo dies age 80",
    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
    "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-   "published": "Sun, 15 Nov 2026 23:52:10 GMT",
+   "published": "Mon, 16 Nov 2026 03:21:56 GMT",
    "source": "rss",
    "sentiment_score": -0.025,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -276,7 +322,7 @@
     "mexican",
     "lord",
     "miguel",
-    "angel"
+    "gallardo"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -285,118 +331,118 @@
    "category": "News"
   },
   {
-   "id": "f7b7dd09fbd8234297434b7284f48a97",
+   "id": "e7b1c75cb27db34d39b3027a6ef1fca0",
    "sector": "World",
-   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-   "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-   "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-   "published": "Sun, 15 Nov 2026 13:37:45 GMT",
+   "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+   "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+   "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+   "published": "Sun, 15 Nov 2026 22:00:13 GMT",
    "source": "rss",
-   "sentiment_score": 0.23611111111111113,
+   "sentiment_score": 0.8,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "south",
-    "korea",
-    "scorer",
-    "accountancy",
-    "exam"
+    "veterans",
+    "ukraine",
+    "going",
+    "harry",
+    "praises"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the signif",
+   "summary_short": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
    "category": "News"
   },
   {
-   "id": "cd057796ea3f963a24120ee5fbe7d238",
+   "id": "de814db425e6fbc687faacb46ca79224",
    "sector": "World",
-   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-   "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-   "published": "Sun, 15 Nov 2026 18:38:11 GMT",
+   "title": "Canada bars Russia from Junior World Championships",
+   "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+   "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+   "published": "Sun, 15 Nov 2026 22:01:16 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "pope",
-    "rides",
-    "helicopter",
-    "cockpit",
-    "during"
+    "canada",
+    "junior",
+    "world",
+    "championships",
+    "bars"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour",
+   "summary_short": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championshi",
    "category": "News"
   },
   {
-   "id": "23e150064f77ca808cf9bce6538938c5",
+   "id": "3bd2d8783f453e734302b33b13f9e367",
    "sector": "World",
-   "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-   "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-   "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-   "published": "Sun, 15 Nov 2026 22:57:27 GMT",
-   "source": "rss",
-   "sentiment_score": -0.09015151515151515,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "steering",
-    "cruise",
-    "ship",
-    "failure",
-    "preceded"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffer",
-   "category": "News"
-  },
-  {
-   "id": "a428db91ae7e327bc08654313449689c",
-   "sector": "World",
-   "title": "Czechs rally against plan to switch funding of public media",
-   "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-   "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
-   "published": "Sun, 15 Nov 2026 21:03:40 GMT",
+   "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+   "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+   "published": "Mon, 16 Nov 2026 05:06:59 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "media",
-    "czechs",
-    "rally",
-    "against",
-    "plan"
+    "election",
+    "wife",
+    "assassinated",
+    "haitian",
+    "leader"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to",
+   "summary_short": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
    "category": "News"
   },
   {
-   "id": "8250759d27e6d4c75af0ee18c87ff51b",
-   "sector": "World",
-   "title": "Police ban protests near 10 schools and five universities in Paris",
-   "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-   "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
-   "published": "Sun, 15 Nov 2026 22:28:54 GMT",
+   "id": "f6c2ed8ba00fe3581d8901d4d9f81bba",
+   "sector": "Markets",
+   "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
+   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "published": "Mon, 16 Nov 2026 04:15:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.28888888888888886,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "police",
-    "paris",
-    "protests",
-    "near",
-    "schools"
+    "brother",
+    "sister",
+    "older",
+    "children",
+    "only"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "2bc3ccdc2d72363f64f6c5bdff6f670d",
+   "sector": "Markets",
+   "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+   "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+   "summary": "The scandal at the computer-chip giant is exactly what\u2019s wrong with the S&amp;P 500.",
+   "published": "Mon, 16 Nov 2026 03:11:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "chunk",
+    "your",
+    "likely",
+    "invested",
+    "nvidia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The scandal at the computer-chip giant is exactly what\u2019s wrong with the S&amp;P 500.",
    "category": "News"
   },
   {
@@ -443,29 +489,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "\u201cIt would be a less drastic step than selling the home now and splitting the proceeds.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "f6c2ed8ba00fe3581d8901d4d9f81bba",
-   "sector": "Markets",
-   "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-   "published": "Sun, 15 Nov 2026 22:15:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.28888888888888886,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "brother",
-    "sister",
-    "older",
-    "children",
-    "only"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
    "category": "News"
   },
   {
@@ -561,26 +584,49 @@
    "category": "News"
   },
   {
-   "id": "23e6237e7150cac75fef92c03ba81918",
-   "sector": "Markets",
-   "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-   "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
-   "published": "Sun, 15 Nov 2026 16:00:00 GMT",
+   "id": "4258a1e8d608c1e28b1dfdaa72df593b",
+   "sector": "Tech/AI",
+   "title": "Helsing backer Plural raises $1.1B to fund Europe\u2019s next moonshots",
+   "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "summary": "Operator-led VC firm Plural has raised \u20ac1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures\u2019 Kembara and EQT-managed Scaleup Europe Fund.",
+   "published": "Mon, 16 Nov 2026 07:00:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.25,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": -0.012727272727272731,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "want",
-    "worst",
-    "fight",
-    "husband",
-    "retire"
+    "plural",
+    "fund",
+    "europe",
+    "billion",
+    "helsing"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.\u201d",
+   "summary_short": "Operator-led VC firm Plural has raised \u20ac1 billion in new capital ($1.1 billion), joining a growing c",
+   "category": "News"
+  },
+  {
+   "id": "ad3ae24c47872e3c2f8b659c8cc6efe7",
+   "sector": "Tech/AI",
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.018181818181818174,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "apple",
+    "study",
+    "launches",
+    "people",
+    "health"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Apple's new app for a study will answer everyday medical questions",
    "category": "News"
   },
   {
@@ -722,49 +768,95 @@
    "category": "News"
   },
   {
-   "id": "90db31d6583becbffdd0f3c34bab3b50",
-   "sector": "Tech/AI",
-   "title": "Where was Nvidia\u2019s security team?",
-   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-   "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+   "id": "ad14f4c0cb2da8e90da6c34fe538c86a",
+   "sector": "Crypto",
+   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+   "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+   "summary": "",
+   "published": "Mon, 16 Nov 2026 07:51:15 +0000",
    "source": "rss",
-   "sentiment_score": 0.043055555555555555,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "security",
-    "nvidia",
-    "where",
-    "team",
-    "chief"
+    "bitcoin",
+    "miners",
+    "were",
+    "hijacked",
+    "their"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over ",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "7b22b1531e10a10efdd34e306cef7067",
-   "sector": "Tech/AI",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+   "id": "eedb649bf6d6afd99894bb78161a3c0d",
+   "sector": "Crypto",
+   "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+   "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+   "summary": "",
+   "published": "Mon, 16 Nov 2026 06:27:42 +0000",
    "source": "rss",
-   "sentiment_score": 0.1875,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "petition",
-    "elon",
-    "musk",
-    "other",
-    "tech"
+    "cardano",
+    "holders",
+    "vote",
+    "down",
+    "million"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "5fd30a9c4bf7eb76128c767cfe8d721e",
+   "sector": "Crypto",
+   "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+   "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+   "summary": "",
+   "published": "Mon, 16 Nov 2026 06:01:41 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "trump",
+    "administration",
+    "name",
+    "nvidia",
+    "openai"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "d6b103b03c11ae43a9dedfb747258b15",
+   "sector": "Crypto",
+   "title": "Bitcoin\u2019s biggest bet is now a drop below $60,000, not a rally above $100,000",
+   "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+   "summary": "",
+   "published": "Mon, 16 Nov 2026 05:01:17 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bitcoin",
+    "biggest",
+    "drop",
+    "below",
+    "rally"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -814,6 +906,29 @@
    "category": "News"
   },
   {
+   "id": "7291aad5b637d4b17bfb3db04b551041",
+   "sector": "Crypto",
+   "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+   "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+   "summary": "",
+   "published": "Sun, 15 Nov 2026 07:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "changing",
+    "lagarde",
+    "candidates",
+    "next",
+    "president"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "3fd6ace2c32bd3f2a5cab4dec75ca33d",
    "sector": "Crypto",
    "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
@@ -829,121 +944,6 @@
     "since",
     "november",
     "money"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "f866a8cb520ae90c96d4f2f88061eea4",
-   "sector": "Crypto",
-   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-   "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-   "summary": "",
-   "published": "Sat, 14 Nov 2026 16:33:29 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "crashes",
-    "month",
-    "below",
-    "analyst"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "e5f3d787c4cbc75e9fabea89ba23d217",
-   "sector": "Crypto",
-   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-   "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-   "summary": "",
-   "published": "Sat, 14 Nov 2026 16:33:23 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ethereum",
-    "scaling",
-    "project",
-    "megaeth",
-    "slashes"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "47ee2492aab57c4adb34b42417efa48a",
-   "sector": "Crypto",
-   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-   "summary": "",
-   "published": "Sat, 14 Nov 2026 15:38:27 +0000",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "kazakhstan",
-    "plans",
-    "tokenized",
-    "government",
-    "bonds"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "802a7cbe038a5697e8d20916978ab185",
-   "sector": "Crypto",
-   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-   "summary": "",
-   "published": "Sat, 14 Nov 2026 15:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "singapore",
-    "thailand",
-    "central",
-    "banks",
-    "test"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "c54ba02037f2a299dd0faf6a0b202ac7",
-   "sector": "Crypto",
-   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-   "summary": "",
-   "published": "Sat, 14 Nov 2026 13:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "britain",
-    "could",
-    "turn",
-    "wasted",
-    "scottish"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,9 +1320,78 @@
    "category": "News"
   },
   {
+   "id": "58665b0e1b2c60716d375b38ba4e7b74",
+   "sector": "Tech/AI",
+   "title": "How to make almost anything",
+   "link": "https://pub.cba.mit.edu/863.26/site/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50514470\">Comments</a>",
+   "published": "Mon, 16 Nov 2026 05:50:37 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "make",
+    "almost",
+    "anything",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50514470\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "d538f427fcc822eb65080b4e2dd00180",
+   "sector": "Tech/AI",
+   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "link": "https://iter.ca/post/ubo-uxss/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50513160\">Comments</a>",
+   "published": "Mon, 16 Nov 2026 02:04:48 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "universal",
+    "ublock",
+    "origin",
+    "website",
+    "driven"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50513160\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "8f9921633de7632b75b24c15f4c85756",
+   "sector": "Tech/AI",
+   "title": "Qwen4-Max",
+   "link": "https://qwen.ai/blog?id=qwen4-max",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50513215\">Comments</a>",
+   "published": "Mon, 16 Nov 2026 02:14:44 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "href",
+    "https",
+    "news",
+    "ycombinator",
+    "item"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50513215\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "890e0c6d1c21b9396dc0778570769cd4",
    "sector": "Tech/AI",
-   "title": "Old Bitly Links Are Being Hijacked",
+   "title": "Old Bitly links are being hijacked",
    "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511395\">Comments</a>",
    "published": "Sun, 15 Nov 2026 22:11:43 +0000",
@@ -1340,29 +1409,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511395\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "2b2da155e350e1203d2c91d7df264079",
-   "sector": "Tech/AI",
-   "title": "Preserving 30 Years of Salon Journalism",
-   "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511806\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 23:00:11 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "preserving",
-    "years",
-    "salon",
-    "journalism",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50511806\">Comments</a>",
    "category": "News"
   },
   {
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512235\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "bf181e931f5659be954b4b734f3816ba",
-   "sector": "Tech/AI",
-   "title": "Mini.nvim Is Now on Tangled",
-   "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512231\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 23:55:41 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "mini",
-    "nvim",
-    "tangled",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512231\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "26d283b05057c0c553c9c22e7cc1507d",
-   "sector": "Tech/AI",
-   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "link": "https://bruceroettgers.eu/blog/protomaps/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509837\">Comments</a>",
-   "published": "Sun, 15 Nov 2026 19:26:22 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.4166666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "protomaps",
-    "self",
-    "hosting",
-    "tiles",
-    "gotten"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50509837\">Comments</a>",
    "category": "News"
   }
  ]
