@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17 07:26 IST",
+ "updated": "2026-11-17 15:48 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -23,9 +23,9 @@
   },
   {
    "keyword": "million",
-   "frequency": 10,
+   "frequency": 13,
    "sectors": 4,
-   "article_count": 5
+   "article_count": 7
   },
   {
    "keyword": "news",
@@ -35,26 +35,14 @@
   },
   {
    "keyword": "nvidia",
-   "frequency": 7,
-   "sectors": 3,
-   "article_count": 4
-  },
-  {
-   "keyword": "countries",
-   "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
+   "frequency": 9,
+   "sectors": 4,
+   "article_count": 6
   },
   {
    "keyword": "magnetic",
    "frequency": 6,
    "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "data",
-   "frequency": 6,
-   "sectors": 2,
    "article_count": 2
   },
   {
@@ -70,16 +58,16 @@
    "article_count": 3
   },
   {
-   "keyword": "cancer",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
    "keyword": "moon",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "data",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -94,9 +82,21 @@
    "article_count": 2
   },
   {
-   "keyword": "face",
+   "keyword": "countries",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "should",
    "frequency": 4,
    "sectors": 2,
+   "article_count": 3
+  },
+  {
+   "keyword": "apple",
+   "frequency": 4,
+   "sectors": 1,
    "article_count": 2
   }
  ],
@@ -104,170 +104,216 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.182491+00:00",
+   "last_failure": "2026-11-17 10:17:59.426411+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.265030+00:00",
+   "last_failure": "2026-11-17 10:17:59.449756+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.334016+00:00",
+   "last_failure": "2026-11-17 10:17:59.471162+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.406178+00:00",
+   "last_failure": "2026-11-17 10:17:59.492487+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.469814+00:00",
+   "last_failure": "2026-11-17 10:17:59.513534+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.539741+00:00",
+   "last_failure": "2026-11-17 10:17:59.535485+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.599845+00:00",
+   "last_failure": "2026-11-17 10:17:59.557490+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.662091+00:00",
+   "last_failure": "2026-11-17 10:17:59.579571+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.734000+00:00",
+   "last_failure": "2026-11-17 10:17:59.601481+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.792655+00:00",
+   "last_failure": "2026-11-17 10:17:59.621008+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.861293+00:00",
+   "last_failure": "2026-11-17 10:17:59.642146+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.922529+00:00",
+   "last_failure": "2026-11-17 10:17:59.662122+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:45.995044+00:00",
+   "last_failure": "2026-11-17 10:17:59.685700+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:46.057046+00:00",
+   "last_failure": "2026-11-17 10:17:59.706299+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:46.115342+00:00",
+   "last_failure": "2026-11-17 10:17:59.726367+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-17 01:56:46.175992+00:00",
+   "last_failure": "2026-11-17 10:17:59.748363+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "78f227112c2299c7d6d5b5ae923c2e45",
+   "id": "c6a5b977b01b5cc81ff0a4bcfbb4f770",
    "sector": "World",
-   "title": "Five EU countries announce migrant deportation centre in Rwanda",
-   "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-   "published": "Mon, 16 Nov 2026 23:20:45 GMT",
+   "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+   "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+   "published": "Tue, 17 Nov 2026 09:27:41 GMT",
    "source": "rss",
-   "sentiment_score": -0.5,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": -0.018750000000000003,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "five",
-    "countries",
-    "announce",
-    "migrant",
-    "deportation"
+    "crimea",
+    "bridge",
+    "russia",
+    "kyiv",
+    "shut"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylu",
+   "summary_short": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through",
    "category": "News"
   },
   {
-   "id": "2fa0893ec671336b1112aab34697f62c",
+   "id": "6969d7d3411d7cd56fc05c4b31babea3",
    "sector": "World",
-   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-   "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-   "published": "Mon, 16 Nov 2026 21:40:07 GMT",
+   "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+   "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Efforts to recover bodies after a \u201cdouble-tap\u201d attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+   "published": "Tue, 17 Nov 2026 05:59:01 GMT",
    "source": "rss",
-   "sentiment_score": -0.19999999999999998,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "advance",
-    "houthi",
-    "rebel",
-    "yemen",
-    "further"
+    "ukraine",
+    "after",
+    "double",
+    "accuses",
+    "russia"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writ",
+   "summary_short": "Efforts to recover bodies after a \u201cdouble-tap\u201d attack in southern Ukraine are being hampered by cont",
    "category": "News"
   },
   {
-   "id": "761a871628e5da17f347bd50521cbc27",
+   "id": "278c70077f65b3c95a453c8a266134ba",
    "sector": "World",
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+   "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+   "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
+   "published": "Tue, 17 Nov 2026 09:27:44 GMT",
+   "source": "rss",
+   "sentiment_score": 0.27777777777777773,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "indian",
+    "woman",
+    "gang",
+    "raped",
+    "while"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight ",
+   "category": "News"
+  },
+  {
+   "id": "2e625e69b4d398911bc1cad2a2a414c3",
+   "sector": "World",
+   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+   "published": "Tue, 17 Nov 2026 01:26:01 GMT",
+   "source": "rss",
+   "sentiment_score": 0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "imran",
+    "khan",
+    "seeks",
+    "urgent",
+    "medical"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied just",
+   "category": "News"
+  },
+  {
+   "id": "3a5ecf2a83f43593f3c138ff7abbc7a8",
+   "sector": "World",
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-   "published": "Tue, 17 Nov 2026 01:49:26 GMT",
+   "published": "Tue, 17 Nov 2026 02:37:53 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -285,118 +331,187 @@
    "category": "News"
   },
   {
-   "id": "1205119241857df5633958cdfd35df4d",
+   "id": "2e931a22eba08f06baacbf08eb593004",
    "sector": "World",
-   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-   "published": "Mon, 16 Nov 2026 14:58:12 GMT",
+   "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+   "summary": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+   "published": "Tue, 17 Nov 2026 07:01:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "found",
+    "body",
+    "melbourne",
+    "horse",
+    "dumped"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbis",
+   "category": "News"
+  },
+  {
+   "id": "89f50ab5a401ebc524bf95cbd08d5588",
+   "sector": "World",
+   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+   "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+   "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+   "published": "Tue, 17 Nov 2026 07:44:17 GMT",
+   "source": "rss",
+   "sentiment_score": -0.02,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "russian",
+    "japan",
+    "sends",
+    "jets",
+    "after"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+   "category": "News"
+  },
+  {
+   "id": "eec352d3227aa9ef53fc913abd224734",
+   "sector": "World",
+   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "summary": "Ven\u00e2ncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "published": "Tue, 17 Nov 2026 09:20:29 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "faces",
+    "over",
+    "election",
+    "mozambique",
+    "opposition"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Ven\u00e2ncio Mondlane faces several charges over 2024 post-election protests that left hundreds of peopl",
+   "category": "News"
+  },
+  {
+   "id": "8b12bdf4fb20006ed64ef72154897ae4",
+   "sector": "Markets",
+   "title": "\u2018Nvidia spooked me\u2019: Should I sell my stocks or ride out the market turmoil?",
+   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
+   "published": "Tue, 17 Nov 2026 10:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nvidia",
+    "spooked",
+    "should",
+    "sell",
+    "stocks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "87eb6cb796c9ead3c127c6a5edeeb436",
+   "sector": "Markets",
+   "title": "\u2018Breaking Bad\u2019 star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+   "link": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+   "summary": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop home for $3.2 million\u2014after his wife, Bridget Norris, filed for divorce.",
+   "published": "Tue, 17 Nov 2026 10:01:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.6999999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "norris",
+    "dean",
+    "acre",
+    "million",
+    "divorce"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Dean Norris is looking for a buyer for his 11-acre Temecula, Calif., property, listing the hilltop h",
+   "category": "News"
+  },
+  {
+   "id": "e41f52e903e80edf6a748ca9e877a9f9",
+   "sector": "Markets",
+   "title": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+   "link": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
+   "summary": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
+   "published": "Tue, 17 Nov 2026 09:57:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.7,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "bella",
+    "hadid",
+    "colorado",
+    "compound",
+    "million"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Bella Hadid has purchased a creekside compound in Crested Butte, Colorado, for $5.5 million.",
+   "category": "News"
+  },
+  {
+   "id": "41c7e6318dec0530f77ef973c289af6d",
+   "sector": "Markets",
+   "title": "Here\u2019s how much of Deutsche Bank\u2019s market cap has been wiped away after reports on 15 million leaked documents",
+   "link": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
+   "summary": "Deutsche Bank saw as much as \u20ac3.8 billion ($4.2 billion) of its market cap wiped away after a team of media organizations wrote about a trove of 15 million leaked documents.",
+   "published": "Tue, 17 Nov 2026 09:35:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "much",
+    "deutsche",
+    "bank",
+    "market",
+    "wiped"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Deutsche Bank saw as much as \u20ac3.8 billion ($4.2 billion) of its market cap wiped away after a team o",
+   "category": "News"
+  },
+  {
+   "id": "6ba8027fc811f1f18dc1eb35c9d4bd42",
+   "sector": "Markets",
+   "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d",
+   "published": "Tue, 17 Nov 2026 02:30:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "russia",
-    "over",
-    "landmark",
-    "crimea",
-    "bridge"
+    "pension",
+    "husband",
+    "should",
+    "accept",
+    "lower"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a",
-   "category": "News"
-  },
-  {
-   "id": "a7dcfd3013911057a15551d2bb31ef51",
-   "sector": "World",
-   "title": "When will we see Robert Pattinson as Bond in cinemas?",
-   "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
-   "published": "Mon, 16 Nov 2026 17:18:54 GMT",
-   "source": "rss",
-   "sentiment_score": 0.225,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "robert",
-    "pattinson",
-    "bond",
-    "when",
-    "cinemas"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up th",
-   "category": "News"
-  },
-  {
-   "id": "5166445587bc1e8165451070a289e28b",
-   "sector": "World",
-   "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-   "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-   "published": "Mon, 16 Nov 2026 20:33:57 GMT",
-   "source": "rss",
-   "sentiment_score": 0.024999999999999994,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "forensic",
-    "expert",
-    "says",
-    "analysis",
-    "autopsy"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries",
-   "category": "News"
-  },
-  {
-   "id": "96a51a2e51e6c892c12ab69b5c94ec93",
-   "sector": "World",
-   "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-   "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-   "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-   "published": "Mon, 16 Nov 2026 19:30:30 GMT",
-   "source": "rss",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "year",
-    "lindsay",
-    "clancy",
-    "face",
-    "retrial"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-   "category": "News"
-  },
-  {
-   "id": "42d1fcdf7e1eb901aeb8e86a37231273",
-   "sector": "World",
-   "title": "Two mass shootings in South Africa leave 17 dead",
-   "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-   "published": "Mon, 16 Nov 2026 10:57:48 GMT",
-   "source": "rss",
-   "sentiment_score": -0.5,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "shootings",
-    "south",
-    "africa",
-    "mass",
-    "leave"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+   "summary_short": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benef",
    "category": "News"
   },
   {
@@ -466,121 +581,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Almost a third of Amazon Black Friday deals \u201cprovided no savings at all\u201d in the last two years, a re",
-   "category": "News"
-  },
-  {
-   "id": "d5bcdf7de20a119724307b0b3bbab740",
-   "sector": "Markets",
-   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-   "published": "Mon, 16 Nov 2026 23:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3666666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "husband",
-    "happily",
-    "retired",
-    "thinks",
-    "should"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "4ae2bc09b679ca10ff9800fc2a7d6a18",
-   "sector": "Markets",
-   "title": "U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
-   "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-   "summary": "The dollar recently climbed to its strongest level in a year and a half.",
-   "published": "Mon, 16 Nov 2026 22:46:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "dollar",
-    "driven",
-    "breakout",
-    "could",
-    "become"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The dollar recently climbed to its strongest level in a year and a half.",
-   "category": "News"
-  },
-  {
-   "id": "931956e73503aefd2e677ea31a56f332",
-   "sector": "Markets",
-   "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-   "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-   "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
-   "published": "Mon, 16 Nov 2026 22:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "berkshire",
-    "housing",
-    "market",
-    "upped",
-    "beleaguered"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubli",
-   "category": "News"
-  },
-  {
-   "id": "8fd5a27b413484108887be1641f9ebb0",
-   "sector": "Markets",
-   "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
-   "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
-   "published": "Mon, 16 Nov 2026 22:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "retirement",
-    "million",
-    "calls",
-    "plans",
-    "fantasy"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cWe have $2 million saved in our retirement accounts and a house worth $1.3 million.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "65319506d1e793b6f0e10b583e637dfc",
-   "sector": "Markets",
-   "title": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs. The company\u2019s stock tumbled.",
-   "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-   "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
-   "published": "Mon, 16 Nov 2026 22:21:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3181818181818182,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "cancer",
-    "declined",
-    "approve",
-    "biotech",
-    "most"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people l",
    "category": "News"
   },
   {
@@ -768,6 +768,144 @@
    "category": "News"
   },
   {
+   "id": "30393f1c3f4ee3e3bb5a7177a4746d5f",
+   "sector": "Crypto",
+   "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
+   "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 10:17:01 +0000",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nvidia",
+    "faces",
+    "first",
+    "earnings",
+    "test"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "4852655190a5a718ae454131621e86d2",
+   "sector": "Crypto",
+   "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+   "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 09:21:19 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "binance",
+    "hacker",
+    "moves",
+    "million",
+    "stolen"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "954a6eff79e8c955c39f8d1779fcf976",
+   "sector": "Crypto",
+   "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+   "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 07:38:07 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bitcoin",
+    "could",
+    "slide",
+    "into",
+    "rate"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "168490048322737f7ecaf6b1d996b665",
+   "sector": "Crypto",
+   "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+   "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 06:54:49 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "cardano",
+    "foundation",
+    "seeks",
+    "million",
+    "treasury"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "3a08ded090da7c248b9fc1e0acfb0491",
+   "sector": "Crypto",
+   "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+   "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 05:37:23 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "wells",
+    "fargo",
+    "reported",
+    "blackrock",
+    "bitcoin"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "6dc0cce7ded5d00a9bcddfa1c59b3bf1",
+   "sector": "Crypto",
+   "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+   "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+   "summary": "",
+   "published": "Tue, 17 Nov 2026 05:02:05 +0000",
+   "source": "rss",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "ripple",
+    "backed",
+    "evernorth",
+    "written",
+    "down"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "348943dd48cae9e6b4d2ee628e863d59",
    "sector": "Crypto",
    "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
@@ -791,9 +929,9 @@
    "category": "News"
   },
   {
-   "id": "6355a061e83a7a8462509fc86f76fd7c",
+   "id": "4d61190e74437a88e6d6cd1eab8d3811",
    "sector": "Crypto",
-   "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+   "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
    "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
    "summary": "",
    "published": "Mon, 16 Nov 2026 20:35:21 +0000",
@@ -806,144 +944,6 @@
     "falling",
     "below",
     "nvidia"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "454ac17801e22829b7034b2701ad1471",
-   "sector": "Crypto",
-   "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-   "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 18:54:19 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "senate",
-    "democrats",
-    "tell",
-    "cftc",
-    "back"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "4957fca8a4e3e736d680ee91c32c36f2",
-   "sector": "Crypto",
-   "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-   "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 16:41:42 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "lighter",
-    "suspends",
-    "withdrawals",
-    "after",
-    "million"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "89aee5c311ccd18518d01d4bd4a623ca",
-   "sector": "Crypto",
-   "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-   "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 15:54:11 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "brazil",
-    "central",
-    "bank",
-    "faces",
-    "backlash"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "5c9e647369fcbcc8830f5da2c8a26ee6",
-   "sector": "Crypto",
-   "title": "German parliament proposes crypto seizures without criminal charges",
-   "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 15:44:59 +0000",
-   "source": "rss",
-   "sentiment_score": -0.15,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "german",
-    "parliament",
-    "proposes",
-    "crypto",
-    "seizures"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "808f70ad3ea4943a18f3e81c258d94ba",
-   "sector": "Crypto",
-   "title": "Solana drops \u2018beta\u2019 label after more than six years",
-   "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 13:03:16 +0000",
-   "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "solana",
-    "drops",
-    "beta",
-    "label",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "65ab991e4aa8757b8691010ef94d17e7",
-   "sector": "Crypto",
-   "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-   "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-   "summary": "",
-   "published": "Mon, 16 Nov 2026 12:55:46 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "feud",
-    "reignites",
-    "star",
-    "blames"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1343,29 +1343,6 @@
    "category": "News"
   },
   {
-   "id": "e958e4858a4ba8521ea811b56a8f118f",
-   "sector": "Tech/AI",
-   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-   "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50524736\">Comments</a>",
-   "published": "Mon, 16 Nov 2026 22:58:20 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "windows",
-    "collecting",
-    "data",
-    "which",
-    "coding"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50524736\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "b5d18f61450d793c49018d7b0345bf27",
    "sector": "Tech/AI",
    "title": "BugMeNot has closed",
@@ -1389,9 +1366,55 @@
    "category": "News"
   },
   {
+   "id": "85f1e39ce5ad5ef12bc0043decf6740f",
+   "sector": "Tech/AI",
+   "title": "Nimony: A New Compiler for Nim",
+   "link": "https://nimony.org/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512779\">Comments</a>",
+   "published": "Mon, 16 Nov 2026 01:05:22 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nimony",
+    "compiler",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50512779\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "9bbb5e408cc7f6d6c5f18c69815b67df",
+   "sector": "Tech/AI",
+   "title": "Japan's Hometown Tax (2018)",
+   "link": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50508845\">Comments</a>",
+   "published": "Sun, 15 Nov 2026 17:34:22 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "japan",
+    "hometown",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50508845\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "0f21ea1982d41dbd995b083526ebe07e",
    "sector": "Tech/AI",
-   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "title": "Optimizely compromised, served malware on Zoom, GitLab",
    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50524767\">Comments</a>",
    "published": "Mon, 16 Nov 2026 23:00:34 +0000",
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50524767\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "aa92f58b413001cd0eb95ca55b6b7be1",
-   "sector": "Tech/AI",
-   "title": "OpenCode Browse",
-   "link": "https://opencode.ai/product/browse",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50523459\">Comments</a>",
-   "published": "Mon, 16 Nov 2026 21:20:37 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "opencode",
-    "browse",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50523459\">Comments</a>",
    "category": "News"
   }
  ]
