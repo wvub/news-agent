@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-18 07:10 IST",
+ "updated": "2026-11-18 14:38 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
+  {
+   "keyword": "nvidia",
+   "frequency": 17,
+   "sectors": 4,
+   "article_count": 10
+  },
   {
    "keyword": "health",
    "frequency": 15,
    "sectors": 1,
    "article_count": 3
-  },
-  {
-   "keyword": "nvidia",
-   "frequency": 14,
-   "sectors": 4,
-   "article_count": 9
   },
   {
    "keyword": "covid",
@@ -34,22 +34,28 @@
    "article_count": 5
   },
   {
+   "keyword": "million",
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
+   "keyword": "says",
+   "frequency": 7,
+   "sectors": 3,
+   "article_count": 6
+  },
+  {
    "keyword": "asteroid",
    "frequency": 7,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "million",
-   "frequency": 7,
+   "keyword": "huang",
+   "frequency": 6,
    "sectors": 2,
    "article_count": 3
-  },
-  {
-   "keyword": "says",
-   "frequency": 6,
-   "sectors": 3,
-   "article_count": 5
   },
   {
    "keyword": "nasa",
@@ -62,24 +68,6 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "bridge",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 3
-  },
-  {
-   "keyword": "time",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "google",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 3
   },
   {
    "keyword": "moon",
@@ -98,123 +86,227 @@
    "frequency": 5,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "services",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "countries",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:03.979153+00:00",
+   "last_failure": "2026-11-18 09:08:40.722256+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.126285+00:00",
+   "last_failure": "2026-11-18 09:08:40.770111+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.263274+00:00",
+   "last_failure": "2026-11-18 09:08:40.819991+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.377102+00:00",
+   "last_failure": "2026-11-18 09:08:40.875198+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.491997+00:00",
+   "last_failure": "2026-11-18 09:08:40.926423+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.608467+00:00",
+   "last_failure": "2026-11-18 09:08:40.979794+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.745368+00:00",
+   "last_failure": "2026-11-18 09:08:41.052044+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.865698+00:00",
+   "last_failure": "2026-11-18 09:08:41.111397+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:04.980860+00:00",
+   "last_failure": "2026-11-18 09:08:41.167083+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.122319+00:00",
+   "last_failure": "2026-11-18 09:08:41.218556+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.237549+00:00",
+   "last_failure": "2026-11-18 09:08:41.277000+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.373638+00:00",
+   "last_failure": "2026-11-18 09:08:41.324566+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.484909+00:00",
+   "last_failure": "2026-11-18 09:08:41.371883+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.618376+00:00",
+   "last_failure": "2026-11-18 09:08:41.419811+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.748248+00:00",
+   "last_failure": "2026-11-18 09:08:41.471271+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-18 01:40:05.878727+00:00",
+   "last_failure": "2026-11-18 09:08:41.512773+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "98b80761db6397cee3704c50f10f6142",
+   "sector": "World",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+   "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "china",
+    "scandal",
+    "trump",
+    "meet",
+    "dreams"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced",
+   "category": "News"
+  },
+  {
+   "id": "7eb875e3106e6d31c6205e028ce38a15",
+   "sector": "World",
+   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "published": "Wed, 18 Nov 2026 01:18:18 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "huang",
+    "nvidia",
+    "says",
+    "reinstate",
+    "reports"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Hu",
+   "category": "News"
+  },
+  {
+   "id": "806c9f9b2f8a916ec93178e122aec8e6",
+   "sector": "World",
+   "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+   "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+   "published": "Wed, 18 Nov 2026 04:57:06 GMT",
+   "source": "rss",
+   "sentiment_score": 0.125,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "rubio",
+    "says",
+    "under",
+    "systemic",
+    "attack"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent",
+   "category": "News"
+  },
+  {
+   "id": "cbede1082f8ea5618e4d4cf9ddf7e2b8",
+   "sector": "World",
+   "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+   "published": "Wed, 18 Nov 2026 07:00:25 GMT",
+   "source": "rss",
+   "sentiment_score": 0.8,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "senate",
+    "midterms",
+    "democrats",
+    "alaska",
+    "race"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms S",
+   "category": "News"
+  },
   {
    "id": "c761cd4bde809cdc1fb37d6a0d66c11f",
    "sector": "World",
@@ -239,67 +331,21 @@
    "category": "News"
   },
   {
-   "id": "80991a9ade8f7010c5498872f80f1663",
+   "id": "5eac561ca2d1a63a9c605edf069b4b6d",
    "sector": "World",
-   "title": "How the attack on Crimean Bridge unfolded",
-   "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-   "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-   "published": "Tue, 17 Nov 2026 15:38:10 GMT",
-   "source": "rss",
-   "sentiment_score": 0.03125,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "attack",
-    "crimean",
-    "bridge",
-    "unfolded",
-    "symbols"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-sta",
-   "category": "News"
-  },
-  {
-   "id": "12c9f4aef11c2ef841b3d50ab55ca98d",
-   "sector": "World",
-   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-   "published": "Wed, 18 Nov 2026 01:18:18 GMT",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "huang",
-    "nvidia",
-    "says",
-    "reinstate",
-    "firm"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Hu",
-   "category": "News"
-  },
-  {
-   "id": "1edaaf7902c3d2ede35adcb2f75adaeb",
-   "sector": "World",
-   "title": "Thomas Markle charged over child sex abuse material in Philippines",
+   "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
    "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-   "published": "Tue, 17 Nov 2026 22:44:15 GMT",
+   "published": "Wed, 18 Nov 2026 07:48:18 GMT",
    "source": "rss",
    "sentiment_score": -0.16666666666666666,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
+    "charge",
     "markle",
-    "thomas",
-    "charged",
-    "over",
-    "child"
+    "philippines",
+    "police",
+    "prosecutors"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -331,29 +377,6 @@
    "category": "News"
   },
   {
-   "id": "ebd625dc1e5646807a0b60c62471029e",
-   "sector": "World",
-   "title": "Russian military plane crashes, killing all 19 on board",
-   "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-   "published": "Tue, 17 Nov 2026 21:06:11 GMT",
-   "source": "rss",
-   "sentiment_score": -0.03333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "russian",
-    "military",
-    "plane",
-    "crashes",
-    "killing"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of th",
-   "category": "News"
-  },
-  {
    "id": "610bee9c818f2178a977806338432187",
    "sector": "World",
    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -377,26 +400,72 @@
    "category": "News"
   },
   {
-   "id": "5269a99b48abf1a16f9139f45fa19402",
-   "sector": "World",
-   "title": "US loses measles elimination status after 26 years amid record case numbers",
-   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-   "published": "Tue, 17 Nov 2026 21:04:00 GMT",
+   "id": "18a1cc8cc89e08a0d4419b322c6464db",
+   "sector": "Markets",
+   "title": "The S&P 500 just broke a crucial support level. Here\u2019s what history shows may happen now.",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+   "summary": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
+   "published": "Wed, 18 Nov 2026 08:50:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.016666666666666673,
+   "sentiment_score": -0.075,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "measles",
-    "loses",
-    "elimination",
-    "status",
-    "after"
+    "just",
+    "broke",
+    "crucial",
+    "support",
+    "level"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the ear",
+   "summary_short": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this m",
+   "category": "News"
+  },
+  {
+   "id": "b7b3e6bf6b2d89ac95347da384c2ce86",
+   "sector": "Markets",
+   "title": "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to financing",
+   "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+   "summary": "Nvidia interim CEO Colette Kress said neoclouds are \u201cincreasingly important,\u201d but added the company will take \u201ca very strong look\u201d at the customers it helps with financing.",
+   "published": "Wed, 18 Nov 2026 01:59:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.4816666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "nvidia",
+    "financing",
+    "coreweave",
+    "stock",
+    "pops"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Nvidia interim CEO Colette Kress said neoclouds are \u201cincreasingly important,\u201d but added the company ",
+   "category": "News"
+  },
+  {
+   "id": "c2f83d9965e2bb23e215e6b87c04cd19",
+   "sector": "Markets",
+   "title": "Medicare Part B premiums rise due to higher healthcare spending",
+   "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+   "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+   "published": "Wed, 18 Nov 2026 01:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0625,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "premiums",
+    "medicare",
+    "part",
+    "rise",
+    "higher"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The premiums will increase by $6.50, to $209.40 a month.",
    "category": "News"
   },
   {
@@ -515,72 +584,26 @@
    "category": "News"
   },
   {
-   "id": "7f7fd37903bda79fa28231918e9ef703",
-   "sector": "Markets",
-   "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
-   "published": "Tue, 17 Nov 2026 22:15:00 GMT",
+   "id": "9886e6dfb0853f32f05f46f135f30ac8",
+   "sector": "Tech/AI",
+   "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "summary": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "published": "Wed, 18 Nov 2026 01:44:21 +0000",
    "source": "rss",
-   "sentiment_score": 0.35,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "nvidia",
-    "turmoil",
-    "spooked",
-    "time",
-    "come"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "afbfe29f96a6d7005ad1bbc611038b68",
-   "sector": "Markets",
-   "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-   "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
-   "summary": "Don\u2019t rule out a half-point interest-rate hike in December, BofA Global\u2019s rates team said.",
-   "published": "Tue, 17 Nov 2026 22:08:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.0375,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "want",
-    "earn",
-    "shorter",
-    "term",
-    "treasurys"
+    "nvidia",
+    "huang",
+    "startup",
+    "stakes",
+    "ballooned"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Don\u2019t rule out a half-point interest-rate hike in December, BofA Global\u2019s rates team said.",
-   "category": "News"
-  },
-  {
-   "id": "6bce51cca9d138c3f462cc997fca2050",
-   "sector": "Markets",
-   "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything instead. Do I tell her?",
-   "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
-   "published": "Tue, 17 Nov 2026 21:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.28888888888888886,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "brother",
-    "sister",
-    "older",
-    "children",
-    "only"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI\u2019m torn between respecting my brother\u2019s wishes and being fair to my sister.\u201d",
+   "summary_short": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Je",
    "category": "News"
   },
   {
@@ -745,26 +768,118 @@
    "category": "News"
   },
   {
-   "id": "fc3e0bb60541cc099ec7a4ed9dffe702",
-   "sector": "Tech/AI",
-   "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
-   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-   "published": "Tue, 17 Nov 2026 21:34:50 +0000",
+   "id": "2034f85cd6db9cbf9b349ce4936386c7",
+   "sector": "Crypto",
+   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+   "link": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+   "summary": "",
+   "published": "Wed, 18 Nov 2026 07:37:59 +0000",
    "source": "rss",
-   "sentiment_score": 0.20555555555555557,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "google",
-    "tech",
-    "announcing",
-    "joins",
-    "outage"
+    "finds",
+    "self",
+    "running",
+    "hacking"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is wor",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "40b286aaf764f63e4c97f654136059b2",
+   "sector": "Crypto",
+   "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+   "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+   "summary": "",
+   "published": "Wed, 18 Nov 2026 07:27:48 +0000",
+   "source": "rss",
+   "sentiment_score": 0.19242424242424241,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "live",
+    "updates",
+    "bitcoin",
+    "stuck",
+    "near"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "90e02fbcad7d97e48e85cdd9a2c083be",
+   "sector": "Crypto",
+   "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
+   "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+   "summary": "",
+   "published": "Wed, 18 Nov 2026 05:30:10 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "judge",
+    "says",
+    "ethereum",
+    "terms",
+    "clears"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "4577f6118406b62cc01b1c004fbc21a1",
+   "sector": "Crypto",
+   "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+   "summary": "",
+   "published": "Wed, 18 Nov 2026 04:34:21 +0000",
+   "source": "rss",
+   "sentiment_score": -0.25,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bitcoin",
+    "slide",
+    "through",
+    "support",
+    "looks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "b1e8c8ef9b23dec9b0292527464a0069",
+   "sector": "Crypto",
+   "title": "XRP whales moved $270 million during the selloff. The coins didn\u2019t go to exchanges",
+   "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+   "summary": "",
+   "published": "Wed, 18 Nov 2026 04:28:37 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "whales",
+    "moved",
+    "million",
+    "during",
+    "selloff"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -829,121 +944,6 @@
     "agents",
     "account",
     "transactions"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "6a2ced8aaf8bf27b41eba1db86b91ece",
-   "sector": "Crypto",
-   "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-   "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-   "summary": "",
-   "published": "Tue, 17 Nov 2026 19:16:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "predictions",
-    "platform",
-    "kalshi",
-    "complies",
-    "order"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "c26a9d61918cea74f64e30bfb974cffe",
-   "sector": "Crypto",
-   "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
-   "link": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
-   "summary": "",
-   "published": "Tue, 17 Nov 2026 17:42:40 +0000",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "druckenmiller",
-    "says",
-    "short",
-    "copper",
-    "warns"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "f5eb54cb8def442ba5ca929f36fe53d0",
-   "sector": "Crypto",
-   "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-   "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-   "summary": "",
-   "published": "Tue, 17 Nov 2026 17:00:05 +0000",
-   "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "governor",
-    "waller",
-    "pitches",
-    "keeping",
-    "central"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "a3c31822b5700418ddac02c37b3b7ad7",
-   "sector": "Crypto",
-   "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-   "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-   "summary": "",
-   "published": "Tue, 17 Nov 2026 15:11:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hong",
-    "kong",
-    "swift",
-    "test",
-    "tokenized"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "b26665ed36d50704e9bd517d82820e84",
-   "sector": "Crypto",
-   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-   "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-   "summary": "",
-   "published": "Tue, 17 Nov 2026 13:02:56 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ethereum",
-    "glamsterdam",
-    "upgrade",
-    "risks",
-    "breaking"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1366,6 +1366,29 @@
    "category": "News"
   },
   {
+   "id": "03db63cb0293b3b2a75fac78db55f1b0",
+   "sector": "Tech/AI",
+   "title": "ID.me terms required for IRS sign-in",
+   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50540437\">Comments</a>",
+   "published": "Wed, 18 Nov 2026 00:51:45 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "terms",
+    "required",
+    "sign",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50540437\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "49c21b3376ceff8d17ed28c1e583fd10",
    "sector": "Tech/AI",
    "title": "Quad9's withdrawal from France: A canary in the coal mine",
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50540178\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "03db63cb0293b3b2a75fac78db55f1b0",
-   "sector": "Tech/AI",
-   "title": "ID.me terms required for IRS sign-in",
-   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50540437\">Comments</a>",
-   "published": "Wed, 18 Nov 2026 00:51:45 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "terms",
-    "required",
-    "sign",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50540437\">Comments</a>",
    "category": "News"
   }
  ]
