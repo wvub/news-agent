@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19 05:42 IST",
+ "updated": "2026-11-19 13:05 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 10,
   "trends_detected": 15
  },
  "trends": [
@@ -28,22 +28,28 @@
    "article_count": 5
   },
   {
-   "keyword": "nvidia",
+   "keyword": "satya",
    "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
+   "sectors": 1,
+   "article_count": 4
   },
   {
-   "keyword": "million",
+   "keyword": "nadella",
    "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
+   "sectors": 1,
+   "article_count": 4
   },
   {
    "keyword": "survey",
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "musk",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 3
   },
   {
    "keyword": "data",
@@ -64,157 +70,174 @@
    "article_count": 2
   },
   {
+   "keyword": "million",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
    "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "stock",
+   "keyword": "elon",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 4
-  },
-  {
-   "keyword": "found",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "market",
-   "frequency": 4,
-   "sectors": 1,
    "article_count": 3
+  },
+  {
+   "keyword": "says",
+   "frequency": 4,
+   "sectors": 3,
+   "article_count": 4
   },
   {
    "keyword": "could",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
-  },
-  {
-   "keyword": "satya",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 3
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.069319+00:00",
+   "last_failure": "2026-11-19 07:35:16.414357+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.105374+00:00",
+   "last_failure": "2026-11-19 07:35:16.450043+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.136322+00:00",
+   "last_failure": "2026-11-19 07:35:16.494483+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.171942+00:00",
+   "last_failure": "2026-11-19 07:35:16.521773+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.199854+00:00",
+   "last_failure": "2026-11-19 07:35:16.567270+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.232066+00:00",
+   "last_failure": "2026-11-19 07:35:16.593604+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.259572+00:00",
+   "last_failure": "2026-11-19 07:35:16.619402+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.295546+00:00",
+   "last_failure": "2026-11-19 07:35:16.657489+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.324962+00:00",
+   "last_failure": "2026-11-19 07:35:16.695916+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.352948+00:00",
+   "last_failure": "2026-11-19 07:35:16.738721+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.381472+00:00",
+   "last_failure": "2026-11-19 07:35:16.765134+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.420077+00:00",
+   "last_failure": "2026-11-19 07:35:16.793784+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.452231+00:00",
+   "last_failure": "2026-11-19 07:35:16.820365+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.484298+00:00",
+   "last_failure": "2026-11-19 07:35:16.846841+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.511854+00:00",
+   "last_failure": "2026-11-19 07:35:16.876371+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-19 00:12:56.541522+00:00",
+   "last_failure": "2026-11-19 07:35:16.913723+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "7b5f68a068080b5dafcb749c519a4a49",
+   "sector": "World",
+   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+   "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+   "source": "rss",
+   "sentiment_score": 0.75,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "comes",
+    "remarkable",
+    "diplomatic",
+    "moment",
+    "china"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin ",
+   "category": "News"
+  },
   {
    "id": "ee8c1ac8c15e877ce4dcb8ff3282d93a",
    "sector": "World",
@@ -236,29 +259,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sig",
-   "category": "News"
-  },
-  {
-   "id": "af439c6a0b389e34f80de83c8a57499d",
-   "sector": "World",
-   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-   "published": "Wed, 18 Nov 2026 17:00:04 GMT",
-   "source": "rss",
-   "sentiment_score": 0.2590909090909091,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "drones",
-    "here",
-    "reports",
-    "ukraine",
-    "front"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
    "category": "News"
   },
   {
@@ -285,49 +285,72 @@
    "category": "News"
   },
   {
-   "id": "1f9960f2dbe338233a73a0a5e6ea4808",
+   "id": "cabafaeeb7e5df523fd51c8c4883b567",
    "sector": "World",
-   "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+   "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
    "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-   "published": "Wed, 18 Nov 2026 23:44:27 GMT",
+   "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "published": "Thu, 19 Nov 2026 02:20:15 GMT",
    "source": "rss",
-   "sentiment_score": -0.6,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.033333333333333326,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
+    "giant",
     "anthropic",
-    "claude",
-    "maker",
-    "poised",
-    "stock"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-   "category": "News"
-  },
-  {
-   "id": "99990e6beb7b743e97d5ab999365c261",
-   "sector": "World",
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "published": "Wed, 18 Nov 2026 16:10:44 GMT",
-   "source": "rss",
-   "sentiment_score": 0.125,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "trump",
-    "shakes",
-    "hands",
-    "putin",
+    "valued",
+    "trillion",
     "ahead"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "summary_short": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "category": "News"
+  },
+  {
+   "id": "4ae517247176bdc214f7d02bdb2ff155",
+   "sector": "World",
+   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "published": "Thu, 19 Nov 2026 00:49:19 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "gogh",
+    "painting",
+    "sells",
+    "record",
+    "after"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Ch\u00e2taigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "category": "News"
+  },
+  {
+   "id": "cc82a152d24a19e65449d34aa2984884",
+   "sector": "World",
+   "title": "Crimean Bridge attacked again, Russia says",
+   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+   "published": "Thu, 19 Nov 2026 07:32:06 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "russia",
+    "crimean",
+    "bridge",
+    "attacked",
+    "again"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The head of Crimea said traffic was suspended after another attack on the link between Russia and th",
    "category": "News"
   },
   {
@@ -354,49 +377,141 @@
    "category": "News"
   },
   {
-   "id": "22f728fd99ac233ec6ceb629ce392f27",
+   "id": "c8bcba6f6a5713d886c52a2ff09be1aa",
    "sector": "World",
-   "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-   "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-   "published": "Wed, 18 Nov 2026 23:28:03 GMT",
+   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "published": "Thu, 19 Nov 2026 02:59:06 GMT",
    "source": "rss",
-   "sentiment_score": -0.16666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.125,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "russian",
-    "accused",
-    "spying",
-    "tech",
-    "defence"
+    "elon",
+    "musk",
+    "says",
+    "record",
+    "spending"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors",
+   "summary_short": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement li",
    "category": "News"
   },
   {
-   "id": "aa754b8f68228c0a6e37604b2ff87b54",
-   "sector": "World",
-   "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-   "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-   "published": "Wed, 18 Nov 2026 15:39:57 GMT",
+   "id": "d5bcdf7de20a119724307b0b3bbab740",
+   "sector": "Markets",
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
+   "published": "Thu, 19 Nov 2026 03:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3666666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "husband",
+    "happily",
+    "retired",
+    "thinks",
+    "should"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "c3d7f46b4740cda91aedc1ec09ecb8cd",
+   "sector": "Markets",
+   "title": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
+   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "summary": "\u201cIt is devastating when the people you should be able to trust become the very people you have to protect yourself from.\u201d",
+   "published": "Thu, 19 Nov 2026 03:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.22500000000000003,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "people",
+    "downright",
+    "dirty",
+    "brother",
+    "took"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIt is devastating when the people you should be able to trust become the very people you have to pr",
+   "category": "News"
+  },
+  {
+   "id": "8b3cdabc2d9dfc1024433984feb5b7b0",
+   "sector": "Markets",
+   "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+   "published": "Thu, 19 Nov 2026 03:30:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "found",
-    "along",
-    "parents",
-    "jailed",
-    "torture"
+    "stay",
+    "home",
+    "chronic",
+    "illness",
+    "husband"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not ident",
+   "summary_short": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "c302b4424b31d8275bcf38913538fe50",
+   "sector": "Markets",
+   "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+   "summary": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahead of us.\u201d",
+   "published": "Thu, 19 Nov 2026 01:02:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.15,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "palo",
+    "alto",
+    "networks",
+    "stock",
+    "gets"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahea",
+   "category": "News"
+  },
+  {
+   "id": "2c39acd12fb8519b8a346332949946a8",
+   "sector": "Markets",
+   "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+   "published": "Thu, 19 Nov 2026 00:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "stocks",
+    "nvidia",
+    "turmoil",
+    "spooked",
+    "should"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
    "category": "News"
   },
   {
@@ -469,118 +584,49 @@
    "category": "News"
   },
   {
-   "id": "c302b4424b31d8275bcf38913538fe50",
-   "sector": "Markets",
-   "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-   "summary": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahead of us.\u201d",
-   "published": "Wed, 18 Nov 2026 22:53:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.15,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "palo",
-    "alto",
-    "networks",
-    "stock",
-    "gets"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahea",
-   "category": "News"
-  },
-  {
-   "id": "e4866dd52d86fc163e189eaec248f59c",
-   "sector": "Markets",
-   "title": "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over the stock",
-   "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-   "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
-   "published": "Wed, 18 Nov 2026 22:31:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.2916666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "nvidia",
-    "booming",
-    "demand",
-    "hard",
-    "ignore"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China",
-   "category": "News"
-  },
-  {
-   "id": "269fc25e5bdd67b99e267333ba3d0490",
-   "sector": "Markets",
-   "title": "Is Social Security a Ponzi scheme? No, but fear is fueling such talk.",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it down.",
-   "published": "Wed, 18 Nov 2026 22:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.022222222222222223,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "social",
-    "security",
-    "ponzi",
-    "scheme",
-    "fear"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it",
-   "category": "News"
-  },
-  {
-   "id": "26b65ec3b3353f23146b33f83da42eb5",
-   "sector": "Markets",
-   "title": "Has the stock market\u2019s slump hit bottom yet? Here\u2019s what these contrarian indicators say.",
-   "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-   "summary": "Contrarian buy signals typically don\u2019t come until sentiment has dropped further than they have so far",
-   "published": "Wed, 18 Nov 2026 21:58:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.022222222222222216,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "contrarian",
-    "stock",
-    "market",
-    "slump",
-    "bottom"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Contrarian buy signals typically don\u2019t come until sentiment has dropped further than they have so fa",
-   "category": "News"
-  },
-  {
-   "id": "8b3cdabc2d9dfc1024433984feb5b7b0",
-   "sector": "Markets",
-   "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-   "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
-   "published": "Wed, 18 Nov 2026 21:30:00 GMT",
+   "id": "90b71f8572c7f9c4bab13cc6645614d1",
+   "sector": "Tech/AI",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "published": "Thu, 19 Nov 2026 00:42:56 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "stay",
-    "home",
-    "chronic",
-    "illness",
-    "husband"
+    "microsoft",
+    "satya",
+    "nadella",
+    "employees",
+    "quit"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+   "summary_short": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, ",
+   "category": "News"
+  },
+  {
+   "id": "2e60e6829ea23f6a53d51ae3c07fc9ff",
+   "sector": "Tech/AI",
+   "title": "Elon Musk says: \u2018I\u2019m not MAGA\u2019",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+   "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
+   "published": "Thu, 19 Nov 2026 00:40:49 +0000",
+   "source": "rss",
+   "sentiment_score": 0.19727272727272727,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "elon",
+    "musk",
+    "maga",
+    "during",
+    "says"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn'",
    "category": "News"
   },
   {
@@ -676,9 +722,9 @@
    "category": "News"
   },
   {
-   "id": "dd8224041efa96abf349a79e9c5f2ebf",
+   "id": "ca66240654eb2eed1efe2e161b741892",
    "sector": "Tech/AI",
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
    "published": "Wed, 18 Nov 2026 22:11:15 +0000",
@@ -686,11 +732,11 @@
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "reportedly",
     "anthropic",
     "prices",
     "share",
-    "above"
+    "above",
+    "projected"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -722,49 +768,118 @@
    "category": "News"
   },
   {
-   "id": "e0b6e35f59e76b37ba6e82a029222c64",
-   "sector": "Tech/AI",
-   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-   "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-   "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-   "published": "Wed, 18 Nov 2026 21:57:40 +0000",
+   "id": "4d708b68855d39cb360951f97b1f9780",
+   "sector": "Crypto",
+   "title": "Fed's rate hike push may be a mistake. Here's why",
+   "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+   "summary": "",
+   "published": "Thu, 19 Nov 2026 06:23:19 +0000",
    "source": "rss",
-   "sentiment_score": -0.3,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "nvidia",
-    "filing",
-    "created",
-    "weird",
-    "intrigue"
+    "rate",
+    "hike",
+    "push",
+    "mistake",
+    "here"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be fili",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "aa666bb3b5cdd461d880daa6dbd97ad2",
-   "sector": "Tech/AI",
-   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
-   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-   "published": "Wed, 18 Nov 2026 21:34:13 +0000",
+   "id": "927eba45dd2b2bb9c836b7c93ab85ce2",
+   "sector": "Crypto",
+   "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+   "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+   "summary": "",
+   "published": "Thu, 19 Nov 2026 05:39:06 +0000",
    "source": "rss",
-   "sentiment_score": -0.2545454545454546,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.5,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "palmer",
-    "luckey",
-    "warns",
-    "powered",
-    "cyberattacks"
+    "ethereum",
+    "block",
+    "builders",
+    "received",
+    "most"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-en",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "e93e165942518eb68e477ec636f1a728",
+   "sector": "Crypto",
+   "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+   "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+   "summary": "",
+   "published": "Thu, 19 Nov 2026 04:46:10 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bitcoin",
+    "miner",
+    "sold",
+    "last",
+    "warns"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "ad8b30995f5963246ee4be2d42350342",
+   "sector": "Crypto",
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "summary": "",
+   "published": "Thu, 19 Nov 2026 03:40:48 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "says",
+    "tokenized",
+    "anthropic",
+    "coming",
+    "chain"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "6f239eb80ecd14d1b83b8c4096ec0353",
+   "sector": "Crypto",
+   "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+   "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+   "summary": "",
+   "published": "Thu, 19 Nov 2026 00:33:46 +0000",
+   "source": "rss",
+   "sentiment_score": 0.2,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "another",
+    "appellate",
+    "court",
+    "goes",
+    "against"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -829,121 +944,6 @@
     "short",
     "exchanges",
     "shouldn"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "48f8e199a39d79620a576e4363b854ca",
-   "sector": "Crypto",
-   "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-   "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-   "summary": "",
-   "published": "Wed, 18 Nov 2026 15:38:38 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "german",
-    "judge",
-    "proposes",
-    "dropping",
-    "case"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "3e90ef291be5e197714f9464b271d640",
-   "sector": "Crypto",
-   "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-   "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-   "summary": "",
-   "published": "Wed, 18 Nov 2026 15:23:18 +0000",
-   "source": "rss",
-   "sentiment_score": 0.2,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "hong",
-    "kong",
-    "wants",
-    "banks",
-    "catch"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "3cceaec9a129e1438c39f9d8e929c074",
-   "sector": "Crypto",
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "summary": "",
-   "published": "Wed, 18 Nov 2026 12:53:34 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "miner",
-    "mara",
-    "raises",
-    "million"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "c8a6ac85a212efa33bb80b032ad89ffc",
-   "sector": "Crypto",
-   "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-   "summary": "",
-   "published": "Wed, 18 Nov 2026 12:41:09 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bullish",
-    "beats",
-    "revenue",
-    "estimates",
-    "institutional"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "a308a9bc551554a210b0661107aadf51",
-   "sector": "Crypto",
-   "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-   "link": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-   "summary": "",
-   "published": "Wed, 18 Nov 2026 12:25:14 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "circle",
-    "turns",
-    "banks",
-    "build",
-    "rival"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,26 +1320,26 @@
    "category": "News"
   },
   {
-   "id": "e4762dac6da5216fc91cb224ee108a5d",
+   "id": "6f3dd70dcb349732527b3865f8beeaea",
    "sector": "Tech/AI",
-   "title": "We Need Smart People Who Give a Shit",
-   "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50554045\">Comments</a>",
-   "published": "Wed, 18 Nov 2026 23:53:49 +0000",
+   "title": "Gemini 4 Neon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50552424\">Comments</a>",
+   "published": "Wed, 18 Nov 2026 21:34:07 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.007142857142857131,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "need",
-    "smart",
-    "people",
-    "give",
-    "shit"
+    "gemini",
+    "neon",
+    "href",
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50554045\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50552424\">Comments</a>",
    "category": "News"
   },
   {
@@ -1366,6 +1366,52 @@
    "category": "News"
   },
   {
+   "id": "a4e89a3a4d84abc651547bdb0df05551",
+   "sector": "Tech/AI",
+   "title": "Multiple vulnerabilities in Regexp and String case conversion",
+   "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>",
+   "published": "Wed, 18 Nov 2026 23:52:50 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "multiple",
+    "vulnerabilities",
+    "regexp",
+    "string",
+    "case"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50554038\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "7aa79d201e8db3d8567651a38428a23f",
+   "sector": "Tech/AI",
+   "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+   "link": "https://kapteko.com/15-million-webservers/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>",
+   "published": "Thu, 19 Nov 2026 05:56:36 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "servers",
+    "smoltcp",
+    "dpdk",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50556533\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "703e8a664e0eb1027f2ed48c6b808f98",
    "sector": "Tech/AI",
    "title": "Seven new models at scalable price-performance",
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50548021\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "dc5aadb01e9f92e9272003a0f2ae6def",
-   "sector": "Tech/AI",
-   "title": "Inside Deutsche Bank",
-   "link": "https://www.inside-db.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547620\">Comments</a>",
-   "published": "Wed, 18 Nov 2026 15:38:33 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "inside",
-    "deutsche",
-    "bank",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547620\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "9ae6c844ef53b8ccdc0c44dbe94ad76c",
-   "sector": "Tech/AI",
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547777\">Comments</a>",
-   "published": "Wed, 18 Nov 2026 15:49:34 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "agents",
-    "better",
-    "questions",
-    "than",
-    "kpmg"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547777\">Comments</a>",
    "category": "News"
   }
  ]
