@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20 04:46 IST",
+ "updated": "2026-11-20 09:32 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 7,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -22,21 +22,21 @@
    "article_count": 6
   },
   {
-   "keyword": "million",
+   "keyword": "news",
    "frequency": 11,
-   "sectors": 4,
+   "sectors": 2,
    "article_count": 6
   },
   {
-   "keyword": "news",
+   "keyword": "million",
    "frequency": 10,
-   "sectors": 1,
+   "sectors": 3,
    "article_count": 5
   },
   {
    "keyword": "anthropic",
-   "frequency": 7,
-   "sectors": 4,
+   "frequency": 9,
+   "sectors": 3,
    "article_count": 6
   },
   {
@@ -52,15 +52,21 @@
    "article_count": 2
   },
   {
+   "keyword": "trump",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
+   "keyword": "stocks",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
    "keyword": "tests",
    "frequency": 5,
    "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "brain",
-   "frequency": 5,
-   "sectors": 1,
    "article_count": 2
   },
   {
@@ -88,12 +94,6 @@
    "article_count": 2
   },
   {
-   "keyword": "child",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
    "keyword": "after",
    "frequency": 4,
    "sectors": 2,
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.618755+00:00",
+   "last_failure": "2026-11-20 04:02:00.857743+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.651041+00:00",
+   "last_failure": "2026-11-20 04:02:00.925499+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.684535+00:00",
+   "last_failure": "2026-11-20 04:02:00.982336+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.715367+00:00",
+   "last_failure": "2026-11-20 04:02:01.040636+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.744658+00:00",
+   "last_failure": "2026-11-20 04:02:01.106208+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.788822+00:00",
+   "last_failure": "2026-11-20 04:02:01.174090+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.816159+00:00",
+   "last_failure": "2026-11-20 04:02:01.229162+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.843663+00:00",
+   "last_failure": "2026-11-20 04:02:01.284340+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.871710+00:00",
+   "last_failure": "2026-11-20 04:02:01.335470+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.902623+00:00",
+   "last_failure": "2026-11-20 04:02:01.384924+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.935495+00:00",
+   "last_failure": "2026-11-20 04:02:01.441330+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:24.967494+00:00",
+   "last_failure": "2026-11-20 04:02:01.520628+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:25.001903+00:00",
+   "last_failure": "2026-11-20 04:02:01.579684+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:25.036715+00:00",
+   "last_failure": "2026-11-20 04:02:01.642326+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:25.067140+00:00",
+   "last_failure": "2026-11-20 04:02:01.698164+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-19 23:16:25.100452+00:00",
+   "last_failure": "2026-11-20 04:02:01.775032+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-   "published": "Thu, 19 Nov 2026 21:38:42 GMT",
+   "published": "Thu, 19 Nov 2026 23:33:51 GMT",
    "source": "rss",
    "sentiment_score": 0.16071428571428573,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -236,6 +236,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire indus",
+   "category": "News"
+  },
+  {
+   "id": "4f5ca0ac058e44f62d8fa09747bdce09",
+   "sector": "World",
+   "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+   "published": "Fri, 20 Nov 2026 00:13:21 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "people",
+    "tell",
+    "just",
+    "fireworks",
+    "inside"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under",
    "category": "News"
   },
   {
@@ -262,6 +285,29 @@
    "category": "News"
   },
   {
+   "id": "4c5f9f28cc96097f08aebe81526ffce4",
+   "sector": "World",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "published": "Fri, 20 Nov 2026 00:50:24 GMT",
+   "source": "rss",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ukraine",
+    "europe",
+    "ready",
+    "talks",
+    "russia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "category": "News"
+  },
+  {
    "id": "8c7d6555d929352c74ce16a5a1f4a122",
    "sector": "World",
    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -285,32 +331,9 @@
    "category": "News"
   },
   {
-   "id": "4c5f9f28cc96097f08aebe81526ffce4",
+   "id": "0f3487fd0bbbb4dc495df37913352d62",
    "sector": "World",
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "published": "Thu, 19 Nov 2026 21:21:43 GMT",
-   "source": "rss",
-   "sentiment_score": 0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "ukraine",
-    "europe",
-    "ready",
-    "talks",
-    "russia"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "category": "News"
-  },
-  {
-   "id": "7870970e07426df499df5336159ba7c7",
-   "sector": "World",
-   "title": "California probing whether China improperly acquired Nvidia technology",
+   "title": "California targets Nvidia in China AI chip probe",
    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
    "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
    "published": "Thu, 19 Nov 2026 23:04:30 GMT",
@@ -319,15 +342,38 @@
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "california",
-    "probing",
-    "whether",
-    "china",
-    "improperly"
+    "probe",
+    "targets",
+    "nvidia",
+    "china"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
    "summary_short": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jens",
+   "category": "News"
+  },
+  {
+   "id": "ad4662a7efd72312f9ecdd35d165dbca",
+   "sector": "World",
+   "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t anymore\", the zoo says.",
+   "published": "Thu, 19 Nov 2026 23:40:29 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "fiona",
+    "after",
+    "hippo",
+    "dies",
+    "swallowing"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t any",
    "category": "News"
   },
   {
@@ -354,233 +400,279 @@
    "category": "News"
   },
   {
-   "id": "ad4662a7efd72312f9ecdd35d165dbca",
-   "sector": "World",
-   "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-   "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t anymore\", the zoo says.",
-   "published": "Thu, 19 Nov 2026 22:09:04 GMT",
+   "id": "a524469989baa41100670ddf896a77b0",
+   "sector": "Markets",
+   "title": "Latest Oil Market News and Analysis for Nov. 20",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20",
+   "summary": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against ample supply.",
+   "published": "Thu, 19 Nov 2026 23:05:51 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "latest",
+    "market",
+    "news",
+    "analysis",
+    "edged"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decl",
+   "category": "News"
+  },
+  {
+   "id": "61f73e91bcfcf9b532b336e127956414",
+   "sector": "Markets",
+   "title": "NZ Central Bank\u2019s Chief Economist Urges Government to Stop Messing With Mandate",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/nz-central-bank-s-chief-economist-urges-government-to-stop-messing-with-mandate",
+   "summary": "Reserve Bank of New Zealand Chief Economist Paul Conway called on future finance ministers to stop tinkering with the central bank\u2019s mandate, warning that repeated changes affect how monetary policy is conducted.",
+   "published": "Fri, 20 Nov 2026 03:38:19 GMT",
+   "source": "rss",
+   "sentiment_score": 0.03409090909090909,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "bank",
+    "central",
+    "chief",
+    "economist",
+    "stop"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Reserve Bank of New Zealand Chief Economist Paul Conway called on future finance ministers to stop t",
+   "category": "News"
+  },
+  {
+   "id": "ff00409a27191f2915c888f8b9d02505",
+   "sector": "Markets",
+   "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn",
+   "summary": "Taiwan\u2019s tech-heavy stock market witnessed another selloff on Friday as the global artificial intelligence trade came under fresh strain, putting the island\u2019s benchmark on course for its worst week since 1991.",
+   "published": "Fri, 20 Nov 2026 02:29:57 GMT",
+   "source": "rss",
+   "sentiment_score": -0.45999999999999996,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "taiwan",
+    "worst",
+    "week",
+    "since",
+    "stocks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Taiwan\u2019s tech-heavy stock market witnessed another selloff on Friday as the global artificial intell",
+   "category": "News"
+  },
+  {
+   "id": "e7848d167e8ceceea801ad23a2b3b504",
+   "sector": "Markets",
+   "title": "Stocks Set for Worst Run Since 2023, Havens Gain: Markets Wrap",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+   "summary": "Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run in 2026, sending investors to haven assets such as Treasuries and the dollar.",
+   "published": "Thu, 19 Nov 2026 22:03:40 GMT",
+   "source": "rss",
+   "sentiment_score": -0.22000000000000003,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "stocks",
+    "worst",
+    "since",
+    "havens",
+    "gain"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Global stocks were poised for their longest losing streak in more than three years as the artificial",
+   "category": "News"
+  },
+  {
+   "id": "6e532bb289a14ebcc4311efdcd3da121",
+   "sector": "Markets",
+   "title": "Hong Kong Stocks Fall 20% From 2026 High as AI Selloff Spreads",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/hong-kong-stocks-hang-seng-hsi-hkex-2026-ai-selloff-bear-market",
+   "summary": "Hong Kong stocks fell toward a grim milestone as an AI-led selloff spread to engulf even the more defensive corners of the market.",
+   "published": "Fri, 20 Nov 2026 02:29:50 GMT",
+   "source": "rss",
+   "sentiment_score": -0.11333333333333333,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hong",
+    "kong",
+    "stocks",
+    "selloff",
+    "fall"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Hong Kong stocks fell toward a grim milestone as an AI-led selloff spread to engulf even the more de",
+   "category": "News"
+  },
+  {
+   "id": "7b8f460aed7915287865ff99b92038ac",
+   "sector": "Markets",
+   "title": "Copper Rout Deepens as AI Selloff Wreaks Havoc in Metals Markets",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/copper-rout-deepens-as-ai-selloff-wreaks-havoc-in-metals-markets",
+   "summary": "Copper crashed to its lowest level since March after a week of market turmoil fueled by deepening worries about global demand.",
+   "published": "Fri, 20 Nov 2026 03:03:05 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "fiona",
-    "after",
-    "hippo",
-    "dies",
-    "swallowing"
+    "copper",
+    "rout",
+    "deepens",
+    "selloff",
+    "wreaks"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t any",
+   "summary_short": "Copper crashed to its lowest level since March after a week of market turmoil fueled by deepening wo",
    "category": "News"
   },
   {
-   "id": "c308e0cfa9cf5846ad85cf44dd7f53a5",
-   "sector": "World",
-   "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-   "published": "Thu, 19 Nov 2026 15:52:26 GMT",
-   "source": "rss",
-   "sentiment_score": -0.20000000000000004,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "boat",
-    "carrying",
-    "dozens",
-    "missing",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and ",
-   "category": "News"
-  },
-  {
-   "id": "19878488618bc4f392217f12893728c1",
+   "id": "72d1617fbc45ca61c405d808cbd164bb",
    "sector": "Markets",
-   "title": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday",
-   "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-   "summary": "All 11 sectors of the S&amp;P 500 declined \u2014 10 of them by more than 1% \u2014 but cybersecurity stocks bucked the weakness.",
-   "published": "Thu, 19 Nov 2026 23:11:00 GMT",
+   "title": "Trump Offers Xi a Helping Hand on Escalator",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-20/trump-offers-xi-a-helping-hand-on-escalator-video",
+   "summary": "Donald Trump, 80, offered Xi Jinping, 73, a hand while boarding an escalator, with Xi holding his forearm as he stepped up, during their third summit of the year in Shenzhen.\n\nThe friendly gesture contrasted with Washington\u2019s recent efforts to restrict China\u2019s access to key AI technology. (Source: Bloomberg)",
+   "published": "Fri, 20 Nov 2026 03:01:17 GMT",
    "source": "rss",
-   "sentiment_score": 0.3666666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "stocks",
-    "these",
-    "were",
-    "only",
-    "rose"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "All 11 sectors of the S&amp;P 500 declined \u2014 10 of them by more than 1% \u2014 but cybersecurity stocks b",
-   "category": "News"
-  },
-  {
-   "id": "f6df2d66429b6317c6a46d9ed5a7080c",
-   "sector": "Markets",
-   "title": "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies",
-   "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-   "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-   "published": "Thu, 19 Nov 2026 22:53:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "intuit",
-    "about",
-    "software",
-    "companies",
-    "downbeat"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-   "category": "News"
-  },
-  {
-   "id": "d1e4a99ebe1f1d9da2ac95654f6466a6",
-   "sector": "Markets",
-   "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-   "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-   "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-   "published": "Thu, 19 Nov 2026 22:41:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0666666666666667,
+   "sentiment_score": 0.095,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "coreweave",
-    "founder",
-    "just",
-    "made",
-    "unconventional"
+    "trump",
+    "hand",
+    "escalator",
+    "offers",
+    "helping"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is tu",
+   "summary_short": "Donald Trump, 80, offered Xi Jinping, 73, a hand while boarding an escalator, with Xi holding his fo",
    "category": "News"
   },
   {
-   "id": "b8d1c16335f8a13a0b0001a168b7dc78",
+   "id": "173b821ef61ba4a8f833f904415f3f9c",
    "sector": "Markets",
-   "title": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
-   "published": "Thu, 19 Nov 2026 22:15:00 GMT",
+   "title": "Honda Debuts Hybrid SUV for Asia in Pivot From Failed EV Bet",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-20/honda-debuts-hybrid-suv-for-asia-in-pivot-from-failed-ev-bet",
+   "summary": "Honda Motor Co. unwrapped a new flagship SUV, the first of a range of gas-electric hybrid models the company is rolling out this decade as part of its pivot away from fully electric cars.",
+   "published": "Fri, 20 Nov 2026 03:00:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.3,
+   "sentiment_score": -0.03787878787878788,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "honda",
+    "hybrid",
+    "pivot",
+    "electric",
+    "debuts"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Honda Motor Co. unwrapped a new flagship SUV, the first of a range of gas-electric hybrid models the",
+   "category": "News"
+  },
+  {
+   "id": "00688d915afeb8fd0d4a37f0e83a20c8",
+   "sector": "Tech/AI",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+   "source": "rss",
+   "sentiment_score": 0.6,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "terrified",
-    "market",
-    "crash",
-    "should",
-    "million"
+    "apple",
+    "developing",
+    "agent",
+    "runs",
+    "your"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
+   "summary_short": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinc",
    "category": "News"
   },
   {
-   "id": "ac6e0391dcc1bd984ca3a6485e4f631a",
-   "sector": "Markets",
-   "title": "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-   "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-   "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump\u2019s \u201cliberation day\u201d tariffs of April 2025",
-   "published": "Thu, 19 Nov 2026 22:12:00 GMT",
+   "id": "b8b17a13aab7b7181680ec4c59a03028",
+   "sector": "Tech/AI",
+   "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "published": "Fri, 20 Nov 2026 00:43:50 +0000",
    "source": "rss",
-   "sentiment_score": -0.46875,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "stock",
     "anthropic",
-    "surges",
-    "debut",
-    "rest"
+    "founders",
+    "nearly",
+    "cashed",
+    "record"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "All four major U.S. stock indexes are now on pace for their worst week since President Trump\u2019s \u201clibe",
+   "summary_short": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while th",
    "category": "News"
   },
   {
-   "id": "af88861c5df3f23101dd57e6f12dfbaa",
-   "sector": "Markets",
-   "title": "Markets are sending troubling signals about the state of the economy",
-   "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-   "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
-   "published": "Thu, 19 Nov 2026 21:57:00 GMT",
+   "id": "7e1ebcd7a6f9bf12e5a9d75e55db5298",
+   "sector": "Tech/AI",
+   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+   "summary": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers\u2019 trust.",
+   "published": "Fri, 20 Nov 2026 00:26:03 +0000",
    "source": "rss",
-   "sentiment_score": 0.20714285714285713,
+   "sentiment_score": 0.16666666666666666,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "markets",
-    "sending",
-    "troubling",
-    "signals",
-    "about"
+    "anthropic",
+    "models",
+    "rival",
+    "says",
+    "companies"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "A number of recession trades have started to emerge, even as economic data has largely held up.",
+   "summary_short": "On the day Anthropic went public, Fireworks AI\u2019s co-founder made the case for open source models as ",
    "category": "News"
   },
   {
-   "id": "1b39a6d585fcf8603a401e2a47a40426",
-   "sector": "Markets",
-   "title": "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-   "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
-   "published": "Thu, 19 Nov 2026 21:45:00 GMT",
+   "id": "23091ea0d02ed9f6deba146376154428",
+   "sector": "Tech/AI",
+   "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+   "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+   "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+   "published": "Thu, 19 Nov 2026 23:37:56 +0000",
    "source": "rss",
-   "sentiment_score": 0.08333333333333333,
+   "sentiment_score": 0.033333333333333326,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "billion",
-    "nvidia",
-    "stock",
-    "falls",
-    "further"
+    "elon",
+    "musk",
+    "spacex",
+    "eliminate",
+    "cell"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
-   "category": "News"
-  },
-  {
-   "id": "6b4815280e73caf584f18cf0fe1057e4",
-   "sector": "Markets",
-   "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-   "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-   "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
-   "published": "Thu, 19 Nov 2026 21:27:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "micron",
-    "broadcom",
-    "other",
-    "stocks",
-    "gave"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+   "summary_short": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower tha",
    "category": "News"
   },
   {
@@ -676,95 +768,26 @@
    "category": "News"
   },
   {
-   "id": "e3ad00ee254dde850878652703fc4ac1",
-   "sector": "Tech/AI",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "published": "Thu, 19 Nov 2026 20:18:49 +0000",
-   "source": "rss",
-   "sentiment_score": 0.3,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "jensen",
-    "huang",
-    "unfolding",
-    "scandal",
-    "timeline"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for nation",
-   "category": "News"
-  },
-  {
-   "id": "0fa50182fbebcc8871a5c6082fb1e96f",
-   "sector": "Tech/AI",
-   "title": "Anthropic\u2019s IPO could deliver $156B to charity",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-   "published": "Thu, 19 Nov 2026 19:10:45 +0000",
+   "id": "ec3141b9eb4539af0e7e68aa866fbc9f",
+   "sector": "Crypto",
+   "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+   "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+   "summary": "",
+   "published": "Fri, 20 Nov 2026 03:32:30 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "anthropic",
-    "could",
-    "deliver",
-    "charity",
-    "stock"
+    "bitcoin",
+    "hits",
+    "four",
+    "month",
+    "after"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and t",
-   "category": "News"
-  },
-  {
-   "id": "27af3a3e4027a1ae41329dcf9aeaf3d3",
-   "sector": "Tech/AI",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-   "published": "Thu, 19 Nov 2026 18:09:11 +0000",
-   "source": "rss",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "google",
-    "gemini",
-    "gives",
-    "ability",
-    "your"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out for",
-   "category": "News"
-  },
-  {
-   "id": "0b78848a9e791a6def9d10f071b70ab8",
-   "sector": "Tech/AI",
-   "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-   "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "they",
-    "never",
-    "muse",
-    "meta",
-    "agent"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "In some of these instances, employees said Muse surfaced messages about childcare requests they neve",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,26 +952,26 @@
    "category": "News"
   },
   {
-   "id": "f59f953054edf0807c345471855d3062",
-   "sector": "Crypto",
-   "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-   "summary": "",
-   "published": "Thu, 19 Nov 2026 12:20:39 +0000",
+   "id": "24404b8b77bc36eea6806ff5064c1dcb",
+   "sector": "Science",
+   "title": "Experimental compound burns fat without sacrificing muscle",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+   "published": "Thu, 19 Nov 2026 19:19:49 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.41250000000000003,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "bitcoin",
-    "outflows",
-    "show",
-    "waning",
-    "crypto"
+    "compound",
+    "loss",
+    "without",
+    "muscle",
+    "weight"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by ",
    "category": "News"
   },
   {
@@ -1110,29 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, ",
-   "category": "News"
-  },
-  {
-   "id": "cb3bd17e5d3368c7d52d51dea918d94a",
-   "sector": "Science",
-   "title": "Too much exercise could leave your brain stuck in overdrive",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-   "summary": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, although these symptoms were not directly measured.",
-   "published": "Wed, 18 Nov 2026 16:28:29 EST",
-   "source": "rss",
-   "sentiment_score": 0.2638888888888889,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "brain",
-    "much",
-    "could",
-    "exercising",
-    "exercise"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scient",
    "category": "News"
   },
   {
@@ -1320,9 +1320,32 @@
    "category": "News"
   },
   {
-   "id": "5abfdc382ccc2dd28d3375c80111d4d1",
+   "id": "c72f755186d643b905aabe938b435d59",
    "sector": "Tech/AI",
-   "title": "Anthropic hits $2T in Nasdaq debut",
+   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+   "link": "https://git-aarvin.github.io/mei/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50568130\">Comments</a>",
+   "published": "Thu, 19 Nov 2026 23:35:35 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "gemini",
+    "neon",
+    "models",
+    "engineering",
+    "index"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50568130\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "9238efe2cc11880abd5c250920652a59",
+   "sector": "Tech/AI",
+   "title": "Anthropic\u2019s Nasdaq debut",
    "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50562754\">Comments</a>",
    "published": "Thu, 19 Nov 2026 17:02:40 +0000",
@@ -1331,10 +1354,10 @@
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "anthropic",
-    "hits",
     "nasdaq",
     "debut",
-    "href"
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1366,72 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "64800ddd0c0768d102bf855cef1a563f",
+   "id": "683cb410ab875a93935e2c8a54926905",
    "sector": "Tech/AI",
-   "title": "Synology Security Advisory",
-   "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50567209\">Comments</a>",
-   "published": "Thu, 19 Nov 2026 22:13:40 +0000",
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "link": "https://github.com/openssl/openssl/pull/33652",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 02:01:09 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "synology",
-    "security",
-    "advisory",
-    "href",
-    "https"
+    "openssl",
+    "buffer",
+    "overflow",
+    "cvss",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50567209\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50569226\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "3aee06e1ff484d7554fb23f1bc355ac2",
+   "id": "dbce3e312918690469092c336c3f542b",
    "sector": "Tech/AI",
-   "title": "Claude solves two open problems in the physics of black holes",
-   "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50563148\">Comments</a>",
-   "published": "Thu, 19 Nov 2026 17:30:44 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "claude",
-    "solves",
-    "open",
-    "problems",
-    "physics"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50563148\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "e9cc02a33d17453b44111f540385d856",
-   "sector": "Tech/AI",
-   "title": "How to CAD Almost Anything",
-   "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50528119\">Comments</a>",
-   "published": "Tue, 17 Nov 2026 06:29:57 +0000",
+   "title": "Vint Cerf on why TCP/IP was never patented",
+   "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50568861\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 01:06:12 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "almost",
-    "anything",
-    "href",
-    "https",
-    "news"
+    "vint",
+    "cerf",
+    "never",
+    "patented",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50528119\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50568861\">Comments</a>",
    "category": "News"
   }
  ]
