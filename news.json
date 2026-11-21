@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21 22:05 IST",
+ "updated": "2026-11-22 03:21 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -34,40 +34,22 @@
    "article_count": 3
   },
   {
-   "keyword": "startup",
-   "frequency": 7,
-   "sectors": 1,
-   "article_count": 3
-  },
-  {
-   "keyword": "time",
-   "frequency": 6,
-   "sectors": 3,
-   "article_count": 3
-  },
-  {
-   "keyword": "million",
-   "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "data",
-   "frequency": 6,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
    "keyword": "survey",
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "stocks",
+   "keyword": "time",
+   "frequency": 5,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "data",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 3
+   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -82,134 +64,152 @@
    "article_count": 2
   },
   {
-   "keyword": "says",
-   "frequency": 4,
-   "sectors": 3,
-   "article_count": 3
+   "keyword": "million",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
   },
   {
-   "keyword": "their",
+   "keyword": "messages",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "space",
+   "keyword": "startup",
    "frequency": 4,
-   "sectors": 2,
+   "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "scientists",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "star",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
+  },
+  {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.694706+00:00",
+   "last_failure": "2026-11-21 21:51:56.976012+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.730278+00:00",
+   "last_failure": "2026-11-21 21:51:57.004229+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.754485+00:00",
+   "last_failure": "2026-11-21 21:51:57.041393+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.780073+00:00",
+   "last_failure": "2026-11-21 21:51:57.160567+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.807106+00:00",
+   "last_failure": "2026-11-21 21:51:57.196282+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.834106+00:00",
+   "last_failure": "2026-11-21 21:51:57.227968+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.860441+00:00",
+   "last_failure": "2026-11-21 21:51:57.254801+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.887937+00:00",
+   "last_failure": "2026-11-21 21:51:57.283457+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.916113+00:00",
+   "last_failure": "2026-11-21 21:51:57.381522+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.952945+00:00",
+   "last_failure": "2026-11-21 21:51:57.407243+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:48.982076+00:00",
+   "last_failure": "2026-11-21 21:51:57.525136+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:49.012506+00:00",
+   "last_failure": "2026-11-21 21:51:57.595539+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:49.039574+00:00",
+   "last_failure": "2026-11-21 21:51:57.625059+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:49.067178+00:00",
+   "last_failure": "2026-11-21 21:51:57.650016+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:49.099155+00:00",
+   "last_failure": "2026-11-21 21:51:57.734293+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-21 16:35:49.125631+00:00",
+   "last_failure": "2026-11-21 21:51:57.757483+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -236,6 +236,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "category": "News"
+  },
+  {
+   "id": "1a1a063ff160719e1eb12eb250e53e43",
+   "sector": "World",
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "published": "Sat, 21 Nov 2026 19:20:22 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "russia",
+    "bound",
+    "ship",
+    "attacked",
+    "gulf"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
    "category": "News"
   },
   {
@@ -267,7 +290,7 @@
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "published": "Sat, 21 Nov 2026 14:54:24 GMT",
+   "published": "Sat, 21 Nov 2026 19:33:49 GMT",
    "source": "rss",
    "sentiment_score": 0.07878787878787878,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -313,7 +336,7 @@
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "published": "Sat, 21 Nov 2026 13:15:21 GMT",
+   "published": "Sat, 21 Nov 2026 21:05:29 GMT",
    "source": "rss",
    "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -377,141 +400,118 @@
    "category": "News"
   },
   {
-   "id": "8aacd2950417f81ab812f500080261c1",
-   "sector": "World",
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
-   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-   "published": "Sat, 21 Nov 2026 04:34:00 GMT",
+   "id": "5b2b65dff18ba242f439d936128ef569",
+   "sector": "Markets",
+   "title": "\u2018It\u2019s downright dirty\u2019: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "summary": "\u201cIt is devastating when the people you should be able to trust become the very people you have to protect yourself from.\u201d",
+   "published": "Sat, 21 Nov 2026 20:15:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.09999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "convicted",
-    "starting",
-    "palisades",
-    "fire",
-    "angeles"
+    "people",
+    "downright",
+    "dirty",
+    "brother",
+    "moved"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and de",
+   "summary_short": "\u201cIt is devastating when the people you should be able to trust become the very people you have to pr",
    "category": "News"
   },
   {
-   "id": "4a38f8db37f79669d8745f5b600c9161",
+   "id": "8b3cdabc2d9dfc1024433984feb5b7b0",
    "sector": "Markets",
-   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
-   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-   "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-   "published": "Sat, 21 Nov 2026 15:35:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.13333333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "stocks",
-    "analysts",
-    "micron",
-    "sandisk",
-    "might"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing leve",
-   "category": "News"
-  },
-  {
-   "id": "e30c418440a5c58be54490266a44ff80",
-   "sector": "Markets",
-   "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks?",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-   "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+   "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+   "summary": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
+   "published": "Sat, 21 Nov 2026 19:45:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "stocks",
-    "nvidia",
-    "turmoil",
-    "spooked",
-    "time"
+    "stay",
+    "home",
+    "chronic",
+    "illness",
+    "husband"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden ",
+   "summary_short": "\u201cOur financial and healthcare situation has become increasingly concerning.\u201d",
    "category": "News"
   },
   {
-   "id": "c022400231ffb1ee4b3d0c0713a33ba3",
+   "id": "6d96595ab63d117ce2236c7834d9743f",
    "sector": "Markets",
-   "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
-   "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+   "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
+   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+   "published": "Sat, 21 Nov 2026 19:45:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.3,
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "buyers",
+    "home",
+    "record",
+    "shots",
+    "blood"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting",
+   "category": "News"
+  },
+  {
+   "id": "d5bcdf7de20a119724307b0b3bbab740",
+   "sector": "Markets",
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
+   "published": "Sat, 21 Nov 2026 19:23:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3666666666666667,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "terrified",
-    "market",
-    "crash",
-    "should",
-    "million"
+    "husband",
+    "happily",
+    "retired",
+    "thinks",
+    "should"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
+   "summary_short": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
    "category": "News"
   },
   {
-   "id": "dbf8fb95ce49af0a0bf0f731fdd8b3bb",
+   "id": "29e01092fc62faa874033998abc6f063",
    "sector": "Markets",
-   "title": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
-   "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-   "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
-   "published": "Sat, 21 Nov 2026 15:03:00 GMT",
+   "title": "America is definitely rich enough to fix Social Security and Medicare. Here\u2019s how.",
+   "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+   "summary": "This one, simple, low-pain tax solves all the problems.",
+   "published": "Sat, 21 Nov 2026 18:20:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.19545454545454546,
+   "sentiment_score": 0.10208333333333333,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "muscle",
-    "here",
-    "what",
-    "proven",
-    "help"
+    "america",
+    "definitely",
+    "rich",
+    "enough",
+    "social"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "People taking Zepbound who engage in consistent resistance training can still get stronger even if t",
-   "category": "News"
-  },
-  {
-   "id": "cb0ffb393441681e7e3e08fca3954c6a",
-   "sector": "Markets",
-   "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
-   "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-   "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-   "published": "Sat, 21 Nov 2026 15:01:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "prices",
-    "thanksgiving",
-    "travelers",
-    "thing",
-    "thankful"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after month",
+   "summary_short": "This one, simple, low-pain tax solves all the problems.",
    "category": "News"
   },
   {
@@ -520,7 +520,7 @@
    "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
    "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
    "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "published": "Sat, 21 Nov 2026 15:00:00 GMT",
+   "published": "Sat, 21 Nov 2026 18:19:00 GMT",
    "source": "rss",
    "sentiment_score": 0.19166666666666665,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -538,49 +538,141 @@
    "category": "News"
   },
   {
-   "id": "a93c7be5772da95c08361072bf93147a",
+   "id": "48a858dd1234a48b28d6279f25d31b98",
    "sector": "Markets",
-   "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.\u201d",
-   "published": "Sat, 21 Nov 2026 14:42:00 GMT",
+   "title": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
+   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it down.",
+   "published": "Sat, 21 Nov 2026 16:50:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.09285714285714285,
+   "sentiment_score": -0.02962962962962963,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "husband",
-    "spent",
-    "boat",
-    "says",
-    "plans"
+    "social",
+    "security",
+    "ponzi",
+    "scheme",
+    "carried"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 ye",
+   "summary_short": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it",
    "category": "News"
   },
   {
-   "id": "6ca588bb7dc8f30c1597fb74eff4c963",
+   "id": "7a5adb573bf05283abf6c40d47022a3b",
    "sector": "Markets",
-   "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
-   "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
-   "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
-   "published": "Sat, 21 Nov 2026 14:17:00 GMT",
+   "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
+   "published": "Sat, 21 Nov 2026 16:50:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.125,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": -0.039880952380952385,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "their",
-    "brutal",
-    "week",
-    "stocks",
-    "almost"
+    "sick",
+    "flying",
+    "paid",
+    "priority",
+    "boarding"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Investors are now more focused on protecting their portfolios than looking for bargains",
+   "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
+   "category": "News"
+  },
+  {
+   "id": "63f1246836a789c839c09c06967d4054",
+   "sector": "Tech/AI",
+   "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "published": "Sat, 21 Nov 2026 21:37:10 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "signal",
+    "screenshots",
+    "restricts",
+    "mobile",
+    "confronts"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "category": "News"
+  },
+  {
+   "id": "798b8ca4ac2aff8fb93a0eadad43b9c0",
+   "sector": "Tech/AI",
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+   "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+   "source": "rss",
+   "sentiment_score": 0.19999999999999998,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "tale",
+    "nvidias",
+    "very",
+    "different",
+    "pictures"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech ex",
+   "category": "News"
+  },
+  {
+   "id": "cb34e272328fdf575d9d39b0eea5784f",
+   "sector": "Tech/AI",
+   "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+   "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+   "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+   "published": "Sat, 21 Nov 2026 18:44:53 +0000",
+   "source": "rss",
+   "sentiment_score": -0.22499999999999998,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hack",
+    "trump",
+    "says",
+    "reported",
+    "database"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+   "category": "News"
+  },
+  {
+   "id": "ab57f36fb4fc93b1429b9e97f63aa41d",
+   "sector": "Tech/AI",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3037878787878788,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "agents",
+    "live",
+    "your",
+    "text",
+    "messages"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "We created a list of the most notable AI agents that can live in your text messages, from general as",
    "category": "News"
   },
   {
@@ -676,95 +768,49 @@
    "category": "News"
   },
   {
-   "id": "4cad5866589240f64d10e5ee176f5854",
-   "sector": "Tech/AI",
-   "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-   "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+   "id": "49983302bd3d2d4c82f6e6338cacab32",
+   "sector": "Crypto",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 17:50:00 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "fusion",
-    "startup",
-    "daniel",
-    "researcher",
-    "power"
+    "bitcoin",
+    "rebounds",
+    "above",
+    "after",
+    "billion"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI research",
+   "summary_short": "",
    "category": "News"
   },
   {
-   "id": "04db20cda74d75a79c8279b6ea85ee97",
-   "sector": "Tech/AI",
-   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
-   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
-   "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+   "id": "57faef9ab4132ae34f9d89eb50f223d0",
+   "sector": "Crypto",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 16:41:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "solution",
-    "human",
-    "claimed",
-    "year",
-    "riemann"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing",
-   "category": "News"
-  },
-  {
-   "id": "9c85594b0ec2795eb181ad01dfd44c20",
-   "sector": "Tech/AI",
-   "title": "Super-hot rock geothermal could end data center energy woes",
-   "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-   "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-   "published": "Fri, 20 Nov 2026 18:34:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.04545454545454545,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "geothermal",
-    "super",
-    "rock",
-    "could",
-    "data"
+    "cross",
+    "chain",
+    "protocol",
+    "chainflip",
+    "flip"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of e",
-   "category": "News"
-  },
-  {
-   "id": "398ebb905af7decebf93f3399cd8ccff",
-   "sector": "Tech/AI",
-   "title": "Chips can survive the space environment \u2014 can their financing?",
-   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-   "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-   "source": "rss",
-   "sentiment_score": -0.04910714285714286,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "space",
-    "their",
-    "chips",
-    "survive",
-    "environment"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data c",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -898,52 +944,6 @@
     "tokenized",
     "stock",
     "venue"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "86614c70b8e75d5b3574110e1dd527a2",
-   "sector": "Crypto",
-   "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-   "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 18:13:52 +0000",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "plunges",
-    "below",
-    "rush",
-    "cash"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "e5a5d68d684d98701d20eceb5a16998a",
-   "sector": "Crypto",
-   "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-   "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 14:54:30 +0000",
-   "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "former",
-    "head",
-    "proprietary",
-    "research",
-    "says"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,32 +1320,55 @@
    "category": "News"
   },
   {
-   "id": "2e0485daeac52e370e341ef0fdcfd346",
+   "id": "9c1579d477e3ccb304b6b9b689c2a482",
    "sector": "Tech/AI",
-   "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50582069\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 21:03:12 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "derek",
-    "lowe",
-    "detonating",
-    "pile",
-    "lead"
+    "pill",
+    "treat",
+    "pancreatic",
+    "cancer",
+    "hailed"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50582069\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "25248c221824fdd6f0dfd2f21b2bb2df",
+   "id": "a395b1738719c978df2906f112195128",
    "sector": "Tech/AI",
-   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 18:02:19 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "inkling",
+    "mini",
+    "memory",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "f8c511e3b2f2b98c05a2211720671b6a",
+   "sector": "Tech/AI",
+   "title": "Lean verification of the Riemann Hypothesis",
    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
    "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50589618\">Comments</a>",
    "published": "Sat, 21 Nov 2026 14:36:45 +0000",
@@ -1357,12 +1380,35 @@
     "verification",
     "riemann",
     "hypothesis",
-    "joint"
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50589618\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "e8613d8ba88ccb8a486f2ad8c161462a",
+   "sector": "Tech/AI",
+   "title": "Detonating a pile of lead azide",
+   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "detonating",
+    "pile",
+    "lead",
+    "azide",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
    "category": "News"
   },
   {
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "6936c64db05df73a9763c40751af2552",
-   "sector": "Tech/AI",
-   "title": "My Monitor Was Cutting My Download Speed by 75%",
-   "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50587875\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 10:36:32 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.6,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "monitor",
-    "cutting",
-    "download",
-    "speed",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50587875\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c46fe52d3dd5010d2d42dbb0a97cf27b",
-   "sector": "Tech/AI",
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 18:33:14 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hurried",
-    "announcement",
-    "alessandro",
-    "masullo",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>",
    "category": "News"
   }
  ]
