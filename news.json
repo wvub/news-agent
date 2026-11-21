@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 14:22 IST",
+ "updated": "2026-11-21 22:05 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -34,8 +34,20 @@
    "article_count": 3
   },
   {
-   "keyword": "million",
+   "keyword": "startup",
    "frequency": 7,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "time",
+   "frequency": 6,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
+   "keyword": "million",
+   "frequency": 6,
    "sectors": 2,
    "article_count": 3
   },
@@ -52,28 +64,10 @@
    "article_count": 2
   },
   {
-   "keyword": "week",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 3
-  },
-  {
    "keyword": "stocks",
    "frequency": 5,
    "sectors": 1,
    "article_count": 3
-  },
-  {
-   "keyword": "startup",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "human",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 2
   },
   {
    "keyword": "mental",
@@ -88,133 +82,162 @@
    "article_count": 2
   },
   {
-   "keyword": "stock",
+   "keyword": "says",
    "frequency": 4,
    "sectors": 3,
    "article_count": 3
   },
   {
-   "keyword": "year",
+   "keyword": "their",
    "frequency": 4,
-   "sectors": 3,
-   "article_count": 3
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "space",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.439565+00:00",
+   "last_failure": "2026-11-21 16:35:48.694706+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.548038+00:00",
+   "last_failure": "2026-11-21 16:35:48.730278+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.654332+00:00",
+   "last_failure": "2026-11-21 16:35:48.754485+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.764411+00:00",
+   "last_failure": "2026-11-21 16:35:48.780073+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.869800+00:00",
+   "last_failure": "2026-11-21 16:35:48.807106+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:46.960853+00:00",
+   "last_failure": "2026-11-21 16:35:48.834106+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.059022+00:00",
+   "last_failure": "2026-11-21 16:35:48.860441+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.164639+00:00",
+   "last_failure": "2026-11-21 16:35:48.887937+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.276018+00:00",
+   "last_failure": "2026-11-21 16:35:48.916113+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.374895+00:00",
+   "last_failure": "2026-11-21 16:35:48.952945+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.479877+00:00",
+   "last_failure": "2026-11-21 16:35:48.982076+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.586353+00:00",
+   "last_failure": "2026-11-21 16:35:49.012506+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.678653+00:00",
+   "last_failure": "2026-11-21 16:35:49.039574+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.774958+00:00",
+   "last_failure": "2026-11-21 16:35:49.067178+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.864024+00:00",
+   "last_failure": "2026-11-21 16:35:49.099155+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-21 08:52:47.965622+00:00",
+   "last_failure": "2026-11-21 16:35:49.125631+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "89742a92b5b5f9fcd7896fef61ce02a7",
+   "sector": "World",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "says",
+    "ukraine",
+    "zelensky",
+    "crimean",
+    "bridge"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "category": "News"
+  },
   {
    "id": "620437280dffcab30c49841091f87b95",
    "sector": "World",
@@ -239,58 +262,12 @@
    "category": "News"
   },
   {
-   "id": "9689bd70bc652b1c53f798c57645d449",
-   "sector": "World",
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-   "published": "Sat, 21 Nov 2026 08:10:25 GMT",
-   "source": "rss",
-   "sentiment_score": 0.26666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "putin",
-    "trump",
-    "zelensky",
-    "says",
-    "killer"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great r",
-   "category": "News"
-  },
-  {
-   "id": "3f6e4240d22689dd62cf2a3c3a7e6c76",
-   "sector": "World",
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-   "published": "Sat, 21 Nov 2026 06:00:09 GMT",
-   "source": "rss",
-   "sentiment_score": -0.16666666666666666,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "deal",
-    "fees",
-    "dependent",
-    "tuition",
-    "agreement"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lo",
-   "category": "News"
-  },
-  {
    "id": "28cfbc852d07370793ace104c0677ce3",
    "sector": "World",
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "published": "Sat, 21 Nov 2026 07:31:05 GMT",
+   "published": "Sat, 21 Nov 2026 14:54:24 GMT",
    "source": "rss",
    "sentiment_score": 0.07878787878787878,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -305,6 +282,52 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "category": "News"
+  },
+  {
+   "id": "a6cc1ea199c8c3c6e1f66f956918c272",
+   "sector": "World",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "published": "Sat, 21 Nov 2026 16:35:15 GMT",
+   "source": "rss",
+   "sentiment_score": -0.11250000000000002,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "database",
+    "information",
+    "reportedly",
+    "investigating",
+    "apparent"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The National Crime Information Center database is used by federal and local law enforcement to share",
+   "category": "News"
+  },
+  {
+   "id": "c1e299a3fa8828f83ce5d6a0eaa259b9",
+   "sector": "World",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "published": "Sat, 21 Nov 2026 13:15:21 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "drug",
+    "mexican",
+    "lord",
+    "most",
+    "wanted"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detaine",
    "category": "News"
   },
   {
@@ -331,6 +354,29 @@
    "category": "News"
   },
   {
+   "id": "d0d10ba3acb848e7e2aeed26a9256ef8",
+   "sector": "World",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 being expelled.",
+   "published": "Sat, 21 Nov 2026 10:26:36 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "denmark",
+    "russia",
+    "accuses",
+    "plotting",
+    "assassinate"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 ",
+   "category": "News"
+  },
+  {
    "id": "8aacd2950417f81ab812f500080261c1",
    "sector": "World",
    "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -354,219 +400,12 @@
    "category": "News"
   },
   {
-   "id": "664a7dc0eacaf65c6cbd6468bbd40f4c",
-   "sector": "World",
-   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "published": "Fri, 20 Nov 2026 23:08:57 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "anthropic",
-    "year",
-    "solving",
-    "maths",
-    "problems"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verifi",
-   "category": "News"
-  },
-  {
-   "id": "7b361df29e6b4fc12eec3bdd36e94907",
-   "sector": "World",
-   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "published": "Sat, 21 Nov 2026 00:01:39 GMT",
-   "source": "rss",
-   "sentiment_score": -0.042727272727272725,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "close",
-    "mamdani",
-    "announces",
-    "plan",
-    "york"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close",
-   "category": "News"
-  },
-  {
-   "id": "d4ed9d97ee389e1c39c1f882c1cffb4a",
-   "sector": "Markets",
-   "title": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies",
-   "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-   "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-   "published": "Sat, 21 Nov 2026 03:20:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.4,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "tech",
-    "outages",
-    "rattling",
-    "americans",
-    "much"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-   "category": "News"
-  },
-  {
-   "id": "49528bc4fd50b70aca89bdd4e4224430",
-   "sector": "Markets",
-   "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-   "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-   "summary": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-   "published": "Fri, 20 Nov 2026 22:46:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.21250000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "week",
-    "since",
-    "enter",
-    "correction",
-    "nasdaq"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025",
-   "category": "News"
-  },
-  {
-   "id": "9521cef8b6319df99c775bb903303d59",
-   "sector": "Markets",
-   "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-   "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-   "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-   "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.46875,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "weekly",
-    "chip",
-    "stocks",
-    "trillion",
-    "wipeout"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-   "category": "News"
-  },
-  {
-   "id": "d9ffcf35785950e73d4b2913ee288ead",
-   "sector": "Markets",
-   "title": "These stocks were crushed the most this week as the tech wreck accelerated",
-   "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
-   "summary": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
-   "published": "Fri, 20 Nov 2026 22:44:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.03333333333333335,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "stocks",
-    "week",
-    "them",
-    "these",
-    "were"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, ana",
-   "category": "News"
-  },
-  {
-   "id": "49b8070d5161e932cb725f5635c228c6",
-   "sector": "Markets",
-   "title": "Nvidia\u2019s stock clinches a stretch of weekly losses not seen since 2008",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-   "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
-   "published": "Fri, 20 Nov 2026 21:58:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "stock",
-    "clinches",
-    "stretch",
-    "weekly"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the",
-   "category": "News"
-  },
-  {
-   "id": "419f3112f8173a6322a14311cff0f013",
-   "sector": "Markets",
-   "title": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
-   "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-   "summary": "\u2018Grand Theft Auto VI\u2019 might be a blockbuster game, but investors are shrugging it off.",
-   "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.04999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "investors",
-    "everyone",
-    "making",
-    "money",
-    "week"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u2018Grand Theft Auto VI\u2019 might be a blockbuster game, but investors are shrugging it off.",
-   "category": "News"
-  },
-  {
-   "id": "bd29fb5794eaa51b86eda37a31565069",
-   "sector": "Markets",
-   "title": "The hidden catch in Anthropic\u2019s IPO: Billions of locked-up shares are waiting in the wings",
-   "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
-   "summary": "A looming oversupply problem could weigh on the stock over the next year",
-   "published": "Fri, 20 Nov 2026 21:39:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "hidden",
-    "catch",
-    "anthropic",
-    "billions",
-    "locked"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A looming oversupply problem could weigh on the stock over the next year",
-   "category": "News"
-  },
-  {
    "id": "4a38f8db37f79669d8745f5b600c9161",
    "sector": "Markets",
    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
    "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
    "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-   "published": "Fri, 20 Nov 2026 21:36:00 GMT",
+   "published": "Sat, 21 Nov 2026 15:35:00 GMT",
    "source": "rss",
    "sentiment_score": 0.13333333333333333,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -581,6 +420,213 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing leve",
+   "category": "News"
+  },
+  {
+   "id": "e30c418440a5c58be54490266a44ff80",
+   "sector": "Markets",
+   "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks?",
+   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+   "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "stocks",
+    "nvidia",
+    "turmoil",
+    "spooked",
+    "time"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden ",
+   "category": "News"
+  },
+  {
+   "id": "c022400231ffb1ee4b3d0c0713a33ba3",
+   "sector": "Markets",
+   "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
+   "published": "Sat, 21 Nov 2026 15:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "terrified",
+    "market",
+    "crash",
+    "should",
+    "million"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "dbf8fb95ce49af0a0bf0f731fdd8b3bb",
+   "sector": "Markets",
+   "title": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
+   "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+   "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+   "published": "Sat, 21 Nov 2026 15:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.19545454545454546,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "muscle",
+    "here",
+    "what",
+    "proven",
+    "help"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "People taking Zepbound who engage in consistent resistance training can still get stronger even if t",
+   "category": "News"
+  },
+  {
+   "id": "cb0ffb393441681e7e3e08fca3954c6a",
+   "sector": "Markets",
+   "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
+   "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+   "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+   "published": "Sat, 21 Nov 2026 15:01:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "prices",
+    "thanksgiving",
+    "travelers",
+    "thing",
+    "thankful"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after month",
+   "category": "News"
+  },
+  {
+   "id": "0817754417e7fac3a40bd481e6426ca1",
+   "sector": "Markets",
+   "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
+   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+   "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+   "published": "Sat, 21 Nov 2026 15:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.19166666666666665,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "women",
+    "never",
+    "late",
+    "start",
+    "practical"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+   "category": "News"
+  },
+  {
+   "id": "a93c7be5772da95c08361072bf93147a",
+   "sector": "Markets",
+   "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
+   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+   "summary": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.\u201d",
+   "published": "Sat, 21 Nov 2026 14:42:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09285714285714285,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "husband",
+    "spent",
+    "boat",
+    "says",
+    "plans"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 ye",
+   "category": "News"
+  },
+  {
+   "id": "6ca588bb7dc8f30c1597fb74eff4c963",
+   "sector": "Markets",
+   "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+   "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+   "summary": "Investors are now more focused on protecting their portfolios than looking for bargains",
+   "published": "Sat, 21 Nov 2026 14:17:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.125,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "their",
+    "brutal",
+    "week",
+    "stocks",
+    "almost"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Investors are now more focused on protecting their portfolios than looking for bargains",
+   "category": "News"
+  },
+  {
+   "id": "d9a79a95fcb9dbae68d9f5d563e6d75f",
+   "sector": "Tech/AI",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "face",
+    "microdrama",
+    "startup",
+    "hollywood",
+    "trend"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China.",
+   "category": "News"
+  },
+  {
+   "id": "ccc4f29999989fb571384ffda388abae",
+   "sector": "Tech/AI",
+   "title": "Alaska, your next governor is a Wikipedia nerd",
+   "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+   "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+   "published": "Sat, 21 Nov 2026 15:18:29 +0000",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "alaska",
+    "governor",
+    "wikipedia",
+    "your",
+    "next"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
    "category": "News"
   },
   {
@@ -722,49 +768,26 @@
    "category": "News"
   },
   {
-   "id": "d25028fc00908d22435bf0ba6e79a861",
-   "sector": "Tech/AI",
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-   "published": "Fri, 20 Nov 2026 16:16:06 +0000",
+   "id": "61e456182a0ae83798e7d7b6c13a8c7d",
+   "sector": "Crypto",
+   "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+   "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 12:30:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.15000000000000002,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "bending",
-    "spoons",
-    "buys",
-    "mailchimp",
-    "intuit"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is gett",
-   "category": "News"
-  },
-  {
-   "id": "679377f89d8b5fd14cc5a0280e59cb55",
-   "sector": "Tech/AI",
-   "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-   "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-   "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-   "published": "Fri, 20 Nov 2026 15:46:07 +0000",
-   "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "police",
-    "exposed",
-    "transcription",
+    "ether",
+    "treasury",
     "firm",
-    "used"
+    "btcs",
+    "warns"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage o",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,26 +952,49 @@
    "category": "News"
   },
   {
-   "id": "853fa096d11a35e7812f78f600f2cdad",
-   "sector": "Crypto",
-   "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-   "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 14:38:30 +0000",
+   "id": "47518743c5d0583e16954e82429580a3",
+   "sector": "Science",
+   "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
+   "published": "Sat, 21 Nov 2026 10:09:46 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.06666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "hong",
-    "kong",
-    "moves",
-    "extend",
-    "crypto"
+    "time",
+    "stranger",
+    "than",
+    "realize",
+    "scientists"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experi",
+   "category": "News"
+  },
+  {
+   "id": "a3788c64a1e5796fdb0f944e0dabce1e",
+   "sector": "Science",
+   "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA\u2019s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+   "published": "Sat, 21 Nov 2026 09:53:40 EST",
+   "source": "rss",
+   "sentiment_score": -0.04480519480519481,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "star",
+    "giant",
+    "james",
+    "webb",
+    "aftermath"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small sta",
    "category": "News"
   },
   {
@@ -957,7 +1003,7 @@
    "title": "NASA\u2019s Voyager 1 is now so far away that light takes 24 hours to reach it",
    "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
    "summary": "NASA\u2019s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
-   "published": "Fri, 20 Nov 2026 21:24:22 EST",
+   "published": "Fri, 20 Nov 2026 07:55:54 EST",
    "source": "rss",
    "sentiment_score": 0.14333333333333334,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -1021,118 +1067,72 @@
    "category": "News"
   },
   {
-   "id": "aadd5bc65216d6fc747617c301b87033",
+   "id": "4445927fc714ba11fcc8b6a3f79109b8",
    "sector": "Science",
-   "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-   "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
-   "published": "Fri, 20 Nov 2026 07:23:23 EST",
+   "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+   "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
+   "published": "Sat, 21 Nov 2026 09:25:39 EST",
    "source": "rss",
-   "sentiment_score": 0.14375,
+   "sentiment_score": 0.12727272727272726,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "cern",
-    "scientists",
-    "evidence",
-    "particle",
-    "decay"
+    "roman",
+    "buried",
+    "westminster",
+    "abbey",
+    "coffin"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more tha",
+   "summary_short": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identifi",
    "category": "News"
   },
   {
-   "id": "5619fb7e5314a7f95850267cecb4b534",
+   "id": "1ccfe4f9fbd06b71d5310210912258b1",
    "sector": "Science",
-   "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-   "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
-   "published": "Fri, 20 Nov 2026 07:34:56 EST",
+   "title": "Even scientists can't agree on what science actually is",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+   "summary": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
+   "published": "Sat, 21 Nov 2026 08:55:11 EST",
    "source": "rss",
-   "sentiment_score": 0.05,
+   "sentiment_score": 0.009595959595959602,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "moon",
     "scientists",
-    "dust",
-    "into",
-    "lego"
+    "agree",
+    "what",
+    "science",
+    "actually"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of ",
+   "summary_short": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisin",
    "category": "News"
   },
   {
-   "id": "24404b8b77bc36eea6806ff5064c1dcb",
+   "id": "879373727eebe46204eb84ccd529a5ca",
    "sector": "Science",
-   "title": "Experimental compound burns fat without sacrificing muscle",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-   "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
-   "published": "Thu, 19 Nov 2026 19:19:49 EST",
+   "title": "A 50-year-old theory about evolution may have been wrong all along",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+   "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them.",
+   "published": "Sat, 21 Nov 2026 09:06:15 EST",
    "source": "rss",
-   "sentiment_score": 0.41250000000000003,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "compound",
-    "loss",
-    "without",
-    "muscle",
-    "weight"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by ",
-   "category": "News"
-  },
-  {
-   "id": "26f6e9e3f23becb5c8e83c43f1b7e48a",
-   "sector": "Science",
-   "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-   "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally occurring compounds can contaminate grains, legumes, and seeds during farming and storage.",
-   "published": "Thu, 19 Nov 2026 06:13:29 EST",
-   "source": "rss",
-   "sentiment_score": 0.1366883116883117,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "milk",
-    "tested",
-    "plant",
-    "based",
-    "foods"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Resea",
-   "category": "News"
-  },
-  {
-   "id": "af645db62b78a7032fff8bb2a6d0f5a7",
-   "sector": "Science",
-   "title": "A 3-million-year-old child just made human evolution far more complicated",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-   "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins.",
-   "published": "Thu, 19 Nov 2026 22:17:52 EST",
-   "source": "rss",
-   "sentiment_score": -0.05277777777777778,
+   "sentiment_score": 0.04226641414141414,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "human",
-    "million",
-    "year",
-    "child",
-    "just"
+    "genes",
+    "mutations",
+    "theory",
+    "evolution",
+    "year"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient hu",
+   "summary_short": "A decades-old theory suggesting that evolution protects its most important genes from mutations has ",
    "category": "News"
   },
   {
@@ -1320,6 +1320,98 @@
    "category": "News"
   },
   {
+   "id": "2e0485daeac52e370e341ef0fdcfd346",
+   "sector": "Tech/AI",
+   "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "derek",
+    "lowe",
+    "detonating",
+    "pile",
+    "lead"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "25248c221824fdd6f0dfd2f21b2bb2df",
+   "sector": "Tech/AI",
+   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50589618\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 14:36:45 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "lean",
+    "verification",
+    "riemann",
+    "hypothesis",
+    "joint"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50589618\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "1ca85cf904b9cb41684daa5cec39d340",
+   "sector": "Tech/AI",
+   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
+   "published": "Tue, 17 Nov 2026 15:22:57 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "brazil",
+    "authority",
+    "open",
+    "sources",
+    "calculator"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "6936c64db05df73a9763c40751af2552",
+   "sector": "Tech/AI",
+   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50587875\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 10:36:32 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.6,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "monitor",
+    "cutting",
+    "download",
+    "speed",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50587875\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "c46fe52d3dd5010d2d42dbb0a97cf27b",
    "sector": "Tech/AI",
    "title": "Hurried Announcement: Alessandro Masullo GRH",
@@ -1340,98 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579568\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "b407de56c90735d8c34e17b20ef64337",
-   "sector": "Tech/AI",
-   "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "link": "https://alpo.ge/remark.pdf",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50574968\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 14:16:21 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "levent",
-    "claims",
-    "proof",
-    "generalized",
-    "riemann"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50574968\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "785a0a2e1561be7b32af559f7b83daf0",
-   "sector": "Tech/AI",
-   "title": "Inkling 2 Mini",
-   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 20:12:19 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "inkling",
-    "mini",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "826f018cf42e778e2dc02350130974fa",
-   "sector": "Tech/AI",
-   "title": "ClawDOS \u2013 An AI coding agent for DOS",
-   "link": "http://ricapar.net/ClawDOS/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50586292\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 05:38:01 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "clawdos",
-    "coding",
-    "agent",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50586292\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "2b4e699e1319f0cd2defdf8a09829282",
-   "sector": "Tech/AI",
-   "title": "NINLIVE: The Nine Inch Nails live archive",
-   "link": "https://ninlive.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 22:30:47 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "ninlive",
-    "nine",
-    "inch",
-    "nails",
-    "live"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>",
    "category": "News"
   }
  ]
