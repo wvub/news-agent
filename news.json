@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 07:19 IST",
+ "updated": "2026-11-21 14:22 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -23,15 +23,21 @@
   },
   {
    "keyword": "news",
-   "frequency": 11,
+   "frequency": 10,
+   "sectors": 1,
+   "article_count": 5
+  },
+  {
+   "keyword": "countries",
+   "frequency": 7,
    "sectors": 2,
-   "article_count": 6
+   "article_count": 3
   },
   {
    "keyword": "million",
-   "frequency": 9,
+   "frequency": 7,
    "sectors": 2,
-   "article_count": 4
+   "article_count": 3
   },
   {
    "keyword": "data",
@@ -58,6 +64,12 @@
    "article_count": 3
   },
   {
+   "keyword": "startup",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
    "keyword": "human",
    "frequency": 5,
    "sectors": 2,
@@ -76,12 +88,6 @@
    "article_count": 2
   },
   {
-   "keyword": "countries",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "stock",
    "frequency": 4,
    "sectors": 3,
@@ -92,124 +98,118 @@
    "frequency": 4,
    "sectors": 3,
    "article_count": 3
-  },
-  {
-   "keyword": "scientists",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:10.902384+00:00",
+   "last_failure": "2026-11-21 08:52:46.439565+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:10.938644+00:00",
+   "last_failure": "2026-11-21 08:52:46.548038+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:10.967368+00:00",
+   "last_failure": "2026-11-21 08:52:46.654332+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.023493+00:00",
+   "last_failure": "2026-11-21 08:52:46.764411+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.078796+00:00",
+   "last_failure": "2026-11-21 08:52:46.869800+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.114914+00:00",
+   "last_failure": "2026-11-21 08:52:46.960853+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.157158+00:00",
+   "last_failure": "2026-11-21 08:52:47.059022+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.190814+00:00",
+   "last_failure": "2026-11-21 08:52:47.164639+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.225543+00:00",
+   "last_failure": "2026-11-21 08:52:47.276018+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.258032+00:00",
+   "last_failure": "2026-11-21 08:52:47.374895+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.297904+00:00",
+   "last_failure": "2026-11-21 08:52:47.479877+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.342280+00:00",
+   "last_failure": "2026-11-21 08:52:47.586353+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.496949+00:00",
+   "last_failure": "2026-11-21 08:52:47.678653+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.530534+00:00",
+   "last_failure": "2026-11-21 08:52:47.774958+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.558619+00:00",
+   "last_failure": "2026-11-21 08:52:47.864024+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-21 01:49:11.606553+00:00",
+   "last_failure": "2026-11-21 08:52:47.965622+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -239,49 +239,72 @@
    "category": "News"
   },
   {
-   "id": "5ede6ddbb0715f7e7d68b7b3f57a078c",
+   "id": "9689bd70bc652b1c53f798c57645d449",
    "sector": "World",
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-   "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+   "published": "Sat, 21 Nov 2026 08:10:25 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "deal",
-    "explore",
-    "even",
-    "closer",
-    "ties"
+    "putin",
+    "trump",
+    "zelensky",
+    "says",
+    "killer"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experienc",
+   "summary_short": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great r",
    "category": "News"
   },
   {
-   "id": "b86244389e2a1326db9ae9e97d29e9ac",
+   "id": "3f6e4240d22689dd62cf2a3c3a7e6c76",
    "sector": "World",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "published": "Sat, 21 Nov 2026 06:00:09 GMT",
    "source": "rss",
-   "sentiment_score": -0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.16666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "russian",
-    "missile",
-    "hits",
-    "poland",
-    "ukraine"
+    "deal",
+    "fees",
+    "dependent",
+    "tuition",
+    "agreement"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation",
+   "summary_short": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lo",
+   "category": "News"
+  },
+  {
+   "id": "28cfbc852d07370793ace104c0677ce3",
+   "sector": "World",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "published": "Sat, 21 Nov 2026 07:31:05 GMT",
+   "source": "rss",
+   "sentiment_score": 0.07878787878787878,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "climate",
+    "deadlock",
+    "countries",
+    "fight",
+    "over"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
    "category": "News"
   },
   {
@@ -308,6 +331,29 @@
    "category": "News"
   },
   {
+   "id": "8aacd2950417f81ab812f500080261c1",
+   "sector": "World",
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "published": "Sat, 21 Nov 2026 04:34:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "convicted",
+    "starting",
+    "palisades",
+    "fire",
+    "angeles"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and de",
+   "category": "News"
+  },
+  {
    "id": "664a7dc0eacaf65c6cbd6468bbd40f4c",
    "sector": "World",
    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -331,52 +377,6 @@
    "category": "News"
   },
   {
-   "id": "efa2306e5116e411fe4a77cf049fdbd9",
-   "sector": "World",
-   "title": "G\u00e9rard Depardieu and French author investigated over sexual allegations",
-   "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-   "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-   "published": "Fri, 20 Nov 2026 19:45:20 GMT",
-   "source": "rss",
-   "sentiment_score": 0.13999999999999999,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "over",
-    "sexual",
-    "allegations",
-    "depardieu",
-    "french"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a s",
-   "category": "News"
-  },
-  {
-   "id": "bba2d7888f3d98062c365b88e4bc9dde",
-   "sector": "World",
-   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-   "published": "Fri, 20 Nov 2026 13:01:16 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "russia",
-    "ukraine",
-    "targets",
-    "kyiv",
-    "crossings"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantee",
-   "category": "News"
-  },
-  {
    "id": "7b361df29e6b4fc12eec3bdd36e94907",
    "sector": "World",
    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
@@ -397,6 +397,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close",
+   "category": "News"
+  },
+  {
+   "id": "d4ed9d97ee389e1c39c1f882c1cffb4a",
+   "sector": "Markets",
+   "title": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies",
+   "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+   "summary": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+   "published": "Sat, 21 Nov 2026 03:20:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.4,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "tech",
+    "outages",
+    "rattling",
+    "americans",
+    "much"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
    "category": "News"
   },
   {
@@ -561,26 +584,26 @@
    "category": "News"
   },
   {
-   "id": "cb0ffb393441681e7e3e08fca3954c6a",
-   "sector": "Markets",
-   "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
-   "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-   "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-   "published": "Fri, 20 Nov 2026 21:34:00 GMT",
+   "id": "405167d2c1adf52bc30495a13e7607d0",
+   "sector": "Tech/AI",
+   "title": "Startup sues Apple in India over tap-to-share contacts feature",
+   "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+   "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+   "published": "Sat, 21 Nov 2026 04:00:00 +0000",
    "source": "rss",
-   "sentiment_score": -0.15555555555555556,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "prices",
-    "thanksgiving",
-    "travelers",
-    "thing",
-    "thankful"
+    "startup",
+    "apple",
+    "india",
+    "sues",
+    "over"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after month",
+   "summary_short": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch",
    "category": "News"
   },
   {
@@ -745,26 +768,72 @@
    "category": "News"
   },
   {
-   "id": "3cfe0cb1519054b4134aa599a9bd5e49",
-   "sector": "Tech/AI",
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-   "published": "Fri, 20 Nov 2026 14:00:00 +0000",
+   "id": "101d9c7c5cb6afe57d3b2d3e9eeebfc0",
+   "sector": "Crypto",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 06:16:42 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "powered",
-    "gadgets",
-    "your",
+    "bitcoin",
+    "nodes",
     "could",
-    "make"
+    "stalled",
+    "repeating"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "5879a20a639bcf4723f5e3817bb0a5c7",
+   "sector": "Crypto",
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 05:59:19 +0000",
+   "source": "rss",
+   "sentiment_score": -0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "falls",
+    "long",
+    "bets",
+    "unwind",
+    "assets"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "347efbde306dc6454f3ab8082b82a344",
+   "sector": "Crypto",
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 04:10:07 +0000",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "bitcoin",
+    "tanks",
+    "below",
+    "first",
+    "time"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -883,72 +952,49 @@
    "category": "News"
   },
   {
-   "id": "4d26830f761c1edea7f660b99e5d8a0c",
-   "sector": "Crypto",
-   "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-   "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 14:25:57 +0000",
+   "id": "381920705336c297bdd090c75699b5d8",
+   "sector": "Science",
+   "title": "NASA\u2019s Voyager 1 is now so far away that light takes 24 hours to reach it",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+   "summary": "NASA\u2019s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.",
+   "published": "Fri, 20 Nov 2026 21:24:22 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "senate",
-    "passes",
-    "bill",
-    "prediction",
-    "market"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "ee8aaaf61473ff19963cf5054002a60a",
-   "sector": "Crypto",
-   "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-   "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 13:35:33 +0000",
-   "source": "rss",
-   "sentiment_score": 0.21818181818181817,
+   "sentiment_score": 0.14333333333333334,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "live",
-    "news",
-    "bitcoin",
-    "slips",
-    "fresh"
+    "nasa",
+    "voyager",
+    "reach",
+    "away",
+    "light"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "NASA\u2019s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to ",
    "category": "News"
   },
   {
-   "id": "41615941cab6c7edc097deda2eb8ca4a",
-   "sector": "Crypto",
-   "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-   "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 13:30:22 +0000",
+   "id": "65097b59a077d9b727e5b74d25b469c7",
+   "sector": "Science",
+   "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+   "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
+   "published": "Fri, 20 Nov 2026 21:11:14 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.09666666666666668,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "bots",
-    "pounced",
-    "within",
-    "seconds"
+    "after",
+    "years",
+    "space",
+    "groundbreaking",
+    "telescope"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Me",
    "category": "News"
   },
   {
@@ -1087,52 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient hu",
-   "category": "News"
-  },
-  {
-   "id": "7da65c5efd9306d70eab58047dfc117e",
-   "sector": "Science",
-   "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-   "summary": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death. Instead, its strange anatomy appears to have been an extraordinary evolutionary adaptation for hunting along the seafloor.",
-   "published": "Thu, 19 Nov 2026 05:59:55 EST",
-   "source": "rss",
-   "sentiment_score": 0.08499999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "whale",
-    "million",
-    "most",
-    "crooked",
-    "face"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scien",
-   "category": "News"
-  },
-  {
-   "id": "c3a89513b48178f54c2785ede367d424",
-   "sector": "Science",
-   "title": "Is free will an illusion? New brain research reveals a surprising twist",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-   "summary": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-   "published": "Wed, 18 Nov 2026 20:21:35 EST",
-   "source": "rss",
-   "sentiment_score": 0.20808080808080806,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "free",
-    "brain",
-    "research",
-    "reveals",
-    "illusion"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "New research reveals that the brain makes free choices and forced decisions using surprisingly simil",
    "category": "News"
   },
   {
@@ -1343,29 +1343,6 @@
    "category": "News"
   },
   {
-   "id": "785a0a2e1561be7b32af559f7b83daf0",
-   "sector": "Tech/AI",
-   "title": "Inkling 2 Mini",
-   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 20:12:19 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "inkling",
-    "mini",
-    "href",
-    "https",
-    "news"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "b407de56c90735d8c34e17b20ef64337",
    "sector": "Tech/AI",
    "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
@@ -1389,6 +1366,52 @@
    "category": "News"
   },
   {
+   "id": "785a0a2e1561be7b32af559f7b83daf0",
+   "sector": "Tech/AI",
+   "title": "Inkling 2 Mini",
+   "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 20:12:19 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "inkling",
+    "mini",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50581260\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "826f018cf42e778e2dc02350130974fa",
+   "sector": "Tech/AI",
+   "title": "ClawDOS \u2013 An AI coding agent for DOS",
+   "link": "http://ricapar.net/ClawDOS/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50586292\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 05:38:01 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "clawdos",
+    "coding",
+    "agent",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50586292\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "2b4e699e1319f0cd2defdf8a09829282",
    "sector": "Tech/AI",
    "title": "NINLIVE: The Nine Inch Nails live archive",
@@ -1409,29 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c030290a0dde2f9996601917f526496c",
-   "sector": "Tech/AI",
-   "title": "We promoted developers into architects without informing them",
-   "link": "https://manidoraisamy.com/developer-to-architect.html",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579331\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 18:17:51 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "promoted",
-    "developers",
-    "into",
-    "architects",
-    "without"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579331\">Comments</a>",
    "category": "News"
   }
  ]
