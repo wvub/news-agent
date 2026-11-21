@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 02:17 IST",
+ "updated": "2026-11-21 07:19 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -29,15 +29,15 @@
   },
   {
    "keyword": "million",
-   "frequency": 10,
-   "sectors": 3,
-   "article_count": 5
+   "frequency": 9,
+   "sectors": 2,
+   "article_count": 4
   },
   {
    "keyword": "data",
-   "frequency": 7,
-   "sectors": 3,
-   "article_count": 3
+   "frequency": 6,
+   "sectors": 2,
+   "article_count": 2
   },
   {
    "keyword": "survey",
@@ -46,7 +46,13 @@
    "article_count": 2
   },
   {
-   "keyword": "stock",
+   "keyword": "week",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
+   "keyword": "stocks",
    "frequency": 5,
    "sectors": 1,
    "article_count": 3
@@ -76,145 +82,162 @@
    "article_count": 2
   },
   {
-   "keyword": "bitcoin",
+   "keyword": "stock",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 4
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
+   "keyword": "year",
+   "frequency": 4,
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "scientists",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "child",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "tests",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.448245+00:00",
+   "last_failure": "2026-11-21 01:49:10.902384+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.499367+00:00",
+   "last_failure": "2026-11-21 01:49:10.938644+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.550863+00:00",
+   "last_failure": "2026-11-21 01:49:10.967368+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.602254+00:00",
+   "last_failure": "2026-11-21 01:49:11.023493+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.664611+00:00",
+   "last_failure": "2026-11-21 01:49:11.078796+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.716366+00:00",
+   "last_failure": "2026-11-21 01:49:11.114914+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.768745+00:00",
+   "last_failure": "2026-11-21 01:49:11.157158+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.821659+00:00",
+   "last_failure": "2026-11-21 01:49:11.190814+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.877563+00:00",
+   "last_failure": "2026-11-21 01:49:11.225543+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.927872+00:00",
+   "last_failure": "2026-11-21 01:49:11.258032+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:26.980135+00:00",
+   "last_failure": "2026-11-21 01:49:11.297904+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:27.030320+00:00",
+   "last_failure": "2026-11-21 01:49:11.342280+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:27.083856+00:00",
+   "last_failure": "2026-11-21 01:49:11.496949+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:27.139916+00:00",
+   "last_failure": "2026-11-21 01:49:11.530534+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:27.196774+00:00",
+   "last_failure": "2026-11-21 01:49:11.558619+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-20 20:47:27.250141+00:00",
+   "last_failure": "2026-11-21 01:49:11.606553+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "620437280dffcab30c49841091f87b95",
+   "sector": "World",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+   "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1527777777777778,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "markets",
+    "tech",
+    "stock",
+    "sell",
+    "drags"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed in",
+   "category": "News"
+  },
   {
    "id": "5ede6ddbb0715f7e7d68b7b3f57a078c",
    "sector": "World",
@@ -262,26 +285,49 @@
    "category": "News"
   },
   {
-   "id": "bba2d7888f3d98062c365b88e4bc9dde",
+   "id": "15668b10471d4a5e8811e0f9847e722b",
    "sector": "World",
-   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-   "published": "Fri, 20 Nov 2026 13:01:16 GMT",
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+   "published": "Fri, 20 Nov 2026 22:37:09 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": -0.08333333333333333,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "russia",
-    "ukraine",
-    "targets",
-    "kyiv",
-    "crossings"
+    "beating",
+    "music",
+    "producer",
+    "french",
+    "police"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantee",
+   "summary_short": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of r",
+   "category": "News"
+  },
+  {
+   "id": "664a7dc0eacaf65c6cbd6468bbd40f4c",
+   "sector": "World",
+   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+   "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "anthropic",
+    "year",
+    "solving",
+    "maths",
+    "problems"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verifi",
    "category": "News"
   },
   {
@@ -308,233 +354,141 @@
    "category": "News"
   },
   {
-   "id": "4f542d5198c8af7b9b7df15d8c5c5e36",
+   "id": "bba2d7888f3d98062c365b88e4bc9dde",
    "sector": "World",
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-   "published": "Fri, 20 Nov 2026 20:00:53 GMT",
-   "source": "rss",
-   "sentiment_score": -0.03125,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "tech",
-    "anthropic",
-    "shares",
-    "fall",
-    "after"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Other tech companies have also taken a hit as share markets broadly slump.",
-   "category": "News"
-  },
-  {
-   "id": "f7c6787cff3d97d6a1ae6cd28e5ddeb7",
-   "sector": "World",
-   "title": "Trump threatens ban on US firms building AI data centres overseas",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-   "published": "Fri, 20 Nov 2026 20:35:26 GMT",
-   "source": "rss",
-   "sentiment_score": 0.020833333333333332,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "trump",
-    "threatens",
-    "firms",
-    "building",
-    "data"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The US president provided little detail on the potential policy, saying others in his team were hear",
-   "category": "News"
-  },
-  {
-   "id": "41abc8dfc711e4bd5a50fb6f37e10733",
-   "sector": "World",
-   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-   "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-   "published": "Fri, 20 Nov 2026 19:27:49 GMT",
-   "source": "rss",
-   "sentiment_score": -0.5,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "murder",
-    "hire",
-    "conspiracy",
-    "commit",
-    "indian"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy",
-   "category": "News"
-  },
-  {
-   "id": "c2c21d03afd3dde8093d25782c650155",
-   "sector": "World",
-   "title": "Nearly 600 women killed in South Africa within three months",
-   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-   "published": "Fri, 20 Nov 2026 15:55:16 GMT",
-   "source": "rss",
-   "sentiment_score": 0.13333333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "women",
-    "nearly",
-    "killed",
-    "south",
-    "africa"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-   "category": "News"
-  },
-  {
-   "id": "67a32fcbec9d492befa8d2e6db7fc06a",
-   "sector": "Markets",
-   "title": "\u2018GTA 6\u2019 has taken over. Is it too late to buy the developer\u2019s stock?",
-   "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-   "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the \u201cdeath cross\u201d for small-cap stocks and advice from The Moneyist.",
-   "published": "Fri, 20 Nov 2026 20:32:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.016666666666666663,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "taken",
-    "over",
-    "late",
-    "developer",
-    "stock"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the \u201cdeath cross\u201d for small-cap stocks an",
-   "category": "News"
-  },
-  {
-   "id": "a93c7be5772da95c08361072bf93147a",
-   "sector": "Markets",
-   "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.\u201d",
-   "published": "Fri, 20 Nov 2026 20:31:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.09285714285714285,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "husband",
-    "spent",
-    "boat",
-    "says",
-    "plans"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 ye",
-   "category": "News"
-  },
-  {
-   "id": "6ba8027fc811f1f18dc1eb35c9d4bd42",
-   "sector": "Markets",
-   "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-   "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d",
-   "published": "Fri, 20 Nov 2026 20:30:00 GMT",
+   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+   "published": "Fri, 20 Nov 2026 13:01:16 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "pension",
-    "husband",
-    "should",
-    "accept",
-    "lower"
+    "russia",
+    "ukraine",
+    "targets",
+    "kyiv",
+    "crossings"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benef",
+   "summary_short": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantee",
    "category": "News"
   },
   {
-   "id": "c022400231ffb1ee4b3d0c0713a33ba3",
-   "sector": "Markets",
-   "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "summary": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
-   "published": "Fri, 20 Nov 2026 20:30:00 GMT",
+   "id": "7b361df29e6b4fc12eec3bdd36e94907",
+   "sector": "World",
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+   "published": "Sat, 21 Nov 2026 00:01:39 GMT",
    "source": "rss",
-   "sentiment_score": 0.3,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.042727272727272725,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "terrified",
-    "market",
-    "crash",
-    "should",
-    "million"
+    "close",
+    "mamdani",
+    "announces",
+    "plan",
+    "york"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
+   "summary_short": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close",
    "category": "News"
   },
   {
-   "id": "68040ecc0dd0a18dbc6502e1eb9edece",
+   "id": "49528bc4fd50b70aca89bdd4e4224430",
    "sector": "Markets",
-   "title": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
+   "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+   "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+   "summary": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+   "published": "Fri, 20 Nov 2026 22:46:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.21250000000000002,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "week",
+    "since",
+    "enter",
+    "correction",
+    "nasdaq"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025",
+   "category": "News"
+  },
+  {
+   "id": "9521cef8b6319df99c775bb903303d59",
+   "sector": "Markets",
+   "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+   "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+   "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+   "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.46875,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "weekly",
+    "chip",
+    "stocks",
+    "trillion",
+    "wipeout"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+   "category": "News"
+  },
+  {
+   "id": "d9ffcf35785950e73d4b2913ee288ead",
+   "sector": "Markets",
+   "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+   "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+   "summary": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+   "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.03333333333333335,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "stocks",
+    "week",
+    "them",
+    "these",
+    "were"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, ana",
+   "category": "News"
+  },
+  {
+   "id": "49b8070d5161e932cb725f5635c228c6",
+   "sector": "Markets",
+   "title": "Nvidia\u2019s stock clinches a stretch of weekly losses not seen since 2008",
    "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-   "summary": "One fund manager says the continued uncertainty makes Nvidia \u2018vulnerable\u2019 to more selling, even as the stock has erased over $900 billion in market value in the past seven trading sessions",
-   "published": "Fri, 20 Nov 2026 20:08:00 GMT",
+   "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+   "published": "Fri, 20 Nov 2026 21:58:00 GMT",
    "source": "rss",
    "sentiment_score": -0.08333333333333333,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
     "nvidia",
     "stock",
-    "heads",
+    "clinches",
     "stretch",
     "weekly"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "One fund manager says the continued uncertainty makes Nvidia \u2018vulnerable\u2019 to more selling, even as t",
-   "category": "News"
-  },
-  {
-   "id": "d5b36ac9bee21383de4753f57adcd858",
-   "sector": "Markets",
-   "title": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
-   "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
-   "summary": "The president threatened to penalize companies that build data centers outside U.S. \u2014 but the stock market kept falling.",
-   "published": "Fri, 20 Nov 2026 20:07:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "stock",
-    "tech",
-    "wreck",
-    "trade",
-    "trump"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The president threatened to penalize companies that build data centers outside U.S. \u2014 but the stock ",
+   "summary_short": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the",
    "category": "News"
   },
   {
@@ -543,7 +497,7 @@
    "title": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
    "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
    "summary": "\u2018Grand Theft Auto VI\u2019 might be a blockbuster game, but investors are shrugging it off.",
-   "published": "Fri, 20 Nov 2026 20:03:00 GMT",
+   "published": "Fri, 20 Nov 2026 21:39:00 GMT",
    "source": "rss",
    "sentiment_score": 0.04999999999999999,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -561,26 +515,95 @@
    "category": "News"
   },
   {
-   "id": "6de4e557f7a7b2fd7bd82be35a68cec3",
+   "id": "bd29fb5794eaa51b86eda37a31565069",
    "sector": "Markets",
-   "title": "Spooked by Nvidia\u2019s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-   "published": "Fri, 20 Nov 2026 19:53:00 GMT",
+   "title": "The hidden catch in Anthropic\u2019s IPO: Billions of locked-up shares are waiting in the wings",
+   "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+   "summary": "A looming oversupply problem could weigh on the stock over the next year",
+   "published": "Fri, 20 Nov 2026 21:39:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.08333333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "spooked",
-    "nvidia",
-    "turmoil",
-    "play",
-    "grand"
+    "hidden",
+    "catch",
+    "anthropic",
+    "billions",
+    "locked"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden ",
+   "summary_short": "A looming oversupply problem could weigh on the stock over the next year",
+   "category": "News"
+  },
+  {
+   "id": "4a38f8db37f79669d8745f5b600c9161",
+   "sector": "Markets",
+   "title": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
+   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+   "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+   "published": "Fri, 20 Nov 2026 21:36:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.13333333333333333,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "stocks",
+    "analysts",
+    "micron",
+    "sandisk",
+    "might"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing leve",
+   "category": "News"
+  },
+  {
+   "id": "cb0ffb393441681e7e3e08fca3954c6a",
+   "sector": "Markets",
+   "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
+   "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+   "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+   "published": "Fri, 20 Nov 2026 21:34:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.15555555555555556,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "prices",
+    "thanksgiving",
+    "travelers",
+    "thing",
+    "thankful"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after month",
+   "category": "News"
+  },
+  {
+   "id": "a89c4044ee53cf14dc9b39d4bdd7c26c",
+   "sector": "Tech/AI",
+   "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+   "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+   "summary": "Techies are building technology that can advance all aspects of the world \u2014 but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+   "published": "Fri, 20 Nov 2026 20:58:29 +0000",
+   "source": "rss",
+   "sentiment_score": 0.19285714285714284,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "honey",
+    "experts",
+    "warn",
+    "nearly",
+    "everyone"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Techies are building technology that can advance all aspects of the world \u2014 but can they protect the",
    "category": "News"
   },
   {
@@ -609,7 +632,7 @@
   {
    "id": "04db20cda74d75a79c8279b6ea85ee97",
    "sector": "Tech/AI",
-   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis \u2014 and a human did, too",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
    "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
    "published": "Fri, 20 Nov 2026 19:32:08 +0000",
@@ -745,26 +768,49 @@
    "category": "News"
   },
   {
-   "id": "12986dcb89d95782bff12d2a9a790997",
-   "sector": "Tech/AI",
-   "title": "Behind Jensen Huang\u2019s exit, questions about a management style reportedly built on fear",
-   "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-   "summary": "Elon Musk may have been overstating it when he said Nvidia\u2019s employees \u201clove\u201d the ousted Jensen Huang.",
-   "published": "Fri, 20 Nov 2026 13:25:00 +0000",
+   "id": "10f29e6e76e960accc145a973a8615ad",
+   "sector": "Crypto",
+   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+   "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+   "summary": "",
+   "published": "Fri, 20 Nov 2026 22:51:14 +0000",
    "source": "rss",
-   "sentiment_score": 0.04999999999999999,
+   "sentiment_score": -0.009595959595959602,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "jensen",
-    "huang",
-    "behind",
-    "exit",
-    "questions"
+    "kalshi",
+    "races",
+    "ahead",
+    "york",
+    "order"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Elon Musk may have been overstating it when he said Nvidia\u2019s employees \u201clove\u201d the ousted Jensen Huan",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "2d3642cadb87c37c8cffb586278eb74c",
+   "sector": "Crypto",
+   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+   "summary": "",
+   "published": "Fri, 20 Nov 2026 22:05:31 +0000",
+   "source": "rss",
+   "sentiment_score": -0.1,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "fairmint",
+    "plans",
+    "tokenized",
+    "stock",
+    "venue"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -898,52 +944,6 @@
     "pounced",
     "within",
     "seconds"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "cf1f1e8d6704ef90f1725f03cd0fdfca",
-   "sector": "Crypto",
-   "title": "ECB\u2019s Lagarde warns Europe could lose control of growing tokenized asset market",
-   "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 13:11:49 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "lagarde",
-    "warns",
-    "europe",
-    "could",
-    "lose"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "ca16d51d0d642ed4cb69609f2383fb59",
-   "sector": "Crypto",
-   "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 12:15:08 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "bitcoin",
-    "stocks",
-    "gold",
-    "traders",
-    "getting"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1389,49 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "cd3d4864e833d1d59fc1fe7b30bf745e",
+   "id": "2b4e699e1319f0cd2defdf8a09829282",
    "sector": "Tech/AI",
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50578358\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 17:21:36 +0000",
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "link": "https://ninlive.com/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 22:30:47 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "ninlive",
+    "nine",
+    "inch",
+    "nails",
+    "live"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50583274\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "c030290a0dde2f9996601917f526496c",
+   "sector": "Tech/AI",
+   "title": "We promoted developers into architects without informing them",
+   "link": "https://manidoraisamy.com/developer-to-architect.html",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579331\">Comments</a>",
+   "published": "Fri, 20 Nov 2026 18:17:51 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "unforced",
-    "navier",
-    "stokes",
-    "singularity",
-    "generalized"
+    "promoted",
+    "developers",
+    "into",
+    "architects",
+    "without"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50578358\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "7176b37feaf723295aa93f9b919c1492",
-   "sector": "Tech/AI",
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "link": "https://arxiv.org/abs/2611.21885",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50577265\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 16:29:06 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.6,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "language",
-    "models",
-    "rewrite",
-    "their",
-    "weights"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50577265\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50579331\">Comments</a>",
    "category": "News"
   }
  ]
