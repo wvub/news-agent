@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22 07:23 IST",
+ "updated": "2026-11-22 14:50 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,16 @@
    "article_count": 5
   },
   {
-   "keyword": "countries",
-   "frequency": 7,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
    "keyword": "survey",
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "after",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
   },
   {
    "keyword": "time",
@@ -70,6 +70,18 @@
    "article_count": 2
   },
   {
+   "keyword": "countries",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
+   "keyword": "three",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
    "keyword": "husband",
    "frequency": 4,
    "sectors": 1,
@@ -86,135 +98,146 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "scientists",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
-   "keyword": "star",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.415067+00:00",
+   "last_failure": "2026-11-22 09:20:02.662630+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.510016+00:00",
+   "last_failure": "2026-11-22 09:20:02.750950+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.597738+00:00",
+   "last_failure": "2026-11-22 09:20:02.881557+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.677003+00:00",
+   "last_failure": "2026-11-22 09:20:02.980769+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.765029+00:00",
+   "last_failure": "2026-11-22 09:20:03.077547+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.827538+00:00",
+   "last_failure": "2026-11-22 09:20:03.184388+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.916511+00:00",
+   "last_failure": "2026-11-22 09:20:03.278130+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:54.983132+00:00",
+   "last_failure": "2026-11-22 09:20:03.371077+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.073741+00:00",
+   "last_failure": "2026-11-22 09:20:03.476402+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.153083+00:00",
+   "last_failure": "2026-11-22 09:20:03.585687+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.232338+00:00",
+   "last_failure": "2026-11-22 09:20:03.715860+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.309708+00:00",
+   "last_failure": "2026-11-22 09:20:03.802056+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.391051+00:00",
+   "last_failure": "2026-11-22 09:20:03.907471+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.458372+00:00",
+   "last_failure": "2026-11-22 09:20:03.996760+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.541292+00:00",
+   "last_failure": "2026-11-22 09:20:04.080042+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-22 01:53:55.614230+00:00",
+   "last_failure": "2026-11-22 09:20:04.181051+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
+  {
+   "id": "f6e03b524730ffdbe9a7e7186a350a52",
+   "sector": "World",
+   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+   "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+   "published": "Sun, 22 Nov 2026 06:54:06 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06818181818181818,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "draft",
+    "deal",
+    "aims",
+    "avert",
+    "collapse"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agr",
+   "category": "News"
+  },
   {
    "id": "89742a92b5b5f9fcd7896fef61ce02a7",
    "sector": "World",
@@ -259,29 +282,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-   "category": "News"
-  },
-  {
-   "id": "28cfbc852d07370793ace104c0677ce3",
-   "sector": "World",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "published": "Sat, 21 Nov 2026 22:19:43 GMT",
-   "source": "rss",
-   "sentiment_score": 0.07878787878787878,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "climate",
-    "deadlock",
-    "countries",
-    "fight",
-    "over"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
    "category": "News"
   },
   {
@@ -377,26 +377,26 @@
    "category": "News"
   },
   {
-   "id": "3beffb63de4c206456e0f98d836ef9b3",
+   "id": "5f8e430f0c7d15973e5e9747f3519363",
    "sector": "World",
-   "title": "Lock of former US President George Washington's hair sells for $4,000",
-   "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-   "published": "Sat, 21 Nov 2026 22:01:19 GMT",
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+   "published": "Sun, 22 Nov 2026 06:05:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.21999999999999997,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "former",
-    "washington",
-    "hair",
-    "lock",
-    "president"
+    "three",
+    "killed",
+    "missing",
+    "after",
+    "fire"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a",
+   "summary_short": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
    "category": "News"
   },
   {
@@ -1320,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "7bba870be06ebfbcabd7df0e1d448e7b",
+   "sector": "Tech/AI",
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 04:04:56 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "toyota",
+    "nissan",
+    "honda",
+    "standardize",
+    "parts"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "9c1579d477e3ccb304b6b9b689c2a482",
    "sector": "Tech/AI",
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -1366,6 +1389,29 @@
    "category": "News"
   },
   {
+   "id": "b89f9d96322d035f22562b27864a85b7",
+   "sector": "Tech/AI",
+   "title": "Show HN: The Riemann Proof Handbook",
+   "link": "https://github.com/tamnd/riemann-handbook",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596664\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 05:46:30 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "show",
+    "riemann",
+    "proof",
+    "handbook",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596664\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "a395b1738719c978df2906f112195128",
    "sector": "Tech/AI",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
@@ -1386,52 +1432,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "1ca85cf904b9cb41684daa5cec39d340",
-   "sector": "Tech/AI",
-   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-   "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
-   "published": "Tue, 17 Nov 2026 15:22:57 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "brazil",
-    "authority",
-    "open",
-    "sources",
-    "calculator"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "e8613d8ba88ccb8a486f2ad8c161462a",
-   "sector": "Tech/AI",
-   "title": "Detonating a pile of lead azide",
-   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "detonating",
-    "pile",
-    "lead",
-    "azide",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
    "category": "News"
   }
  ]
