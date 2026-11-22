@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 02:17 IST",
+ "updated": "2026-11-23 02:37 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.123743+00:00",
+   "last_failure": "2026-11-22 21:07:45.650698+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.179145+00:00",
+   "last_failure": "2026-11-22 21:07:45.713421+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.228993+00:00",
+   "last_failure": "2026-11-22 21:07:45.756153+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.284220+00:00",
+   "last_failure": "2026-11-22 21:07:45.814356+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.337023+00:00",
+   "last_failure": "2026-11-22 21:07:45.864241+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.389562+00:00",
+   "last_failure": "2026-11-22 21:07:45.917108+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.441876+00:00",
+   "last_failure": "2026-11-22 21:07:45.976816+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.533844+00:00",
+   "last_failure": "2026-11-22 21:07:46.027653+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.594403+00:00",
+   "last_failure": "2026-11-22 21:07:46.079876+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.679871+00:00",
+   "last_failure": "2026-11-22 21:07:46.137005+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.751529+00:00",
+   "last_failure": "2026-11-22 21:07:46.187389+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.798063+00:00",
+   "last_failure": "2026-11-22 21:07:46.230047+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.849563+00:00",
+   "last_failure": "2026-11-22 21:07:46.273476+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.897857+00:00",
+   "last_failure": "2026-11-22 21:07:46.320744+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:31.969348+00:00",
+   "last_failure": "2026-11-22 21:07:46.369133+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-22 20:47:32.029154+00:00",
+   "last_failure": "2026-11-22 21:07:46.428773+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -584,6 +584,29 @@
    "category": "News"
   },
   {
+   "id": "b446e2de1e8d56f5bf506422b14fa6cd",
+   "sector": "Tech/AI",
+   "title": "The best apps to make new friends right now",
+   "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+   "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+   "published": "Sun, 22 Nov 2026 21:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.47402597402597396,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "apps",
+    "like",
+    "best",
+    "make",
+    "friends"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ",
+   "category": "News"
+  },
+  {
    "id": "57b051ee2790d433286ff37fb99d08aa",
    "sector": "Tech/AI",
    "title": "Why data centers are at the center of the Big Tech backlash",
@@ -742,29 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "We created a list of the most notable AI agents that can live in your text messages, from general as",
-   "category": "News"
-  },
-  {
-   "id": "d9a79a95fcb9dbae68d9f5d563e6d75f",
-   "sector": "Tech/AI",
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "summary": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "published": "Sat, 21 Nov 2026 16:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.3,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "face",
-    "microdrama",
-    "startup",
-    "hollywood",
-    "trend"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China.",
    "category": "News"
   },
   {
