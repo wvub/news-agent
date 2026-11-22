@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 22:44 IST",
+ "updated": "2026-11-23 02:17 IST",
  "count": 53,
  "stats": {
   "rss": 48,
@@ -28,6 +28,12 @@
    "article_count": 5
   },
   {
+   "keyword": "after",
+   "frequency": 7,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
    "keyword": "time",
    "frequency": 6,
    "sectors": 3,
@@ -40,22 +46,16 @@
    "article_count": 3
   },
   {
+   "keyword": "data",
+   "frequency": 6,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
    "keyword": "survey",
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "after",
-   "frequency": 5,
-   "sectors": 3,
-   "article_count": 3
-  },
-  {
-   "keyword": "data",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 1
   },
   {
    "keyword": "mental",
@@ -76,21 +76,21 @@
    "article_count": 2
   },
   {
-   "keyword": "three",
+   "keyword": "talks",
    "frequency": 4,
-   "sectors": 2,
+   "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "says",
+   "keyword": "what",
    "frequency": 4,
    "sectors": 3,
    "article_count": 3
   },
   {
-   "keyword": "stocks",
+   "keyword": "three",
    "frequency": 4,
-   "sectors": 1,
+   "sectors": 2,
    "article_count": 2
   },
   {
@@ -104,124 +104,170 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.744909+00:00",
+   "last_failure": "2026-11-22 20:47:31.123743+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.776120+00:00",
+   "last_failure": "2026-11-22 20:47:31.179145+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.805856+00:00",
+   "last_failure": "2026-11-22 20:47:31.228993+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.835594+00:00",
+   "last_failure": "2026-11-22 20:47:31.284220+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.863318+00:00",
+   "last_failure": "2026-11-22 20:47:31.337023+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.895448+00:00",
+   "last_failure": "2026-11-22 20:47:31.389562+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.922846+00:00",
+   "last_failure": "2026-11-22 20:47:31.441876+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.950882+00:00",
+   "last_failure": "2026-11-22 20:47:31.533844+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:40.978389+00:00",
+   "last_failure": "2026-11-22 20:47:31.594403+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.019611+00:00",
+   "last_failure": "2026-11-22 20:47:31.679871+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.050344+00:00",
+   "last_failure": "2026-11-22 20:47:31.751529+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.078805+00:00",
+   "last_failure": "2026-11-22 20:47:31.798063+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.107297+00:00",
+   "last_failure": "2026-11-22 20:47:31.849563+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.135040+00:00",
+   "last_failure": "2026-11-22 20:47:31.897857+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.163205+00:00",
+   "last_failure": "2026-11-22 20:47:31.969348+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-22 17:14:41.191227+00:00",
+   "last_failure": "2026-11-22 20:47:32.029154+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
+   "id": "695a9d503de1c65e711bfe08782458f2",
+   "sector": "World",
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+   "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+   "source": "rss",
+   "sentiment_score": -0.234375,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "climate",
+    "talks",
+    "fails",
+    "reach",
+    "major"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil",
+   "category": "News"
+  },
+  {
+   "id": "5161d4e657a6bd9aaa6b1ad4416c50bc",
+   "sector": "World",
+   "title": "What's next after no deal at COP31 climate talks?",
+   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+   "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+   "source": "rss",
+   "sentiment_score": -0.09351851851851851,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "after",
+    "talks",
+    "what",
+    "next",
+    "deal"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The talks have been the longest-running in the summit's history, with negotiations breaking down two",
+   "category": "News"
+  },
+  {
    "id": "227e5b9516b21fe7c09bf4b649771f99",
    "sector": "World",
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "published": "Sun, 22 Nov 2026 17:12:01 GMT",
+   "published": "Sun, 22 Nov 2026 20:28:09 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -236,6 +282,52 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia",
+   "category": "News"
+  },
+  {
+   "id": "90974ab24e1067b913f24ad63e29363f",
+   "sector": "World",
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "published": "Sun, 22 Nov 2026 17:57:43 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "danger",
+    "seems",
+    "greater",
+    "time",
+    "ukrainians"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Ky",
+   "category": "News"
+  },
+  {
+   "id": "5edcba003f0985db6f1aefa292c2d5d4",
+   "sector": "World",
+   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+   "published": "Sun, 22 Nov 2026 17:18:26 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "russia",
+    "bound",
+    "ship",
+    "towed",
+    "away"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet",
    "category": "News"
   },
   {
@@ -262,52 +354,6 @@
    "category": "News"
   },
   {
-   "id": "ac173e52f46a92e9c14b110dee599eff",
-   "sector": "World",
-   "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-   "published": "Sun, 22 Nov 2026 11:25:14 GMT",
-   "source": "rss",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "attack",
-    "russia",
-    "bound",
-    "ship",
-    "still"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-   "category": "News"
-  },
-  {
-   "id": "c1e299a3fa8828f83ce5d6a0eaa259b9",
-   "sector": "World",
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "published": "Sun, 22 Nov 2026 01:25:03 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "drug",
-    "mexican",
-    "lord",
-    "most",
-    "wanted"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detaine",
-   "category": "News"
-  },
-  {
    "id": "5f8e430f0c7d15973e5e9747f3519363",
    "sector": "World",
    "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -331,72 +377,118 @@
    "category": "News"
   },
   {
-   "id": "5c91700b45ec2bade43ee640b7eea204",
+   "id": "658963c2fbf6385dd83f85cd85403277",
    "sector": "World",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "published": "Sun, 22 Nov 2026 07:12:41 GMT",
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "published": "Sun, 22 Nov 2026 20:26:24 GMT",
    "source": "rss",
-   "sentiment_score": 0.225,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.06666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "italian",
-    "jeweller",
-    "businessman",
-    "paolo",
-    "bulgari"
+    "democrats",
+    "least",
+    "seats",
+    "largest",
+    "house"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "summary_short": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least",
    "category": "News"
   },
   {
-   "id": "a6cc1ea199c8c3c6e1f66f956918c272",
-   "sector": "World",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "published": "Sun, 22 Nov 2026 00:10:44 GMT",
+   "id": "df7d08d7b62bae0e9f4dc47a0a2f006a",
+   "sector": "Markets",
+   "title": "Social Security should be shut down, this Republican senator says",
+   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+   "summary": "The program\u2019s trust funds are forecast to run out of money in the next six years.",
+   "published": "Sun, 22 Nov 2026 20:26:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.11250000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": -0.040740740740740744,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "database",
-    "information",
-    "reportedly",
-    "investigating",
-    "apparent"
+    "social",
+    "security",
+    "should",
+    "shut",
+    "down"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The National Crime Information Center database is used by federal and local law enforcement to share",
+   "summary_short": "The program\u2019s trust funds are forecast to run out of money in the next six years.",
    "category": "News"
   },
   {
-   "id": "89742a92b5b5f9fcd7896fef61ce02a7",
-   "sector": "World",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+   "id": "7eeedcdf3445031fef0bcca6d0af4421",
+   "sector": "Markets",
+   "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+   "summary": "The plan would free up hospital and nursing-home beds \u2014 and lower costs.",
+   "published": "Sun, 22 Nov 2026 19:24:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.35,
+   "sentiment_score": 0.2681818181818182,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "says",
-    "ukraine",
-    "zelensky",
-    "crimean",
-    "bridge"
+    "home",
+    "nursing",
+    "medicare",
+    "beneficiaries",
+    "could"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "summary_short": "The plan would free up hospital and nursing-home beds \u2014 and lower costs.",
+   "category": "News"
+  },
+  {
+   "id": "571d7b5cb2413de5bd9076dc458c4066",
+   "sector": "Markets",
+   "title": "These little-known investments could be among the best bargains in a crash",
+   "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+   "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+   "published": "Sun, 22 Nov 2026 18:23:00 GMT",
+   "source": "rss",
+   "sentiment_score": 1.0,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "among",
+    "bargains",
+    "crash",
+    "these",
+    "little"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains am",
+   "category": "News"
+  },
+  {
+   "id": "0d37efb27791a2c23534a0074fe7d8e4",
+   "sector": "Markets",
+   "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
+   "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+   "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
+   "published": "Sun, 22 Nov 2026 17:22:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.2215909090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "private",
+    "equity",
+    "hospice",
+    "buying",
+    "centers"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firm",
    "category": "News"
   },
   {
@@ -492,95 +584,26 @@
    "category": "News"
   },
   {
-   "id": "a93c7be5772da95c08361072bf93147a",
-   "sector": "Markets",
-   "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-   "summary": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.\u201d",
-   "published": "Sun, 22 Nov 2026 16:10:00 GMT",
+   "id": "57b051ee2790d433286ff37fb99d08aa",
+   "sector": "Tech/AI",
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+   "published": "Sun, 22 Nov 2026 18:08:43 +0000",
    "source": "rss",
-   "sentiment_score": 0.09285714285714285,
+   "sentiment_score": 0.012121212121212116,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "husband",
-    "spent",
-    "boat",
-    "says",
-    "plans"
+    "data",
+    "centers",
+    "center",
+    "tech",
+    "backlash"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 ye",
-   "category": "News"
-  },
-  {
-   "id": "29e01092fc62faa874033998abc6f063",
-   "sector": "Markets",
-   "title": "America is definitely rich enough to fix Social Security and Medicare. Here\u2019s how.",
-   "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
-   "summary": "This one, simple, low-pain tax solves all the problems.",
-   "published": "Sun, 22 Nov 2026 16:04:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10208333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "america",
-    "definitely",
-    "rich",
-    "enough",
-    "social"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "This one, simple, low-pain tax solves all the problems.",
-   "category": "News"
-  },
-  {
-   "id": "ebfa2d609579b1f8c992e90e814c73d3",
-   "sector": "Markets",
-   "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
-   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-   "summary": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-   "published": "Sun, 22 Nov 2026 15:01:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "corporate",
-    "america",
-    "hunts",
-    "generational",
-    "growth"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-   "category": "News"
-  },
-  {
-   "id": "d7ecfc478f8062d4d23d5363cbd212d1",
-   "sector": "Markets",
-   "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-   "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
-   "summary": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
-   "published": "Sun, 22 Nov 2026 14:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.20624999999999996,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "stocks",
-    "holiday",
-    "correction",
-    "heading",
-    "into"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping perio",
+   "summary_short": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
    "category": "News"
   },
   {
@@ -745,26 +768,26 @@
    "category": "News"
   },
   {
-   "id": "ccc4f29999989fb571384ffda388abae",
-   "sector": "Tech/AI",
-   "title": "Alaska, your next governor is a Wikipedia nerd",
-   "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-   "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-   "published": "Sat, 21 Nov 2026 15:18:29 +0000",
+   "id": "81b4548f0e28aaec714280c811d12c78",
+   "sector": "Crypto",
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "link": "https://www.coindesk.com/",
+   "summary": "",
+   "published": "Sun, 22 Nov 2026 19:30:00 +0000",
    "source": "rss",
-   "sentiment_score": 0.25,
+   "sentiment_score": 0.5,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "alaska",
-    "governor",
-    "wikipedia",
-    "your",
-    "next"
+    "more",
+    "pending",
+    "oversight",
+    "hearings",
+    "state"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -837,6 +860,29 @@
    "category": "News"
   },
   {
+   "id": "8a28617c26b22faa5a6aebd876eb35aa",
+   "sector": "Crypto",
+   "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+   "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+   "summary": "",
+   "published": "Sat, 21 Nov 2026 14:00:00 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "openai",
+    "anthropic",
+    "rivals",
+    "seek",
+    "agent"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "61e456182a0ae83798e7d7b6c13a8c7d",
    "sector": "Crypto",
    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -898,52 +944,6 @@
     "bets",
     "unwind",
     "assets"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "347efbde306dc6454f3ab8082b82a344",
-   "sector": "Crypto",
-   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-   "summary": "",
-   "published": "Sat, 21 Nov 2026 04:10:07 +0000",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "bitcoin",
-    "tanks",
-    "below",
-    "first",
-    "time"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "10f29e6e76e960accc145a973a8615ad",
-   "sector": "Crypto",
-   "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-   "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-   "summary": "",
-   "published": "Fri, 20 Nov 2026 22:51:14 +0000",
-   "source": "rss",
-   "sentiment_score": -0.009595959595959602,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "kalshi",
-    "races",
-    "ahead",
-    "york",
-    "order"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
@@ -1320,49 +1320,72 @@
    "category": "News"
   },
   {
-   "id": "50a811f38225ba3639c11aedb59f3d8d",
+   "id": "726e8bf061a0da7479a97548c54f32f6",
    "sector": "Tech/AI",
-   "title": "Open Social Web Alliance",
-   "link": "https://osw-alliance.net/en/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50600511\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 15:24:32 +0000",
+   "title": "What Happened to Silicon Valley?",
+   "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602947\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 19:20:15 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.016666666666666666,
+   "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "open",
-    "social",
-    "alliance",
-    "href",
-    "https"
+    "what",
+    "happened",
+    "silicon",
+    "valley",
+    "href"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50600511\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602947\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "1c9a45e9000a279df09458a8c616ab05",
+   "id": "8aac2aae4192b344aa400fb54fa591f8",
    "sector": "Tech/AI",
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "link": "https://github.com/gulivan/worker755",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 13:56:58 +0000",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 19:10:34 +0000",
    "source": "hacker_news",
-   "sentiment_score": -0.4,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "show",
-    "built",
-    "game",
-    "where",
-    "subagent"
+    "birds",
+    "field",
+    "guide",
+    "vice",
+    "city"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "5e8eabaff8f1f8a1c3be18d1ed3067fd",
+   "sector": "Tech/AI",
+   "title": "Perplexity and Intelligence",
+   "link": "https://openai.com/index/perplexity-and-intelligence/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601525\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 17:06:27 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "perplexity",
+    "intelligence",
+    "href",
+    "https",
+    "news"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601525\">Comments</a>",
    "category": "News"
   },
   {
@@ -1389,49 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "9c1579d477e3ccb304b6b9b689c2a482",
+   "id": "1c9a45e9000a279df09458a8c616ab05",
    "sector": "Tech/AI",
-   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-   "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50582069\">Comments</a>",
-   "published": "Fri, 20 Nov 2026 21:03:12 +0000",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "link": "https://github.com/gulivan/worker755",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 13:56:58 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.4,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "pill",
-    "treat",
-    "pancreatic",
-    "cancer",
-    "hailed"
+    "show",
+    "built",
+    "game",
+    "where",
+    "subagent"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50582069\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "b246cd97e6414d77b269c01ee922214a",
-   "sector": "Tech/AI",
-   "title": "A Better Vocabulary for Testing",
-   "link": "https://alperenkeles.com/posts/vocab-for-testing/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50594182\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 22:15:39 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.5,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "better",
-    "vocabulary",
-    "testing",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50594182\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
    "category": "News"
   }
  ]
