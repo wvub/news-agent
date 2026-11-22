@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23 02:37 IST",
+ "updated": "2026-11-23 04:00 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 9,
+  "duplicates_found": 12,
   "trends_detected": 15
  },
  "trends": [
@@ -82,134 +82,134 @@
    "article_count": 2
   },
   {
-   "keyword": "what",
-   "frequency": 4,
-   "sectors": 3,
-   "article_count": 3
-  },
-  {
    "keyword": "three",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "messages",
+   "keyword": "security",
    "frequency": 4,
    "sectors": 2,
-   "article_count": 2
+   "article_count": 3
+  },
+  {
+   "keyword": "black",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.650698+00:00",
+   "last_failure": "2026-11-22 22:30:10.932685+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.713421+00:00",
+   "last_failure": "2026-11-22 22:30:11.038120+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.756153+00:00",
+   "last_failure": "2026-11-22 22:30:11.141415+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.814356+00:00",
+   "last_failure": "2026-11-22 22:30:11.215007+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.864241+00:00",
+   "last_failure": "2026-11-22 22:30:11.323925+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.917108+00:00",
+   "last_failure": "2026-11-22 22:30:11.406648+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:45.976816+00:00",
+   "last_failure": "2026-11-22 22:30:11.516231+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.027653+00:00",
+   "last_failure": "2026-11-22 22:30:11.594271+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.079876+00:00",
+   "last_failure": "2026-11-22 22:30:11.681867+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.137005+00:00",
+   "last_failure": "2026-11-22 22:30:11.768980+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.187389+00:00",
+   "last_failure": "2026-11-22 22:30:11.871244+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.230047+00:00",
+   "last_failure": "2026-11-22 22:30:11.973873+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.273476+00:00",
+   "last_failure": "2026-11-22 22:30:12.086305+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.320744+00:00",
+   "last_failure": "2026-11-22 22:30:12.176850+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.369133+00:00",
+   "last_failure": "2026-11-22 22:30:12.273544+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-22 21:07:46.428773+00:00",
+   "last_failure": "2026-11-22 22:30:12.374776+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -400,6 +400,52 @@
    "category": "News"
   },
   {
+   "id": "ebfa2d609579b1f8c992e90e814c73d3",
+   "sector": "Markets",
+   "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
+   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+   "summary": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+   "published": "Sun, 22 Nov 2026 21:51:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "corporate",
+    "america",
+    "hunts",
+    "generational",
+    "growth"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+   "category": "News"
+  },
+  {
+   "id": "0f5495466af9460f0563c4dcf753ae9f",
+   "sector": "Markets",
+   "title": "Ron Johnson\u2019s Social Security gaffe buried important news",
+   "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+   "summary": "The Wisconsin Republican\u2019s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+   "published": "Sun, 22 Nov 2026 21:28:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.19166666666666668,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "social",
+    "security",
+    "johnson",
+    "gaffe",
+    "buried"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Wisconsin Republican\u2019s remarks overshadowed what might have been a useful Senate committee heari",
+   "category": "News"
+  },
+  {
    "id": "df7d08d7b62bae0e9f4dc47a0a2f006a",
    "sector": "Markets",
    "title": "Social Security should be shut down, this Republican senator says",
@@ -538,49 +584,49 @@
    "category": "News"
   },
   {
-   "id": "aa6eabd695db3e587ffc021924d0fce3",
-   "sector": "Markets",
-   "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
-   "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-   "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-   "published": "Sun, 22 Nov 2026 16:18:00 GMT",
+   "id": "c51360d1408098268ef0196ad058d8b7",
+   "sector": "Tech/AI",
+   "title": "\u2018You Can See Everything\u2019 has made more than $100M worldwide",
+   "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+   "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+   "published": "Sun, 22 Nov 2026 21:42:48 +0000",
    "source": "rss",
-   "sentiment_score": -0.2888888888888889,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.1590909090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "seen",
-    "sketch",
-    "felt",
-    "families",
-    "across"
+    "everything",
+    "made",
+    "more",
+    "than",
+    "worldwide"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+   "summary_short": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
    "category": "News"
   },
   {
-   "id": "0817754417e7fac3a40bd481e6426ca1",
-   "sector": "Markets",
-   "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
-   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-   "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "published": "Sun, 22 Nov 2026 16:15:00 GMT",
+   "id": "6140dc153ea1755b7cf3f9c6ca94b973",
+   "sector": "Tech/AI",
+   "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "published": "Sun, 22 Nov 2026 21:14:07 +0000",
    "source": "rss",
-   "sentiment_score": 0.19166666666666665,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "women",
-    "never",
-    "late",
-    "start",
-    "practical"
+    "limit",
+    "development",
+    "speed",
+    "openai",
+    "chief"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
+   "summary_short": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
    "category": "News"
   },
   {
@@ -719,52 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech ex",
-   "category": "News"
-  },
-  {
-   "id": "cb34e272328fdf575d9d39b0eea5784f",
-   "sector": "Tech/AI",
-   "title": "Trump says reported FBI database hack is \u2018not good\u2019",
-   "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-   "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-   "published": "Sat, 21 Nov 2026 18:44:53 +0000",
-   "source": "rss",
-   "sentiment_score": -0.22499999999999998,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "hack",
-    "trump",
-    "says",
-    "reported",
-    "database"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-   "category": "News"
-  },
-  {
-   "id": "ab57f36fb4fc93b1429b9e97f63aa41d",
-   "sector": "Tech/AI",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "published": "Sat, 21 Nov 2026 17:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.3037878787878788,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "agents",
-    "live",
-    "your",
-    "text",
-    "messages"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "We created a list of the most notable AI agents that can live in your text messages, from general as",
    "category": "News"
   },
   {
@@ -952,6 +952,98 @@
    "category": "News"
   },
   {
+   "id": "08ab6d770234c46ed90204c248acc7df",
+   "sector": "Science",
+   "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+   "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control inflammation, regulate insulin, and suppress cancer.",
+   "published": "Sun, 22 Nov 2026 06:04:06 EST",
+   "source": "rss",
+   "sentiment_score": 0.10916666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "tortoise",
+    "year",
+    "remarkable",
+    "anti",
+    "aging"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land anima",
+   "category": "News"
+  },
+  {
+   "id": "4d7cb09a09a82eeb5d5737e41dd9c76f",
+   "sector": "Science",
+   "title": "DNA\u2019s secret sunscreen may have helped life survive on early Earth",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+   "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal how life endured the harsh conditions of our planet's earliest days.",
+   "published": "Sun, 22 Nov 2026 06:31:14 EST",
+   "source": "rss",
+   "sentiment_score": -0.012500000000000004,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "life",
+    "early",
+    "earth",
+    "secret",
+    "sunscreen"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultra",
+   "category": "News"
+  },
+  {
+   "id": "6ae0d8ae44e52bb2b544b585d172414e",
+   "sector": "Science",
+   "title": "A mysterious gap hints at black holes born from stars that never exploded",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+   "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black holes throughout the universe.",
+   "published": "Sun, 22 Nov 2026 06:46:42 EST",
+   "source": "rss",
+   "sentiment_score": 0.07161172161172161,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "black",
+    "holes",
+    "mysterious",
+    "stars",
+    "hints"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supe",
+   "category": "News"
+  },
+  {
+   "id": "92db987d930285d330dabeb3df788a8e",
+   "sector": "Science",
+   "title": "Einstein\u2019s relativity just upended a fundamental rule of chemistry",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+   "summary": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbook explanations. Researchers found direct evidence that Einstein's theory of relativity changes how heavy atoms form triple bonds, causing normally distinct types of chemical bonds to blend together. The breakthrough confirms a decades-old prediction and suggests that traditional chemistry rules don't fully apply to heavy elements such as bismuth.",
+   "published": "Fri, 20 Nov 2026 07:56:02 EST",
+   "source": "rss",
+   "sentiment_score": 0.21250000000000002,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "chemistry",
+    "einstein",
+    "relativity",
+    "fundamental",
+    "heavy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A surprising discovery at Brown University is challenging one of chemistry's most fundamental textbo",
+   "category": "News"
+  },
+  {
    "id": "47518743c5d0583e16954e82429580a3",
    "sector": "Science",
    "title": "Time may be far stranger than we realize. Scientists have a way to test it",
@@ -1041,98 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Me",
-   "category": "News"
-  },
-  {
-   "id": "4301cc8d50b6238f2679aa61a55224f6",
-   "sector": "Science",
-   "title": "Two massive stars may be secretly feeding the Milky Way\u2019s supermassive black hole",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-   "summary": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
-   "published": "Fri, 20 Nov 2026 00:41:16 EST",
-   "source": "rss",
-   "sentiment_score": 0.01363636363636364,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "black",
-    "hole",
-    "massive",
-    "stars",
-    "milky"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole t",
-   "category": "News"
-  },
-  {
-   "id": "4445927fc714ba11fcc8b6a3f79109b8",
-   "sector": "Science",
-   "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
-   "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin.",
-   "published": "Sat, 21 Nov 2026 09:25:39 EST",
-   "source": "rss",
-   "sentiment_score": 0.12727272727272726,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "roman",
-    "buried",
-    "westminster",
-    "abbey",
-    "coffin"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identifi",
-   "category": "News"
-  },
-  {
-   "id": "1ccfe4f9fbd06b71d5310210912258b1",
-   "sector": "Science",
-   "title": "Even scientists can't agree on what science actually is",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
-   "summary": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries.",
-   "published": "Sat, 21 Nov 2026 08:55:11 EST",
-   "source": "rss",
-   "sentiment_score": 0.009595959595959602,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "scientists",
-    "agree",
-    "what",
-    "science",
-    "actually"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisin",
-   "category": "News"
-  },
-  {
-   "id": "879373727eebe46204eb84ccd529a5ca",
-   "sector": "Science",
-   "title": "A 50-year-old theory about evolution may have been wrong all along",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
-   "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes. Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them.",
-   "published": "Sat, 21 Nov 2026 09:06:15 EST",
-   "source": "rss",
-   "sentiment_score": 0.04226641414141414,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "genes",
-    "mutations",
-    "theory",
-    "evolution",
-    "year"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A decades-old theory suggesting that evolution protects its most important genes from mutations has ",
    "category": "News"
   },
   {
@@ -1320,29 +1320,6 @@
    "category": "News"
   },
   {
-   "id": "726e8bf061a0da7479a97548c54f32f6",
-   "sector": "Tech/AI",
-   "title": "What Happened to Silicon Valley?",
-   "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602947\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 19:20:15 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "what",
-    "happened",
-    "silicon",
-    "valley",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602947\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "8aac2aae4192b344aa400fb54fa591f8",
    "sector": "Tech/AI",
    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
@@ -1363,6 +1340,52 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "ab4d65e2937c2301c8398e8df52b7f9b",
+   "sector": "Tech/AI",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603845\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 21:01:16 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "beginner",
+    "guide",
+    "local",
+    "inkling",
+    "qwen"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603845\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "d972227e084ebf454d224e913558d7e5",
+   "sector": "Tech/AI",
+   "title": "Nyx, the Oldest Internet Service Provider",
+   "link": "https://nyx.net/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603465\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 20:15:59 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "oldest",
+    "internet",
+    "service",
+    "provider",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603465\">Comments</a>",
    "category": "News"
   },
   {
@@ -1389,49 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "7bba870be06ebfbcabd7df0e1d448e7b",
+   "id": "ad410e06add23d21f793c34967e77429",
    "sector": "Tech/AI",
-   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-   "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 04:04:56 +0000",
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "link": "https://smallsf.com/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603589\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 20:33:23 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.13636363636363635,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "toyota",
-    "nissan",
-    "honda",
-    "standardize",
-    "parts"
+    "miniature",
+    "francisco",
+    "live",
+    "buses",
+    "planes"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50596133\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "1c9a45e9000a279df09458a8c616ab05",
-   "sector": "Tech/AI",
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "link": "https://github.com/gulivan/worker755",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 13:56:58 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.4,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "show",
-    "built",
-    "game",
-    "where",
-    "subagent"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50599762\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603589\">Comments</a>",
    "category": "News"
   }
  ]
