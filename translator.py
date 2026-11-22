@@ -27,7 +27,7 @@ def translate_with_gemini(text, target_language, gemini_key=None):
     try:
         import google.generativeai as genai
         genai.configure(api_key=gemini_key)
-        model = genai.GenerativeModel("gemini-2.0-flash")
+        model = genai.GenerativeModel("gemini-1.5-flash")
         
         prompt = f"Translate this to {target_language} (return only the translation, no explanation):\n\n{text[:500]}"
         response = model.generate_content(prompt)
