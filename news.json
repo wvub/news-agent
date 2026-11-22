@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22 03:21 IST",
+ "updated": "2026-11-22 07:23 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 6,
+  "duplicates_found": 8,
   "trends_detected": 15
  },
  "trends": [
@@ -70,6 +70,12 @@
    "article_count": 2
   },
   {
+   "keyword": "husband",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
    "keyword": "messages",
    "frequency": 4,
    "sectors": 2,
@@ -92,124 +98,118 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
-  },
-  {
-   "keyword": "tests",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:56.976012+00:00",
+   "last_failure": "2026-11-22 01:53:54.415067+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.004229+00:00",
+   "last_failure": "2026-11-22 01:53:54.510016+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.041393+00:00",
+   "last_failure": "2026-11-22 01:53:54.597738+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.160567+00:00",
+   "last_failure": "2026-11-22 01:53:54.677003+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.196282+00:00",
+   "last_failure": "2026-11-22 01:53:54.765029+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.227968+00:00",
+   "last_failure": "2026-11-22 01:53:54.827538+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.254801+00:00",
+   "last_failure": "2026-11-22 01:53:54.916511+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.283457+00:00",
+   "last_failure": "2026-11-22 01:53:54.983132+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.381522+00:00",
+   "last_failure": "2026-11-22 01:53:55.073741+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.407243+00:00",
+   "last_failure": "2026-11-22 01:53:55.153083+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.525136+00:00",
+   "last_failure": "2026-11-22 01:53:55.232338+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.595539+00:00",
+   "last_failure": "2026-11-22 01:53:55.309708+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.625059+00:00",
+   "last_failure": "2026-11-22 01:53:55.391051+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.650016+00:00",
+   "last_failure": "2026-11-22 01:53:55.458372+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.734293+00:00",
+   "last_failure": "2026-11-22 01:53:55.541292+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-21 21:51:57.757483+00:00",
+   "last_failure": "2026-11-22 01:53:55.614230+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -262,35 +262,12 @@
    "category": "News"
   },
   {
-   "id": "620437280dffcab30c49841091f87b95",
-   "sector": "World",
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-   "published": "Fri, 20 Nov 2026 22:42:47 GMT",
-   "source": "rss",
-   "sentiment_score": -0.1527777777777778,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "markets",
-    "tech",
-    "stock",
-    "sell",
-    "drags"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed in",
-   "category": "News"
-  },
-  {
    "id": "28cfbc852d07370793ace104c0677ce3",
    "sector": "World",
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "published": "Sat, 21 Nov 2026 19:33:49 GMT",
+   "published": "Sat, 21 Nov 2026 22:19:43 GMT",
    "source": "rss",
    "sentiment_score": 0.07878787878787878,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -308,35 +285,12 @@
    "category": "News"
   },
   {
-   "id": "a6cc1ea199c8c3c6e1f66f956918c272",
-   "sector": "World",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "published": "Sat, 21 Nov 2026 16:35:15 GMT",
-   "source": "rss",
-   "sentiment_score": -0.11250000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "database",
-    "information",
-    "reportedly",
-    "investigating",
-    "apparent"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The National Crime Information Center database is used by federal and local law enforcement to share",
-   "category": "News"
-  },
-  {
    "id": "c1e299a3fa8828f83ce5d6a0eaa259b9",
    "sector": "World",
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "published": "Sat, 21 Nov 2026 21:05:29 GMT",
+   "published": "Sun, 22 Nov 2026 01:25:03 GMT",
    "source": "rss",
    "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -354,26 +308,26 @@
    "category": "News"
   },
   {
-   "id": "15668b10471d4a5e8811e0f9847e722b",
+   "id": "a6cc1ea199c8c3c6e1f66f956918c272",
    "sector": "World",
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-   "published": "Fri, 20 Nov 2026 22:37:09 GMT",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "published": "Sun, 22 Nov 2026 00:10:44 GMT",
    "source": "rss",
-   "sentiment_score": -0.08333333333333333,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.11250000000000002,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "beating",
-    "music",
-    "producer",
-    "french",
-    "police"
+    "database",
+    "information",
+    "reportedly",
+    "investigating",
+    "apparent"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of r",
+   "summary_short": "The National Crime Information Center database is used by federal and local law enforcement to share",
    "category": "News"
   },
   {
@@ -397,6 +351,121 @@
    "why": "Error",
    "effect": "",
    "summary_short": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attach\u00e9 ",
+   "category": "News"
+  },
+  {
+   "id": "8aacd2950417f81ab812f500080261c1",
+   "sector": "World",
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "published": "Sat, 21 Nov 2026 04:34:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.09999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "convicted",
+    "starting",
+    "palisades",
+    "fire",
+    "angeles"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and de",
+   "category": "News"
+  },
+  {
+   "id": "3beffb63de4c206456e0f98d836ef9b3",
+   "sector": "World",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+   "published": "Sat, 21 Nov 2026 22:01:19 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "former",
+    "washington",
+    "hair",
+    "lock",
+    "president"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a",
+   "category": "News"
+  },
+  {
+   "id": "d5bcdf7de20a119724307b0b3bbab740",
+   "sector": "Markets",
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
+   "published": "Sun, 22 Nov 2026 01:15:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.3666666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "husband",
+    "happily",
+    "retired",
+    "thinks",
+    "should"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "957c89f5037392d45e61421aa3492bb6",
+   "sector": "Markets",
+   "title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?",
+   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+   "summary": "\u201cHotel rooms can cost as much as $400 per night.\u201d",
+   "published": "Sun, 22 Nov 2026 00:03:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16818181818181818,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "wife",
+    "bankrolling",
+    "family",
+    "trips",
+    "york"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cHotel rooms can cost as much as $400 per night.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "6ba8027fc811f1f18dc1eb35c9d4bd42",
+   "sector": "Markets",
+   "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+   "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+   "summary": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benefit.\u201d",
+   "published": "Sat, 21 Nov 2026 23:05:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "pension",
+    "husband",
+    "should",
+    "accept",
+    "lower"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "\u201cIf I die before my husband, he will receive a lifetime pension equal to 50%\u201366% of my monthly benef",
    "category": "News"
   },
   {
@@ -469,29 +538,6 @@
    "category": "News"
   },
   {
-   "id": "d5bcdf7de20a119724307b0b3bbab740",
-   "sector": "Markets",
-   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-   "summary": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-   "published": "Sat, 21 Nov 2026 19:23:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3666666666666667,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "husband",
-    "happily",
-    "retired",
-    "thinks",
-    "should"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cI\u2019m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.\u201d",
-   "category": "News"
-  },
-  {
    "id": "29e01092fc62faa874033998abc6f063",
    "sector": "Markets",
    "title": "America is definitely rich enough to fix Social Security and Medicare. Here\u2019s how.",
@@ -535,52 +581,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "category": "News"
-  },
-  {
-   "id": "48a858dd1234a48b28d6279f25d31b98",
-   "sector": "Markets",
-   "title": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it down.",
-   "published": "Sat, 21 Nov 2026 16:50:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.02962962962962963,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "social",
-    "security",
-    "ponzi",
-    "scheme",
-    "carried"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Wisconsin Republican Sen. Ron Johnson called Social Security a \u201cscam\u201d and urged lawmakers to shut it",
-   "category": "News"
-  },
-  {
-   "id": "7a5adb573bf05283abf6c40d47022a3b",
-   "sector": "Markets",
-   "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-   "summary": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcase in the first open slot I see.\u201d",
-   "published": "Sat, 21 Nov 2026 16:50:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.039880952380952385,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "sick",
-    "flying",
-    "paid",
-    "priority",
-    "boarding"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "\u201cMaybe next time I\u2019ll try the other approach: I\u2019ll board whenever I feel like it and drop my suitcas",
    "category": "News"
   },
   {
@@ -1343,29 +1343,6 @@
    "category": "News"
   },
   {
-   "id": "a395b1738719c978df2906f112195128",
-   "sector": "Tech/AI",
-   "title": "Inkling-2-Mini in 5.4 GB Memory",
-   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 18:02:19 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "inkling",
-    "mini",
-    "memory",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
-   "category": "News"
-  },
-  {
    "id": "f8c511e3b2f2b98c05a2211720671b6a",
    "sector": "Tech/AI",
    "title": "Lean verification of the Riemann Hypothesis",
@@ -1389,26 +1366,26 @@
    "category": "News"
   },
   {
-   "id": "e8613d8ba88ccb8a486f2ad8c161462a",
+   "id": "a395b1738719c978df2906f112195128",
    "sector": "Tech/AI",
-   "title": "Detonating a pile of lead azide",
-   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
-   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 18:02:19 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "detonating",
-    "pile",
-    "lead",
-    "azide",
-    "href"
+    "inkling",
+    "mini",
+    "memory",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50591853\">Comments</a>",
    "category": "News"
   },
   {
@@ -1432,6 +1409,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50532613\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "e8613d8ba88ccb8a486f2ad8c161462a",
+   "sector": "Tech/AI",
+   "title": "Detonating a pile of lead azide",
+   "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
+   "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "detonating",
+    "pile",
+    "lead",
+    "azide",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50588982\">Comments</a>",
    "category": "News"
   }
  ]
