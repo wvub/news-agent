@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23 04:00 IST",
+ "updated": "2026-11-23 08:31 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 12,
+  "duplicates_found": 10,
   "trends_detected": 15
  },
  "trends": [
@@ -76,12 +76,6 @@
    "article_count": 2
   },
   {
-   "keyword": "talks",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "three",
    "frequency": 4,
    "sectors": 2,
@@ -98,118 +92,124 @@
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
+  },
+  {
+   "keyword": "star",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:10.932685+00:00",
+   "last_failure": "2026-11-23 03:01:56.444801+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.038120+00:00",
+   "last_failure": "2026-11-23 03:01:56.511570+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.141415+00:00",
+   "last_failure": "2026-11-23 03:01:56.584136+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.215007+00:00",
+   "last_failure": "2026-11-23 03:01:56.652742+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.323925+00:00",
+   "last_failure": "2026-11-23 03:01:56.718348+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.406648+00:00",
+   "last_failure": "2026-11-23 03:01:57.897723+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.516231+00:00",
+   "last_failure": "2026-11-23 03:01:57.969475+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.594271+00:00",
+   "last_failure": "2026-11-23 03:01:58.037160+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.681867+00:00",
+   "last_failure": "2026-11-23 03:01:58.101400+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.768980+00:00",
+   "last_failure": "2026-11-23 03:01:58.179414+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.871244+00:00",
+   "last_failure": "2026-11-23 03:01:58.248621+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:11.973873+00:00",
+   "last_failure": "2026-11-23 03:01:58.310423+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:12.086305+00:00",
+   "last_failure": "2026-11-23 03:01:58.472248+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:12.176850+00:00",
+   "last_failure": "2026-11-23 03:01:58.540119+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:12.273544+00:00",
+   "last_failure": "2026-11-23 03:01:58.607493+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-22 22:30:12.374776+00:00",
+   "last_failure": "2026-11-23 03:01:58.673171+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -220,22 +220,22 @@
    "sector": "World",
    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
    "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-   "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+   "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+   "published": "Mon, 23 Nov 2026 00:50:35 GMT",
    "source": "rss",
-   "sentiment_score": -0.234375,
+   "sentiment_score": -0.14583333333333334,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
     "climate",
-    "talks",
     "fails",
     "reach",
-    "major"
+    "major",
+    "deal"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil",
+   "summary_short": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuel",
    "category": "News"
   },
   {
@@ -267,7 +267,7 @@
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "published": "Sun, 22 Nov 2026 20:28:09 GMT",
+   "published": "Mon, 23 Nov 2026 02:59:35 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -290,7 +290,7 @@
    "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
    "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-   "published": "Sun, 22 Nov 2026 17:57:43 GMT",
+   "published": "Sun, 22 Nov 2026 22:37:43 GMT",
    "source": "rss",
    "sentiment_score": 0.09999999999999999,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -382,7 +382,7 @@
    "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
    "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "published": "Sun, 22 Nov 2026 20:26:24 GMT",
+   "published": "Mon, 23 Nov 2026 01:23:43 GMT",
    "source": "rss",
    "sentiment_score": 0.06666666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -584,6 +584,29 @@
    "category": "News"
   },
   {
+   "id": "df85b45f224b1e929182a3fafd693e19",
+   "sector": "Tech/AI",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+   "source": "rss",
+   "sentiment_score": 0.2916666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "anthropic",
+    "notable",
+    "capital",
+    "baillie",
+    "gifford"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "category": "News"
+  },
+  {
    "id": "c51360d1408098268ef0196ad058d8b7",
    "sector": "Tech/AI",
    "title": "\u2018You Can See Everything\u2019 has made more than $100M worldwide",
@@ -742,29 +765,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-   "category": "News"
-  },
-  {
-   "id": "798b8ca4ac2aff8fb93a0eadad43b9c0",
-   "sector": "Tech/AI",
-   "title": "A tale of two Nvidias",
-   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "summary": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
-   "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-   "source": "rss",
-   "sentiment_score": 0.19999999999999998,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "tale",
-    "nvidias",
-    "very",
-    "different",
-    "pictures"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech ex",
    "category": "News"
   },
   {
@@ -1320,26 +1320,49 @@
    "category": "News"
   },
   {
-   "id": "8aac2aae4192b344aa400fb54fa591f8",
+   "id": "b8d7f874ba51590d6ecdb9eb9043c862",
    "sector": "Tech/AI",
-   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 19:10:34 +0000",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "link": "https://spelunkr.tv",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50606192\">Comments</a>",
+   "published": "Mon, 23 Nov 2026 01:13:51 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.4,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "birds",
-    "field",
-    "guide",
-    "vice",
-    "city"
+    "free",
+    "alternative",
+    "network",
+    "built",
+    "internet"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50606192\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "e05523a5371cfac4bc13a31ce49496f5",
+   "sector": "Tech/AI",
+   "title": "Masullo on the Riemann Hypothesis",
+   "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598441\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 10:59:56 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "masullo",
+    "riemann",
+    "hypothesis",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598441\">Comments</a>",
    "category": "News"
   },
   {
@@ -1366,72 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "d972227e084ebf454d224e913558d7e5",
+   "id": "8aac2aae4192b344aa400fb54fa591f8",
    "sector": "Tech/AI",
-   "title": "Nyx, the Oldest Internet Service Provider",
-   "link": "https://nyx.net/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603465\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 20:15:59 +0000",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 19:10:34 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "oldest",
-    "internet",
-    "service",
-    "provider",
-    "href"
+    "birds",
+    "field",
+    "guide",
+    "vice",
+    "city"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603465\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50602843\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "5e8eabaff8f1f8a1c3be18d1ed3067fd",
+   "id": "1e115a441c81616d87ef3807e44ec25a",
    "sector": "Tech/AI",
-   "title": "Perplexity and Intelligence",
-   "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601525\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 17:06:27 +0000",
+   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+   "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547698\">Comments</a>",
+   "published": "Wed, 18 Nov 2026 15:43:29 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "perplexity",
-    "intelligence",
-    "href",
-    "https",
-    "news"
+    "cathedral",
+    "floor",
+    "emerges",
+    "sudan",
+    "revealing"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601525\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "ad410e06add23d21f793c34967e77429",
-   "sector": "Tech/AI",
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "link": "https://smallsf.com/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603589\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 20:33:23 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "miniature",
-    "francisco",
-    "live",
-    "buses",
-    "planes"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50603589\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50547698\">Comments</a>",
    "category": "News"
   }
  ]
