@@ -443,7 +443,7 @@ News items: {json.dumps(batch)}"""
         for it in items:
             it.update(
                 impact="🟡 Medium",
-                why="Error",
+                why=f"DEBUG: {str(e)[:80]}",
                 effect="",
                 summary_short=it.get("summary", "")[:100],
                 category="News"
