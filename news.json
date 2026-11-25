@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-25 01:53 IST",
+ "updated": "2026-11-25 09:09 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 4,
+  "duplicates_found": 6,
   "trends_detected": 15
  },
  "trends": [
@@ -52,6 +52,24 @@
    "article_count": 2
   },
   {
+   "keyword": "nvidia",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 3
+  },
+  {
+   "keyword": "says",
+   "frequency": 5,
+   "sectors": 3,
+   "article_count": 4
+  },
+  {
+   "keyword": "huang",
+   "frequency": 5,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
    "keyword": "mental",
    "frequency": 5,
    "sectors": 1,
@@ -70,32 +88,14 @@
    "article_count": 2
   },
   {
-   "keyword": "iron",
+   "keyword": "even",
    "frequency": 4,
-   "sectors": 2,
+   "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "tests",
+   "keyword": "black",
    "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "covax",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "says",
-   "frequency": 3,
-   "sectors": 2,
-   "article_count": 2
-  },
-  {
-   "keyword": "lost",
-   "frequency": 3,
    "sectors": 2,
    "article_count": 2
   }
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:29.791914+00:00",
+   "last_failure": "2026-11-25 03:39:23.871237+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:29.917570+00:00",
+   "last_failure": "2026-11-25 03:39:23.970566+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.069619+00:00",
+   "last_failure": "2026-11-25 03:39:24.051584+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.175902+00:00",
+   "last_failure": "2026-11-25 03:39:24.140042+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.293240+00:00",
+   "last_failure": "2026-11-25 03:39:24.245303+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.402467+00:00",
+   "last_failure": "2026-11-25 03:39:24.333960+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.512872+00:00",
+   "last_failure": "2026-11-25 03:39:24.435157+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.622896+00:00",
+   "last_failure": "2026-11-25 03:39:24.545839+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.731432+00:00",
+   "last_failure": "2026-11-25 03:39:24.659750+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.841566+00:00",
+   "last_failure": "2026-11-25 03:39:24.753584+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:30.959852+00:00",
+   "last_failure": "2026-11-25 03:39:24.837585+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:31.089740+00:00",
+   "last_failure": "2026-11-25 03:39:24.918348+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:31.196238+00:00",
+   "last_failure": "2026-11-25 03:39:25.002218+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:31.392646+00:00",
+   "last_failure": "2026-11-25 03:39:25.101981+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:31.522602+00:00",
+   "last_failure": "2026-11-25 03:39:25.193558+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-24 20:23:31.712106+00:00",
+   "last_failure": "2026-11-25 03:39:25.296200+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "US attorney general dodges questions about Nvidia investigation",
    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "published": "Tue, 24 Nov 2026 18:55:59 GMT",
+   "published": "Tue, 24 Nov 2026 21:19:42 GMT",
    "source": "rss",
    "sentiment_score": 0.05000000000000002,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -236,6 +236,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's invol",
+   "category": "News"
+  },
+  {
+   "id": "fc9ead41f5a23fd62e97c8ac5f9249a7",
+   "sector": "World",
+   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+   "published": "Tue, 24 Nov 2026 16:49:07 GMT",
+   "source": "rss",
+   "sentiment_score": 0.10833333333333334,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "french",
+    "president",
+    "sarkozy",
+    "wife",
+    "carla"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to ja",
    "category": "News"
   },
   {
@@ -262,6 +285,29 @@
    "category": "News"
   },
   {
+   "id": "cbba7ca027d455d818bbf47ebc1a6d76",
+   "sector": "World",
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "published": "Wed, 25 Nov 2026 02:59:27 GMT",
+   "source": "rss",
+   "sentiment_score": -0.18181818181818182,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "huawei",
+    "found",
+    "guilty",
+    "stealing",
+    "trade"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The verdict follows a months-long trial in New York.",
+   "category": "News"
+  },
+  {
    "id": "f5b93e34f931172924203f879ee1aeb8",
    "sector": "World",
    "title": "Land mine casualties soar in Syria, two years after war",
@@ -282,29 +328,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, f",
-   "category": "News"
-  },
-  {
-   "id": "fc9ead41f5a23fd62e97c8ac5f9249a7",
-   "sector": "World",
-   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-   "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-   "published": "Tue, 24 Nov 2026 16:49:07 GMT",
-   "source": "rss",
-   "sentiment_score": 0.10833333333333334,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "french",
-    "president",
-    "sarkozy",
-    "wife",
-    "carla"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to ja",
    "category": "News"
   },
   {
@@ -377,26 +400,49 @@
    "category": "News"
   },
   {
-   "id": "10ed867888c944eb6c7a5f433710e3a8",
-   "sector": "World",
-   "title": "What Jensen Huang's return teaches China's Xi about Trump",
-   "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-   "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-   "published": "Tue, 24 Nov 2026 07:26:27 GMT",
+   "id": "b17443c5274adb08666c412ddfbed801",
+   "sector": "Markets",
+   "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+   "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
+   "published": "Wed, 25 Nov 2026 02:00:00 GMT",
    "source": "rss",
-   "sentiment_score": 0.0,
+   "sentiment_score": 0.06704545454545455,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "huang",
-    "what",
-    "jensen",
-    "return",
-    "teaches"
+    "buying",
+    "should",
+    "only",
+    "title",
+    "given"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+   "summary_short": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "60ced363d0b38a25b5106919687572f1",
+   "sector": "Markets",
+   "title": "Dell\u2019s stock rises as the AI boom helps sales more than double",
+   "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+   "summary": "Dell says its backlog is \u201crigorously vetted for customer quality and access to capital, land and power.\u201d",
+   "published": "Wed, 25 Nov 2026 01:11:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "dell",
+    "stock",
+    "rises",
+    "boom",
+    "helps"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Dell says its backlog is \u201crigorously vetted for customer quality and access to capital, land and pow",
    "category": "News"
   },
   {
@@ -405,7 +451,7 @@
    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
    "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
    "summary": "\u201cHe explained that he wasn\u2019t trying to hide the payment, but his former wife lost her job in a medical billing company.\u201d",
-   "published": "Tue, 24 Nov 2026 20:16:00 GMT",
+   "published": "Wed, 25 Nov 2026 00:05:00 GMT",
    "source": "rss",
    "sentiment_score": -0.13333333333333333,
    "sentiment_label": "Negative \ud83d\ude1e",
@@ -423,26 +469,49 @@
    "category": "News"
   },
   {
-   "id": "ce12ce7ebc203b43fa7ef4aa2642d3dd",
+   "id": "c9115d6022ca6683121928d4a710ff53",
    "sector": "Markets",
-   "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street\u2019s newest bulls",
-   "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-   "summary": "GameStop\u2019s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company\u2019s transformation.",
-   "published": "Tue, 24 Nov 2026 19:48:00 GMT",
+   "title": "Micron boosted CEO Sanjay Mehrotra\u2019s security budget by 2,000%, new filing shows",
+   "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+   "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+   "published": "Tue, 24 Nov 2026 23:11:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.15000000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.2215909090909091,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "gamestop",
-    "investors",
-    "saved",
-    "trading",
-    "cards"
+    "mehrotra",
+    "security",
+    "micron",
+    "boosted",
+    "sanjay"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "GameStop\u2019s base of fervent retail investors is still intact, but Needham analysts say more instituti",
+   "summary_short": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compens",
+   "category": "News"
+  },
+  {
+   "id": "bee990ef05cc1a25fd08297d87ab1b02",
+   "sector": "Markets",
+   "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+   "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+   "summary": "Luxury Advent calendars in particular \u2014 which can run hundreds of dollars \u2014 have seen a spike in sales. Here\u2019s why.",
+   "published": "Tue, 24 Nov 2026 21:53:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.16666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "advent",
+    "calendars",
+    "days",
+    "sardines",
+    "croc"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Luxury Advent calendars in particular \u2014 which can run hundreds of dollars \u2014 have seen a spike in sal",
    "category": "News"
   },
   {
@@ -450,8 +519,8 @@
    "sector": "Markets",
    "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
    "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-   "summary": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
-   "published": "Tue, 24 Nov 2026 19:31:00 GMT",
+   "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+   "published": "Tue, 24 Nov 2026 21:46:00 GMT",
    "source": "rss",
    "sentiment_score": 0.04166666666666667,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -465,306 +534,260 @@
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on th",
+   "summary_short": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
    "category": "News"
   },
   {
-   "id": "e2b3566d7f15872f80f6f1059899c2cf",
+   "id": "f03dc0cc8d4dbcb67d0a2c19c771b975",
    "sector": "Markets",
-   "title": "Many people overlook this crucial piece of retirement planning \u2014 and it isn\u2019t money",
-   "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
-   "summary": "Picking your retirement date should include factors beyond finances.",
-   "published": "Tue, 24 Nov 2026 19:21:00 GMT",
+   "title": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
+   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+   "published": "Tue, 24 Nov 2026 21:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.21666666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "just",
+    "posted",
+    "strongest",
+    "growth",
+    "ever"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+   "category": "News"
+  },
+  {
+   "id": "071d23fd25c42a045623b30093129880",
+   "sector": "Markets",
+   "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+   "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+   "summary": "Most households are getting \u201csqueezed by rising costs of everyday goods,\u201d according to Teneo, but upper-income households \u201care showing resilience.\u201d",
+   "published": "Tue, 24 Nov 2026 21:31:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "households",
+    "much",
+    "more",
+    "richest",
+    "americans"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Most households are getting \u201csqueezed by rising costs of everyday goods,\u201d according to Teneo, but up",
+   "category": "News"
+  },
+  {
+   "id": "df76d8947f0016a9b171efeb3fdb5a22",
+   "sector": "Tech/AI",
+   "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+   "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+   "source": "rss",
+   "sentiment_score": 0.08,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "yale",
+    "sonnenfeld",
+    "nvidia",
+    "detriment",
+    "industrial"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013back",
+   "category": "News"
+  },
+  {
+   "id": "fcae1e0c4b9c390bd1eb2a33b388d48c",
+   "sector": "Tech/AI",
+   "title": "Trump reportedly says pardoning Jensen Huang is \u2018an option\u2019",
+   "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+   "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+   "published": "Wed, 25 Nov 2026 00:10:27 +0000",
+   "source": "rss",
+   "sentiment_score": -0.19166666666666665,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "huang",
+    "trump",
+    "reportedly",
+    "says",
+    "pardoning"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged tie",
+   "category": "News"
+  },
+  {
+   "id": "ab92df89eb069324429586a50982b618",
+   "sector": "Tech/AI",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "published": "Tue, 24 Nov 2026 22:27:52 +0000",
+   "source": "rss",
+   "sentiment_score": 0.06249999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "jensen",
+    "huang",
+    "still",
+    "thinks",
+    "succession"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "It's a remarkable stance for a company that spent the last two weeks finding out what happens withou",
+   "category": "News"
+  },
+  {
+   "id": "88a96e0e61a67c8a8bad243bfab15e1b",
+   "sector": "Tech/AI",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "published": "Tue, 24 Nov 2026 21:48:27 +0000",
+   "source": "rss",
+   "sentiment_score": 0.06666666666666667,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "hands",
+    "meeting",
+    "jensen",
+    "huang",
+    "thanks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance t",
+   "category": "News"
+  },
+  {
+   "id": "c2fc4197970e580d278998eaa2dce3fe",
+   "sector": "Tech/AI",
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+   "source": "rss",
+   "sentiment_score": 0.21570247933884296,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "even",
+    "struggle",
+    "everyday",
+    "best",
+    "agents"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI m",
+   "category": "News"
+  },
+  {
+   "id": "0e1e03b317966643b79d0ac8b938e3a5",
+   "sector": "Tech/AI",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+   "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+   "source": "rss",
+   "sentiment_score": -0.16666666666666666,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "walmart",
+    "meta",
+    "black",
+    "friday",
+    "deals"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+   "category": "News"
+  },
+  {
+   "id": "79bf9f66c577dbc20d4e9353a9f25035",
+   "sector": "Tech/AI",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "published": "Tue, 24 Nov 2026 21:19:52 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "data",
+    "even",
+    "itself",
+    "maple",
+    "raises"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessin",
+   "category": "News"
+  },
+  {
+   "id": "76bd833b0700b495c483f199268931f5",
+   "sector": "Tech/AI",
+   "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+   "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+   "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+   "published": "Tue, 24 Nov 2026 21:09:04 +0000",
+   "source": "rss",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "dozens",
+    "shipping",
+    "tankers",
+    "hacked",
+    "recent"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vess",
+   "category": "News"
+  },
+  {
+   "id": "095e41ba7016f0dc29a853a7eeb7eab4",
+   "sector": "Crypto",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "summary": "",
+   "published": "Wed, 25 Nov 2026 03:35:20 +0000",
    "source": "rss",
    "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "retirement",
-    "many",
-    "people",
-    "overlook",
-    "crucial"
+    "trump",
+    "says",
+    "willing",
+    "give",
+    "nvidia"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "Picking your retirement date should include factors beyond finances.",
-   "category": "News"
-  },
-  {
-   "id": "a6b2e4d043bde2c235332863a2b5257a",
-   "sector": "Markets",
-   "title": "Feeling tired and losing your hair? You might have low iron \u2014 even if you\u2019ve tested \u2018normal\u2019 before.",
-   "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
-   "summary": "A \u201csilent epidemic\u201d:  Doctors are rethinking how to diagnose iron deficiency. Here\u2019s what you should know about the science of ferritin.",
-   "published": "Tue, 24 Nov 2026 19:02:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.0625,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "iron",
-    "feeling",
-    "tired",
-    "losing",
-    "your"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A \u201csilent epidemic\u201d:  Doctors are rethinking how to diagnose iron deficiency. Here\u2019s what you should",
-   "category": "News"
-  },
-  {
-   "id": "8e021512083034abe590958b88e87dad",
-   "sector": "Markets",
-   "title": "Visiting Las Vegas is getting too expensive \u2014 but don\u2019t blame airfares",
-   "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-   "summary": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
-   "published": "Tue, 24 Nov 2026 18:48:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.041666666666666664,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "vegas",
-    "visiting",
-    "getting",
-    "expensive",
-    "blame"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or",
-   "category": "News"
-  },
-  {
-   "id": "d211e1bd825b2e9fdf094aed7a9101f4",
-   "sector": "Markets",
-   "title": "Micron\u2019s stock falls as an analyst warns about a future supply glut",
-   "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-   "summary": "A BNP Paribas analyst says the risk of an  \u201coversupply scenario is mounting\u201d for memory chips, and that could threaten Micron\u2019s pricing power.",
-   "published": "Tue, 24 Nov 2026 18:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "micron",
-    "analyst",
-    "stock",
-    "falls",
-    "warns"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "A BNP Paribas analyst says the risk of an  \u201coversupply scenario is mounting\u201d for memory chips, and t",
-   "category": "News"
-  },
-  {
-   "id": "3bae7f99fdb73dd114acbd328e71bad2",
-   "sector": "Markets",
-   "title": "Tesla has a \u2018legitimate multitrillion-dollar opportunity\u2019 in robotaxis, says former skeptic",
-   "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
-   "summary": "Even for Seaport analyst Ron Jewsikow, Tesla\u2019s robotaxi progress is now \u201cimpossible to ignore.\u201d",
-   "published": "Tue, 24 Nov 2026 18:28:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.3333333333333333,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "tesla",
-    "legitimate",
-    "multitrillion",
-    "dollar",
-    "opportunity"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Even for Seaport analyst Ron Jewsikow, Tesla\u2019s robotaxi progress is now \u201cimpossible to ignore.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "4968d6bc2075d69c8e58c3dad63ae4b8",
-   "sector": "Tech/AI",
-   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-   "summary": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
-   "published": "Tue, 24 Nov 2026 18:30:42 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "anthropic",
-    "shares",
-    "fall",
-    "below",
-    "price"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
-   "category": "News"
-  },
-  {
-   "id": "2dba27d53740013fc9c79be919716b30",
-   "sector": "Tech/AI",
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-   "published": "Tue, 24 Nov 2026 18:02:59 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11166666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "security",
-    "warns",
-    "driven",
-    "cyberattacks",
-    "exposing"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacki",
-   "category": "News"
-  },
-  {
-   "id": "fea2a9042e59474304aa2c0e74605bb3",
-   "sector": "Tech/AI",
-   "title": "Threads comes to iPad and takes a page from X\u2019s playbook with cashtags",
-   "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-   "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-   "published": "Tue, 24 Nov 2026 17:44:34 +0000",
-   "source": "rss",
-   "sentiment_score": 0.04545454545454545,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "threads",
-    "comes",
-    "ipad",
-    "takes",
-    "page"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The addition of live stock quotes and charts could help Threads attract the financial community that",
-   "category": "News"
-  },
-  {
-   "id": "80ad7c9cc3acf064bfbe0eba2cd46a72",
-   "sector": "Tech/AI",
-   "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey\u2019s bank",
-   "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-   "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-   "published": "Tue, 24 Nov 2026 17:29:09 +0000",
-   "source": "rss",
-   "sentiment_score": 0.13636363636363635,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "electric",
-    "truck",
-    "startup",
-    "harbinger",
-    "palmer"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck st",
-   "category": "News"
-  },
-  {
-   "id": "09e2536d3c2b8c18612e0b50b870f888",
-   "sector": "Tech/AI",
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-   "published": "Tue, 24 Nov 2026 17:00:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11818181818181818,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "muse",
-    "instagram",
-    "meta",
-    "brings",
-    "assistant"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when",
-   "category": "News"
-  },
-  {
-   "id": "a983a2d9f17c99977091ba3d1cf68166",
-   "sector": "Tech/AI",
-   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-   "published": "Tue, 24 Nov 2026 16:46:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "generated",
-    "tidal",
-    "remove",
-    "millions",
-    "tracks"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "The company said it will still accept songs that were made with AI assistance, but not fully generat",
-   "category": "News"
-  },
-  {
-   "id": "7cbab298df5b819554ddf9f43f5fb079",
-   "sector": "Tech/AI",
-   "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-   "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-   "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-   "published": "Tue, 24 Nov 2026 16:40:46 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "uber",
-    "nuro",
-    "driverless",
-    "testing",
-    "lucid"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Franci",
-   "category": "News"
-  },
-  {
-   "id": "a4edabfcf471ccc0ae23c6ce0b5c30cf",
-   "sector": "Tech/AI",
-   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-   "published": "Tue, 24 Nov 2026 16:10:00 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crusoe",
-    "solar",
-    "power",
-    "data",
-    "centers"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's invest",
+   "summary_short": "",
    "category": "News"
   },
   {
@@ -929,29 +952,6 @@
    "category": "News"
   },
   {
-   "id": "58755c6802e81de20a112aba526d8483",
-   "sector": "Crypto",
-   "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-   "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-   "summary": "",
-   "published": "Tue, 24 Nov 2026 12:04:39 +0000",
-   "source": "rss",
-   "sentiment_score": 0.11666666666666665,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "jpmorgan",
-    "hsbc",
-    "stonex",
-    "complete",
-    "first"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
    "id": "427f7910cfff8fcdd4a9b542c0fbf651",
    "sector": "Science",
    "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
@@ -995,6 +995,29 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Scientists have uncovered surprising evidence that Earth\u2019s next ice age may have already begun, only",
+   "category": "News"
+  },
+  {
+   "id": "86675a6b272b4690194f3dc2d6ce793e",
+   "sector": "Science",
+   "title": "New nose drops restore youthful memory and fight Alzheimer\u2019s in aging mice",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer\u2019s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer\u2019s-associated plaques, suggesting a completely different way to ",
+   "published": "Tue, 24 Nov 2026 18:31:52 EST",
+   "source": "rss",
+   "sentiment_score": 0.22454545454545452,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "memory",
+    "alzheimer",
+    "mice",
+    "nose",
+    "drops"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging m",
    "category": "News"
   },
   {
@@ -1110,29 +1133,6 @@
    "why": "Error",
    "effect": "",
    "summary_short": "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Ro",
-   "category": "News"
-  },
-  {
-   "id": "6a2b2bf946c139f0fccee7c6b6d45f36",
-   "sector": "Science",
-   "title": "Mysterious new viruses reveal a missing link in evolution",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-   "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life\u2019s earliest biological structures evolved. The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells.",
-   "published": "Mon, 23 Nov 2026 05:45:53 EST",
-   "source": "rss",
-   "sentiment_score": 0.0587121212121212,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "viruses",
-    "mysterious",
-    "reveal",
-    "missing",
-    "link"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "Scientists have discovered previously unknown viruses that could help explain how some of life\u2019s ear",
    "category": "News"
   },
   {
@@ -1320,118 +1320,118 @@
    "category": "News"
   },
   {
-   "id": "5b2b7318d19d63a891ea3380ba8b4d06",
+   "id": "10dce7845c40c89ff03d5b287c5fbfa8",
    "sector": "Tech/AI",
-   "title": "What Cloudflare Doesn't Tell You",
-   "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50632883\">Comments</a>",
-   "published": "Tue, 24 Nov 2026 19:03:55 +0000",
+   "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+   "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637220\">Comments</a>",
+   "published": "Wed, 25 Nov 2026 01:19:26 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "what",
-    "cloudflare",
-    "doesn",
-    "tell",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50632883\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "8e0e782785f25977d635d1e39252401b",
-   "sector": "Tech/AI",
-   "title": "Active intrusion campaign against Check Point security management servers",
-   "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50630594\">Comments</a>",
-   "published": "Tue, 24 Nov 2026 16:32:17 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.13333333333333333,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "active",
-    "intrusion",
-    "campaign",
-    "against",
-    "check"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50630594\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "35e28568690197a432db837620d926be",
-   "sector": "Tech/AI",
-   "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-   "link": "https://grafana.com/grafana/download",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50633159\">Comments</a>",
-   "published": "Tue, 24 Nov 2026 19:23:44 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "grafana",
-    "multiple",
-    "cves",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "Error",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50633159\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c5594065ea67475bcda2a7475f483385",
-   "sector": "Tech/AI",
-   "title": "Jetty Pro",
-   "link": "http://hypercritical.co/2026/11/23/jetty-pro",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50630462\">Comments</a>",
-   "published": "Tue, 24 Nov 2026 16:23:02 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "jetty",
+    "matrix",
+    "multiplication",
     "href",
     "https",
-    "news",
-    "ycombinator"
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50630462\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637220\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "3bbd1eace2ec9dcc1ff0f5dbd275f10f",
+   "id": "5ea7f4444520166c09eb751ab21f1e22",
    "sector": "Tech/AI",
-   "title": "Mechanical Pencil: Spray Bottle",
-   "link": "https://mechanical-pencil.com/products/spray-bottle",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598555\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 11:16:30 +0000",
+   "title": "Ternary Bonsai 2.5 27B",
+   "link": "https://prismml.com/news/bonsai-2-5-27b",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50633922\">Comments</a>",
+   "published": "Tue, 24 Nov 2026 20:08:03 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "mechanical",
-    "pencil",
-    "spray",
-    "bottle",
-    "href"
+    "ternary",
+    "bonsai",
+    "href",
+    "https",
+    "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "Error",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598555\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50633922\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "b20bf3524327d42f33483f4a598fc3f2",
+   "sector": "Tech/AI",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637056\">Comments</a>",
+   "published": "Wed, 25 Nov 2026 00:54:49 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "pengpt",
+    "generative",
+    "transformer",
+    "handwriting",
+    "sketches"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637056\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "22c8dc765334b0e88a1b8642b19c0904",
+   "sector": "Tech/AI",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50634658\">Comments</a>",
+   "published": "Tue, 24 Nov 2026 21:02:22 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "models",
+    "demonstrate",
+    "intrinsic",
+    "protein",
+    "design"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50634658\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "69295a1820feff14715412d800acb67f",
+   "sector": "Tech/AI",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637686\">Comments</a>",
+   "published": "Wed, 25 Nov 2026 02:34:21 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "models",
+    "communicate",
+    "inference",
+    "servers",
+    "despite"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "Error",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50637686\">Comments</a>",
    "category": "News"
   }
  ]
