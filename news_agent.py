@@ -383,7 +383,7 @@ def analyze_with_ai(items):
         return items
     
     try:
-         model = genai.GenerativeModel("gemini-1.5-flash-latest")
+        model = genai.GenerativeModel("gemini-1.5-flash-latest")
         
         batch = [
             {
