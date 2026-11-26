@@ -134,7 +134,7 @@ Return ONLY a JSON array (no markdown, no explanation) where each object has:
 
 News items: """ + json.dumps(batch)
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
+    url=f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_KEY}"
     r = requests.post(url, json={
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
