@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26 04:11 IST",
+ "updated": "2026-11-26 09:59 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 5,
   "trends_detected": 15
  },
  "trends": [
@@ -29,15 +29,9 @@
   },
   {
    "keyword": "nvidia",
-   "frequency": 7,
+   "frequency": 8,
    "sectors": 2,
-   "article_count": 4
-  },
-  {
-   "keyword": "earth",
-   "frequency": 6,
-   "sectors": 2,
-   "article_count": 3
+   "article_count": 5
   },
   {
    "keyword": "data",
@@ -82,19 +76,25 @@
    "article_count": 2
   },
   {
+   "keyword": "global",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 2
+  },
+  {
+   "keyword": "huang",
+   "frequency": 4,
+   "sectors": 2,
+   "article_count": 3
+  },
+  {
+   "keyword": "back",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 3
+  },
+  {
    "keyword": "gravity",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "tests",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 1
-  },
-  {
-   "keyword": "covax",
    "frequency": 4,
    "sectors": 1,
    "article_count": 1
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:27.609971+00:00",
+   "last_failure": "2026-11-26 04:29:37.751320+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:27.712531+00:00",
+   "last_failure": "2026-11-26 04:29:37.779893+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:27.816770+00:00",
+   "last_failure": "2026-11-26 04:29:37.814655+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:27.911293+00:00",
+   "last_failure": "2026-11-26 04:29:37.845329+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:27.998644+00:00",
+   "last_failure": "2026-11-26 04:29:37.874904+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.100686+00:00",
+   "last_failure": "2026-11-26 04:29:37.907256+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.200005+00:00",
+   "last_failure": "2026-11-26 04:29:37.938337+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.297112+00:00",
+   "last_failure": "2026-11-26 04:29:37.971089+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.401387+00:00",
+   "last_failure": "2026-11-26 04:29:37.998661+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.489827+00:00",
+   "last_failure": "2026-11-26 04:29:38.031095+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.590560+00:00",
+   "last_failure": "2026-11-26 04:29:38.061604+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.688195+00:00",
+   "last_failure": "2026-11-26 04:29:38.096959+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.778793+00:00",
+   "last_failure": "2026-11-26 04:29:38.136112+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.876616+00:00",
+   "last_failure": "2026-11-26 04:29:38.166679+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:28.985092+00:00",
+   "last_failure": "2026-11-26 04:29:38.200351+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-25 22:41:29.076869+00:00",
+   "last_failure": "2026-11-26 04:29:38.231934+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -221,7 +221,7 @@
    "title": "US announces new tariffs on host of countries including China",
    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+   "published": "Thu, 26 Nov 2026 04:10:58 GMT",
    "source": "rss",
    "sentiment_score": 0.25757575757575757,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -285,6 +285,29 @@
    "category": "News"
   },
   {
+   "id": "621f526b17afaf34ca76c42d537c5bb0",
+   "sector": "World",
+   "title": "Has global jihadism failed, or is it simply changing shape?",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+   "published": "Thu, 26 Nov 2026 00:22:18 GMT",
+   "source": "rss",
+   "sentiment_score": -0.049999999999999996,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "global",
+    "jihadism",
+    "failed",
+    "simply",
+    "changing"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a r",
+   "category": "News"
+  },
+  {
    "id": "0a359f40911bd297b6b6b05a8099cb8d",
    "sector": "World",
    "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
@@ -336,7 +359,7 @@
    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
    "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-   "published": "Wed, 25 Nov 2026 19:54:52 GMT",
+   "published": "Thu, 26 Nov 2026 00:23:05 GMT",
    "source": "rss",
    "sentiment_score": 0.25,
    "sentiment_label": "Positive \ud83d\ude0a",
@@ -354,49 +377,26 @@
    "category": "News"
   },
   {
-   "id": "e06ee81a3e2ae5dc2093a553658d48c3",
+   "id": "f5a79413794b252f487de5789c544062",
    "sector": "World",
-   "title": "North Korea expels Swiss diplomat in sanctions row",
-   "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-   "published": "Wed, 25 Nov 2026 21:51:17 GMT",
+   "title": "California warns of flooding as King Tides peak over Thanksgiving",
+   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+   "published": "Thu, 26 Nov 2026 01:22:55 GMT",
    "source": "rss",
-   "sentiment_score": 0.6,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "north",
-    "korea",
-    "swiss",
-    "embassy",
-    "expels"
+    "flooding",
+    "california",
+    "warns",
+    "king",
+    "tides"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
-   "summary_short": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own emba",
-   "category": "News"
-  },
-  {
-   "id": "c48a2285794525ed6d2c1629ec2e86f3",
-   "sector": "World",
-   "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-   "published": "Wed, 25 Nov 2026 00:54:13 GMT",
-   "source": "rss",
-   "sentiment_score": -0.3,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "killed",
-    "family",
-    "were",
-    "ukraine",
-    "blamed"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+   "summary_short": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, ",
    "category": "News"
   },
   {
@@ -405,7 +405,7 @@
    "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
    "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
    "summary": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
-   "published": "Wed, 25 Nov 2026 22:31:00 GMT",
+   "published": "Thu, 26 Nov 2026 01:15:00 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -420,6 +420,121 @@
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
    "summary_short": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
+   "category": "News"
+  },
+  {
+   "id": "03dbcc81be20470bdfe157a540d7f07d",
+   "sector": "Markets",
+   "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+   "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+   "summary": "Monday\u2019s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+   "published": "Thu, 26 Nov 2026 00:33:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.04999999999999999,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "before",
+    "stock",
+    "market",
+    "selloff",
+    "probably"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "Monday\u2019s rally helped to paper over deeper issues that must be resolved before a durable bottom can ",
+   "category": "News"
+  },
+  {
+   "id": "fa15a0111bfc482bd46b20c7bcd4315c",
+   "sector": "Markets",
+   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+   "summary": "\u201cRetirement is a financial status, not an age.\u201d",
+   "published": "Wed, 25 Nov 2026 23:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.07777777777777778,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "retirement",
+    "year",
+    "nurse",
+    "facing",
+    "down"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "\u201cRetirement is a financial status, not an age.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "b17443c5274adb08666c412ddfbed801",
+   "sector": "Markets",
+   "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+   "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
+   "published": "Wed, 25 Nov 2026 23:30:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.06704545454545455,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "buying",
+    "should",
+    "only",
+    "title",
+    "given"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "46336822b4808fcaf0e1248a9ef9366a",
+   "sector": "Markets",
+   "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+   "published": "Wed, 25 Nov 2026 23:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "married",
+    "years",
+    "money",
+    "hers",
+    "many"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "14ec5c84e28abc3506c0911ac9a96a59",
+   "sector": "Markets",
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "published": "Wed, 25 Nov 2026 22:45:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.10000000000000002,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hate",
+    "jensen",
+    "huang",
+    "back",
+    "nvidia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "Doing nothing and maintaining an even temperament is often the work of gods.",
    "category": "News"
   },
   {
@@ -469,118 +584,26 @@
    "category": "News"
   },
   {
-   "id": "036f99a3fb1baec1722b8f09de783875",
-   "sector": "Markets",
-   "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019",
-   "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-   "summary": "SpaceX to provide one newly issued Class A share to every active \u2018Trump account,\u2019 and CEO Musk will match that gift.",
-   "published": "Wed, 25 Nov 2026 21:50:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.03232323232323233,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "musk",
-    "spacex",
-    "trump",
-    "elon",
-    "donate"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "SpaceX to provide one newly issued Class A share to every active \u2018Trump account,\u2019 and CEO Musk will ",
-   "category": "News"
-  },
-  {
-   "id": "17dd35a2725af93130cc0cc0f45ebce0",
-   "sector": "Markets",
-   "title": "HP\u2019s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-   "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-   "summary": "PC maker\u2019s \u2018low-quality\u2019 beat is enough to propel its shares amid the tech rout.",
-   "published": "Wed, 25 Nov 2026 21:36:00 GMT",
+   "id": "6f3709b106129817a7b2e377f408a1c4",
+   "sector": "Tech/AI",
+   "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "published": "Wed, 25 Nov 2026 22:44:32 +0000",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "tech",
-    "beat",
-    "stock",
-    "standout",
-    "gainer"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "PC maker\u2019s \u2018low-quality\u2019 beat is enough to propel its shares amid the tech rout.",
-   "category": "News"
-  },
-  {
-   "id": "899a0e99630069d9b0a4b7793b2d4ca3",
-   "sector": "Markets",
-   "title": "How to spot \u2018bogus boutiques\u2019 and other Black Friday shopping scams",
-   "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-   "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
-   "published": "Wed, 25 Nov 2026 21:29:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.2638888888888889,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "spot",
-    "bogus",
-    "boutiques",
-    "other",
-    "black"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "AI tools have made it even easier for scammers to create fake storefronts and misleading product lis",
-   "category": "News"
-  },
-  {
-   "id": "3db9b3e7ef33400e0edf4cda97f45b55",
-   "sector": "Markets",
-   "title": "Nvidia is heading for its first \u2018death cross\u2019 since March 2025 as stock continues to struggle",
-   "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-   "summary": "This tape has not been kind to Nvidia.",
-   "published": "Wed, 25 Nov 2026 19:43:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.2833333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
+    "credit",
+    "rating",
     "nvidia",
-    "heading",
-    "first",
-    "death",
-    "cross"
+    "considers",
+    "downgrade"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
-   "summary_short": "This tape has not been kind to Nvidia.",
-   "category": "News"
-  },
-  {
-   "id": "b222b402b4c7c5f5cad31e934701449a",
-   "sector": "Markets",
-   "title": "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates",
-   "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-   "summary": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
-   "published": "Wed, 25 Nov 2026 19:39:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.3333333333333333,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "inflation",
-    "ahead",
-    "december",
-    "vote",
-    "raise"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday s",
+   "summary_short": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
    "category": "News"
   },
   {
@@ -742,29 +765,6 @@
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
    "summary_short": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals t",
-   "category": "News"
-  },
-  {
-   "id": "ed2d7df7e76e2252a7cace62927b52db",
-   "sector": "Tech/AI",
-   "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-   "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-   "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-   "published": "Wed, 25 Nov 2026 17:36:51 +0000",
-   "source": "rss",
-   "sentiment_score": 0.024999999999999994,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "victims",
-    "former",
-    "executive",
-    "defrauding",
-    "ransomware"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hack",
    "category": "News"
   },
   {
@@ -952,6 +952,29 @@
    "category": "News"
   },
   {
+   "id": "d80986c07baffa5d2ca6b7cbb5e36fdf",
+   "sector": "Science",
+   "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+   "summary": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.",
+   "published": "Wed, 25 Nov 2026 21:42:37 EST",
+   "source": "rss",
+   "sentiment_score": 0.2125,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "scientists",
+    "lakes",
+    "more",
+    "than",
+    "mile"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lake",
+   "category": "News"
+  },
+  {
    "id": "4454a373f7ea55344cfabea8f677e007",
    "sector": "Science",
    "title": "A space telescope hunting for dark matter just discovered something unexpected",
@@ -1110,29 +1133,6 @@
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
    "summary_short": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging m",
-   "category": "News"
-  },
-  {
-   "id": "9a40cfed6655eb069fc9036dfd7ff5af",
-   "sector": "Science",
-   "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-   "summary": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core. The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later.",
-   "published": "Mon, 23 Nov 2026 00:53:36 EST",
-   "source": "rss",
-   "sentiment_score": 0.04285714285714286,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "earth",
-    "carbon",
-    "core",
-    "later",
-    "leaking"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some",
    "category": "News"
   },
   {
@@ -1320,6 +1320,29 @@
    "category": "News"
   },
   {
+   "id": "de7a3961d0162f8951b96bf5c1906676",
+   "sector": "Tech/AI",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+   "link": "https://scottaaronson.blog/?p=10379",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>",
+   "published": "Wed, 25 Nov 2026 19:11:27 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.2,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "holy",
+    "shit",
+    "magnitude",
+    "what",
+    "happening"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "98dc806e6a0b0b1a99f34131fa02f2bd",
    "sector": "Tech/AI",
    "title": "1Password Security Incident",
@@ -1366,72 +1389,49 @@
    "category": "News"
   },
   {
-   "id": "c48d3b7930205d55ffce9bf71840db0a",
+   "id": "d3625ea1bb71fb3084771d51e747da68",
    "sector": "Tech/AI",
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601280\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 16:44:48 +0000",
+   "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+   "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598636\">Comments</a>",
+   "published": "Sun, 22 Nov 2026 11:29:44 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.25,
+   "sentiment_score": 0.8,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "astra",
-    "first",
-    "model",
-    "beat",
-    "googlers"
+    "great",
+    "automatic",
+    "grammatizator",
+    "roald",
+    "dahl"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50601280\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598636\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "de7a3961d0162f8951b96bf5c1906676",
+   "id": "308de52d580a54e6dc760f148bd0aa40",
    "sector": "Tech/AI",
-   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-   "link": "https://scottaaronson.blog/?p=10379",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>",
-   "published": "Wed, 25 Nov 2026 19:11:27 +0000",
+   "title": "Tell HN: Lots of Ask HNs again",
+   "link": "https://news.ycombinator.com/item?id=50649864",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 00:43:34 +0000",
    "source": "hacker_news",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "holy",
-    "shit",
-    "magnitude",
-    "what",
-    "happening"
+    "tell",
+    "lots",
+    "again",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "55c02f68ab9f796ac7cfdf82355b4910",
-   "sector": "Tech/AI",
-   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-   "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50643129\">Comments</a>",
-   "published": "Wed, 25 Nov 2026 15:14:32 +0000",
-   "source": "hacker_news",
-   "sentiment_score": -0.2,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "questions",
-    "went",
-    "snorkeling",
-    "home",
-    "depot"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50643129\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>",
    "category": "News"
   }
  ]
