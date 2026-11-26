@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26 09:59 IST",
+ "updated": "2026-11-26 18:57 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -28,10 +28,16 @@
    "article_count": 5
   },
   {
-   "keyword": "nvidia",
-   "frequency": 8,
+   "keyword": "million",
+   "frequency": 7,
    "sectors": 2,
-   "article_count": 5
+   "article_count": 3
+  },
+  {
+   "keyword": "nvidia",
+   "frequency": 6,
+   "sectors": 3,
+   "article_count": 4
   },
   {
    "keyword": "data",
@@ -46,10 +52,10 @@
    "article_count": 2
   },
   {
-   "keyword": "crypto",
+   "keyword": "market",
    "frequency": 5,
    "sectors": 1,
-   "article_count": 5
+   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -64,339 +70,471 @@
    "article_count": 2
   },
   {
-   "keyword": "million",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "countries",
    "frequency": 5,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "global",
+   "keyword": "women",
    "frequency": 4,
    "sectors": 2,
    "article_count": 2
   },
   {
-   "keyword": "huang",
-   "frequency": 4,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
-   "keyword": "back",
+   "keyword": "year",
    "frequency": 4,
    "sectors": 1,
-   "article_count": 3
+   "article_count": 2
   },
   {
-   "keyword": "gravity",
+   "keyword": "scientists",
    "frequency": 4,
    "sectors": 1,
-   "article_count": 1
+   "article_count": 2
+  },
+  {
+   "keyword": "than",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.751320+00:00",
+   "last_failure": "2026-11-26 13:27:13.007649+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.779893+00:00",
+   "last_failure": "2026-11-26 13:27:13.040429+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.814655+00:00",
+   "last_failure": "2026-11-26 13:27:13.121898+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.845329+00:00",
+   "last_failure": "2026-11-26 13:27:13.155132+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.874904+00:00",
+   "last_failure": "2026-11-26 13:27:13.200151+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.907256+00:00",
+   "last_failure": "2026-11-26 13:27:13.229176+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.938337+00:00",
+   "last_failure": "2026-11-26 13:27:13.258582+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.971089+00:00",
+   "last_failure": "2026-11-26 13:27:13.288131+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:37.998661+00:00",
+   "last_failure": "2026-11-26 13:27:13.327726+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.031095+00:00",
+   "last_failure": "2026-11-26 13:27:13.375821+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.061604+00:00",
+   "last_failure": "2026-11-26 13:27:13.404650+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.096959+00:00",
+   "last_failure": "2026-11-26 13:27:13.432992+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.136112+00:00",
+   "last_failure": "2026-11-26 13:27:13.458502+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.166679+00:00",
+   "last_failure": "2026-11-26 13:27:13.485742+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.200351+00:00",
+   "last_failure": "2026-11-26 13:27:13.525176+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-26 04:29:38.231934+00:00",
+   "last_failure": "2026-11-26 13:27:13.550997+00:00",
    "success_count": 0,
    "failure_count": 1
   }
  ],
  "items": [
   {
-   "id": "a759359f721efc3d0e5e5de82cf8136a",
+   "id": "2c3a282394682db577708fb657d1c5d5",
    "sector": "World",
-   "title": "US announces new tariffs on host of countries including China",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "published": "Thu, 26 Nov 2026 04:10:58 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25757575757575757,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "including",
-    "china",
-    "announces",
-    "tariffs",
-    "host"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "category": "News"
-  },
-  {
-   "id": "d2c65db07e3e3ecd1c95fb7fe678c914",
-   "sector": "World",
-   "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-   "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-   "published": "Wed, 25 Nov 2026 17:30:16 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "asteroid",
-    "images",
-    "targeted",
-    "test",
-    "earth"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four year",
-   "category": "News"
-  },
-  {
-   "id": "456ad297b5aa60296d267039be7fd959",
-   "sector": "World",
-   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-   "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-   "published": "Wed, 25 Nov 2026 22:18:06 GMT",
+   "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+   "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+   "published": "Thu, 26 Nov 2026 05:00:24 GMT",
    "source": "rss",
    "sentiment_score": -0.03333333333333333,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "tanker",
-    "thirty",
-    "killed",
-    "massive",
-    "fire"
+    "german",
+    "boat",
+    "dealer",
+    "suspected",
+    "supplying"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian cap",
+   "summary_short": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's ",
    "category": "News"
   },
   {
-   "id": "621f526b17afaf34ca76c42d537c5bb0",
+   "id": "d04a2a19b01e5c7b26cf343029b22e9a",
    "sector": "World",
-   "title": "Has global jihadism failed, or is it simply changing shape?",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-   "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-   "published": "Thu, 26 Nov 2026 00:22:18 GMT",
+   "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+   "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+   "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+   "published": "Thu, 26 Nov 2026 05:00:27 GMT",
    "source": "rss",
-   "sentiment_score": -0.049999999999999996,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.21666666666666667,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "global",
-    "jihadism",
-    "failed",
-    "simply",
-    "changing"
+    "watch",
+    "confronts",
+    "german",
+    "suspected",
+    "supplying"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a r",
+   "summary_short": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspirac",
    "category": "News"
   },
   {
-   "id": "0a359f40911bd297b6b6b05a8099cb8d",
+   "id": "c57fe7f2665fa24e733286a6ac262a2a",
    "sector": "World",
-   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-   "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
-   "published": "Wed, 25 Nov 2026 19:47:39 GMT",
-   "source": "rss",
-   "sentiment_score": -0.006944444444444438,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "israeli",
-    "judges",
-    "recommend",
-    "dropping",
-    "most"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "The Israeli PM says his trial should end after judges said there was little chance of conviction in ",
-   "category": "News"
-  },
-  {
-   "id": "4b84f23de2eef5b9bb1623d0c2b28f37",
-   "sector": "World",
-   "title": "US stocks fall further as fears over AI intensify",
-   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "published": "Wed, 25 Nov 2026 21:43:18 GMT",
-   "source": "rss",
-   "sentiment_score": -0.00888888888888889,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "down",
-    "stocks",
-    "fall",
-    "further",
-    "fears"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-   "category": "News"
-  },
-  {
-   "id": "82f92c5cf7b48a40568c98c63e4de18c",
-   "sector": "World",
-   "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-   "published": "Thu, 26 Nov 2026 00:23:05 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "blast",
-    "army",
-    "says",
-    "controlled",
-    "explosives"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in th",
-   "category": "News"
-  },
-  {
-   "id": "f5a79413794b252f487de5789c544062",
-   "sector": "World",
-   "title": "California warns of flooding as King Tides peak over Thanksgiving",
-   "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-   "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-   "published": "Thu, 26 Nov 2026 01:22:55 GMT",
+   "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+   "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+   "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+   "published": "Thu, 26 Nov 2026 10:25:51 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "flooding",
-    "california",
-    "warns",
-    "king",
-    "tides"
+    "myanmar",
+    "genocide",
+    "ruling",
+    "refuses",
+    "comply"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, ",
+   "summary_short": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against ",
+   "category": "News"
+  },
+  {
+   "id": "3ad63e08fe47c36513ee0915fa9dc2ad",
+   "sector": "World",
+   "title": "Desperate appeals from women on death row in Iran after protests",
+   "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+   "published": "Thu, 26 Nov 2026 06:01:58 GMT",
+   "source": "rss",
+   "sentiment_score": -0.3,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "death",
+    "desperate",
+    "appeals",
+    "women",
+    "iran"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rig",
+   "category": "News"
+  },
+  {
+   "id": "b5b500de403caf5a43e690d5cbdfc970",
+   "sector": "World",
+   "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "published": "Thu, 26 Nov 2026 11:27:42 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "diesel",
+    "tanker",
+    "carrying",
+    "tonnes",
+    "sinks"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "category": "News"
+  },
+  {
+   "id": "f2500b5d0494fd71fd32fac7e3485329",
+   "sector": "World",
+   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+   "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+   "published": "Thu, 26 Nov 2026 11:00:39 GMT",
+   "source": "rss",
+   "sentiment_score": 0.35,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "hope",
+    "millions",
+    "cheaper",
+    "prevention",
+    "reaches"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV i",
+   "category": "News"
+  },
+  {
+   "id": "41e153cce7c725922df0281b860908be",
+   "sector": "World",
+   "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+   "published": "Thu, 26 Nov 2026 12:33:23 GMT",
+   "source": "rss",
+   "sentiment_score": -0.1125,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "duran",
+    "taylor",
+    "tributes",
+    "guitarist",
+    "andy"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\"",
+   "category": "News"
+  },
+  {
+   "id": "aa251e48aa1966ce5efcc32f3da7c6d3",
+   "sector": "World",
+   "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+   "published": "Thu, 26 Nov 2026 11:21:50 GMT",
+   "source": "rss",
+   "sentiment_score": -0.08333333333333333,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "after",
+    "bangkok",
+    "seven",
+    "injured",
+    "four"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents ",
+   "category": "News"
+  },
+  {
+   "id": "566fd52df86932b8f5db56f36c615859",
+   "sector": "Markets",
+   "title": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
+   "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+   "summary": "Do it poorly, and you trigger taxes you didn\u2019t even know existed.",
+   "published": "Thu, 26 Nov 2026 13:24:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "roth",
+    "conversions",
+    "aren",
+    "free",
+    "money"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Do it poorly, and you trigger taxes you didn\u2019t even know existed.",
+   "category": "News"
+  },
+  {
+   "id": "aa6eabd695db3e587ffc021924d0fce3",
+   "sector": "Markets",
+   "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
+   "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+   "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+   "published": "Thu, 26 Nov 2026 13:06:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.2888888888888889,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "seen",
+    "sketch",
+    "felt",
+    "families",
+    "across"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+   "category": "News"
+  },
+  {
+   "id": "f82664b27f92ff1b57f86b1311b82d5c",
+   "sector": "Markets",
+   "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+   "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+   "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+   "published": "Thu, 26 Nov 2026 12:37:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.10000000000000002,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "market",
+    "hedge",
+    "half",
+    "capital",
+    "preservation"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and ",
+   "category": "News"
+  },
+  {
+   "id": "70de957dc6a46e2750fa36cbae93e86c",
+   "sector": "Markets",
+   "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+   "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+   "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+   "published": "Thu, 26 Nov 2026 10:37:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.21111111111111114,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "futures",
+    "point",
+    "black",
+    "friday",
+    "gains"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+   "category": "News"
+  },
+  {
+   "id": "26c94b9c61d2905b21d528a884cde92c",
+   "sector": "Markets",
+   "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+   "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+   "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+   "published": "Thu, 26 Nov 2026 10:11:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.6,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "deutsche",
+    "bank",
+    "tech",
+    "rout",
+    "should"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from",
+   "category": "News"
+  },
+  {
+   "id": "b723c3bc269f111ec8be821c75703b38",
+   "sector": "Markets",
+   "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+   "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+   "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn\u2019t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
+   "published": "Thu, 26 Nov 2026 07:16:00 GMT",
+   "source": "rss",
+   "sentiment_score": -0.006250000000000001,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "open",
+    "stock",
+    "market",
+    "thanksgiving",
+    "answer"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "The answer to the question of whether the stock market is open on Thanksgiving isn\u2019t a simple yes or",
    "category": "News"
   },
   {
@@ -417,7 +555,7 @@
     "nvidia"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
    "category": "News"
@@ -440,147 +578,9 @@
     "probably"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Monday\u2019s rally helped to paper over deeper issues that must be resolved before a durable bottom can ",
-   "category": "News"
-  },
-  {
-   "id": "fa15a0111bfc482bd46b20c7bcd4315c",
-   "sector": "Markets",
-   "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-   "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-   "summary": "\u201cRetirement is a financial status, not an age.\u201d",
-   "published": "Wed, 25 Nov 2026 23:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.07777777777777778,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "retirement",
-    "year",
-    "nurse",
-    "facing",
-    "down"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "\u201cRetirement is a financial status, not an age.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "b17443c5274adb08666c412ddfbed801",
-   "sector": "Markets",
-   "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-   "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-   "summary": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
-   "published": "Wed, 25 Nov 2026 23:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.06704545454545455,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "buying",
-    "should",
-    "only",
-    "title",
-    "given"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "46336822b4808fcaf0e1248a9ef9366a",
-   "sector": "Markets",
-   "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-   "published": "Wed, 25 Nov 2026 23:00:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "married",
-    "years",
-    "money",
-    "hers",
-    "many"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "14ec5c84e28abc3506c0911ac9a96a59",
-   "sector": "Markets",
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "published": "Wed, 25 Nov 2026 22:45:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.10000000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "hate",
-    "jensen",
-    "huang",
-    "back",
-    "nvidia"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "category": "News"
-  },
-  {
-   "id": "ee906d6df6fa28854c1b38d21638ac67",
-   "sector": "Markets",
-   "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-   "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market\u2019s close.",
-   "published": "Wed, 25 Nov 2026 22:16:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.014583333333333332,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "oracle",
-    "coreweave",
-    "other",
-    "stocks",
-    "back"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after wha",
-   "category": "News"
-  },
-  {
-   "id": "cbfb24f9e9ffc839b330cf0d34b6f008",
-   "sector": "Markets",
-   "title": "Nvidia\u2019s stock has given back a big chunk of Monday\u2019s rally as dip buyers cash in",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-   "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
-   "published": "Wed, 25 Nov 2026 22:11:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.025,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "nvidia",
-    "stock",
-    "given",
-    "back",
-    "chunk"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearl",
    "category": "News"
   },
   {
@@ -601,7 +601,7 @@
     "downgrade"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
    "category": "News"
@@ -624,7 +624,7 @@
     "centers"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scien",
    "category": "News"
@@ -647,7 +647,7 @@
     "says"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experienc",
    "category": "News"
@@ -670,7 +670,7 @@
     "broke"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have ",
    "category": "News"
@@ -693,7 +693,7 @@
     "used"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the ",
    "category": "News"
@@ -716,7 +716,7 @@
     "surrendering"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Anthropic CEO Dario Amodei pushes back against rivals\u2019 accusations that he favors surrendering human",
    "category": "News"
@@ -739,7 +739,7 @@
     "systems"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The password manager maker said an attacker gained access to an employee's corporate account and too",
    "category": "News"
@@ -762,193 +762,239 @@
     "banned"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals t",
    "category": "News"
   },
   {
-   "id": "9af8081a33e33ae0c4ad7adb798f3ff7",
+   "id": "d36102d28074ba5fb4d3c3a00be0a202",
    "sector": "Crypto",
-   "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-   "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+   "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+   "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
    "summary": "",
-   "published": "Wed, 25 Nov 2026 18:24:47 +0000",
+   "published": "Thu, 26 Nov 2026 12:38:51 +0000",
    "source": "rss",
-   "sentiment_score": 0.06818181818181818,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": -0.3,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "french",
-    "senate",
-    "blocks",
-    "crypto",
-    "wallet"
+    "standard",
+    "chartered",
+    "zodia",
+    "custody",
+    "suffers"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "",
    "category": "News"
   },
   {
-   "id": "257d6f7ef313c8174f8c6f2400249c7c",
+   "id": "256e629ff94ddacba4e73470b4550817",
    "sector": "Crypto",
-   "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-   "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+   "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
    "summary": "",
-   "published": "Wed, 25 Nov 2026 17:38:33 +0000",
+   "published": "Thu, 26 Nov 2026 12:14:46 +0000",
+   "source": "rss",
+   "sentiment_score": -0.5,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bitcoin",
+    "etfs",
+    "bleeding",
+    "cash",
+    "unlikely"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "44a2c2dc52ccd5aade31c96dd0ca18bc",
+   "sector": "Crypto",
+   "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+   "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 11:27:50 +0000",
+   "source": "rss",
+   "sentiment_score": -0.17777777777777778,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hong",
+    "kong",
+    "based",
+    "crypto",
+    "trading"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "214fb688bda0949d2803517489d3e468",
+   "sector": "Crypto",
+   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+   "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 11:17:22 +0000",
+   "source": "rss",
+   "sentiment_score": -0.1875,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "bitcoin",
+    "little",
+    "changed",
+    "defi",
+    "tokens"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "ac9d3d9ab972bda71e0298af0482ef45",
+   "sector": "Crypto",
+   "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+   "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 10:56:08 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nvidia",
+    "shipment",
+    "freeze",
+    "chip",
+    "curbs"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "92ee35a9bb4c119560dfcc62469a59f3",
+   "sector": "Crypto",
+   "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+   "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 10:40:33 +0000",
+   "source": "rss",
+   "sentiment_score": 0.07159090909090908,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "york",
+    "attorney",
+    "general",
+    "wins",
+    "billion"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "db948c8a7ce6783b92ef337c5330da64",
+   "sector": "Crypto",
+   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+   "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 08:01:33 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "billion",
+    "bitcoin",
+    "options",
+    "expire",
+    "friday"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "e2cdd8b527c5e625153e22c405ac701e",
+   "sector": "Crypto",
+   "title": "Zcash developers want users to move $300 million out of an older privacy system",
+   "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 07:09:25 +0000",
    "source": "rss",
    "sentiment_score": 0.16666666666666666,
    "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "time",
-    "actually",
-    "seems",
-    "different",
-    "crypto"
+    "zcash",
+    "developers",
+    "want",
+    "users",
+    "move"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "",
    "category": "News"
   },
   {
-   "id": "78b2795708dc33bb1fd4ef8e1272e9c4",
-   "sector": "Crypto",
-   "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-   "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 16:02:31 +0000",
+   "id": "80cae222496ae19904759cc5bd2d2777",
+   "sector": "Science",
+   "title": "This 345-million-year-old fossil had scientists fooled for decades",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+   "summary": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery suggests that several adaptations associated with life on land actually evolved in animals still dependent on water.",
+   "published": "Thu, 26 Nov 2026 05:46:17 EST",
    "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.10416666666666667,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "bank",
-    "watchdog",
-    "seeks",
-    "european",
-    "commission"
+    "million",
+    "year",
+    "fossil",
+    "scientists",
+    "decades"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "A famous 345-million-year-old fossil has turned out to be something entirely different from what sci",
    "category": "News"
   },
   {
-   "id": "4aa0aa861e330d9ecddecb66862a2a79",
-   "sector": "Crypto",
-   "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-   "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 16:02:07 +0000",
+   "id": "6ba469536384e2f1ff66f4e21c143168",
+   "sector": "Science",
+   "title": "The surprising reason women seem better at multitasking than men",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+   "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help explain why women are widely perceived as better multitaskers.",
+   "published": "Thu, 26 Nov 2026 06:21:47 EST",
    "source": "rss",
-   "sentiment_score": -0.1,
-   "sentiment_label": "Neutral \ud83d\ude10",
+   "sentiment_score": 0.26666666666666666,
+   "sentiment_label": "Positive \ud83d\ude0a",
    "keywords": [
-    "ukrainian",
-    "lawmakers",
-    "pass",
-    "crypto",
-    "regulation"
+    "women",
+    "better",
+    "multitasking",
+    "than",
+    "surprising"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "48c3ce64cc7943bc7deef2c866f26093",
-   "sector": "Crypto",
-   "title": "Crypto Long & Short: Bitcoin investors can\u2019t keep ignoring Japan",
-   "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 15:59:44 +0000",
-   "source": "rss",
-   "sentiment_score": -0.025,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "crypto",
-    "long",
-    "short",
-    "bitcoin",
-    "investors"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "d67b7b8f07b03dd563e378dce056fa1c",
-   "sector": "Crypto",
-   "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-   "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 14:47:17 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "south",
-    "korean",
-    "crypto",
-    "exchange",
-    "bithumb"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "75ac7e175ad3726eb9cf1b6183fbdce0",
-   "sector": "Crypto",
-   "title": "Fed\u2019s preferred inflation gauge lands with a December rate increase already priced in",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 12:18:46 +0000",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "preferred",
-    "inflation",
-    "gauge",
-    "lands",
-    "december"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "d2cf38c9beccbd8b8a11656f33fcd23c",
-   "sector": "Crypto",
-   "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-   "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-   "summary": "",
-   "published": "Wed, 25 Nov 2026 11:57:50 +0000",
-   "source": "rss",
-   "sentiment_score": -0.2916666666666667,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "ether",
-    "defi",
-    "fall",
-    "twice",
-    "hard"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "",
+   "summary_short": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely ",
    "category": "News"
   },
   {
@@ -969,9 +1015,32 @@
     "mile"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lake",
+   "category": "News"
+  },
+  {
+   "id": "bccda1d5f3c0245991124e0e2e0ae853",
+   "sector": "Science",
+   "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+   "summary": "Scientists have solved the mystery of strange trenches scattered across Australia\u2019s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery could help researchers locate unexplored caves containing ancient environmental records and unusual life forms.",
+   "published": "Thu, 26 Nov 2026 06:06:15 EST",
+   "source": "rss",
+   "sentiment_score": -0.10674603174603174,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "beneath",
+    "australia",
+    "hidden",
+    "caves",
+    "could"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "Scientists have solved the mystery of strange trenches scattered across Australia\u2019s vast Nullarbor P",
    "category": "News"
   },
   {
@@ -992,7 +1061,7 @@
     "hunting"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "ESA\u2019s Euclid space telescope has discovered its first previously unknown comet, despite being design",
    "category": "News"
@@ -1015,7 +1084,7 @@
     "could"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it",
    "category": "News"
@@ -1038,7 +1107,7 @@
     "between"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying",
    "category": "News"
@@ -1061,78 +1130,9 @@
     "reveals"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine ",
-   "category": "News"
-  },
-  {
-   "id": "549e4cf6b242100a7b58b4340811ae26",
-   "sector": "Science",
-   "title": "Earth's next ice age may have already begun. Global warming stopped it",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-   "summary": "Scientists have uncovered surprising evidence that Earth\u2019s next ice age may have already begun, only to be stopped by global warming. By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period. But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead.",
-   "published": "Tue, 24 Nov 2026 04:29:15 EST",
-   "source": "rss",
-   "sentiment_score": 0.09292929292929292,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "earth",
-    "next",
-    "already",
-    "begun",
-    "global"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Scientists have uncovered surprising evidence that Earth\u2019s next ice age may have already begun, only",
-   "category": "News"
-  },
-  {
-   "id": "0510358f2a80dab215e634a66cfe34e8",
-   "sector": "Science",
-   "title": "Physicists just sent an unblockable message through a brick wall using gravity",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
-   "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a potentially revolutionary way to communicate.",
-   "published": "Tue, 24 Nov 2026 21:29:38 EST",
-   "source": "rss",
-   "sentiment_score": 0.09999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "gravity",
-    "through",
-    "message",
-    "brick",
-    "wall"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, a",
-   "category": "News"
-  },
-  {
-   "id": "86675a6b272b4690194f3dc2d6ce793e",
-   "sector": "Science",
-   "title": "New nose drops restore youthful memory and fight Alzheimer\u2019s in aging mice",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-   "summary": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer\u2019s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer\u2019s-associated plaques, suggesting a completely different way to ",
-   "published": "Tue, 24 Nov 2026 18:31:52 EST",
-   "source": "rss",
-   "sentiment_score": 0.22454545454545452,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "memory",
-    "alzheimer",
-    "mice",
-    "nose",
-    "drops"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging m",
    "category": "News"
   },
   {
@@ -1153,7 +1153,7 @@
     "package"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Today, as part of its commitment to strengthening health information systems and improving health[1]",
    "category": "News"
@@ -1176,7 +1176,7 @@
     "services"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The COVID-19 pandemic has disrupted or halted critical mental health services in 93% of countries wo",
    "category": "News"
@@ -1199,7 +1199,7 @@
     "middle"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "A full access package includes WHO policy guidance on the use of antigen-based rapid diagnostic test",
    "category": "News"
@@ -1222,7 +1222,7 @@
     "keep"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "The Coronavirus disease (COVID-19) is the first pandemic in history in which technology and social m",
    "category": "News"
@@ -1245,7 +1245,7 @@
     "together"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "As the world comes together at an unprecedented virtual session of the 75th UN General Assembly (UNG",
    "category": "News"
@@ -1268,7 +1268,7 @@
     "number"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "With the number of under-five deaths at an all-time recorded low of 5.2 million in 2019, disruptions",
    "category": "News"
@@ -1291,7 +1291,7 @@
     "covid"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "WHO to roll out learning and monitoring tools to improve service provision during pandemicThe World ",
    "category": "News"
@@ -1314,9 +1314,55 @@
     "covid"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candida",
+   "category": "News"
+  },
+  {
+   "id": "f069464c6841a8de8e1c9637b2cef4ff",
+   "sector": "Tech/AI",
+   "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+   "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50654289\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 11:50:49 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "office",
+    "desktop",
+    "euro",
+    "comes",
+    "your"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50654289\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "883aeb1630fc47b39e9458f97ffadce0",
+   "sector": "Tech/AI",
+   "title": "Intel One Mono font",
+   "link": "https://github.com/intel/intel-one-mono",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50653667\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 10:11:01 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "intel",
+    "mono",
+    "font",
+    "href",
+    "https"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50653667\">Comments</a>",
    "category": "News"
   },
   {
@@ -1337,7 +1383,7 @@
     "happening"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50646108\">Comments</a>",
    "category": "News"
@@ -1360,78 +1406,32 @@
     "news"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50644817\">Comments</a>",
    "category": "News"
   },
   {
-   "id": "e8db1624c0817f8ffefa1655aae48be1",
+   "id": "c276e43829f5acdd9ca823e404cc6933",
    "sector": "Tech/AI",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "link": "https://github.com/lsernau/grh-lean",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50648050\">Comments</a>",
-   "published": "Wed, 25 Nov 2026 21:48:10 +0000",
+   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+   "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50651719\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 05:12:59 +0000",
    "source": "hacker_news",
-   "sentiment_score": 0.2,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": -0.4,
+   "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "much",
-    "shorter",
-    "version",
-    "lean",
-    "verification"
+    "lions",
+    "commentary",
+    "unix",
+    "secretly",
+    "copied"
    ],
    "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
+   "why": "DEBUG: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not suppo",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50648050\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "d3625ea1bb71fb3084771d51e747da68",
-   "sector": "Tech/AI",
-   "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-   "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598636\">Comments</a>",
-   "published": "Sun, 22 Nov 2026 11:29:44 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.8,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "great",
-    "automatic",
-    "grammatizator",
-    "roald",
-    "dahl"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50598636\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "308de52d580a54e6dc760f148bd0aa40",
-   "sector": "Tech/AI",
-   "title": "Tell HN: Lots of Ask HNs again",
-   "link": "https://news.ycombinator.com/item?id=50649864",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>",
-   "published": "Thu, 26 Nov 2026 00:43:34 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "tell",
-    "lots",
-    "again",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 401 API key not valid. Please pass a valid API key. [reason: \"ACCESS_TOKEN_TYPE_",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50649864\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50651719\">Comments</a>",
    "category": "News"
   }
  ]
