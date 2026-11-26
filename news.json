@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26 19:13 IST",
+ "updated": "2026-11-26 19:47 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 5,
+  "duplicates_found": 4,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,16 @@
    "article_count": 5
   },
   {
+   "keyword": "nvidia",
+   "frequency": 7,
+   "sectors": 3,
+   "article_count": 5
+  },
+  {
    "keyword": "million",
    "frequency": 7,
    "sectors": 2,
    "article_count": 3
-  },
-  {
-   "keyword": "nvidia",
-   "frequency": 6,
-   "sectors": 3,
-   "article_count": 4
   },
   {
    "keyword": "data",
@@ -50,12 +50,6 @@
    "frequency": 6,
    "sectors": 1,
    "article_count": 2
-  },
-  {
-   "keyword": "market",
-   "frequency": 5,
-   "sectors": 1,
-   "article_count": 3
   },
   {
    "keyword": "mental",
@@ -82,6 +76,12 @@
    "article_count": 2
   },
   {
+   "keyword": "market",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 2
+  },
+  {
    "keyword": "year",
    "frequency": 4,
    "sectors": 1,
@@ -104,112 +104,112 @@
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.056521+00:00",
+   "last_failure": "2026-11-26 14:17:08.686868+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.081701+00:00",
+   "last_failure": "2026-11-26 14:17:08.720938+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.108392+00:00",
+   "last_failure": "2026-11-26 14:17:08.765861+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.138718+00:00",
+   "last_failure": "2026-11-26 14:17:08.805501+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.167274+00:00",
+   "last_failure": "2026-11-26 14:17:08.843981+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.189602+00:00",
+   "last_failure": "2026-11-26 14:17:08.879346+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.243661+00:00",
+   "last_failure": "2026-11-26 14:17:08.922656+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.269073+00:00",
+   "last_failure": "2026-11-26 14:17:08.955989+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.294228+00:00",
+   "last_failure": "2026-11-26 14:17:08.986144+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.320161+00:00",
+   "last_failure": "2026-11-26 14:17:09.023964+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.342452+00:00",
+   "last_failure": "2026-11-26 14:17:09.063536+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.366349+00:00",
+   "last_failure": "2026-11-26 14:17:09.093804+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.389574+00:00",
+   "last_failure": "2026-11-26 14:17:09.133149+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.412952+00:00",
+   "last_failure": "2026-11-26 14:17:09.164233+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.435368+00:00",
+   "last_failure": "2026-11-26 14:17:09.195091+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-26 13:43:49.459725+00:00",
+   "last_failure": "2026-11-26 14:17:09.220229+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -313,7 +313,7 @@
    "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
    "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-   "published": "Thu, 26 Nov 2026 11:27:42 GMT",
+   "published": "Thu, 26 Nov 2026 14:00:42 GMT",
    "source": "rss",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
@@ -400,6 +400,52 @@
    "category": "News"
   },
   {
+   "id": "d4873368a377c4ef780b0c87d18b6eb8",
+   "sector": "Markets",
+   "title": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
+   "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "summary": "The \u2018Bank of AI\u2019 faces a host of troubles ahead.",
+   "published": "Thu, 26 Nov 2026 14:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.07500000000000001,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "nvidia",
+    "whole",
+    "trade",
+    "aren",
+    "woods"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "The \u2018Bank of AI\u2019 faces a host of troubles ahead.",
+   "category": "News"
+  },
+  {
+   "id": "70de957dc6a46e2750fa36cbae93e86c",
+   "sector": "Markets",
+   "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+   "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+   "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+   "published": "Thu, 26 Nov 2026 13:41:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.21111111111111114,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "futures",
+    "point",
+    "black",
+    "friday",
+    "gains"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+   "category": "News"
+  },
+  {
    "id": "566fd52df86932b8f5db56f36c615859",
    "sector": "Markets",
    "title": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
@@ -469,29 +515,6 @@
    "category": "News"
   },
   {
-   "id": "70de957dc6a46e2750fa36cbae93e86c",
-   "sector": "Markets",
-   "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-   "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-   "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
-   "published": "Thu, 26 Nov 2026 10:37:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.21111111111111114,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "futures",
-    "point",
-    "black",
-    "friday",
-    "gains"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
-   "category": "News"
-  },
-  {
    "id": "26c94b9c61d2905b21d528a884cde92c",
    "sector": "Markets",
    "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
@@ -558,29 +581,6 @@
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
    "summary_short": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
-   "category": "News"
-  },
-  {
-   "id": "03dbcc81be20470bdfe157a540d7f07d",
-   "sector": "Markets",
-   "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-   "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-   "summary": "Monday\u2019s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
-   "published": "Thu, 26 Nov 2026 00:33:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.04999999999999999,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "before",
-    "stock",
-    "market",
-    "selloff",
-    "probably"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "Monday\u2019s rally helped to paper over deeper issues that must be resolved before a durable bottom can ",
    "category": "News"
   },
   {
@@ -768,6 +768,29 @@
    "category": "News"
   },
   {
+   "id": "01602444b779ecfd0938ca5be4fabe6a",
+   "sector": "Crypto",
+   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+   "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+   "summary": "",
+   "published": "Thu, 26 Nov 2026 14:05:58 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "spain",
+    "gives",
+    "anti",
+    "laundering",
+    "unit"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "d36102d28074ba5fb4d3c3a00be0a202",
    "sector": "Crypto",
    "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
@@ -921,29 +944,6 @@
     "options",
     "expire",
     "friday"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "",
-   "category": "News"
-  },
-  {
-   "id": "e2cdd8b527c5e625153e22c405ac701e",
-   "sector": "Crypto",
-   "title": "Zcash developers want users to move $300 million out of an older privacy system",
-   "link": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-   "summary": "",
-   "published": "Thu, 26 Nov 2026 07:09:25 +0000",
-   "source": "rss",
-   "sentiment_score": 0.16666666666666666,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "zcash",
-    "developers",
-    "want",
-    "users",
-    "move"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
