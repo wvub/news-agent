@@ -371,7 +371,7 @@ def fetch_social_items():
 
 # ========== AI ANALYSIS ==========
 def analyze_with_ai(items):
-    """Use Gemini API for impact analysis and summarization"""
+     """Use Gemini API for impact analysis and summarization"""
     if not GEMINI_KEY or not items:
         for it in items:
             it.update(
@@ -381,6 +381,74 @@ def analyze_with_ai(items):
                 summary_short=it.get("summary", "")[:100]
             )
         return items
+
+    try:
+        # Using gemini-1.5-flash-latest to fix the 404 error
+        model = genai.GenerativeModel("gemini-1.5-flash-latest")
+        batch = [
+            {
+                "title": i["title"],
+                "sector": i["sector"],
+                "summary": i["summary"][:200]
+            }
+            for i in items[:50]
+        ]
+
+        prompt = f"""Analyze these {len(batch)} news items. Return ONLY a JSON array with no markdown or explanation.
+Each object must have exactly:
+- "title": exact title from input
+- "impact": one of "🔴 High", "🟡 Medium", "🟢 Low"
+- "why": max 20 words
+- "effect": max 20 words
+- "summary_short": 1-2 sentence summary
+- "category": specific category (e.g., "Market Crash", "AI Breakthrough", "Geopolitical Tension")
+
+News items: {json.dumps(batch)}"""
+
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+
+        # Clean up markdown
+        if text.startswith("```json"):
+            text = text[7:]
+        if text.startswith("```"):
+            text = text[3:]
+        if text.endswith("```"):
+            text = text[:-3]
+        text = text.strip()
+
+        analyses = json.loads(text)
+        amap = {a["title"]: a for a in analyses}
+
+        for it in items:
+            a = amap.get(it["title"])
+            if a:
+                it.update(
+                    impact=a.get("impact", "🟡 Medium"),
+                    why=a.get("why", ""),
+                    effect=a.get("effect", ""),
+                    summary_short=a.get("summary_short", ""),
+                    category=a.get("category", "News")
+                )
+            else:
+                it.update(
+                    impact="🟡 Medium",
+                    why="Analysis pending",
+                    effect="",
+                    summary_short=it.get("summary", "")[:100],
+                    category="News"
+                )
+    except Exception as e:
+        print(f"AI error: {e}")
+        for it in items:
+            it.update(
+                impact="🟡 Medium",
+                why=f"DEBUG: {str(e)[:80]}",
+                effect="",
+                summary_short=it.get("summary", "")[:100],
+                category="News"
+            )
+    return items
     
     try:
         model = genai.GenerativeModel("gemini-1.5-flash-latest")
