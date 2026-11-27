@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27 04:34 IST",
+ "updated": "2026-11-27 10:27 IST",
  "count": 53,
  "stats": {
   "rss": 48,
   "reddit": 0,
   "social": 5,
-  "duplicates_found": 8,
+  "duplicates_found": 7,
   "trends_detected": 15
  },
  "trends": [
@@ -28,16 +28,22 @@
    "article_count": 5
   },
   {
-   "keyword": "million",
-   "frequency": 8,
-   "sectors": 3,
-   "article_count": 4
+   "keyword": "scientists",
+   "frequency": 9,
+   "sectors": 1,
+   "article_count": 5
   },
   {
    "keyword": "nvidia",
    "frequency": 8,
    "sectors": 2,
    "article_count": 5
+  },
+  {
+   "keyword": "million",
+   "frequency": 8,
+   "sectors": 3,
+   "article_count": 4
   },
   {
    "keyword": "huang",
@@ -58,12 +64,6 @@
    "article_count": 2
   },
   {
-   "keyword": "year",
-   "frequency": 5,
-   "sectors": 2,
-   "article_count": 3
-  },
-  {
    "keyword": "mental",
    "frequency": 5,
    "sectors": 1,
@@ -82,134 +82,134 @@
    "article_count": 2
   },
   {
-   "keyword": "scientists",
-   "frequency": 4,
-   "sectors": 1,
-   "article_count": 2
-  },
-  {
    "keyword": "than",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
   },
   {
-   "keyword": "could",
+   "keyword": "hidden",
    "frequency": 4,
    "sectors": 1,
    "article_count": 2
+  },
+  {
+   "keyword": "tests",
+   "frequency": 4,
+   "sectors": 1,
+   "article_count": 1
   }
  ],
  "source_health": [
   {
    "source": "r/worldnews",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.842480+00:00",
+   "last_failure": "2026-11-27 04:57:40.908210+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/geopolitics",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.866212+00:00",
+   "last_failure": "2026-11-27 04:57:40.933991+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/news",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.885974+00:00",
+   "last_failure": "2026-11-27 04:57:40.956153+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/stocks",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.907671+00:00",
+   "last_failure": "2026-11-27 04:57:40.979066+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/investing",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.929226+00:00",
+   "last_failure": "2026-11-27 04:57:41.001731+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/wallstreetbets",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.950445+00:00",
+   "last_failure": "2026-11-27 04:57:41.052349+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/technology",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.972711+00:00",
+   "last_failure": "2026-11-27 04:57:41.073838+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/artificial",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:58.992540+00:00",
+   "last_failure": "2026-11-27 04:57:41.097147+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/MachineLearning",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.013546+00:00",
+   "last_failure": "2026-11-27 04:57:41.119679+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/CryptoCurrency",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.033304+00:00",
+   "last_failure": "2026-11-27 04:57:41.142922+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Bitcoin",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.052974+00:00",
+   "last_failure": "2026-11-27 04:57:41.165957+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/science",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.070014+00:00",
+   "last_failure": "2026-11-27 04:57:41.190153+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/space",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.092422+00:00",
+   "last_failure": "2026-11-27 04:57:41.213250+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/astronomy",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.112280+00:00",
+   "last_failure": "2026-11-27 04:57:41.236149+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Health",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.132491+00:00",
+   "last_failure": "2026-11-27 04:57:41.257215+00:00",
    "success_count": 0,
    "failure_count": 1
   },
   {
    "source": "r/Medicine",
    "last_success": "None",
-   "last_failure": "2026-11-26 23:04:59.152120+00:00",
+   "last_failure": "2026-11-27 04:57:41.280356+00:00",
    "success_count": 0,
    "failure_count": 1
   }
@@ -239,6 +239,29 @@
    "category": "News"
   },
   {
+   "id": "c1efd77f0f5099e39b509106f812ac7a",
+   "sector": "World",
+   "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+   "published": "Fri, 27 Nov 2026 00:52:11 GMT",
+   "source": "rss",
+   "sentiment_score": -0.06875,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "flooding",
+    "major",
+    "thanksgiving",
+    "storm",
+    "brings"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "Almost one million customers in the US had no power on Thursday evening as storms descended on both ",
+   "category": "News"
+  },
+  {
    "id": "3bc76a6e3727423883b4c41d6772d5d2",
    "sector": "World",
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
@@ -259,6 +282,29 @@
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
    "summary_short": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weeken",
+   "category": "News"
+  },
+  {
+   "id": "cb7072a636c6a34435b7cb13781ad921",
+   "sector": "World",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "published": "Fri, 27 Nov 2026 03:28:15 GMT",
+   "source": "rss",
+   "sentiment_score": 0.04545454545454545,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ruling",
+    "short",
+    "majority",
+    "zealand",
+    "coalition"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to g",
    "category": "News"
   },
   {
@@ -308,29 +354,6 @@
    "category": "News"
   },
   {
-   "id": "5a30237fe83a05eb07a2eb2f2606e062",
-   "sector": "World",
-   "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-   "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-   "published": "Thu, 26 Nov 2026 22:01:22 GMT",
-   "source": "rss",
-   "sentiment_score": 0.05,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "diesel",
-    "tanker",
-    "carrying",
-    "tonnes",
-    "capsizes"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-   "category": "News"
-  },
-  {
    "id": "86e4d2adbc8392782e253330cdd54504",
    "sector": "World",
    "title": "G\u00e9rard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
@@ -354,49 +377,95 @@
    "category": "News"
   },
   {
-   "id": "21f55abb8fe7c87e0e01720f3d08d6b0",
+   "id": "5a30237fe83a05eb07a2eb2f2606e062",
    "sector": "World",
-   "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-   "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-   "published": "Thu, 26 Nov 2026 14:35:22 GMT",
+   "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+   "published": "Thu, 26 Nov 2026 22:01:22 GMT",
    "source": "rss",
-   "sentiment_score": 0.11742424242424242,
-   "sentiment_label": "Positive \ud83d\ude0a",
+   "sentiment_score": 0.05,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "pregnant",
-    "inmate",
-    "escapes",
-    "prison",
-    "vehicle"
+    "diesel",
+    "tanker",
+    "carrying",
+    "tonnes",
+    "capsizes"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
-   "summary_short": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+   "summary_short": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
    "category": "News"
   },
   {
-   "id": "185a50e762548703a24beb01dae93867",
-   "sector": "World",
-   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-   "published": "Thu, 26 Nov 2026 21:17:53 GMT",
+   "id": "14ec5c84e28abc3506c0911ac9a96a59",
+   "sector": "Markets",
+   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "published": "Fri, 27 Nov 2026 01:15:00 GMT",
    "source": "rss",
-   "sentiment_score": -0.10833333333333334,
+   "sentiment_score": -0.10000000000000002,
    "sentiment_label": "Negative \ud83d\ude1e",
    "keywords": [
-    "italians",
-    "killed",
-    "strike",
-    "kuwait",
-    "iran"
+    "hate",
+    "jensen",
+    "huang",
+    "back",
+    "nvidia"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
-   "summary_short": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+   "summary_short": "Doing nothing and maintaining an even temperament is often the work of gods.",
+   "category": "News"
+  },
+  {
+   "id": "46336822b4808fcaf0e1248a9ef9366a",
+   "sector": "Markets",
+   "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+   "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.25,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "married",
+    "years",
+    "money",
+    "hers",
+    "many"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+   "category": "News"
+  },
+  {
+   "id": "d97e6f7eb726b17b94a52a3890c30ad1",
+   "sector": "Markets",
+   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "summary": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
+   "published": "Fri, 27 Nov 2026 00:31:00 GMT",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "huang",
+    "living",
+    "perilous",
+    "times",
+    "nvidia"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
    "category": "News"
   },
   {
@@ -446,29 +515,6 @@
    "category": "News"
   },
   {
-   "id": "14ec5c84e28abc3506c0911ac9a96a59",
-   "sector": "Markets",
-   "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-   "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-   "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "published": "Thu, 26 Nov 2026 21:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": -0.10000000000000002,
-   "sentiment_label": "Negative \ud83d\ude1e",
-   "keywords": [
-    "hate",
-    "jensen",
-    "huang",
-    "back",
-    "nvidia"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "Doing nothing and maintaining an even temperament is often the work of gods.",
-   "category": "News"
-  },
-  {
    "id": "fa15a0111bfc482bd46b20c7bcd4315c",
    "sector": "Markets",
    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
@@ -492,29 +538,6 @@
    "category": "News"
   },
   {
-   "id": "46336822b4808fcaf0e1248a9ef9366a",
-   "sector": "Markets",
-   "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-   "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-   "published": "Thu, 26 Nov 2026 18:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.25,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "married",
-    "years",
-    "money",
-    "hers",
-    "many"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-   "category": "News"
-  },
-  {
    "id": "b17443c5274adb08666c412ddfbed801",
    "sector": "Markets",
    "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
@@ -535,29 +558,6 @@
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
    "summary_short": "\u201cGiven my age, I never make a major new purchase without thinking about the future.\u201d",
-   "category": "News"
-  },
-  {
-   "id": "d97e6f7eb726b17b94a52a3890c30ad1",
-   "sector": "Markets",
-   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-   "summary": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
-   "published": "Thu, 26 Nov 2026 15:30:00 GMT",
-   "source": "rss",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "huang",
-    "living",
-    "perilous",
-    "times",
-    "nvidia"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "Why did a futurist with Huang\u2019s prescient vision build a company where all roads lead to him?",
    "category": "News"
   },
   {
@@ -768,6 +768,52 @@
    "category": "News"
   },
   {
+   "id": "74f7d2e0ec0da28d03cd3475822dd72f",
+   "sector": "Crypto",
+   "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+   "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+   "summary": "",
+   "published": "Fri, 27 Nov 2026 04:45:47 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "binance",
+    "says",
+    "customer",
+    "withdrawals",
+    "fully"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
+   "id": "fe77278493ba77f61514881ccfee8725",
+   "sector": "Crypto",
+   "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+   "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+   "summary": "",
+   "published": "Fri, 27 Nov 2026 04:29:47 +0000",
+   "source": "rss",
+   "sentiment_score": 0.0,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "ethereum",
+    "much",
+    "awaited",
+    "glamsterdam",
+    "upgrade"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "",
+   "category": "News"
+  },
+  {
    "id": "82085ee8e23908beeb9a2858cfbdbc88",
    "sector": "Crypto",
    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
@@ -906,49 +952,49 @@
    "category": "News"
   },
   {
-   "id": "44a2c2dc52ccd5aade31c96dd0ca18bc",
-   "sector": "Crypto",
-   "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-   "link": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-   "summary": "",
-   "published": "Thu, 26 Nov 2026 11:27:50 +0000",
+   "id": "811c548372a49648d5d095fa4af81ded",
+   "sector": "Science",
+   "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+   "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to children's learning and memory: infancy and the start of formal schooling. Greater screen exposure during these developmental windows was linked to poorer academic performance and weaker working memory years later.",
+   "published": "Thu, 26 Nov 2026 22:56:06 EST",
    "source": "rss",
-   "sentiment_score": -0.17777777777777778,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.07142857142857142,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "hong",
-    "kong",
-    "based",
-    "crypto",
-    "trading"
+    "screen",
+    "scientists",
+    "when",
+    "children",
+    "time"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Scientists have identified two potentially critical periods when screen time may be especially detri",
    "category": "News"
   },
   {
-   "id": "214fb688bda0949d2803517489d3e468",
-   "sector": "Crypto",
-   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-   "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-   "summary": "",
-   "published": "Thu, 26 Nov 2026 11:17:22 +0000",
+   "id": "51e3097311a56bf9803b4ca6d69a59d1",
+   "sector": "Science",
+   "title": "These bizarre prehistoric mammals may have been misunderstood for 150 years",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+   "summary": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far fewer physical differences between males and females than scientists once believed. The discovery challenges a classic example of sexual dimorphism and raises questions about how historical biases have shaped our understanding of extinct animals.",
+   "published": "Thu, 26 Nov 2026 20:05:56 EST",
    "source": "rss",
-   "sentiment_score": -0.1875,
-   "sentiment_label": "Negative \ud83d\ude1e",
+   "sentiment_score": 0.08518518518518517,
+   "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "bitcoin",
-    "little",
-    "changed",
-    "defi",
-    "tokens"
+    "mammals",
+    "these",
+    "bizarre",
+    "prehistoric",
+    "misunderstood"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
-   "summary_short": "",
+   "summary_short": "Giant horned mammals that emerged shortly after the extinction of the dinosaurs may have had far few",
    "category": "News"
   },
   {
@@ -998,6 +1044,29 @@
    "category": "News"
   },
   {
+   "id": "62a01a73d8a5ae314832b820f41320c3",
+   "sector": "Science",
+   "title": "For decades, scientists may have misunderstood how brain cells work",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "summary": "A major new study challenges a long-standing assumption about how the brain works, revealing that most neurons are versatile multitaskers rather than highly specialized workers. By analyzing recordings from 43 regions of the mouse brain, researchers discovered that although some neurons are dedicated to specific functions, most respond to a wide variety of information in remarkably distinct ways.",
+   "published": "Thu, 26 Nov 2026 16:36:09 EST",
+   "source": "rss",
+   "sentiment_score": 0.19485795454545454,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "brain",
+    "most",
+    "neurons",
+    "decades",
+    "scientists"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "A major new study challenges a long-standing assumption about how the brain works, revealing that mo",
+   "category": "News"
+  },
+  {
    "id": "d80986c07baffa5d2ca6b7cbb5e36fdf",
    "sector": "Science",
    "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
@@ -1021,6 +1090,29 @@
    "category": "News"
   },
   {
+   "id": "509c86d99c83eb8c767ec7c9a7220608",
+   "sector": "Science",
+   "title": "Scientists discover signs of a hidden extinction crisis deep beneath the ocean",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
+   "summary": "The deep sea has long been considered a safe haven for marine life, but new genetic research suggests a hidden biodiversity crisis may be unfolding far beneath the waves. Scientists analyzing more than a decade of genetic data from five species of deep-sea fish and shrimp in the Gulf discovered troubling signs of extinction risk in every species examined.",
+   "published": "Thu, 26 Nov 2026 20:55:42 EST",
+   "source": "rss",
+   "sentiment_score": 0.09478114478114479,
+   "sentiment_label": "Neutral \ud83d\ude10",
+   "keywords": [
+    "deep",
+    "scientists",
+    "signs",
+    "hidden",
+    "extinction"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "The deep sea has long been considered a safe haven for marine life, but new genetic research suggest",
+   "category": "News"
+  },
+  {
    "id": "bccda1d5f3c0245991124e0e2e0ae853",
    "sector": "Science",
    "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
@@ -1041,98 +1133,6 @@
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
    "summary_short": "Scientists have solved the mystery of strange trenches scattered across Australia\u2019s vast Nullarbor P",
-   "category": "News"
-  },
-  {
-   "id": "4454a373f7ea55344cfabea8f677e007",
-   "sector": "Science",
-   "title": "A space telescope hunting for dark matter just discovered something unexpected",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
-   "summary": "ESA\u2019s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete.",
-   "published": "Wed, 25 Nov 2026 05:35:04 EST",
-   "source": "rss",
-   "sentiment_score": -0.034999999999999996,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "space",
-    "telescope",
-    "dark",
-    "discovered",
-    "hunting"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "ESA\u2019s Euclid space telescope has discovered its first previously unknown comet, despite being design",
-   "category": "News"
-  },
-  {
-   "id": "91c367da78848ac5ca709526d45ba10f",
-   "sector": "Science",
-   "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
-   "summary": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any difference between the electron and positron could expose cracks in the Standard Model of particle physics.",
-   "published": "Wed, 25 Nov 2026 05:06:22 EST",
-   "source": "rss",
-   "sentiment_score": 0.15625,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "antimatter",
-    "positron",
-    "physicists",
-    "trap",
-    "could"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it",
-   "category": "News"
-  },
-  {
-   "id": "c987f8ac4e4d4858165db7e69fd857f4",
-   "sector": "Science",
-   "title": "What is a thought made of? Why human consciousness may be beyond AI\u2019s reach",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-   "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.",
-   "published": "Wed, 25 Nov 2026 04:30:54 EST",
-   "source": "rss",
-   "sentiment_score": 0.1590909090909091,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "thought",
-    "human",
-    "consciousness",
-    "brain",
-    "between"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying",
-   "category": "News"
-  },
-  {
-   "id": "427f7910cfff8fcdd4a9b542c0fbf651",
-   "sector": "Science",
-   "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
-   "summary": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax. Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago.",
-   "published": "Tue, 24 Nov 2026 06:09:06 EST",
-   "source": "rss",
-   "sentiment_score": 0.325,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "year",
-    "roman",
-    "shipwreck",
-    "waterproofing",
-    "reveals"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine ",
    "category": "News"
   },
   {
@@ -1320,6 +1320,52 @@
    "category": "News"
   },
   {
+   "id": "39e6f7f2f0eefb77f4f6a1758592521b",
+   "sector": "Tech/AI",
+   "title": "Hard Drive pricing has gotten bad",
+   "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50661646\">Comments</a>",
+   "published": "Fri, 27 Nov 2026 01:13:49 +0000",
+   "source": "hacker_news",
+   "sentiment_score": -0.49583333333333324,
+   "sentiment_label": "Negative \ud83d\ude1e",
+   "keywords": [
+    "hard",
+    "drive",
+    "pricing",
+    "gotten",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50661646\">Comments</a>",
+   "category": "News"
+  },
+  {
+   "id": "c9cb82266c53b2abeddd115e4a8239d3",
+   "sector": "Tech/AI",
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 21:47:45 +0000",
+   "source": "hacker_news",
+   "sentiment_score": 0.3,
+   "sentiment_label": "Positive \ud83d\ude0a",
+   "keywords": [
+    "made",
+    "self",
+    "hosting",
+    "again",
+    "href"
+   ],
+   "impact": "\ud83d\udfe1 Medium",
+   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
+   "effect": "",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>",
+   "category": "News"
+  },
+  {
    "id": "15624c2bb28c72fbbaa6f99cffa41a10",
    "sector": "Tech/AI",
    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
@@ -1340,29 +1386,6 @@
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
    "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50659841\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "9dfcc7a3b450ac4b68df0dbfb96c4565",
-   "sector": "Tech/AI",
-   "title": "AMD-specific fork of llama.cpp",
-   "link": "https://devnull.land/amd-specific-llama-cpp",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>",
-   "published": "Thu, 26 Nov 2026 17:11:29 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.0,
-   "sentiment_label": "Neutral \ud83d\ude10",
-   "keywords": [
-    "specific",
-    "fork",
-    "llama",
-    "href",
-    "https"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>",
    "category": "News"
   },
   {
@@ -1389,49 +1412,26 @@
    "category": "News"
   },
   {
-   "id": "e0d01cc36045741b5b8eb1df79776da8",
+   "id": "9dfcc7a3b450ac4b68df0dbfb96c4565",
    "sector": "Tech/AI",
-   "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657645\">Comments</a>",
-   "published": "Thu, 26 Nov 2026 17:47:45 +0000",
+   "title": "AMD-specific fork of llama.cpp",
+   "link": "https://devnull.land/amd-specific-llama-cpp",
+   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>",
+   "published": "Thu, 26 Nov 2026 17:11:29 +0000",
    "source": "hacker_news",
    "sentiment_score": 0.0,
    "sentiment_label": "Neutral \ud83d\ude10",
    "keywords": [
-    "ransomwarehelp",
-    "indicted",
-    "wire",
-    "fraud",
-    "href"
+    "specific",
+    "fork",
+    "llama",
+    "href",
+    "https"
    ],
    "impact": "\ud83d\udfe1 Medium",
    "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
    "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657645\">Comments</a>",
-   "category": "News"
-  },
-  {
-   "id": "c9cb82266c53b2abeddd115e4a8239d3",
-   "sector": "Tech/AI",
-   "title": "AI made self-hosting fun again",
-   "link": "https://janlukas.blog/posts/ai-self-hosting",
-   "summary": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>",
-   "published": "Thu, 26 Nov 2026 21:47:45 +0000",
-   "source": "hacker_news",
-   "sentiment_score": 0.3,
-   "sentiment_label": "Positive \ud83d\ude0a",
-   "keywords": [
-    "made",
-    "self",
-    "hosting",
-    "again",
-    "href"
-   ],
-   "impact": "\ud83d\udfe1 Medium",
-   "why": "DEBUG: 404 models/gemini-1.5-flash-latest is not found for API version v1beta, or is no",
-   "effect": "",
-   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50660180\">Comments</a>",
+   "summary_short": "[Hacker News] <a href=\"https://news.ycombinator.com/item?id=50657265\">Comments</a>",
    "category": "News"
   }
  ]
