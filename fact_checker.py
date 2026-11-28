@@ -1,87 +1,100 @@
 """
-Fact-checking integration for News Agent
-Checks articles against fact-check APIs
+Fact-checking integration for News Agent.
+
+1. Flags articles touching topics that are frequent targets of misinformation.
+2. If GOOGLE_FACTCHECK_KEY is set, looks flagged articles up in the Google
+   Fact Check Tools API and attaches any published fact-checks (cached per
+   article so each one is only looked up once).
 """
 import json
+import os
+import re
+from datetime import datetime, timezone
+
 import requests
-from datetime import datetime
+
+FACTCHECK_KEY = os.environ.get("GOOGLE_FACTCHECK_KEY", "").strip()
+MAX_LOOKUPS_PER_RUN = 15
+
+SENSITIVE_TOPICS = [
+    "election fraud", "rigged election", "stolen election", "vaccine", "vaccines", "vaccination",
+    "climate change", "global warming", "moon landing", "5g", "flat earth", "chemtrail",
+    "conspiracy", "hoax", "misinformation", "disinformation", "deepfake", "fake news",
+    "miracle cure", "cure for cancer", "ivermectin", "hydroxychloroquine", "voter fraud",
+    "false claim", "debunked", "fact check", "fact-check", "rumor", "rumour", "viral claim",
+]
+_TOPIC_RE = [(t, re.compile(r"\b" + re.escape(t) + r"\b", re.I)) for t in SENSITIVE_TOPICS]
+
 
 def check_with_google_factcheck(claim):
-    """Check claim against Google Fact Check API"""
+    """Search the Google Fact Check Tools API for published reviews of a claim."""
+    if not FACTCHECK_KEY:
+        return {"status": "disabled", "claims": []}
     try:
-        url = "https://factchecktools.googleapis.com/v1alpha1/claims:search"
-        params = {
-            "query": claim[:200],
-            "languageCode": "en-US",
-            "key": "YOUR_GOOGLE_FACTCHECK_KEY"  # Get from Google Cloud Console
-        }
-        response = requests.get(url, params=params, timeout=10)
-        data = response.json()
-        
-        if data.get("claims"):
-            return {
-                "status": "found",
-                "claims": data["claims"][:3],
-                "source": "Google Fact Check API"
-            }
-        return {"status": "not_found", "claims": []}
+        r = requests.get("https://factchecktools.googleapis.com/v1alpha1/claims:search",
+                         params={"query": claim[:200], "languageCode": "en", "pageSize": 3,
+                                 "key": FACTCHECK_KEY}, timeout=10)
+        r.raise_for_status()
+        claims = []
+        for c in r.json().get("claims", [])[:3]:
+            review = (c.get("claimReview") or [{}])[0]
+            claims.append({
+                "text": c.get("text", "")[:200],
+                "claimant": c.get("claimant", ""),
+                "rating": review.get("textualRating", ""),
+                "publisher": (review.get("publisher") or {}).get("name", ""),
+                "url": review.get("url", ""),
+            })
+        return {"status": "found" if claims else "not_found", "claims": claims}
     except Exception as e:
-        print(f"Fact-check error: {e}")
-        return {"status": "error", "error": str(e)}
+        print(f"  Fact-check error: {e}")
+        return {"status": "error", "claims": []}
 
-def flag_disputed_claims(items):
-    """Flag items that mention disputed claims"""
+
+def flag_disputed_claims(items, cache=None):
+    """Mark items that mention sensitive topics; attach fact-checks when available."""
+    cache = cache or {}
+    lookups = 0
     for item in items:
-        title = item.get("title", "")
-        summary = item.get("summary", "")
-        
-        # Simple keyword matching for common disputed topics
-        disputed_keywords = [
-            "election fraud", "vaccine", "climate", "moon landing", 
-            "5g coronavirus", "jewish space laser", "flat earth"
-        ]
-        
-        for keyword in disputed_keywords:
-            if keyword.lower() in title.lower() or keyword.lower() in summary.lower():
-                item["fact_check_needed"] = True
-                item["disputed_topic"] = keyword
-                break
-    
+        text = f"{item.get('title', '')} {item.get('summary', '')}"
+        topic = next((t for t, rx in _TOPIC_RE if rx.search(text)), None)
+        item["fact_check_needed"] = bool(topic)
+        item["disputed_topic"] = topic
+        if not topic:
+            continue
+        prev = cache.get(item.get("id"), {})
+        if prev.get("fact_checks") is not None:
+            item["fact_checks"] = prev["fact_checks"]
+        elif FACTCHECK_KEY and lookups < MAX_LOOKUPS_PER_RUN:
+            result = check_with_google_factcheck(item.get("title", ""))
+            lookups += 1
+            if result["status"] in ("found", "not_found"):
+                item["fact_checks"] = result["claims"]
     return items
 
+
 def generate_fact_check_report(items):
-    """Generate report of items needing fact-checking"""
     disputed = [i for i in items if i.get("fact_check_needed")]
-    
-    report = {
-        "generated_at": datetime.utcnow().isoformat(),
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "total_articles": len(items),
         "disputed_articles": len(disputed),
+        "api_enabled": bool(FACTCHECK_KEY),
         "disputed_items": [
-            {
-                "title": i.get("title"),
-                "topic": i.get("disputed_topic"),
-                "source": i.get("source"),
-                "link": i.get("link")
-            }
+            {"title": i.get("title"), "topic": i.get("disputed_topic"), "source": i.get("source"),
+             "link": i.get("link"), "fact_checks": i.get("fact_checks", [])}
             for i in disputed
-        ]
+        ],
     }
-    
-    return report
+
 
 if __name__ == "__main__":
     try:
         with open("news.json") as f:
-            data = json.load(f)
-            items = data.get("items", [])
-    except:
+            items = json.load(f).get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
         items = []
-    
-    flagged = flag_disputed_claims(items)
-    report = generate_fact_check_report(flagged)
-    
+    report = generate_fact_check_report(flag_disputed_claims(items))
     with open("fact_check_report.json", "w") as f:
-        json.dump(report, f, indent=2)
-    
-    print(f"✓ Fact-check report: {report['disputed_articles']} disputed items found")
+        json.dump(report, f, indent=2, ensure_ascii=False)
+    print(f"✓ Fact-check report: {report['disputed_articles']} flagged items")

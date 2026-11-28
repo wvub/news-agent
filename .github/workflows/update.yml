@@ -8,9 +8,15 @@ on:
 permissions:
   contents: write
 
+# never let two runs race each other on news.json
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -31,6 +37,15 @@ jobs:
     - name: Run News Agent Scraper
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+        TRANSLATE_LANGS: ${{ vars.TRANSLATE_LANGS }}
+        GOOGLE_FACTCHECK_KEY: ${{ secrets.GOOGLE_FACTCHECK_KEY }}
+        REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+        REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
       run: |
         python news_agent.py
 
@@ -52,9 +67,11 @@ jobs:
         git commit -m "news update $(date -u)"
 
         # FIX 2: retry pattern — rebase then push, retry once if rejected
-        git pull --rebase origin main
-        git push origin main || {
-          echo "Push rejected, retrying after rebase..."
-          git pull --rebase origin main
-          git push origin main
-        }
+        # retry: rebase onto latest main then push (generated files: prefer ours on conflict)
+        for i in 1 2 3; do
+          git pull --rebase -X theirs origin main && git push origin main && exit 0
+          echo "Push attempt $i failed, retrying..."
+          git rebase --abort 2>/dev/null || true
+          sleep $((i * 5))
+        done
+        exit 1

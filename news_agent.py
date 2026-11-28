@@ -1,39 +1,58 @@
 #!/usr/bin/env python3
 """
-Comprehensive News Agent - Fetches, analyzes, and serves curated news
+Comprehensive News Agent - Fetches, analyzes, and serves curated news.
+
+Pipeline:  fetch (RSS + Reddit + social) -> sentiment -> dedup/similarity ->
+           trends -> Gemini impact analysis (cached) -> fact-check flags ->
+           optional translations -> outputs (news.json, snapshots, quiz,
+           history index, source health) -> optional email digest.
 """
-import feedparser
+import hashlib
 import json
 import os
-import re
-import requests
 import pathlib
+import re
 import sqlite3
-import hashlib
-from datetime import datetime, timezone, timedelta
+import time
 from collections import defaultdict
-import google.generativeai as genai
-from textblob import TextBlob
-import numpy as np
+from datetime import datetime, timedelta, timezone
+from html import unescape
+
+import feedparser
+import requests
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from textblob import TextBlob
+
+import email_digest
+import fact_checker
+import news_quiz
+import translator
 
 # ========== TIMEZONE CONFIG ==========
 IST = timezone(timedelta(hours=5, minutes=30))  # Indian Standard Time (UTC+5:30)
 
+
 def get_ist_time():
     """Get current time in Indian Standard Time"""
     return datetime.now(IST)
+
+
+def utc_now_iso():
+    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+
 
 # ========== CONFIG ==========
 SECTORS = {
     "World": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://www.aljazeera.com/xml/rss/all.xml",
-        "https://feeds.reuters.com/reuters/worldNews",
+        "https://www.theguardian.com/world/rss",
+        "https://feeds.npr.org/1004/rss.xml",
     ],
     "Markets": [
         "https://feeds.marketwatch.com/marketwatch/topstories/",
+        "https://www.cnbc.com/id/100003114/device/rss/rss.html",
         "https://finance.yahoo.com/news/rssindex",
         "https://feeds.bloomberg.com/markets/news.rss",
     ],
@@ -45,16 +64,19 @@ SECTORS = {
     "Crypto": [
         "https://www.coindesk.com/arc/outboundfeeds/rss/",
         "https://cointelegraph.com/rss",
+        "https://decrypt.co/feed",
     ],
     "Science": [
         "https://www.sciencedaily.com/rss/top/science.xml",
         "https://www.space.com/feeds/all",
-        "https://feeds.nature.com/nature/rss/current",
+        "https://www.nature.com/nature.rss",
+        "https://www.newscientist.com/feed/home/",
     ],
     "Health": [
         "https://www.who.int/rss-feeds/news-english.xml",
         "https://www.medicalnewstoday.com/rss",
-        "https://feeds.nih.gov/news/news-rss/",
+        "https://www.statnews.com/feed/",
+        "https://www.sciencedaily.com/rss/health_medicine.xml",
     ],
 }
 
@@ -68,629 +90,690 @@ REDDIT_SUBS = {
 }
 
 SOCIAL_SOURCES = {
-    "hacker_news": "https://news.ycombinator.com/rss",
-    "producthunt": "https://www.producthunt.com/feed.xml",
+    "hacker_news": ("Hacker News", "https://news.ycombinator.com/rss"),
+    "producthunt": ("Product Hunt", "https://www.producthunt.com/feed"),
 }
 
-REDDIT_HEADERS = {"User-Agent": "personal-news-agent/2.0 (by Armaan)"}
+BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 news-agent/3.0")
+REDDIT_UA = os.environ.get("REDDIT_USER_AGENT", "python:news-agent:v3.0 (personal news dashboard)")
+REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
+REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")
 REDDIT_PER_SUB = 5
 REDDIT_MIN_SCORE = 20
-MAX_PER_SECTOR = 8
-GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
+MAX_PER_SECTOR = 12      # articles per sector
+MAX_PER_FEED = 4         # cap per feed so every source in a sector gets a share
+SOCIAL_PER_SOURCE = 5
+HTTP_TIMEOUT = 20
 
-# Configure Gemini
-if GEMINI_KEY:
-    genai.configure(api_key=GEMINI_KEY)
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+# Tried in order; the first model that exists for this key is used.
+GEMINI_MODELS = [m for m in [os.environ.get("GEMINI_MODEL", "").strip(),
+                             "gemini-flash-latest", "gemini-2.5-flash",
+                             "gemini-2.0-flash"] if m]
+GEMINI_BATCH = 25
+AI_MAX_NEW_ITEMS = int(os.environ.get("AI_MAX_NEW_ITEMS", "100"))
 
-# ========== DATABASE SETUP ==========
+TRANSLATE_LANGS = [l.strip() for l in os.environ.get("TRANSLATE_LANGS", "").split(",") if l.strip()]
+
 DB_PATH = "news_history.db"
+NEWS_FILE = "news.json"
+HEALTH_FILE = "source_health.json"
+HISTORY_DIR = pathlib.Path("history")
+HISTORY_INDEX_FILE = "history_index.json"
+MAX_SNAPSHOTS = 100
 
+STOPWORDS = set("""
+a about above after again against all also am an and any are aren as at be because been before
+being below between both but by can cannot could did didn do does doesn doing don down during each
+few for from further had has have having he her here hers herself him himself his how i if in into
+is isn it its itself just let me more most my myself new news no nor not now of off on once only or
+other our ours ourselves out over own said same says say she should so some such than that the their
+theirs them themselves then there these they this those through to too under until up very was
+wasn we were what when where which while who whom why will with would you your yours yourself
+yourselves year years week weeks today first last could after over than more most many much
+make makes made like just into been being their there these those what when where which while
+amid back still well even every here time times report reports according people week months
+best already ahead against across another around because before between during through under
+whether without within become becomes biggest big next show shows told year's latest update
+reddit score comments article link hacker product hunt https http www html
+""".split())
+
+
+# ========== HTTP ==========
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": BROWSER_UA,
+                        "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"})
+
+
+def fetch_feed(url):
+    """Download and parse a feed with a real timeout. Raises on failure / empty feed."""
+    r = SESSION.get(url, timeout=HTTP_TIMEOUT)
+    r.raise_for_status()
+    feed = feedparser.parse(r.content)
+    if not feed.entries:
+        reason = getattr(feed, "bozo_exception", None) or "no entries"
+        raise ValueError(f"empty feed ({reason})")
+    return feed
+
+
+def clean_html(text):
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return re.sub(r"\s+", " ", unescape(text)).strip()
+
+
+# ========== SOURCE HEALTH (persisted in git as JSON) ==========
+_HEALTH = {}
+
+
+def load_health():
+    global _HEALTH
+    try:
+        with open(HEALTH_FILE) as f:
+            _HEALTH = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        _HEALTH = {}
+
+
+def _health_entry(source, sector):
+    h = _HEALTH.setdefault(source, {"source": source, "sector": sector, "last_success": None,
+                                    "last_failure": None, "success_count": 0, "failure_count": 0,
+                                    "last_error": None, "last_items": 0})
+    h["sector"] = sector
+    return h
+
+
+def log_source_success(source, sector, n_items=0):
+    h = _health_entry(source, sector)
+    h["last_success"] = utc_now_iso()
+    h["success_count"] += 1
+    h["last_items"] = n_items
+
+
+def log_source_failure(source, sector, error):
+    h = _health_entry(source, sector)
+    h["last_failure"] = utc_now_iso()
+    h["failure_count"] += 1
+    h["last_error"] = str(error)[:200]
+    print(f"  ✗ Source error {source}: {str(error)[:150]}")
+
+
+def save_health():
+    with open(HEALTH_FILE, "w") as f:
+        json.dump(_HEALTH, f, indent=1, sort_keys=True)
+
+
+def health_list():
+    rows = list(_HEALTH.values())
+    for h in rows:
+        h["healthy"] = bool(h["last_success"]) and (not h["last_failure"] or h["last_success"] >= h["last_failure"])
+    return sorted(rows, key=lambda h: (h["healthy"], h["source"]))
+
+
+# ========== DATABASE (local history; gitignored) ==========
 def init_db():
-    """Initialize SQLite database for historical tracking"""
     conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-    
-    c.execute('''CREATE TABLE IF NOT EXISTS articles (
-        id TEXT PRIMARY KEY,
-        title TEXT NOT NULL,
-        link TEXT,
-        sector TEXT,
-        source TEXT,
-        summary TEXT,
-        published TEXT,
-        fetched_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-        sentiment_score REAL,
-        sentiment_label TEXT,
-        impact TEXT,
-        why TEXT,
-        effect TEXT,
-        content_hash TEXT,
-        keywords TEXT,
-        related_articles TEXT,
-        embedding TEXT
-    )''')
-    
-    c.execute('''CREATE TABLE IF NOT EXISTS trends (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        keyword TEXT,
-        frequency INTEGER,
-        sector TEXT,
-        first_seen TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-        last_seen TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-        articles TEXT
-    )''')
-    
-    c.execute('''CREATE TABLE IF NOT EXISTS source_health (
-        source TEXT PRIMARY KEY,
-        last_success TIMESTAMP,
-        last_failure TIMESTAMP,
-        failure_count INTEGER DEFAULT 0,
-        success_count INTEGER DEFAULT 0
-    )''')
-    
-    c.execute('''CREATE TABLE IF NOT EXISTS predictions (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        article_id TEXT,
-        predicted_impact TEXT,
-        user_votes INTEGER DEFAULT 0,
-        actual_impact TEXT,
-        accuracy REAL,
-        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    )''')
-    
+    conn.execute('''CREATE TABLE IF NOT EXISTS articles (
+        id TEXT PRIMARY KEY, title TEXT NOT NULL, link TEXT, sector TEXT, source TEXT,
+        summary TEXT, published TEXT, fetched_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        sentiment_score REAL, sentiment_label TEXT, impact TEXT, why TEXT, effect TEXT,
+        content_hash TEXT, keywords TEXT, related_articles TEXT, embedding TEXT)''')
     conn.commit()
     conn.close()
 
-# ========== SENTIMENT ANALYSIS ==========
-def analyze_sentiment(text):
-    """Analyze sentiment of text using TextBlob"""
-    try:
-        blob = TextBlob(text[:500])
-        polarity = blob.sentiment.polarity
-        
-        if polarity > 0.1:
-            label = "Positive 😊"
-        elif polarity < -0.1:
-            label = "Negative 😞"
-        else:
-            label = "Neutral 😐"
-        
-        return polarity, label
-    except:
-        return 0.0, "Neutral 😐"
 
-# ========== DUPLICATE & SIMILARITY DETECTION ==========
+def save_to_db(items):
+    conn = sqlite3.connect(DB_PATH)
+    for item in items:
+        try:
+            conn.execute('''INSERT INTO articles
+                (id, title, link, sector, source, summary, published, sentiment_score,
+                 sentiment_label, impact, why, effect, content_hash, keywords, related_articles)
+                VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                ON CONFLICT(id) DO UPDATE SET impact=excluded.impact, why=excluded.why,
+                  effect=excluded.effect, sentiment_score=excluded.sentiment_score,
+                  sentiment_label=excluded.sentiment_label, related_articles=excluded.related_articles''',
+                (item.get("id"), item.get("title"), item.get("link"), item.get("sector"),
+                 item.get("source"), item.get("summary"), item.get("published"),
+                 item.get("sentiment_score", 0.0), item.get("sentiment_label", "Neutral 😐"),
+                 item.get("impact"), item.get("why"), item.get("effect"),
+                 compute_content_hash(item.get("title", "")), json.dumps(item.get("keywords", [])),
+                 json.dumps(item.get("related", []))))
+        except Exception as e:
+            print(f"DB save error: {e}")
+    conn.commit()
+    conn.close()
+
+
+# ========== SENTIMENT ==========
+def analyze_sentiment(text):
+    try:
+        polarity = float(TextBlob(text[:500]).sentiment.polarity)
+    except Exception:
+        polarity = 0.0
+    if polarity > 0.1:
+        label = "Positive 😊"
+    elif polarity < -0.1:
+        label = "Negative 😞"
+    else:
+        label = "Neutral 😐"
+    return round(polarity, 3), label
+
+
+# ========== DEDUP & SIMILARITY ==========
 def compute_content_hash(text):
-    """Compute hash of content for deduplication"""
     return hashlib.md5(text.lower().encode()).hexdigest()
 
-def find_similar_articles(new_items, threshold=0.7):
-    """Find semantically similar articles using TF-IDF"""
-    if len(new_items) < 2:
-        return defaultdict(list)
-    
-    texts = [f"{item['title']} {item['summary']}" for item in new_items]
+
+def title_key(title):
+    return re.sub(r"\W+", "", title.lower())[:60]
+
+
+def find_similar_articles(items, threshold=0.4):
+    """Return list of (i, j, score) pairs of near-duplicate stories (TF-IDF cosine)."""
+    if len(items) < 2:
+        return []
+    texts = [f"{it['title']} {it['title']} {it['summary'][:300]}" for it in items]
     try:
-        vectorizer = TfidfVectorizer(stop_words='english', max_features=100)
-        tfidf_matrix = vectorizer.fit_transform(texts)
-        similarity_matrix = cosine_similarity(tfidf_matrix)
-        
-        similar_groups = defaultdict(list)
-        for i in range(len(similarity_matrix)):
-            for j in range(i + 1, len(similarity_matrix)):
-                if similarity_matrix[i][j] > threshold:
-                    similar_groups[i].append(j)
-        
-        return similar_groups
-    except:
-        return defaultdict(list)
+        matrix = TfidfVectorizer(stop_words="english", max_features=5000).fit_transform(texts)
+        sim = cosine_similarity(matrix)
+    except ValueError:
+        return []
+    pairs = []
+    for i in range(len(items)):
+        for j in range(i + 1, len(items)):
+            if sim[i][j] >= threshold:
+                pairs.append((i, j, float(sim[i][j])))
+    return pairs
 
-# ========== TREND DETECTION ==========
+
+def attach_related(items, pairs):
+    related = defaultdict(set)
+    for i, j, _ in pairs:
+        related[i].add(j)
+        related[j].add(i)
+    for idx, it in enumerate(items):
+        it["related"] = [items[j]["id"] for j in sorted(related.get(idx, []))]
+        it["cross_sector"] = len({items[j]["sector"] for j in related.get(idx, [])} - {it["sector"]}) > 0
+
+
+# ========== KEYWORDS & TRENDS ==========
 def extract_keywords(text, max_keywords=5):
-    """Extract keywords from text"""
-    words = re.findall(r'\b[a-z]{4,}\b', text.lower())
+    words = re.findall(r"\b[a-zA-Z][a-zA-Z\-]{3,}\b", text)
     freq = defaultdict(int)
-    for word in words:
-        if word not in ['that', 'this', 'from', 'with', 'have', 'been', 'said', 'will']:
-            freq[word] += 1
-    return sorted(freq.items(), key=lambda x: x[1], reverse=True)[:max_keywords]
+    for w in words:
+        lw = w.lower().strip("-")
+        if lw in STOPWORDS or len(lw) < 4:
+            continue
+        freq[lw] += 1
+    return sorted(freq.items(), key=lambda x: (-x[1], x[0]))[:max_keywords]
 
-def detect_trends(items):
-    """Detect trending keywords and topics"""
-    all_keywords = defaultdict(lambda: {'count': 0, 'sectors': set(), 'articles': []})
-    
-    for idx, item in enumerate(items):
-        keywords = extract_keywords(f"{item['title']} {item['summary']}")
-        for keyword, freq in keywords:
-            all_keywords[keyword]['count'] += freq
-            all_keywords[keyword]['sectors'].add(item['sector'])
-            all_keywords[keyword]['articles'].append(idx)
-    
-    trends = sorted(
-        [(k, v['count'], len(v['sectors']), v['articles']) 
-         for k, v in all_keywords.items() if v['count'] > 2],
-        key=lambda x: x[1],
-        reverse=True
-    )[:15]
-    
-    return trends
 
-# ========== RSS FETCHING ==========
-def fetch_items():
-    """Fetch news from RSS feeds"""
+def detect_trends(items, top_n=15):
+    """Trending keywords: counted once per article, ranked by article spread."""
+    kw = defaultdict(lambda: {"count": 0, "sectors": set(), "articles": []})
+    for idx, it in enumerate(items):
+        for word in set(it.get("keywords", [])):
+            kw[word]["count"] += 1
+            kw[word]["sectors"].add(it["sector"])
+            kw[word]["articles"].append(it["id"])
+    trends = [
+        {"keyword": k, "frequency": v["count"], "sectors": sorted(v["sectors"]),
+         "article_count": len(v["articles"]), "articles": v["articles"][:20]}
+        for k, v in kw.items() if v["count"] >= 2
+    ]
+    trends.sort(key=lambda t: (-t["frequency"], -len(t["sectors"]), t["keyword"]))
+    return trends[:top_n]
+
+
+def make_item(sector, title, link, summary, published, source, source_name):
+    title = clean_html(title)
+    summary = clean_html(summary)[:500]
+    score, label = analyze_sentiment(f"{title} {summary}")
+    return {
+        "id": compute_content_hash(title + link),
+        "sector": sector,
+        "title": title,
+        "link": link,
+        "summary": summary,
+        "published": published,
+        "source": source,
+        "source_name": source_name,
+        "sentiment_score": score,
+        "sentiment_label": label,
+        "keywords": [k for k, _ in extract_keywords(f"{title} {title} {summary}")],
+    }
+
+
+# ========== RSS ==========
+def fetch_items(seen):
     items = []
-    seen = set()
-    
     for sector, urls in SECTORS.items():
-        count = 0
+        per_feed = {}
         for url in urls:
-            if count >= MAX_PER_SECTOR:
-                break
             try:
-                feed = feedparser.parse(url)
-                for entry in feed.entries[:MAX_PER_SECTOR]:
-                    title = entry.get("title", "").strip()
-                    link = entry.get("link", "")
-                    key = re.sub(r"\W+", "", title.lower())[:60]
-                    
+                feed = fetch_feed(url)
+                per_feed[url] = (feed.feed.get("title") or url.split("/")[2], feed.entries)
+                log_source_success(url, sector, len(feed.entries))
+            except Exception as e:
+                log_source_failure(url, sector, e)
+        # round-robin across feeds so one source can't fill the whole sector
+        count, depth = 0, 0
+        while count < MAX_PER_SECTOR and depth < MAX_PER_FEED:
+            added_this_round = False
+            for url, (name, entries) in per_feed.items():
+                if count >= MAX_PER_SECTOR or depth >= len(entries):
+                    continue
+                e = entries[depth]
+                title = (e.get("title") or "").strip()
+                key = title_key(title)
+                if not title or key in seen:
+                    continue
+                seen.add(key)
+                items.append(make_item(sector, title, e.get("link", ""), e.get("summary", ""),
+                                       e.get("published", e.get("updated", "")), "rss", clean_html(name)))
+                count += 1
+                added_this_round = True
+            depth += 1
+            if not added_this_round and all(depth >= len(en) for _, en in per_feed.values()):
+                break
+    return items
+
+
+# ========== REDDIT ==========
+def reddit_token():
+    if not (REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET):
+        return None
+    try:
+        r = requests.post("https://www.reddit.com/api/v1/access_token",
+                          auth=(REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET),
+                          data={"grant_type": "client_credentials"},
+                          headers={"User-Agent": REDDIT_UA}, timeout=HTTP_TIMEOUT)
+        r.raise_for_status()
+        return r.json().get("access_token")
+    except Exception as e:
+        print(f"  ✗ Reddit OAuth failed: {e}")
+        return None
+
+
+def _reddit_json(sub, token):
+    if token:
+        url = f"https://oauth.reddit.com/r/{sub}/rising?limit={REDDIT_PER_SUB * 2}&raw_json=1"
+        headers = {"User-Agent": REDDIT_UA, "Authorization": f"bearer {token}"}
+    else:
+        url = f"https://www.reddit.com/r/{sub}/rising.json?limit={REDDIT_PER_SUB * 2}&raw_json=1"
+        headers = {"User-Agent": REDDIT_UA}
+    r = requests.get(url, headers=headers, timeout=HTTP_TIMEOUT)
+    r.raise_for_status()
+    return [p.get("data", {}) for p in r.json().get("data", {}).get("children", [])]
+
+
+def _reddit_rss(sub):
+    """Fallback when the JSON API is blocked (common on cloud IPs). No scores available."""
+    r = requests.get(f"https://old.reddit.com/r/{sub}/rising/.rss", headers={"User-Agent": REDDIT_UA},
+                     timeout=HTTP_TIMEOUT)
+    r.raise_for_status()
+    feed = feedparser.parse(r.content)
+    if not feed.entries:
+        raise ValueError("empty RSS")
+    return [{"title": e.get("title", ""), "permalink": e.get("link", "").replace("https://old.reddit.com", ""),
+             "selftext": clean_html(e.get("summary", ""))[:400], "score": None,
+             "created_utc": None} for e in feed.entries]
+
+
+def fetch_reddit_items(seen):
+    items = []
+    token = reddit_token()
+    for sector, subs in REDDIT_SUBS.items():
+        for sub in subs:
+            name = f"r/{sub}"
+            try:
+                try:
+                    posts = _reddit_json(sub, token)
+                except Exception as json_err:
+                    try:
+                        posts = _reddit_rss(sub)
+                    except Exception as rss_err:
+                        raise RuntimeError(f"json: {json_err}; rss: {rss_err}")
+                added = 0
+                for d in posts:
+                    if added >= REDDIT_PER_SUB:
+                        break
+                    if d.get("stickied") or d.get("is_video") or d.get("over_18"):
+                        continue
+                    score = d.get("score")
+                    if score is not None and score < REDDIT_MIN_SCORE:
+                        continue
+                    title = (d.get("title") or "").strip()
+                    key = title_key(title)
                     if not title or key in seen:
                         continue
                     seen.add(key)
-                    
-                    summary = re.sub(r"<[^>]+>", "", entry.get("summary", ""))[:500]
-                    sentiment_score, sentiment_label = analyze_sentiment(f"{title} {summary}")
-                    
-                    items.append({
-                        "id": compute_content_hash(title + link),
-                        "sector": sector,
-                        "title": title,
-                        "link": link,
-                        "summary": summary,
-                        "published": entry.get("published", ""),
-                        "source": "rss",
-                        "sentiment_score": sentiment_score,
-                        "sentiment_label": sentiment_label,
-                        "keywords": [kw[0] for kw in extract_keywords(f"{title} {summary}")],
-                    })
-                    count += 1
-            except Exception as e:
-                log_source_failure(url, sector, str(e))
-    
-    return items
-
-# ========== REDDIT FETCHING ==========
-def fetch_reddit_items():
-    """Fetch rising posts from Reddit"""
-    items = []
-    seen = set()
-    
-    for sector, subs in REDDIT_SUBS.items():
-        for sub in subs:
-            try:
-                url = f"https://www.reddit.com/r/{sub}/rising.json?limit={REDDIT_PER_SUB}"
-                r = requests.get(url, headers=REDDIT_HEADERS, timeout=20)
-                posts = r.json().get("data", {}).get("children", [])
-                
-                for p in posts:
-                    d = p.get("data", {})
-                    if d.get("stickied") or d.get("is_video") or d.get("over_18"):
-                        continue
-                    
-                    score = d.get("score", 0)
-                    if score < REDDIT_MIN_SCORE:
-                        continue
-                    
-                    title = d.get("title", "").strip()
-                    if not title:
-                        continue
-                    
-                    key = re.sub(r"\W+", "", title.lower())[:60]
-                    if key in seen:
-                        continue
-                    seen.add(key)
-                    
-                    link = "https://www.reddit.com" + d.get("permalink", "")
-                    selftext = re.sub(r"\s+", " ", d.get("selftext", ""))[:400]
+                    link = d.get("permalink", "")
+                    if link.startswith("/"):
+                        link = "https://www.reddit.com" + link
                     flair = d.get("link_flair_text") or ""
-                    summary = f"[Reddit r/{sub} | score {score}] {flair} {selftext}".strip()
-                    
-                    sentiment_score, sentiment_label = analyze_sentiment(f"{title} {summary}")
-                    
-                    items.append({
-                        "id": compute_content_hash(title + link),
-                        "sector": sector,
-                        "title": title,
-                        "link": link,
-                        "summary": summary,
-                        "published": "",
-                        "source": "reddit",
-                        "sentiment_score": sentiment_score,
-                        "sentiment_label": sentiment_label,
-                        "keywords": [kw[0] for kw in extract_keywords(f"{title} {summary}")],
-                    })
-                
-                log_source_success(f"r/{sub}", sector)
+                    score_txt = f" | score {score}" if score is not None else ""
+                    summary = f"[Reddit {name}{score_txt}] {flair} {d.get('selftext', '')[:400]}".strip()
+                    published = ""
+                    if d.get("created_utc"):
+                        published = datetime.fromtimestamp(d["created_utc"], timezone.utc).strftime(
+                            "%a, %d %b %Y %H:%M:%S GMT")
+                    items.append(make_item(sector, title, link, summary, published, "reddit", name))
+                    added += 1
+                log_source_success(name, sector, added)
             except Exception as e:
-                log_source_failure(f"r/{sub}", sector, str(e))
-    
+                log_source_failure(name, sector, e)
+            time.sleep(0.5 if token else 1.0)  # stay well under Reddit rate limits
     return items
 
-# ========== SOCIAL & TRENDING SOURCES ==========
-def fetch_social_items():
-    """Fetch from Hacker News and Product Hunt"""
+
+# ========== SOCIAL ==========
+def fetch_social_items(seen):
     items = []
-    
-    try:
-        # Hacker News
-        feed = feedparser.parse(SOCIAL_SOURCES["hacker_news"])
-        for entry in feed.entries[:5]:
-            title = entry.get("title", "").strip()
-            link = entry.get("link", "")
-            summary = entry.get("summary", "")[:300]
-            
-            sentiment_score, sentiment_label = analyze_sentiment(f"{title} {summary}")
-            
-            items.append({
-                "id": compute_content_hash(title + link),
-                "sector": "Tech/AI",
-                "title": title,
-                "link": link,
-                "summary": f"[Hacker News] {summary}",
-                "published": entry.get("published", ""),
-                "source": "hacker_news",
-                "sentiment_score": sentiment_score,
-                "sentiment_label": sentiment_label,
-                "keywords": [kw[0] for kw in extract_keywords(f"{title} {summary}")],
-            })
-        
-        # Product Hunt
-        feed = feedparser.parse(SOCIAL_SOURCES["producthunt"])
-        for entry in feed.entries[:5]:
-            title = entry.get("title", "").strip()
-            link = entry.get("link", "")
-            summary = entry.get("summary", "")[:300]
-            
-            sentiment_score, sentiment_label = analyze_sentiment(f"{title} {summary}")
-            
-            items.append({
-                "id": compute_content_hash(title + link),
-                "sector": "Tech/AI",
-                "title": title,
-                "link": link,
-                "summary": f"[Product Hunt] {summary}",
-                "published": entry.get("published", ""),
-                "source": "producthunt",
-                "sentiment_score": sentiment_score,
-                "sentiment_label": sentiment_label,
-                "keywords": [kw[0] for kw in extract_keywords(f"{title} {summary}")],
-            })
-    except Exception as e:
-        print(f"Social sources error: {e}")
-    
+    for source, (name, url) in SOCIAL_SOURCES.items():
+        try:
+            feed = fetch_feed(url)
+            added = 0
+            for e in feed.entries:
+                if added >= SOCIAL_PER_SOURCE:
+                    break
+                title = (e.get("title") or "").strip()
+                key = title_key(title)
+                if not title or key in seen:
+                    continue
+                seen.add(key)
+                summary = clean_html(e.get("summary", ""))
+                if source == "hacker_news":
+                    summary = ""  # HN RSS summary is just a "Comments" link
+                items.append(make_item("Tech/AI", title, e.get("link", ""), f"[{name}] {summary}".strip(),
+                                       e.get("published", e.get("updated", "")), source, name))
+                added += 1
+            log_source_success(name, "Tech/AI", added)
+        except Exception as e:
+            log_source_failure(name, "Tech/AI", e)
     return items
 
-# ========== AI ANALYSIS ==========
-def analyze_with_ai(items):
-     """Use Gemini API for impact analysis and summarization"""
-    if not GEMINI_KEY or not items:
-        for it in items:
-            it.update(
-                impact="🟡 Medium",
-                why="AI key not set",
-                effect="Add GEMINI_API_KEY to enable analysis",
-                summary_short=it.get("summary", "")[:100]
-            )
+
+# ========== AI ANALYSIS (Gemini REST API, cached per article) ==========
+VALID_IMPACTS = {"high": "🔴 High", "medium": "🟡 Medium", "low": "🟢 Low"}
+AI_FIELDS = ("impact", "why", "effect", "summary_short", "category")
+
+
+def normalize_impact(value):
+    v = (value or "").lower()
+    for k, label in VALID_IMPACTS.items():
+        if k in v:
+            return label
+    return "🟡 Medium"
+
+
+_working_model = None
+
+
+def gemini_generate(prompt, json_mode=True, temperature=0.2):
+    """Call Gemini, falling back through GEMINI_MODELS on 404. Retries on 429/5xx."""
+    global _working_model
+    models = [_working_model] if _working_model else GEMINI_MODELS
+    last_err = None
+    for model in models:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        body = {"contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": temperature}}
+        if json_mode:
+            body["generationConfig"]["responseMimeType"] = "application/json"
+        for attempt in range(3):
+            try:
+                r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY}, timeout=120)
+            except requests.RequestException as e:
+                last_err = e
+                time.sleep(2 * (attempt + 1))
+                continue
+            if r.status_code == 404:
+                last_err = RuntimeError(f"model {model} not found")
+                break  # try next model
+            if r.status_code in (429, 500, 503) and attempt < 2:
+                last_err = RuntimeError(f"{r.status_code} {r.text[:150]}")
+                time.sleep(10 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"Gemini {r.status_code}: {r.text[:200]}")
+            data = r.json()
+            try:
+                text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
+            except (KeyError, IndexError):
+                raise RuntimeError(f"Gemini returned no content: {json.dumps(data)[:200]}")
+            _working_model = model
+            return text
+    raise RuntimeError(f"All Gemini models failed: {last_err}")
+
+
+def parse_json_response(text):
+    text = text.strip()
+    text = re.sub(r"^```(?:json)?\s*", "", text)
+    text = re.sub(r"\s*```$", "", text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        m = re.search(r"\[.*\]", text, re.S)
+        if m:
+            return json.loads(m.group(0))
+        raise
+
+
+def fallback_analysis(it, reason):
+    it.update(impact=it.get("impact") or "🟡 Medium", why=it.get("why") or reason, effect=it.get("effect") or "",
+              summary_short=it.get("summary_short") or it.get("summary", "")[:160],
+              category=it.get("category") or "News", ai_analyzed=False)
+
+
+def analyze_with_ai(items, cache):
+    """cache: {article_id: previous item dict}. Only new articles hit the API."""
+    pending = []
+    for it in items:
+        prev = cache.get(it["id"])
+        if prev and prev.get("ai_analyzed"):
+            for f in AI_FIELDS:
+                it[f] = prev.get(f)
+            it["ai_analyzed"] = True
+        else:
+            pending.append(it)
+
+    if not items:
+        return items
+    if not GEMINI_KEY:
+        for it in pending:
+            fallback_analysis(it, "AI analysis off — add the GEMINI_API_KEY secret to enable it.")
         return items
 
-    try:
-        # Using gemini-1.5-flash-latest to fix the 404 error
-        model = genai.GenerativeModel("gemini-1.5-flash-latest")
-        batch = [
-            {
-                "title": i["title"],
-                "sector": i["sector"],
-                "summary": i["summary"][:200]
-            }
-            for i in items[:50]
-        ]
+    print(f"  {len(items) - len(pending)} cached, {len(pending)} new to analyze")
+    to_analyze = pending[:AI_MAX_NEW_ITEMS]
+    for start in range(0, len(to_analyze), GEMINI_BATCH):
+        batch = to_analyze[start:start + GEMINI_BATCH]
+        payload = [{"id": n, "title": i["title"], "sector": i["sector"], "summary": i["summary"][:300]}
+                   for n, i in enumerate(batch)]
+        prompt = f"""You are a news analyst. Analyze each of these {len(payload)} news items.
+Return ONLY a JSON array with one object per item, each with exactly these keys:
+- "id": the same integer id as the input item
+- "impact": "High", "Medium" or "Low" (how many people / how much money / how lasting the consequences are)
+- "why": why it matters, max 20 words
+- "effect": who or what it affects and how, max 20 words
+- "summary_short": a 1-2 sentence neutral summary
+- "category": a specific 1-3 word category (e.g. "Market Crash", "AI Breakthrough", "Geopolitical Tension")
 
-        prompt = f"""Analyze these {len(batch)} news items. Return ONLY a JSON array with no markdown or explanation.
-Each object must have exactly:
-- "title": exact title from input
-- "impact": one of "🔴 High", "🟡 Medium", "🟢 Low"
-- "why": max 20 words
-- "effect": max 20 words
-- "summary_short": 1-2 sentence summary
-- "category": specific category (e.g., "Market Crash", "AI Breakthrough", "Geopolitical Tension")
-
-News items: {json.dumps(batch)}"""
-
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-
-        # Clean up markdown
-        if text.startswith("```json"):
-            text = text[7:]
-        if text.startswith("```"):
-            text = text[3:]
-        if text.endswith("```"):
-            text = text[:-3]
-        text = text.strip()
-
-        analyses = json.loads(text)
-        amap = {a["title"]: a for a in analyses}
-
-        for it in items:
-            a = amap.get(it["title"])
-            if a:
-                it.update(
-                    impact=a.get("impact", "🟡 Medium"),
-                    why=a.get("why", ""),
-                    effect=a.get("effect", ""),
-                    summary_short=a.get("summary_short", ""),
-                    category=a.get("category", "News")
-                )
-            else:
-                it.update(
-                    impact="🟡 Medium",
-                    why="Analysis pending",
-                    effect="",
-                    summary_short=it.get("summary", "")[:100],
-                    category="News"
-                )
-    except Exception as e:
-        print(f"AI error: {e}")
-        for it in items:
-            it.update(
-                impact="🟡 Medium",
-                why=f"DEBUG: {str(e)[:80]}",
-                effect="",
-                summary_short=it.get("summary", "")[:100],
-                category="News"
-            )
-    return items
-    
-    try:
-        model = genai.GenerativeModel("gemini-1.5-flash-latest")
-        
-        batch = [
-            {
-                "title": i["title"],
-                "sector": i["sector"],
-                "summary": i["summary"][:200]
-            }
-            for i in items[:50]
-        ]
-        
-        prompt = f"""Analyze these {len(batch)} news items. Return ONLY a JSON array with no markdown or explanation.
-Each object must have exactly:
-- "title": exact title from input
-- "impact": one of "🔴 High", "🟡 Medium", "🟢 Low"
-- "why": max 20 words
-- "effect": max 20 words
-- "summary_short": 1-2 sentence summary
-- "category": specific category (e.g., "Market Crash", "AI Breakthrough", "Geopolitical Tension")
-
-News items: {json.dumps(batch)}"""
-        
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        
-        # Clean up markdown
-        if text.startswith("```json"):
-            text = text[7:]
-        if text.startswith("```"):
-            text = text[3:]
-        if text.endswith("```"):
-            text = text[:-3]
-        text = text.strip()
-        
-        analyses = json.loads(text)
-        amap = {a["title"]: a for a in analyses}
-        
-        for it in items:
-            a = amap.get(it["title"])
-            if a:
-                it.update(
-                    impact=a.get("impact", "🟡 Medium"),
-                    why=a.get("why", ""),
-                    effect=a.get("effect", ""),
-                    summary_short=a.get("summary_short", ""),
-                    category=a.get("category", "News")
-                )
-            else:
-                it.update(
-                    impact="🟡 Medium",
-                    why="Analysis pending",
-                    effect="",
-                    summary_short=it.get("summary", "")[:100],
-                    category="News"
-                )
-    except Exception as e:
-        print(f"AI error: {e}")
-        for it in items:
-            it.update(
-                impact="🟡 Medium",
-                why=f"DEBUG: {str(e)[:80]}",
-                effect="",
-                summary_short=it.get("summary", "")[:100],
-                category="News"
-            )
-    
-    return items
-
-# ========== DATABASE OPERATIONS ==========
-def save_to_db(items):
-    """Save articles to database"""
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-    
-    for item in items:
+News items: {json.dumps(payload, ensure_ascii=False)}"""
         try:
-            c.execute('''INSERT OR REPLACE INTO articles 
-                        (id, title, link, sector, source, summary, published, 
-                         sentiment_score, sentiment_label, impact, why, effect, 
-                         content_hash, keywords)
-                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
-                     (item.get("id"),
-                      item.get("title"),
-                      item.get("link"),
-                      item.get("sector"),
-                      item.get("source"),
-                      item.get("summary"),
-                      item.get("published"),
-                      item.get("sentiment_score", 0.0),
-                      item.get("sentiment_label", "Neutral"),
-                      item.get("impact"),
-                      item.get("why"),
-                      item.get("effect"),
-                      compute_content_hash(item.get("title", "")),
-                      json.dumps(item.get("keywords", []))))
+            analyses = parse_json_response(gemini_generate(prompt))
+            by_id = {}
+            for a in analyses if isinstance(analyses, list) else []:
+                try:
+                    by_id[int(a.get("id"))] = a
+                except (TypeError, ValueError):
+                    continue
+            for n, it in enumerate(batch):
+                a = by_id.get(n)
+                if not a:
+                    fallback_analysis(it, "AI analysis pending — will retry next run.")
+                    continue
+                it.update(impact=normalize_impact(a.get("impact")), why=str(a.get("why", ""))[:200],
+                          effect=str(a.get("effect", ""))[:200],
+                          summary_short=str(a.get("summary_short", ""))[:400] or it["summary"][:160],
+                          category=str(a.get("category", "News"))[:40] or "News", ai_analyzed=True)
+            print(f"  ✓ Batch {start // GEMINI_BATCH + 1}: analyzed {len(by_id)}/{len(batch)} ({_working_model})")
         except Exception as e:
-            print(f"DB save error: {e}")
-    
-    conn.commit()
-    conn.close()
+            print(f"  ✗ AI error: {e}")
+            for it in batch:
+                fallback_analysis(it, "AI analysis pending — will retry next run.")
+    for it in pending[AI_MAX_NEW_ITEMS:]:
+        fallback_analysis(it, "AI analysis pending — will retry next run.")
+    return items
 
-def log_source_success(source, sector):
-    """Log successful source fetch"""
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-    c.execute('''INSERT OR REPLACE INTO source_health 
-                (source, last_success, success_count)
-                VALUES (?, ?, 
-                       COALESCE((SELECT success_count FROM source_health WHERE source=?), 0) + 1)''',
-             (source, datetime.now(timezone.utc), source))
-    conn.commit()
-    conn.close()
 
-def log_source_failure(source, sector, error):
-    """Log failed source fetch"""
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-    c.execute('''INSERT OR REPLACE INTO source_health 
-                (source, last_failure, failure_count)
-                VALUES (?, ?, 
-                       COALESCE((SELECT failure_count FROM source_health WHERE source=?), 0) + 1)''',
-             (source, datetime.now(timezone.utc), source))
-    print(f"Source error {source}: {error}")
-    conn.commit()
-    conn.close()
-
-def get_source_health():
-    """Get health status of all sources"""
-    conn = sqlite3.connect(DB_PATH)
-    c = conn.cursor()
-    c.execute('SELECT source, last_success, last_failure, success_count, failure_count FROM source_health ORDER BY last_success DESC')
-    results = c.fetchall()
-    conn.close()
-    return results
-
-# ========== HISTORICAL SNAPSHOTS ==========
+# ========== SNAPSHOTS & HISTORY ==========
 def save_snapshot(data):
-    """Save timestamped snapshot of news data"""
-    history_dir = pathlib.Path("history")
-    history_dir.mkdir(exist_ok=True)
-    
-    timestamp = get_ist_time().strftime("%Y-%m-%d_%H-%M-%S")
-    snapshot_file = history_dir / f"news_{timestamp}.json"
-    
-    with open(snapshot_file, "w") as f:
-        json.dump(data, f, indent=1)
-    
-    # Keep only last 100 snapshots
-    snapshots = sorted(history_dir.glob("news_*.json"))
-    for old_snapshot in snapshots[:-100]:
-        old_snapshot.unlink()
+    HISTORY_DIR.mkdir(exist_ok=True)
+    stamp = get_ist_time().strftime("%Y-%m-%d_%H-%M-%S")
+    with open(HISTORY_DIR / f"news_{stamp}.json", "w") as f:
+        json.dump(data, f, indent=1, ensure_ascii=False)
+    snapshots = sorted(HISTORY_DIR.glob("news_*.json"))
+    for old in snapshots[:-MAX_SNAPSHOTS]:
+        old.unlink()
 
-# ========== MAIN EXECUTION ==========
+
+def build_history_index():
+    """Summarize every snapshot so the dashboard can chart impact/sentiment over time."""
+    points = []
+    for path in sorted(HISTORY_DIR.glob("news_*.json")):
+        try:
+            with open(path) as f:
+                d = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        its = d.get("items", [])
+        if not its:
+            continue
+        imp = defaultdict(int)
+        sectors = defaultdict(int)
+        for i in its:
+            imp[normalize_impact(i.get("impact")).split()[-1]] += 1
+            sectors[i.get("sector", "Unknown")] += 1
+        scores = [i.get("sentiment_score") or 0 for i in its]
+        points.append({
+            "time": path.stem.replace("news_", ""),
+            "count": len(its),
+            "high": imp["High"], "medium": imp["Medium"], "low": imp["Low"],
+            "avg_sentiment": round(sum(scores) / len(scores), 4),
+            "positive": sum(1 for s in scores if s > 0.1),
+            "negative": sum(1 for s in scores if s < -0.1),
+            "sectors": dict(sectors),
+        })
+    with open(HISTORY_INDEX_FILE, "w") as f:
+        json.dump({"generated": utc_now_iso(), "points": points}, f, indent=1)
+    return points
+
+
+def load_previous_items():
+    try:
+        with open(NEWS_FILE) as f:
+            return {i["id"]: i for i in json.load(f).get("items", []) if i.get("id")}
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        return {}
+
+
+# ========== MAIN ==========
 def main():
     print("[News Agent] Starting update cycle...")
     init_db()
-    
-    # Fetch from all sources
+    load_health()
+    cache = load_previous_items()
+    seen = set()
+
     print("[Fetch] RSS feeds...")
-    rss_items = fetch_items()
+    rss_items = fetch_items(seen)
     print(f"  ✓ Got {len(rss_items)} RSS items")
-    
+
     print("[Fetch] Reddit...")
-    reddit_items = fetch_reddit_items()
+    reddit_items = fetch_reddit_items(seen)
     print(f"  ✓ Got {len(reddit_items)} Reddit items")
-    
+
     print("[Fetch] Social sources...")
-    social_items = fetch_social_items()
+    social_items = fetch_social_items(seen)
     print(f"  ✓ Got {len(social_items)} social items")
-    
+
     items = rss_items + reddit_items + social_items
-    
-    # Analyze sentiment
-    print(f"[Process] Analyzing sentiment...")
-    
-    # Find similar articles
-    print("[Process] Detecting duplicates...")
-    similar = find_similar_articles(items, threshold=0.75)
-    print(f"  ✓ Found {len(similar)} duplicate groups")
-    
-    # Detect trends
+    save_health()
+
+    if not items and cache:
+        print("[Abort] No items fetched (network problem?) — keeping previous news.json")
+        return
+
+    print("[Process] Detecting near-duplicate stories...")
+    pairs = find_similar_articles(items)
+    attach_related(items, pairs)
+    print(f"  ✓ Found {len(pairs)} similar-story pairs")
+
     print("[Process] Detecting trends...")
     trends = detect_trends(items)
     print(f"  ✓ Top {len(trends)} trends detected")
-    
-    # AI analysis
+
     print("[AI] Analyzing impact with Gemini...")
-    items = analyze_with_ai(items)
-    
-    # Save to database
+    items = analyze_with_ai(items, cache)
+
+    print("[Fact-check] Flagging sensitive claims...")
+    items = fact_checker.flag_disputed_claims(items, cache)
+    fact_report = fact_checker.generate_fact_check_report(items)
+    with open("fact_check_report.json", "w") as f:
+        json.dump(fact_report, f, indent=2, ensure_ascii=False)
+    print(f"  ✓ {fact_report['disputed_articles']} items flagged")
+
+    if TRANSLATE_LANGS and GEMINI_KEY:
+        print(f"[Translate] {', '.join(TRANSLATE_LANGS)}...")
+        items = translator.translate_articles(items, TRANSLATE_LANGS, cache, gemini_generate)
+
     print("[DB] Saving to history database...")
     save_to_db(items)
-    
-    # Prepare output with IST timestamp
+
+    sector_order = {s: n for n, s in enumerate(SECTORS)}
+    items.sort(key=lambda i: ({"🔴": 0, "🟡": 1, "🟢": 2}.get((i.get("impact") or "🟡")[0], 1),
+                              sector_order.get(i["sector"], 99)))
+
     ist_time = get_ist_time()
+    quiz = news_quiz.generate_quiz(items, 5)
     output = {
         "updated": ist_time.strftime("%Y-%m-%d %H:%M IST"),
+        "updated_iso": utc_now_iso(),
         "count": len(items),
+        "ai_model": _working_model if GEMINI_KEY else None,
+        "translations": TRANSLATE_LANGS if GEMINI_KEY else [],
         "stats": {
             "rss": len(rss_items),
             "reddit": len(reddit_items),
             "social": len(social_items),
-            "duplicates_found": len(similar),
+            "duplicates_found": len(pairs),
             "trends_detected": len(trends),
+            "ai_analyzed": sum(1 for i in items if i.get("ai_analyzed")),
+            "fact_check_flags": fact_report["disputed_articles"],
         },
-        "trends": [
-            {
-                "keyword": t[0],
-                "frequency": t[1],
-                "sectors": list(t[2]) if isinstance(t[2], set) else t[2],
-                "article_count": len(t[3])
-            }
-            for t in trends
-        ],
-        "source_health": [
-            {
-                "source": h[0],
-                "last_success": str(h[1]),
-                "last_failure": str(h[2]),
-                "success_count": h[3],
-                "failure_count": h[4]
-            }
-            for h in get_source_health()
-        ],
+        "trends": trends,
+        "source_health": health_list(),
+        "quiz": quiz,
         "items": items,
     }
-    
-    # Save main file
-    with open("news.json", "w") as f:
-        json.dump(output, f, indent=1)
-    
-    # Save snapshot
+
+    with open(NEWS_FILE, "w") as f:
+        json.dump(output, f, indent=1, ensure_ascii=False)
+    news_quiz.save_quiz(quiz)
     save_snapshot(output)
-    
-    # Create .nojekyll
+    points = build_history_index()
     pathlib.Path(".nojekyll").touch()
-    
+
+    print("[Email] Checking digest schedule...")
+    email_digest.maybe_send_digest(items)
+
     print(f"[Complete] ✓ Updated news.json with {len(items)} items")
-    print(f"[Complete] ✓ Snapshots saved to history/ directory")
+    print(f"[Complete] ✓ {len(points)} snapshots in history/")
     print(f"[Complete] ✓ Timestamp: {ist_time.strftime('%Y-%m-%d %H:%M:%S IST')}")
+
 
 if __name__ == "__main__":
     main()

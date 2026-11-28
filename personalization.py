@@ -4,7 +4,7 @@ Tracks user preferences and recommends articles
 """
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 def load_user_profile(user_id="default"):
     """Load user preferences"""
@@ -21,7 +21,7 @@ def load_user_profile(user_id="default"):
         "read_history": [],
         "liked_articles": [],
         "disliked_articles": [],
-        "created_at": datetime.utcnow().isoformat(),
+        "created_at": datetime.now(timezone.utc).isoformat(),
     }
 
 def save_user_profile(profile, user_id="default"):
@@ -40,7 +40,7 @@ def track_click(user_id, article_id, article_title, sector):
         "article_id": article_id,
         "title": article_title,
         "sector": sector,
-        "clicked_at": datetime.utcnow().isoformat()
+        "clicked_at": datetime.now(timezone.utc).isoformat()
     })
     
     # Update preferred sectors (simple frequency)
