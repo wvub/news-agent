@@ -355,7 +355,7 @@ function card(i) {
     ${i.category ? `<span class="tag cat">${esc(i.category)}</span>` : ""}
     ${i.source === 'reddit' ? '<span class="tag early">⚡ early</span>' : ''}
     ${i.fact_check_needed ? `<span class="tag fc" title="Mentions a topic that is often subject to misinformation">🔎 Check facts: ${esc(i.disputed_topic)}</span>` : ""}
-    ${i.source_name ? `<span class="tag src">${esc(i.source_name)}</span>` : ""}
+    ${i.source_name ? `<span class="tag src">${esc(i.source_name.length > 30 ? i.source_name.slice(0, 29) + "…" : i.source_name)}</span>` : ""}
     <h2><a href="${safeUrl(i.link)}" target="_blank" rel="noopener" onclick="trackClick('${esc(i.id)}')">${esc(title)}</a></h2>
     ${summary ? `<div class="row">${esc(summary)}</div>` : ""}
     ${i.why ? `<div class="row"><b>❓ Why it matters:</b> ${esc(i.why)}</div>` : ""}
@@ -468,7 +468,11 @@ function drawCharts() {
   pie("chImpact", impOrdered, ["#f85149", "#d29922", "#3fb950"].filter((c, n) => impacts[["🔴 High", "🟡 Medium", "🟢 Low"][n]]));
   bar("chSent", count(i => i.sentiment_label), "#8957e5");
   bar("chSector", count(i => i.sector), "#1f6feb");
-  pie("chSource", count(i => i.source_name || i.source), ["#58a6ff", "#ff4500", "#d29922", "#3fb950", "#bc8cff", "#f85149", "#8b949e", "#1f6feb", "#db61a2", "#2ea043"]);
+  const srcCounts = Object.entries(count(i => i.source_name || i.source)).sort((a, b) => b[1] - a[1]);
+  const srcTop = Object.fromEntries(srcCounts.slice(0, 9).map(([k, v]) => [k.length > 22 ? k.slice(0, 21) + "…" : k, v]));
+  const srcRest = srcCounts.slice(9).reduce((a, x) => a + x[1], 0);
+  if (srcRest) srcTop["Other"] = srcRest;
+  pie("chSource", srcTop, ["#58a6ff", "#ff4500", "#d29922", "#3fb950", "#bc8cff", "#f85149", "#8b949e", "#1f6feb", "#db61a2", "#2ea043"]);
   const {up, down} = voteCounts();
   pie("chAcc", up + down ? { "👍 Correct": up, "👎 Wrong": down } : { "No votes yet": 1 }, up + down ? ["#3fb950", "#f85149"] : ["#8b949e55"]);
   const h = DATA.source_health || [];
