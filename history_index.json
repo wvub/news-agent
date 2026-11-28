@@ -1,24 +1,6 @@
 {
- "generated": "2026-11-28T16:50:18+00:00",
+ "generated": "2026-11-28T16:55:56+00:00",
  "points": [
-  {
-   "time": "2026-11-01_20-31-13",
-   "count": 53,
-   "high": 0,
-   "medium": 53,
-   "low": 0,
-   "avg_sentiment": 0.0833,
-   "positive": 20,
-   "negative": 4,
-   "sectors": {
-    "World": 8,
-    "Markets": 8,
-    "Tech/AI": 13,
-    "Crypto": 8,
-    "Science": 8,
-    "Health": 8
-   }
-  },
   {
    "time": "2026-11-02_01-06-12",
    "count": 53,
@@ -1791,6 +1773,24 @@
    "low": 13,
    "avg_sentiment": 0.0866,
    "positive": 30,
+   "negative": 11,
+   "sectors": {
+    "World": 12,
+    "Markets": 12,
+    "Tech/AI": 17,
+    "Crypto": 12,
+    "Science": 12,
+    "Health": 11
+   }
+  },
+  {
+   "time": "2026-11-28_22-25-56",
+   "count": 76,
+   "high": 10,
+   "medium": 55,
+   "low": 11,
+   "avg_sentiment": 0.09,
+   "positive": 31,
    "negative": 11,
    "sectors": {
     "World": 12,
