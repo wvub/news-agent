@@ -14,7 +14,7 @@ when its settings are present and is skipped quietly otherwise.
 ## GitHub Variables (same page → Variables tab)
 | Variable | Purpose |
 |---|---|
-| `GEMINI_MODEL` | Override the model (default: tries `gemini-flash-latest`, then `gemini-2.5-flash`, then `gemini-2.0-flash`) |
+| `GEMINI_MODEL` | Pin a model. By default the agent tries `gemini-flash-latest`, then `gemini-flash-lite-latest`, then the newest other Flash models your key can use (discovered automatically), skipping any that are overloaded |
 | `TRANSLATE_LANGS` | Comma-separated language codes for headline translation, e.g. `es,fr,hi`. Adds a language picker to the dashboard |
 
 ## Email digest
