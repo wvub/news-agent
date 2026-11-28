@@ -4,3 +4,5 @@ news_history.db
 *.pyc
 __pycache__/
 .DS_Store
+digest_preview.html
+news_multilingual.json

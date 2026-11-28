@@ -1,14 +1,11 @@
-"""
-Subscribers list for email digest
-Format: JSON with list of email addresses
-"""
 {
   "emails": [],
   "settings": {
     "frequency": "daily",
     "time": "08:00",
-    "timezone": "UTC",
+    "timezone": "Asia/Kolkata",
+    "weekday": 0,
     "max_articles": 10
   },
-  "instructions": "Add email addresses to the 'emails' array to enable digest delivery. Configure digest settings above."
+  "instructions": "Add email addresses to 'emails' and set the SMTP_SERVER, SMTP_PORT, SENDER_EMAIL and SENDER_PASSWORD secrets. frequency: daily or weekly (weekday 0=Monday). time/timezone: when the digest goes out."
 }

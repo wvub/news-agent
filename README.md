@@ -11,7 +11,7 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
 - **Automatic Updates** - Runs every 10 minutes via GitHub Actions
 
 ### AI-Powered Analysis
-- **Impact Scoring** - Uses Google Gemini API to classify articles as High/Medium/Low impact
+- **Impact Scoring** - Uses Google Gemini API to classify articles as High/Medium/Low impact (results are cached per article, so only new stories use API quota)
 - **Sentiment Analysis** - Detects positive, neutral, and negative tones with confidence scores
 - **Auto-Summarization** - Generates concise summaries and categorized insights
 - **Keyword Extraction** - Identifies key topics from each article
@@ -19,7 +19,7 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
 ### Smart Deduplication
 - **Semantic Similarity Detection** - Uses TF-IDF vectorization to find near-duplicate stories
 - **Content Hashing** - Prevents exact duplicate entries
-- **Cross-sector Tracking** - Identifies same story reported across sectors
+- **Cross-sector Tracking** - Identifies same story reported across sectors; each card links to its similar stories
 
 ### Trend Detection
 - **Trending Keywords** - Real-time trending topic extraction
@@ -27,9 +27,9 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
 - **Frequency Analysis** - Tracks keyword momentum over time
 
 ### Historical Tracking
-- **Time-series Database** - SQLite stores all articles with analysis metadata
+- **Time-series Database** - SQLite stores all articles with analysis metadata (local runs)
 - **Snapshot Archive** - Timestamped JSON snapshots in `/history/` (keeps last 100)
-- **Historical Analytics** - Track how impact/sentiment evolve
+- **Historical Analytics** - History tab charts how impact/sentiment evolve across snapshots
 
 ### Source Health Monitoring
 - **Reliability Tracking** - Monitors success/failure rates for each RSS feed
@@ -41,6 +41,11 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
 - **Advanced Filtering** - By sector, source, impact, sentiment, and free text search
 - **Analytics Dashboard** - Charts for impact distribution, sentiment analysis, sector breakdown, source breakdown
 - **Prediction Voting** - Users can validate AI predictions
+- **For You** - Learns your favourite sectors/topics from the stories you open (stored in your browser)
+- **Daily Quiz** - Trivia generated from the day's headlines
+- **Fact-check Flags** - Highlights stories on misinformation-prone topics, with Google Fact Check results when a key is set
+- **Translations** - Optional headline translations with a language picker
+- **Email Digest** - Optional daily/weekly digest to subscribers
 - **Real-time Refresh** - Auto-updates every minute
 - **Responsive Design** - Mobile-friendly interface
 
@@ -66,7 +71,8 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
 
 2. **Add Gemini API Secret**
    - Go to your repo Settings → Secrets and variables → Actions
-   - Add `GEMINI_API_KEY` with your API key from https://makersuite.google.com/app/apikey
+   - Add `GEMINI_API_KEY` with your API key from https://aistudio.google.com/apikey
+   - Optional features (Reddit OAuth, fact-check API, translations, email digest) are configured in [CONFIG.md](CONFIG.md)
 
 3. **Enable GitHub Pages**
    - Go to Settings → Pages
@@ -103,7 +109,8 @@ An intelligent news aggregation system that fetches, analyzes, and visualizes ne
       "keyword": "AI",
       "frequency": 25,
       "sectors": ["Tech/AI", "Markets"],
-      "article_count": 15
+      "article_count": 15,
+      "articles": ["hash123"]
     }
   ],
   "source_health": [...],
@@ -161,7 +168,8 @@ SECTORS = {
 
 REDDIT_SUBS = {...}       # Add subreddits to monitor
 
-MAX_PER_SECTOR = 8        # Articles per sector (default: 8)
+MAX_PER_SECTOR = 12       # Articles per sector
+MAX_PER_FEED = 4          # Cap per feed so every source in a sector is represented
 REDDIT_MIN_SCORE = 20     # Min Reddit score to include
 ```
 
@@ -199,16 +207,18 @@ REDDIT_MIN_SCORE = 20     # Min Reddit score to include
 
 ### No impact analysis showing
 - Ensure `GEMINI_API_KEY` is valid and has quota remaining
-- Check Gemini API console at https://makersuite.google.com/app/apikey
+- Check the workflow log for `AI error` lines; if a model is retired, set the `GEMINI_MODEL` variable to a current one
+
+### No Reddit posts
+- Reddit blocks most anonymous requests from GitHub's servers. Add `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET` (see CONFIG.md)
 
 ### Dashboard not loading
 - Wait 5 minutes after first setup (for workflow to run)
 - Clear browser cache
 - Verify GitHub Pages is enabled
 
-### Database errors
-- Delete `news_history.db` to reset
-- Re-run workflow manually via "Run workflow" button
+### A source shows as Failing
+- The Source Health tab shows the last error; replace dead feed URLs in `SECTORS` in `news_agent.py`
 
 ## 📈 Performance Stats
 
