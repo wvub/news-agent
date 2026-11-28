@@ -53,7 +53,6 @@ SECTORS = {
     "Markets": [
         "https://feeds.marketwatch.com/marketwatch/topstories/",
         "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-        "https://finance.yahoo.com/news/rssindex",
         "https://feeds.bloomberg.com/markets/news.rss",
     ],
     "Tech/AI": [
@@ -74,7 +73,6 @@ SECTORS = {
     ],
     "Health": [
         "https://www.who.int/rss-feeds/news-english.xml",
-        "https://www.medicalnewstoday.com/rss",
         "https://www.statnews.com/feed/",
         "https://www.sciencedaily.com/rss/health_medicine.xml",
     ],
@@ -89,13 +87,32 @@ REDDIT_SUBS = {
     "Health": ["Health", "Medicine"],
 }
 
+# Short display names by domain (falls back to the feed's own title)
+FEED_NAMES = {
+    "bbci.co.uk": "BBC", "aljazeera.com": "Al Jazeera", "theguardian.com": "The Guardian", "npr.org": "NPR",
+    "marketwatch.com": "MarketWatch", "cnbc.com": "CNBC", "bloomberg.com": "Bloomberg",
+    "techcrunch.com": "TechCrunch", "theverge.com": "The Verge", "arstechnica.com": "Ars Technica",
+    "coindesk.com": "CoinDesk", "cointelegraph.com": "Cointelegraph", "decrypt.co": "Decrypt",
+    "sciencedaily.com": "ScienceDaily", "space.com": "Space.com", "nature.com": "Nature",
+    "newscientist.com": "New Scientist", "who.int": "WHO", "statnews.com": "STAT",
+}
+
+
+def feed_display_name(url, title):
+    host = url.split("/")[2]
+    for domain, name in FEED_NAMES.items():
+        if host == domain or host.endswith("." + domain):
+            return name
+    return clean_html(title)[:30] or host
+
+
 SOCIAL_SOURCES = {
     "hacker_news": ("Hacker News", "https://news.ycombinator.com/rss"),
     "producthunt": ("Product Hunt", "https://www.producthunt.com/feed"),
 }
 
 BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 news-agent/3.0")
+              "(KHTML, like Gecko) Chrome/131.0 Safari/537.36")
 REDDIT_UA = os.environ.get("REDDIT_USER_AGENT", "python:news-agent:v3.0 (personal news dashboard)")
 REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
 REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")
@@ -111,7 +128,9 @@ GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODELS = [m for m in [os.environ.get("GEMINI_MODEL", "").strip(),
                              "gemini-flash-latest", "gemini-2.5-flash",
                              "gemini-2.0-flash"] if m]
-GEMINI_BATCH = 25
+GEMINI_BATCH = 20
+GEMINI_TIMEOUT = 60
+AI_TIME_BUDGET = 240  # seconds per run; unfinished items are retried next run
 AI_MAX_NEW_ITEMS = int(os.environ.get("AI_MAX_NEW_ITEMS", "100"))
 
 TRANSLATE_LANGS = [l.strip() for l in os.environ.get("TRANSLATE_LANGS", "").split(",") if l.strip()]
@@ -137,13 +156,14 @@ amid back still well even every here time times report reports according people 
 best already ahead against across another around because before between during through under
 whether without within become becomes biggest big next show shows told year's latest update
 reddit score comments article link hacker product hunt https http www html
+discussion discussions thread launch launched
 """.split())
 
 
 # ========== HTTP ==========
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": BROWSER_UA,
-                        "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"})
+                        "Accept": "*/*", "Accept-Language": "en-US,en;q=0.9"})
 
 
 def fetch_feed(url):
@@ -353,7 +373,7 @@ def fetch_items(seen):
         for url in urls:
             try:
                 feed = fetch_feed(url)
-                per_feed[url] = (feed.feed.get("title") or url.split("/")[2], feed.entries)
+                per_feed[url] = (feed_display_name(url, feed.feed.get("title", "")), feed.entries)
                 log_source_success(url, sector, len(feed.entries))
             except Exception as e:
                 log_source_failure(url, sector, e)
@@ -371,7 +391,7 @@ def fetch_items(seen):
                     continue
                 seen.add(key)
                 items.append(make_item(sector, title, e.get("link", ""), e.get("summary", ""),
-                                       e.get("published", e.get("updated", "")), "rss", clean_html(name)))
+                                       e.get("published", e.get("updated", "")), "rss", name))
                 count += 1
                 added_this_round = True
             depth += 1
@@ -512,40 +532,39 @@ _working_model = None
 
 
 def gemini_generate(prompt, json_mode=True, temperature=0.2):
-    """Call Gemini, falling back through GEMINI_MODELS on 404. Retries on 429/5xx."""
+    """Call Gemini. A model that is missing (404), overloaded (429/5xx) or slow
+    falls through to the next one in GEMINI_MODELS."""
     global _working_model
-    models = [_working_model] if _working_model else GEMINI_MODELS
-    last_err = None
+    models = ([_working_model] if _working_model else []) + [m for m in GEMINI_MODELS if m != _working_model]
+    body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"temperature": temperature}}
+    if json_mode:
+        body["generationConfig"]["responseMimeType"] = "application/json"
+    errors = []
     for model in models:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        body = {"contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": temperature}}
-        if json_mode:
-            body["generationConfig"]["responseMimeType"] = "application/json"
-        for attempt in range(3):
+        for attempt in range(2):
             try:
-                r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY}, timeout=120)
+                r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY}, timeout=GEMINI_TIMEOUT)
             except requests.RequestException as e:
-                last_err = e
-                time.sleep(2 * (attempt + 1))
+                errors.append(f"{model}: {type(e).__name__}")
+                break  # slow/unreachable: move on to the next model
+            if r.status_code == 200:
+                data = r.json()
+                try:
+                    text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
+                except (KeyError, IndexError):
+                    errors.append(f"{model}: empty response")
+                    break
+                _working_model = model
+                return text
+            errors.append(f"{model}: {r.status_code}")
+            if r.status_code in (429, 500, 503) and attempt == 0:
+                time.sleep(5)
                 continue
-            if r.status_code == 404:
-                last_err = RuntimeError(f"model {model} not found")
-                break  # try next model
-            if r.status_code in (429, 500, 503) and attempt < 2:
-                last_err = RuntimeError(f"{r.status_code} {r.text[:150]}")
-                time.sleep(10 * (attempt + 1))
-                continue
-            if r.status_code != 200:
-                raise RuntimeError(f"Gemini {r.status_code}: {r.text[:200]}")
-            data = r.json()
-            try:
-                text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
-            except (KeyError, IndexError):
-                raise RuntimeError(f"Gemini returned no content: {json.dumps(data)[:200]}")
-            _working_model = model
-            return text
-    raise RuntimeError(f"All Gemini models failed: {last_err}")
+            if r.status_code in (400, 401, 403):
+                raise RuntimeError(f"Gemini {r.status_code}: {r.text[:200]}")  # bad key: no point retrying
+            break
+    raise RuntimeError("All Gemini models failed: " + "; ".join(errors))
 
 
 def parse_json_response(text):
@@ -588,8 +607,14 @@ def analyze_with_ai(items, cache):
 
     print(f"  {len(items) - len(pending)} cached, {len(pending)} new to analyze")
     to_analyze = pending[:AI_MAX_NEW_ITEMS]
+    started = time.monotonic()
     for start in range(0, len(to_analyze), GEMINI_BATCH):
         batch = to_analyze[start:start + GEMINI_BATCH]
+        if time.monotonic() - started > AI_TIME_BUDGET:
+            print(f"  … time budget reached, {len(to_analyze) - start} items deferred to next run")
+            for it in to_analyze[start:]:
+                fallback_analysis(it, "AI analysis pending — will retry next run.")
+            break
         payload = [{"id": n, "title": i["title"], "sector": i["sector"], "summary": i["summary"][:300]}
                    for n, i in enumerate(batch)]
         prompt = f"""You are a news analyst. Analyze each of these {len(payload)} news items.
