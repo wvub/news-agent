@@ -1,0 +1,402 @@
+{
+ "Hacker News": {
+  "failure_count": 1,
+  "last_error": "419 Client Error:  for url: https://news.ycombinator.com/rss",
+  "last_failure": "2026-11-28T16:42:11+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Tech/AI",
+  "source": "Hacker News",
+  "success_count": 0
+ },
+ "Product Hunt": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 5,
+  "last_success": "2026-11-28T16:42:11+00:00",
+  "sector": "Tech/AI",
+  "source": "Product Hunt",
+  "success_count": 1
+ },
+ "https://cointelegraph.com/rss": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 30,
+  "last_success": "2026-11-28T16:41:49+00:00",
+  "sector": "Crypto",
+  "source": "https://cointelegraph.com/rss",
+  "success_count": 1
+ },
+ "https://decrypt.co/feed": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 35,
+  "last_success": "2026-11-28T16:41:49+00:00",
+  "sector": "Crypto",
+  "source": "https://decrypt.co/feed",
+  "success_count": 1
+ },
+ "https://feeds.arstechnica.com/arstechnica/index": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 20,
+  "last_success": "2026-11-28T16:41:48+00:00",
+  "sector": "Tech/AI",
+  "source": "https://feeds.arstechnica.com/arstechnica/index",
+  "success_count": 1
+ },
+ "https://feeds.bbci.co.uk/news/world/rss.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 24,
+  "last_success": "2026-11-28T16:41:46+00:00",
+  "sector": "World",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "success_count": 1
+ },
+ "https://feeds.bloomberg.com/markets/news.rss": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 20,
+  "last_success": "2026-11-28T16:41:48+00:00",
+  "sector": "Markets",
+  "source": "https://feeds.bloomberg.com/markets/news.rss",
+  "success_count": 1
+ },
+ "https://feeds.marketwatch.com/marketwatch/topstories/": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 10,
+  "last_success": "2026-11-28T16:41:47+00:00",
+  "sector": "Markets",
+  "source": "https://feeds.marketwatch.com/marketwatch/topstories/",
+  "success_count": 1
+ },
+ "https://feeds.npr.org/1004/rss.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 10,
+  "last_success": "2026-11-28T16:41:47+00:00",
+  "sector": "World",
+  "source": "https://feeds.npr.org/1004/rss.xml",
+  "success_count": 1
+ },
+ "https://finance.yahoo.com/news/rssindex": {
+  "failure_count": 1,
+  "last_error": "404 Client Error: Not Found for url: https://finance.yahoo.com/news/rssindex",
+  "last_failure": "2026-11-28T16:41:47+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Markets",
+  "source": "https://finance.yahoo.com/news/rssindex",
+  "success_count": 0
+ },
+ "https://techcrunch.com/feed/": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 20,
+  "last_success": "2026-11-28T16:41:48+00:00",
+  "sector": "Tech/AI",
+  "source": "https://techcrunch.com/feed/",
+  "success_count": 1
+ },
+ "https://www.aljazeera.com/xml/rss/all.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 25,
+  "last_success": "2026-11-28T16:41:46+00:00",
+  "sector": "World",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "success_count": 1
+ },
+ "https://www.cnbc.com/id/100003114/device/rss/rss.html": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 30,
+  "last_success": "2026-11-28T16:41:47+00:00",
+  "sector": "Markets",
+  "source": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  "success_count": 1
+ },
+ "https://www.coindesk.com/arc/outboundfeeds/rss/": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 25,
+  "last_success": "2026-11-28T16:41:49+00:00",
+  "sector": "Crypto",
+  "source": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+  "success_count": 1
+ },
+ "https://www.medicalnewstoday.com/rss": {
+  "failure_count": 1,
+  "last_error": "404 Client Error: Not Found for url: https://www.medicalnewstoday.com/rss",
+  "last_failure": "2026-11-28T16:41:51+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Health",
+  "source": "https://www.medicalnewstoday.com/rss",
+  "success_count": 0
+ },
+ "https://www.nature.com/nature.rss": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 75,
+  "last_success": "2026-11-28T16:41:50+00:00",
+  "sector": "Science",
+  "source": "https://www.nature.com/nature.rss",
+  "success_count": 1
+ },
+ "https://www.newscientist.com/feed/home/": {
+  "failure_count": 1,
+  "last_error": "406 Client Error: Not Acceptable for url: https://www.newscientist.com/feed/home/",
+  "last_failure": "2026-11-28T16:41:50+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Science",
+  "source": "https://www.newscientist.com/feed/home/",
+  "success_count": 0
+ },
+ "https://www.sciencedaily.com/rss/health_medicine.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 60,
+  "last_success": "2026-11-28T16:41:51+00:00",
+  "sector": "Health",
+  "source": "https://www.sciencedaily.com/rss/health_medicine.xml",
+  "success_count": 1
+ },
+ "https://www.sciencedaily.com/rss/top/science.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 60,
+  "last_success": "2026-11-28T16:41:49+00:00",
+  "sector": "Science",
+  "source": "https://www.sciencedaily.com/rss/top/science.xml",
+  "success_count": 1
+ },
+ "https://www.space.com/feeds/all": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 50,
+  "last_success": "2026-11-28T16:41:49+00:00",
+  "sector": "Science",
+  "source": "https://www.space.com/feeds/all",
+  "success_count": 1
+ },
+ "https://www.statnews.com/feed/": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 20,
+  "last_success": "2026-11-28T16:41:51+00:00",
+  "sector": "Health",
+  "source": "https://www.statnews.com/feed/",
+  "success_count": 1
+ },
+ "https://www.theguardian.com/world/rss": {
+  "failure_count": 1,
+  "last_error": "403 Client Error: Forbidden for url: https://www.theguardian.com/world/rss",
+  "last_failure": "2026-11-28T16:41:46+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "World",
+  "source": "https://www.theguardian.com/world/rss",
+  "success_count": 0
+ },
+ "https://www.theverge.com/rss/index.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 10,
+  "last_success": "2026-11-28T16:41:48+00:00",
+  "sector": "Tech/AI",
+  "source": "https://www.theverge.com/rss/index.xml",
+  "success_count": 1
+ },
+ "https://www.who.int/rss-feeds/news-english.xml": {
+  "failure_count": 0,
+  "last_error": null,
+  "last_failure": null,
+  "last_items": 83,
+  "last_success": "2026-11-28T16:41:51+00:00",
+  "sector": "Health",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "success_count": 1
+ },
+ "r/Bitcoin": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/Bitcoin/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%",
+  "last_failure": "2026-11-28T16:42:04+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Crypto",
+  "source": "r/Bitcoin",
+  "success_count": 0
+ },
+ "r/CryptoCurrency": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/CryptoCurrency/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest",
+  "last_failure": "2026-11-28T16:42:03+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Crypto",
+  "source": "r/CryptoCurrency",
+  "success_count": 0
+ },
+ "r/Health": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/Health/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3",
+  "last_failure": "2026-11-28T16:42:09+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Health",
+  "source": "r/Health",
+  "success_count": 0
+ },
+ "r/MachineLearning": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&des",
+  "last_failure": "2026-11-28T16:42:01+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Tech/AI",
+  "source": "r/MachineLearning",
+  "success_count": 0
+ },
+ "r/Medicine": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/Medicine/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https",
+  "last_failure": "2026-11-28T16:42:10+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Health",
+  "source": "r/Medicine",
+  "success_count": 0
+ },
+ "r/artificial": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/artificial/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=htt",
+  "last_failure": "2026-11-28T16:42:00+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Tech/AI",
+  "source": "r/artificial",
+  "success_count": 0
+ },
+ "r/astronomy": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/astronomy/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=http",
+  "last_failure": "2026-11-28T16:42:07+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Science",
+  "source": "r/astronomy",
+  "success_count": 0
+ },
+ "r/geopolitics": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/geopolitics/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=ht",
+  "last_failure": "2026-11-28T16:41:53+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "World",
+  "source": "r/geopolitics",
+  "success_count": 0
+ },
+ "r/investing": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/investing/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=http",
+  "last_failure": "2026-11-28T16:41:56+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Markets",
+  "source": "r/investing",
+  "success_count": 0
+ },
+ "r/news": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/news/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A%",
+  "last_failure": "2026-11-28T16:41:54+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "World",
+  "source": "r/news",
+  "success_count": 0
+ },
+ "r/science": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/science/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%",
+  "last_failure": "2026-11-28T16:42:05+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Science",
+  "source": "r/science",
+  "success_count": 0
+ },
+ "r/space": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/space/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3A",
+  "last_failure": "2026-11-28T16:42:06+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Science",
+  "source": "r/space",
+  "success_count": 0
+ },
+ "r/stocks": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/stocks/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=https%3",
+  "last_failure": "2026-11-28T16:41:55+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Markets",
+  "source": "r/stocks",
+  "success_count": 0
+ },
+ "r/technology": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/technology/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=htt",
+  "last_failure": "2026-11-28T16:41:59+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Tech/AI",
+  "source": "r/technology",
+  "success_count": 0
+ },
+ "r/wallstreetbets": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/wallstreetbets/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest",
+  "last_failure": "2026-11-28T16:41:58+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "Markets",
+  "source": "r/wallstreetbets",
+  "success_count": 0
+ },
+ "r/worldnews": {
+  "failure_count": 1,
+  "last_error": "json: 403 Client Error: Blocked for url: https://www.reddit.com/r/worldnews/rising.json?limit=10&raw_json=1; rss: 403 Client Error: Blocked for url: https://old.reddit.com/login/?reason=lor2&dest=http",
+  "last_failure": "2026-11-28T16:41:51+00:00",
+  "last_items": 0,
+  "last_success": null,
+  "sector": "World",
+  "source": "r/worldnews",
+  "success_count": 0
+ }
+}

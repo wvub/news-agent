@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-28",
+  "questions": [
+    {
+      "question": "Which sector does this story belong to: \"Nvidia hits pause on chip shipments to Southeast Asia\"?",
+      "answer": "Tech/AI",
+      "options": [
+        "Crypto",
+        "Markets",
+        "Science",
+        "Tech/AI"
+      ],
+      "explanation": "Alters global semiconductor supply chains and advances geopolitical technology controls between major powers.",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of these was a World headline today?",
+      "answer": "Sudan's lost generation: War is stealing the childhood of millions",
+      "options": [
+        "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+        "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+        "AI data center boom strains construction labor across the U.S.",
+        "Sudan's lost generation: War is stealing the childhood of millions"
+      ],
+      "explanation": "Millions of children face severe famine, displacement, and educational collapse with generational consequences.",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which sector does this story belong to: \"Intel faced a choice: Give Trump 10% or face the consequences\"?",
+      "answer": "Tech/AI",
+      "options": [
+        "Tech/AI",
+        "Markets",
+        "Crypto",
+        "Health"
+      ],
+      "explanation": "Involves unprecedented government pressure regarding state equity stakes in exchange for industrial funding.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of these was a Markets headline today?",
+      "answer": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "options": [
+        "Almost every great Black Friday deal is still happening this weekend",
+        "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+        "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+        "STAT+: Here are some health AI conversation starters for the holidays"
+      ],
+      "explanation": "Middle Eastern conflict risks choking global crude flows, reigniting global inflation and energy shocks.",
+      "link": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which sector does this story belong to: \"ASEAN+3 agrees on initiative to explore crypto payments cooperation\"?",
+      "answer": "Crypto",
+      "options": [
+        "Tech/AI",
+        "Health",
+        "Crypto",
+        "Markets"
+      ],
+      "explanation": "Intergovernmental agreements on digital payments streamline cross-border trade across major Asian economies.",
+      "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "difficulty": "easy"
+    }
+  ],
+  "total": 5
+}

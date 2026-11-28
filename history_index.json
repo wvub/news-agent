@@ -1,0 +1,1805 @@
+{
+ "generated": "2026-11-28T16:50:18+00:00",
+ "points": [
+  {
+   "time": "2026-11-01_20-31-13",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0833,
+   "positive": 20,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-02_01-06-12",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0899,
+   "positive": 21,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-02_04-32-13",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0755,
+   "positive": 20,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-02_07-55-03",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.067,
+   "positive": 19,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-02_15-16-20",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0609,
+   "positive": 19,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-03_01-19-41",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0576,
+   "positive": 18,
+   "negative": 2,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-03_07-22-37",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.07,
+   "positive": 20,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-03_14-30-00",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0469,
+   "positive": 16,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-03_22-27-58",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.1114,
+   "positive": 26,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-04_03-44-08",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0439,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-04_07-54-10",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0294,
+   "positive": 17,
+   "negative": 8,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-04_15-08-23",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0419,
+   "positive": 20,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-04_23-00-29",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0274,
+   "positive": 15,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-05_04-19-29",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0276,
+   "positive": 17,
+   "negative": 8,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-05_08-24-16",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0289,
+   "positive": 15,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-05_15-49-20",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0694,
+   "positive": 18,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-05_23-37-34",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0591,
+   "positive": 19,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-06_05-06-13",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0207,
+   "positive": 14,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-06_09-09-29",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0224,
+   "positive": 15,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-06_16-59-53",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0826,
+   "positive": 18,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-06_23-50-27",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0921,
+   "positive": 19,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-07_04-48-26",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0706,
+   "positive": 16,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-07_08-25-30",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0714,
+   "positive": 17,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-07_15-06-44",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0642,
+   "positive": 18,
+   "negative": 9,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-07_21-24-40",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.1101,
+   "positive": 24,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-08_01-21-39",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0905,
+   "positive": 23,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-08_04-54-48",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0821,
+   "positive": 21,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-08_08-08-46",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0821,
+   "positive": 21,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-08_14-58-17",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0869,
+   "positive": 21,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-08_21-43-43",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0941,
+   "positive": 21,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-09_02-02-33",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.085,
+   "positive": 19,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-09_05-29-17",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0954,
+   "positive": 21,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-09_11-24-20",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0729,
+   "positive": 20,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-09_20-38-27",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0594,
+   "positive": 18,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-10_05-16-28",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0681,
+   "positive": 17,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-10_10-19-17",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.1082,
+   "positive": 21,
+   "negative": 2,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-10_18-34-14",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0494,
+   "positive": 16,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-11_01-56-36",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0995,
+   "positive": 26,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-11_06-17-18",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0659,
+   "positive": 19,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-11_12-45-47",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.056,
+   "positive": 19,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-11_20-51-57",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0609,
+   "positive": 21,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-12_03-36-30",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0558,
+   "positive": 23,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-12_08-25-40",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0532,
+   "positive": 19,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-12_16-08-32",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0504,
+   "positive": 19,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-13_00-05-39",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.036,
+   "positive": 15,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-13_05-21-51",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0593,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-13_10-29-45",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0907,
+   "positive": 22,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-13_18-28-33",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0885,
+   "positive": 22,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-14_01-55-22",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0777,
+   "positive": 21,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-14_06-27-49",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0853,
+   "positive": 21,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-14_12-57-41",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0858,
+   "positive": 19,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-14_19-54-55",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0689,
+   "positive": 18,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-15_00-52-25",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0469,
+   "positive": 15,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-15_04-44-30",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0627,
+   "positive": 21,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-15_08-16-36",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0683,
+   "positive": 21,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-15_15-28-03",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0752,
+   "positive": 24,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-15_22-22-37",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.021,
+   "positive": 15,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-16_02-57-52",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0488,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-16_06-49-17",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0532,
+   "positive": 19,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-16_13-34-34",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.052,
+   "positive": 16,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-16_23-54-51",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0639,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-17_07-26-47",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0505,
+   "positive": 18,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-17_15-48-00",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0641,
+   "positive": 20,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-18_00-44-15",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0879,
+   "positive": 20,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-18_07-10-06",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0716,
+   "positive": 17,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-18_14-38-42",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0831,
+   "positive": 19,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-18_23-30-04",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0817,
+   "positive": 22,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-19_05-42-57",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0446,
+   "positive": 17,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-19_13-05-17",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0933,
+   "positive": 19,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-19_22-16-36",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0635,
+   "positive": 21,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-20_04-46-25",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0901,
+   "positive": 23,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-20_09-32-02",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0766,
+   "positive": 21,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-20_18-16-57",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0929,
+   "positive": 22,
+   "negative": 2,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-21_02-17-27",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0612,
+   "positive": 16,
+   "negative": 1,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-21_07-19-12",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0299,
+   "positive": 15,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-21_14-22-48",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0275,
+   "positive": 15,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-21_22-05-49",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0552,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-22_03-21-58",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0549,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-22_07-23-56",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0658,
+   "positive": 19,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-22_14-50-04",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0614,
+   "positive": 19,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-22_22-44-41",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0694,
+   "positive": 21,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-23_02-17-32",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0711,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-23_02-37-46",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0744,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-23_04-00-13",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.095,
+   "positive": 20,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-23_08-31-59",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.1034,
+   "positive": 20,
+   "negative": 3,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-23_17-50-10",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.1095,
+   "positive": 22,
+   "negative": 2,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-24_05-36-03",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.047,
+   "positive": 20,
+   "negative": 7,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-24_15-15-46",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0586,
+   "positive": 18,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-25_01-53-32",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0401,
+   "positive": 14,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-25_09-09-25",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0633,
+   "positive": 17,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-25_19-00-24",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.064,
+   "positive": 18,
+   "negative": 5,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-26_04-11-29",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.064,
+   "positive": 19,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-26_09-59-38",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0718,
+   "positive": 18,
+   "negative": 4,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-26_18-57-14",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": -0.0005,
+   "positive": 17,
+   "negative": 13,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-26_19-13-49",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": -0.0005,
+   "positive": 17,
+   "negative": 13,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-26_19-47-09",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": -0.0032,
+   "positive": 16,
+   "negative": 13,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-27_04-34-59",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0186,
+   "positive": 16,
+   "negative": 12,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-27_10-27-41",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0125,
+   "positive": 13,
+   "negative": 10,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-27_20-18-48",
+   "count": 53,
+   "high": 0,
+   "medium": 53,
+   "low": 0,
+   "avg_sentiment": 0.0472,
+   "positive": 18,
+   "negative": 6,
+   "sectors": {
+    "World": 8,
+    "Markets": 8,
+    "Tech/AI": 13,
+    "Crypto": 8,
+    "Science": 8,
+    "Health": 8
+   }
+  },
+  {
+   "time": "2026-11-28_22-20-18",
+   "count": 76,
+   "high": 10,
+   "medium": 53,
+   "low": 13,
+   "avg_sentiment": 0.0866,
+   "positive": 30,
+   "negative": 11,
+   "sectors": {
+    "World": 12,
+    "Markets": 12,
+    "Tech/AI": 17,
+    "Crypto": 12,
+    "Science": 12,
+    "Health": 11
+   }
+  }
+ ]
+}

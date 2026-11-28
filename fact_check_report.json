@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-11-28T16:50:18+00:00",
+  "total_articles": 76,
+  "disputed_articles": 2,
+  "api_enabled": false,
+  "disputed_items": [
+    {
+      "title": "Facing extinction, the world’s largest sea turtle is making a surprising move",
+      "topic": "climate change",
+      "source": "rss",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261127203623.htm",
+      "fact_checks": []
+    },
+    {
+      "title": "Managing the COVID-19 infodemic: Promoting healthy behaviours and mitigating the harm from misinformation and disinformation",
+      "topic": "misinformation",
+      "source": "rss",
+      "link": "https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation",
+      "fact_checks": []
+    }
+  ]
+}
