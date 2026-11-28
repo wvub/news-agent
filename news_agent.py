@@ -47,7 +47,6 @@ SECTORS = {
     "World": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://www.aljazeera.com/xml/rss/all.xml",
-        "https://www.theguardian.com/world/rss",
         "https://feeds.npr.org/1004/rss.xml",
     ],
     "Markets": [
@@ -69,7 +68,7 @@ SECTORS = {
         "https://www.sciencedaily.com/rss/top/science.xml",
         "https://www.space.com/feeds/all",
         "https://www.nature.com/nature.rss",
-        "https://www.newscientist.com/feed/home/",
+        "https://phys.org/rss-feed/",
     ],
     "Health": [
         "https://www.who.int/rss-feeds/news-english.xml",
@@ -94,7 +93,7 @@ FEED_NAMES = {
     "techcrunch.com": "TechCrunch", "theverge.com": "The Verge", "arstechnica.com": "Ars Technica",
     "coindesk.com": "CoinDesk", "cointelegraph.com": "Cointelegraph", "decrypt.co": "Decrypt",
     "sciencedaily.com": "ScienceDaily", "space.com": "Space.com", "nature.com": "Nature",
-    "newscientist.com": "New Scientist", "who.int": "WHO", "statnews.com": "STAT",
+    "phys.org": "Phys.org", "who.int": "WHO", "statnews.com": "STAT",
 }
 
 
@@ -107,7 +106,7 @@ def feed_display_name(url, title):
 
 
 SOCIAL_SOURCES = {
-    "hacker_news": ("Hacker News", "https://news.ycombinator.com/rss"),
+    "hacker_news": ("Hacker News", "https://hnrss.org/frontpage"),
     "producthunt": ("Product Hunt", "https://www.producthunt.com/feed"),
 }
 
@@ -125,9 +124,10 @@ HTTP_TIMEOUT = 20
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 # Tried in order; the first model that exists for this key is used.
-GEMINI_MODELS = [m for m in [os.environ.get("GEMINI_MODEL", "").strip(),
-                             "gemini-flash-latest", "gemini-2.5-flash",
-                             "gemini-2.0-flash"] if m]
+# Preferred models, tried in order. Models the key can't use are skipped, and
+# any other available Flash models are discovered at runtime (see gemini_models()).
+GEMINI_PREFERRED = [m for m in [os.environ.get("GEMINI_MODEL", "").strip(),
+                                "gemini-flash-latest", "gemini-flash-lite-latest"] if m]
 GEMINI_BATCH = 20
 GEMINI_TIMEOUT = 60
 AI_TIME_BUDGET = 240  # seconds per run; unfinished items are retried next run
@@ -218,7 +218,16 @@ def log_source_failure(source, sector, error):
     print(f"  ✗ Source error {source}: {str(error)[:150]}")
 
 
+def configured_sources():
+    names = {url for urls in SECTORS.values() for url in urls}
+    names |= {f"r/{sub}" for subs in REDDIT_SUBS.values() for sub in subs}
+    names |= {name for name, _ in SOCIAL_SOURCES.values()}
+    return names
+
+
 def save_health():
+    for source in set(_HEALTH) - configured_sources():
+        del _HEALTH[source]  # feed was removed from the config
     with open(HEALTH_FILE, "w") as f:
         json.dump(_HEALTH, f, indent=1, sort_keys=True)
 
@@ -529,13 +538,49 @@ def normalize_impact(value):
 
 
 _working_model = None
+_model_list = None
+_struggling = set()  # models that timed out / were overloaded this run: tried last
+
+
+def _model_sort_key(name):
+    nums = [float(x) for x in re.findall(r"(\d+(?:\.\d+)?)", name)[:1]] or [0.0]
+    return (-nums[0], "lite" in name, "preview" in name or "exp" in name, name)
+
+
+def gemini_models():
+    """Preferred models that exist for this key, then other Flash models newest-first."""
+    global _model_list
+    if _model_list is not None:
+        return _model_list
+    available = []
+    try:
+        r = requests.get("https://generativelanguage.googleapis.com/v1beta/models", params={"pageSize": 1000},
+                         headers={"x-goog-api-key": GEMINI_KEY}, timeout=20)
+        r.raise_for_status()
+        for m in r.json().get("models", []):
+            name = m.get("name", "").removeprefix("models/")
+            if "generateContent" not in m.get("supportedGenerationMethods", []):
+                continue
+            if "flash" not in name or re.search(r"image|tts|audio|live|embed|thinking|vision", name):
+                continue
+            available.append(name)
+    except Exception as e:
+        print(f"  (could not list Gemini models: {e}; using defaults)")
+        _model_list = GEMINI_PREFERRED
+        return _model_list
+    preferred = [m for m in GEMINI_PREFERRED if m in available or m == os.environ.get("GEMINI_MODEL", "").strip()]
+    others = sorted((m for m in available if m not in preferred), key=_model_sort_key)
+    _model_list = (preferred + others)[:5] or GEMINI_PREFERRED
+    print(f"  Gemini models: {', '.join(_model_list)}")
+    return _model_list
 
 
 def gemini_generate(prompt, json_mode=True, temperature=0.2):
     """Call Gemini. A model that is missing (404), overloaded (429/5xx) or slow
-    falls through to the next one in GEMINI_MODELS."""
+    falls through to the next one from gemini_models()."""
     global _working_model
-    models = ([_working_model] if _working_model else []) + [m for m in GEMINI_MODELS if m != _working_model]
+    models = ([_working_model] if _working_model else []) + [m for m in gemini_models() if m != _working_model]
+    models = [m for m in models if m not in _struggling] + [m for m in models if m in _struggling]
     body = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"temperature": temperature}}
     if json_mode:
         body["generationConfig"]["responseMimeType"] = "application/json"
@@ -547,6 +592,9 @@ def gemini_generate(prompt, json_mode=True, temperature=0.2):
                 r = requests.post(url, json=body, headers={"x-goog-api-key": GEMINI_KEY}, timeout=GEMINI_TIMEOUT)
             except requests.RequestException as e:
                 errors.append(f"{model}: {type(e).__name__}")
+                _struggling.add(model)
+                if _working_model == model:
+                    _working_model = None
                 break  # slow/unreachable: move on to the next model
             if r.status_code == 200:
                 data = r.json()
@@ -558,9 +606,13 @@ def gemini_generate(prompt, json_mode=True, temperature=0.2):
                 _working_model = model
                 return text
             errors.append(f"{model}: {r.status_code}")
-            if r.status_code in (429, 500, 503) and attempt == 0:
-                time.sleep(5)
-                continue
+            if r.status_code in (429, 500, 503):
+                if attempt == 0:
+                    time.sleep(5)
+                    continue
+                _struggling.add(model)
+                if _working_model == model:
+                    _working_model = None
             if r.status_code in (400, 401, 403):
                 raise RuntimeError(f"Gemini {r.status_code}: {r.text[:200]}")  # bad key: no point retrying
             break
